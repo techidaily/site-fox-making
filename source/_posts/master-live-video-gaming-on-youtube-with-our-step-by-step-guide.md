@@ -1,7 +1,7 @@
 ---
 title: Master Live Video Gaming on YouTube with Our Step-by-Step Guide
-date: 2024-09-19 17:16:50
-updated: 2024-09-20 12:58:48
+date: 2024-09-12T18:14:10.785Z
+updated: 2024-09-19T19:48:49.855Z
 tags:
   - product
 categories:
@@ -64,6 +64,13 @@ Action Tutorials
 
 ![Mirillis Action! - Selected YouTube](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_login_youtube.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Login to your YouTube/Google account
 
  Click **Log in to YouTube** button. Login to your Google account, select your target YouTube account/channel and allow Action! to manage your YouTube account. 
@@ -75,6 +82,13 @@ _If you experience problems when login with Google in Action!, please see chapte
  When you are logged in you can adjust **Privacy** settings to meet your needs. 
 
 ![Mirillis Action! - Logged in with Google](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_broadcast_settings_youtube_logged_in.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## LIVE Streaming settings
 
@@ -92,11 +106,44 @@ _If you experience problems when login with Google in Action!, please see chapte
 
 ![Mirillis Action! - Games&Applications recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_games_applications_recording_mode.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Start streaming to YouTube
 
  Now you can run your game in fullscreen mode. Press Ctrl+F9 hotkey to start gameplay streaming to YouTube. HUD status displays "LIVE" icon showing that gameplay streaming is in progress and also displays number of your current live stream viewers.
 
 ![Mirillis Action! - Streaming gameplay to YouTube](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_hud_viewers.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to check your broadcast online or share a link open web browser and login to your YouTube account.
 
@@ -123,8 +170,6 @@ You are ready to live stream to your YouTube channel.
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
