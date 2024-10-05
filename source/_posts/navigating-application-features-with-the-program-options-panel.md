@@ -1,7 +1,7 @@
 ---
 title: Navigating Application Features with the Program Options Panel
-date: 2024-09-23T06:05:09.110Z
-updated: 2024-09-30T08:35:39.170Z
+date: 2024-09-30T16:18:49.397Z
+updated: 2024-10-05T19:32:28.577Z
 tags:
   - user-guide
 categories:
@@ -75,10 +75,10 @@ Table of Contents
 In this tab you can create programs profiles associated with the current package. At least one program is**required**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Programs
@@ -90,22 +90,29 @@ This list contains all the programs defined for this package. It contains two co
 | Name         | The name associated with the program                                     |
 | Command Line | The program will be executed using the parameters declared in this field |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Add a new program
 
 Use the \[New... \] button to add a new program. The [Edit SCCM Program Dialog](https://tools.techidaily.com/advancedinstaller/products/) will appear.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can **not** add a new program profile in a predefined configuration profile.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Edit an existing program
 
 Use the \[Edit... \] button to edit the selected program profile. The [Edit SCCM Program Dialog](https://tools.techidaily.com/advancedinstaller/products/) will appear.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Remove an existing program
 
@@ -114,17 +121,10 @@ Use the \[Remove \] button to delete the selected program profile.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can **not** delete an existing program profile from a predefined configuration profile.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -165,24 +165,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-from-idea-to-reality-examining-mycams-video-recorder-performance/"><u>[New] In 2024, From Idea to Reality Examining MyCam’s Video Recorder Performance</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-and-store-your-flipboard-content-as-pdf-files-a-comprehensive-guide/"><u>Download and Store Your Flipboard Content as PDF Files - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/easy-guide-to-implementing-on-site-flipbook-download-functionality-with-flipbuilder-technology/"><u>Easy Guide to Implementing On-Site Flipbook Download Functionality with FlipBuilder Technology</u></a></li>
-<li><a href="https://fox-making.techidaily.com/easy-mac-photo-album-creation-and-swift-picture-flipping-with-flipimage-pro/"><u>Easy Mac Photo Album Creation & Swift Picture Flipping with FlipImage Pro</u></a></li>
-<li><a href="https://fox-making.techidaily.com/efficient-techniques-for-converting-various-pdf-formats-discover-flipbuilders-solutions/"><u>Efficient Techniques for Converting Various PDF Formats: Discover FlipBuilder's Solutions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-mophie-powerstation-ac-charger-balancing-cost-and-convenience-for-tech-enthusiasts/"><u>Evaluating the Mophie Powerstation AC Charger - Balancing Cost and Convenience for Tech Enthusiasts</u></a></li>
-<li><a href="https://fox-making.techidaily.com/flipbuilder-tutorial-extracting-preferred-page-sections-for-importation-effortlessly/"><u>FlipBuilder Tutorial: Extracting Preferred Page Sections for Importation Effortlessly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/guide-to-inserting-image-formats-into-webpages-using-flipbuilders-tools/"><u>Guide to Inserting Image Formats Into Webpages Using FlipBuilder's Tools</u></a></li>
-<li><a href="https://fox-making.techidaily.com/guide-to-preserving-and-sharing-templates-in-the-flip-ebook-designer-suite/"><u>Guide to Preserving & Sharing Templates in the Flip eBook Designer Suite</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Motorola Moto E13? | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-can-i-access-flippingbook-content-backwards-as-with-right-to-left-languages-like-arabic/"><u>How Can I Access FlippingBook Content Backwards as with Right-to-Left Languages Like Arabic?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-can-you-selectively-print-specific-pages-from-your-ebooks-with-flipbuilder/"><u>How Can You Selectively Print Specific Pages From Your eBooks with FlipBuilder?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-xiaomi-redmi-note-12r-phone-by-drfone-android/"><u>How to Unlock a Network Locked Xiaomi Redmi Note 12R Phone?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-11-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 11 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-astro-a50-detection-problems-with-command-center/"><u>Step-by-Step Solutions for Astro A50 Detection Problems with Command Center</u></a></li>
-<li><a href="https://blog-min.techidaily.com/trasforma-i-tuoi-file-webm-in-formato-mp4-gratuitamente-con-leditor-online-di-movie-converter/"><u>Trasforma I Tuoi File WebM in Formato MP4 Gratuitamente Con L'editor Online Di Movie Converter</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-joint-venture-campaigns-for-brands-on-video-platforms/"><u>[New] Joint Venture Campaigns for Brands on Video Platforms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-tactical-approach-to-effortless-ipad-screen-records-for-2024/"><u>[New] Tactical Approach to Effortless iPad Screen Records for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-personalizing-who-can-see-your-youtube-content/"><u>[Updated] 2024 Approved Personalizing Who Can See Your YouTube Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-simplify-screen-views-transforming-fb-content-for-televisions/"><u>[Updated] 2024 Approved Simplify Screen Views Transforming FB Content for Televisions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-dive-into-video-production-mastering-green-screens-on-yt/"><u>[Updated] Dive Into Video Production Mastering Green Screens on YT</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/copy-protected-dvdbdimgburn/"><u>Copy-Protected DVD/BDをImgBurnで正常にコピーするためのエラー解決方法</u></a></li>
+<li><a href="https://fox-making.techidaily.com/heic-to-pdf-transformation-made-easy-top-free-online-editors-and-guides/"><u>HEIC to PDF Transformation Made Easy - Top Free Online Editors & Guides</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-xr-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone XR Without Passcode Now</u></a></li>
+<li><a href="https://fox-making.techidaily.com/leading-video-advertisement-makers-web-and-app-solutions/"><u>Leading Video Advertisement Makers: Web & App Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-game-interruptions-resolving-samurai-warriors-5-pc-compatibility-issues/"><u>No More Game Interruptions: Resolving Samurai Warriors 5 PC Compatibility Issues</u></a></li>
+<li><a href="https://fox-making.techidaily.com/resetting-your-apple-id-password-on-iphone-models-x-6-7-and-8-step-by-step-guide/"><u>Resetting Your Apple ID Password on iPhone Models X, 6, 7 & 8 - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-rated-watermarking-application-for-ios-devices/"><u>Top Rated Watermarking Application for iOS Devices</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-the-file-properties-window-a-comprehensive-guide/"><u>Understanding the File Properties Window: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/user-guide-navigating-through-effective-file-elimination-conversations/"><u>User Guide: Navigating Through Effective File Elimination Conversations</u></a></li>
 </ul></div>
 

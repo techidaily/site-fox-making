@@ -1,7 +1,7 @@
 ---
 title: "Mastering Powershell: A Guide to the Options Configuration Panel"
-date: 2024-09-26T11:26:39.282Z
-updated: 2024-09-30T04:43:06.748Z
+date: 2024-10-01T17:56:53.049Z
+updated: 2024-10-05T22:28:33.373Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ This dialog allows you to specify Powershell Script Options like used platform, 
 ![Powershell Script Options Dialog](https://cdn.advancedinstaller.com/img/dialog/powershell-script-options-dialog.png "Powershell Script Options Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Execution options
@@ -97,10 +97,10 @@ This dialog allows you to specify Powershell Script Options like used platform, 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Execution of 64-bit scripts on x86 Operating Systems will cause a crash.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Preferred launch folder
@@ -110,10 +110,10 @@ Specify a folder from which the PowerShell script will be launched, [formatted](
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)_Temporary Folder_ will be used by default if at install time the above folder cannot be used.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Digitally sign the script
@@ -123,10 +123,10 @@ Use this option to digitally sign the PowerShell script.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When there exists a GPO (Group Policy Object) restricting the execution of scripts, the digital certificate must be present in the Trusted Publishers in order for the script execution to succeed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -162,16 +162,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-making.techidaily.com/comprehensive-flip-chm-builder-guide-unlock-full-potential-at-flipbuildercom/"><u>Comprehensive Flip CHM Builder Guide - Unlock Full Potential at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-flipwriter-guide-unlocking-the-power-of-digital-copywriting-at-flipbuildercom/"><u>Comprehensive FlipWriter Guide: Unlocking the Power of Digital Copywriting at FlipBuilder.com</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/daring-to-dream-mondlylanguages-celebrates-2-years/"><u>Daring to Dream: MondlyLanguages Celebrates 2 Years</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Realme C67 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-11-pro-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 11 Pro Data Completely | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-access-and-distribute-your-created-flipbooks-without-internet-a-guide-with-flipbuilder/"><u>How to Access and Distribute Your Created Flipbooks Without Internet: A Guide with FlipBuilder</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-add-multilingual-support-in-flipbook-designs-with-flipbuilder/"><u>How to Add Multilingual Support in FlipBook Designs with FlipBuilder</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-create-a-collection-of-interactive-ebooks-from-powerpoint-slides-using-flipbuilder-technology/"><u>How to Create a Collection of Interactive eBooks From PowerPoint Slides Using FlipBuilder Technology</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-get-instagram-sponsorship-for-making-money/"><u>How to Get Instagram Sponsorship for Making Money</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-realme-narzo-60x-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Realme Narzo 60x 5G Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-lan-world-play-windows-mc-solutions/"><u>Unleashing LAN World Play: Windows MC Solutions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-hexa-copters-the-top-ten-selection/"><u>[New] In 2024, Hexa-Copters The Top Ten Selection</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-key-understanding-of-online-narration-art/"><u>[New] Key Understanding of Online Narration Art</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-collage-artistry-with-precision/"><u>[New] Mastering Collage Artistry with Precision</u></a></li>
+<li><a href="https://fox-making.techidaily.com/adjusting-visual-preferences-in-installation-setup-wizard/"><u>Adjusting Visual Preferences in Installation Setup Wizard</u></a></li>
+<li><a href="https://fox-making.techidaily.com/custom-dll-function-call-how-to-implement-iinstalleddll-in-windows/"><u>Custom DLL Function Call: How to Implement IInstalledDll in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/detailed-instructions-fresh-start-with-graphics-drivers/"><u>Detailed Instructions: Fresh Start with Graphics Drivers</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-techniques-for-converting-scanned-pdf-documents-into-editable-word-files/"><u>Effective Techniques for Converting Scanned PDF Documents Into Editable Word Files</u></a></li>
+<li><a href="https://fox-making.techidaily.com/elevate-your-system-discover-the-power-of-i-upgrade-code/"><u>Elevate Your System: Discover the Power of I-Upgrade Code</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-fixing-distorted-line-issues-on-your-television-monitor/"><u>Guide to Fixing Distorted Line Issues on Your Television Monitor</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-adjust-your-cab-configuration-in-the-preferences-panel/"><u>How to Adjust Your CAB Configuration in the Preferences Panel</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-enhance-picture-presentations-by-adding-the-ideal-soundtrack/"><u>How to Enhance Picture Presentations by Adding the Ideal Soundtrack</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-v29-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo V29 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quick-tips-simplified-techniques-for-capturing-google-meets-for-2024/"><u>Quick Tips Simplified Techniques for Capturing Google Meets for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-y56-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo Y56 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
 

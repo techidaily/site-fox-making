@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Overview of INI Parser Options and Specifications
-date: 2024-09-27T03:45:28.826Z
-updated: 2024-09-30T04:54:41.371Z
+date: 2024-10-04T21:47:23.533Z
+updated: 2024-10-05T20:55:13.424Z
 tags:
   - user-guide
 categories:
@@ -77,7 +77,21 @@ Table of Contents
 
 ## INI Location Properties
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Identification
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### File Name
 
@@ -99,40 +113,26 @@ Table of Contents
 
  Specifies how to interpret the value found in that INI key: as a path to a file, a folder or raw data. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Path
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)For [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the parent folder cannot be configured. The INI file will be searched only in the Windows folder.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Folder
 
 The INI file parent folder path. Leave empty to search on all fixed drives on the target computer. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Depth
 
 This field specifies how deep within the folder's subdirectories to search. 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * FileName
 * Section
@@ -143,10 +143,10 @@ This field specifies how deep within the folder's subdirectories to search.
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -182,21 +182,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-secret-glance-at-fb-snapshots/"><u>[New] Secret Glance at FB Snapshots</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-step-by-step-guide-to-creating-curved-graphics-for-2024/"><u>[New] Step-by-Step Guide to Creating Curved Graphics for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-finest-10-online-spots-to-download-pristine-photos/"><u>[New] The Finest 10 Online Spots to Download Pristine Photos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-ultimate-guide-to-hexacopter-wonders/"><u>[New] Ultimate Guide to HexaCopter Wonders</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-convert-your-total-product-blueprints-into-various-formats-mp4-mov-avi-mp3-a-comprehensive-guide/"><u>1. Convert Your Total Product Blueprints Into Various Formats: MP4, MOV, AVI, MP3 - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/access-and-save-oncourse-learning-media-content-comprehensive-course-materials-at-your-fingertps/"><u>Access and Save OnCourse Learning Media Content – Comprehensive Course Materials at Your Fingertps</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-sexual-education-resources-downloader-access-educational-videos-from-manhub/"><u>Comprehensive Sexual Education Resources Downloader - Access Educational Videos From ManHub</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-and-convert-3d-buzz-media-high-quality-formats-like-mp4-wmv-and-avi-at-your-fingertips/"><u>Download & Convert 3D Buzz Media: High-Quality Formats Like MP4, WMV and AVI at Your Fingertips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-guide-transferring-your-favorite-videos-from-vimeo-to-iphone-seamlessly/"><u>Easy Guide: Transferring Your Favorite Videos From Vimeo to iPhone Seamlessly</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-v30-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo V30 Pro Pattern Lock Screen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-samsung-galaxy-a05-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Samsung Galaxy A05 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/say-goodbye-to-kodi-pause-a-guide-on-correcting-stream-stutter/"><u>Say Goodbye to Kodi Pause: A Guide on Correcting Stream Stutter</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restoring-functionality-for-the-windows-key-combo-shiftpluss-in-windows-operating-systems/"><u>Step-by-Step Guide to Restoring Functionality for the Windows Key Combo (Shift+S) in WIndows Operating Systems</u></a></li>
-<li><a href="https://fox-making.techidaily.com/transform-pdf-documents-into-accessible-html-format-at-no-cost-via-flipbuilders-conversion-tool/"><u>Transform PDF Documents Into Accessible HTML Format at No Cost via FlipBuilder's Conversion Tool</u></a></li>
-<li><a href="https://fox-making.techidaily.com/transforming-your-pdf-collection-into-one-interactive-ebook-with-flipbuilder-a-step-by-step-tutorial/"><u>Transforming Your PDF Collection Into One Interactive eBook with FlipBuilder: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-additional-control-button-options-in-flip-book-production-with-flipbuildercom/"><u>Understanding Additional Control Button Options in Flip Book Production with FlipBuilder.com</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-innovative-methods-iphoneipad-recording-2023-revealed/"><u>[New] 2024 Approved Innovative Methods IPhone/iPad Recording [2023 Revealed]</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-transforming-your-story-game-with-animation-techniques-for-text/"><u>[New] 2024 Approved Transforming Your Story Game with Animation Techniques for Text</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-itel-a05s-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easy-steps-how-to-save-spotify-playlists-on-pc-or-mac-systems/"><u>Easy Steps: How to Save Spotify Playlists on PC or Mac Systems</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-strategies-for-creating-an-engaging-youtube-banner-to-boost-viewer-numbers/"><u>Effective Strategies for Creating an Engaging YouTube Banner to Boost Viewer Numbers</u></a></li>
+<li><a href="https://fox-making.techidaily.com/efficient-file-management-with-ifile-the-ultimate-tool/"><u>Efficient File Management with iFile - The Ultimate Tool</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/game-capture-made-simple-top-free-tools-listing/"><u>Game Capture Made Simple Top Free Tools Listing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-xiaomi-redmi-a2-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Xiaomi Redmi A2 Through Google Earth?</u></a></li>
+<li><a href="https://fox-making.techidaily.com/maximize-performance-mastering-the-art-of-iupdatetargets-management/"><u>Maximize Performance: Mastering the Art of IUpdateTargets Management</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-best-photo-slideshow-maker-how-to-make-a-photo-slideshow/"><u>New 2024 Approved Best Photo Slideshow Maker How to Make a Photo Slideshow</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-unleash-your-creativity-best-sony-vegas-alternatives-for-windows/"><u>New In 2024, Unleash Your Creativity Best Sony Vegas Alternatives for Windows</u></a></li>
+<li><a href="https://fox-making.techidaily.com/no-cost-methods-for-moving-music-from-your-iphone-onto-a-laptop-or-desktop/"><u>No-Cost Methods for Moving Music From Your iPhone Onto a Laptop or Desktop</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-applying-image-watermarks-effortlessly/"><u>Step-by-Step Guide: Applying Image Watermarks Effortlessly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-google-meet-conversation-blueprint-for-success/"><u>The Google Meet Conversation Blueprint for Success</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unraveling-the-truth-about-https-does-it-always-guarantee-website-security/"><u>Unraveling the Truth About HTTPS - Does It Always Guarantee Website Security?</u></a></li>
 </ul></div>
 

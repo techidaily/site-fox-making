@@ -1,7 +1,7 @@
 ---
 title: Mastering the Fundamentals of Typeface Characteristics
-date: 2024-09-25T18:02:38.180Z
-updated: 2024-09-30T05:47:17.421Z
+date: 2024-09-29T18:50:03.283Z
+updated: 2024-10-05T22:29:19.562Z
 tags:
   - user-guide
 categories:
@@ -82,21 +82,7 @@ This view allows you to specify the information that will be placed in the regis
 
 ![Type library properties](https://cdn.advancedinstaller.com/img/ui/type-library-properties.png "Type library properties")  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## General
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### File
 
@@ -114,6 +100,13 @@ Specify the Type Library's version. The version's format is: major version dot m
 
 Specify a description for the type library.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Details
 
 ### Directory
@@ -121,28 +114,35 @@ Specify a description for the type library.
 Specify the directory that contains the Help file for the Type Library. Use the \[... \] and \[Reset \] buttons to do that.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature
 
 Select the feature that must be installed in order for the Type Library to be operational.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Cost
 
 Specify the cost, in bytes, associated with the Type Library properties.
 
-## Location
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Location
 
 ### Registry path
 
@@ -181,19 +181,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-compre-written-by-dr-john-smith-phd-in-environmental-science/"><u>[New] 2024 Approved A Compre Written By Dr. John Smith, PhD in Environmental Science</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-clear-screens-crystal-vision-tips-for-blurry-social-media-content/"><u>[New] Clear Screens, Crystal Vision Tips for Blurry Social Media Content</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-optimal-platforms-for-remote-team-engagement/"><u>[New] Optimal Platforms for Remote Team Engagement</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-apples-m1-milestone-the-next-gen-computing-core/"><u>[Updated] Apple’s M1 Milestone The Next-Gen Computing Core</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-cinema-kings-and-queens-iphones-leading-8-freepluspaid-watching-options/"><u>[Updated] In 2024, Cinema Kings & Queens IPhone's Leading 8 FREE+Paid Watching Options</u></a></li>
-<li><a href="https://fox-making.techidaily.com/a-comprehensive-guide-to-adding-table-elements-with-flipbuilder-for-ebook-creation/"><u>A Comprehensive Guide to Adding Table Elements with FlipBuilder for eBook Creation</u></a></li>
-<li><a href="https://fox-making.techidaily.com/adding-print-functionality-to-multipage-layouts-a-guide-using-quickprintpro/"><u>Adding Print Functionality to Multipage Layouts: A Guide Using QuickPrintPro</u></a></li>
-<li><a href="https://fox-making.techidaily.com/creative-tims-ultimate-react-paper-kit-with-bootstrap-and-reactstrap-gratis/"><u>Creative Tim's Ultimate React Paper Kit with Bootstrap & Reactstrap - Gratis</u></a></li>
-<li><a href="https://fox-making.techidaily.com/doubling-the-scale-ratio-means-each-unit-on-the-representation-now-corresponds-to-twice-as-much-in-reality-so-distances-will-appear-half-as-large/"><u>Doubling the Scale Ratio Means Each Unit on the Representation Now Corresponds to Twice as Much in Reality, so Distances Will Appear Half as Large.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-hidden-truths-behind-vrs-advantages-and-limitations/"><u>In 2024, Unveiling the Hidden Truths Behind VR's Advantages and Limitations</u></a></li>
-<li><a href="https://win-blog.techidaily.com/movavi-windows-program/"><u>Movavi Windows Program 로그인 가이드 - 사용자에게서</u></a></li>
-<li><a href="https://fox-making.techidaily.com/over-10-stunning-vuejs-material-design-themes-from-creativetim/"><u>Over 10 Stunning VueJS Material Design Themes From CreativeTim</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-google-pixel-8-pro-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Google Pixel 8 Pro</u></a></li>
-<li><a href="https://fox-making.techidaily.com/updivisions-ultimate-resource-for-building-a-vue-laravel-and-jsonapi-powered-project/"><u>UpDivision's Ultimate Resource for Building a Vue, Laravel, & JSON:API Powered Project</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-avoid-video-ads-strategies-to-keep-ads-at-bay-for-2024/"><u>[New] Avoid Video Ads Strategies to Keep Ads at Bay for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-effortless-instagram-to-mp4-top-2-secrets-exposed-for-2024/"><u>[New] Effortless Instagram to MP4 Top 2 Secrets Exposed for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-psp-emulator-ios-top-5-picks/"><u>[New] In 2024, PSP Emulator iOS Top 5 Picks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unlock-the-power-of-visual-storytelling-with-screen-capture-skills/"><u>2024 Approved Unlock the Power of Visual Storytelling with Screen Capture Skills</u></a></li>
+<li><a href="https://fox-making.techidaily.com/create-personalized-pdf-seals-online-at-no-cost-use-our-free-pdf-embossing-service/"><u>Create Personalized PDF Seals Online at No Cost - Use Our Free PDF Embossing Service</u></a></li>
+<li><a href="https://fox-making.techidaily.com/custom-subscriptions-per-client-personalized-software-licenses/"><u>Custom Subscriptions Per Client: Personalized Software Licenses</u></a></li>
+<li><a href="https://fox-making.techidaily.com/detect-and-remove-rootkits-with-malwarefox-advanced-cybersecurity-protection-tools/"><u>Detect & Remove Rootkits with MalwareFox: Advanced Cybersecurity Protection Tools</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-web-analytics-strategies-unlocking-insights-and-growth/"><u>Effective Web Analytics Strategies: Unlocking Insights and Growth</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-truthgpts-unveiling-law-enforcement-action-against-mullvad-vpn-leading-free-pc-games-and-mechanical-keyboards-decoded/"><u>Exploring TruthGPT's Unveiling, Law Enforcement Action Against Mullvad VPN, Leading Free PC Games & Mechanical Keyboards Decoded</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-securely-sign-executable-installation-and-package-files-using-digital-certificates/"><u>How to Securely Sign Executable, Installation and Package Files Using Digital Certificates</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-your-smartphones-data-pace-dragging-you-down-accelerate-with-our-top-10-speed-enhancing-tips/"><u>Is Your Smartphone's Data Pace Dragging You Down? Accelerate with Our Top 10 Speed-Enhancing Tips</u></a></li>
+<li><a href="https://fox-making.techidaily.com/optimized-sql-code-panel-streamline-data-operations-effortlessly/"><u>Optimized SQL Code Panel: Streamline Data Operations Effortlessly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/seamless-gopro-broadcasts-tips-for-facebook-and-periscope-channeling/"><u>Seamless GoPro Broadcasts Tips for Facebook & Periscope Channeling</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/steps-to-acquire-free-and-safe-vlc-player-on-a-mac-computer-for-2024/"><u>Steps to Acquire Free and Safe VLC Player on a Mac Computer for 2024</u></a></li>
 </ul></div>
 

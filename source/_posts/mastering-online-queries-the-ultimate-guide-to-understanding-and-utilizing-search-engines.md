@@ -1,7 +1,7 @@
 ---
 title: "Mastering Online Queries: The Ultimate Guide to Understanding and Utilizing Search Engines"
-date: 2024-09-24T12:19:47.360Z
-updated: 2024-09-30T08:57:07.855Z
+date: 2024-09-28T16:05:29.921Z
+updated: 2024-10-05T19:45:02.439Z
 tags:
   - user-guide
 categories:
@@ -89,37 +89,30 @@ The result of your search will be a string placed in a newly created Windows Ins
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If the installation package is run with full UI, the searches will be performed only once during AppSearch standard action from the [Wizard Dialogs Stage](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating a new search using a wizard
 
 ![New Search Wizard](https://cdn.advancedinstaller.com/img/toolbar/wizard.png "New Search Wizard")Use the \[New Search Wizard \] toolbar button, to quickly and easily set up a new search, following step-by-step directions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating a new Search
 
 ![New Search](https://cdn.advancedinstaller.com/img/toolbar/search-new.png "New Search")Use the \[New Search \] toolbar button, the “New Search” context menu item or press the Insert key while the tree control is focused. The result property will be added in the left-side tree and you can edit it in order to change it. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Creating a new File Search
 
 ![New File Search](https://cdn.advancedinstaller.com/img/toolbar/search-file-new.png "New File Search") Use the \[New File Search \] toolbar button, the “New File Search” context menu item or press the + key while the tree control is focused. The result property will be added in the left-side tree with a default name and you can edit it in order to change it. You can edit the [File To Search Properties](https://tools.techidaily.com/advancedinstaller/products/) in the right-side panel.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Create a new XML Search
@@ -127,10 +120,10 @@ The result of your search will be a string placed in a newly created Windows Ins
 ![New XML Search](https://cdn.advancedinstaller.com/img/toolbar/xml-search.png "New XML Search") Use the \[New XML Search \] toolbar button or the “New XML Search” context menu item. The resulted search operation will be added in the left-side tree with its name displaying the search path and the XML filename. It can not be renamed as it will always display the search path and the XML file on which the search operation is performed. You can edit the [XML Search Properties](https://tools.techidaily.com/advancedinstaller/products/) in the right-side panel. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a new Extended Search
@@ -146,9 +139,29 @@ The result of your search will be a string placed in a newly created Windows Ins
 * INI files
 * Folders
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding a Predefined Search
 
 Use the “Add Predefined Search” context menu to add an already configured search. These searches are ready for use right after creation (they don't require additional settings).
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Specifying the builds that will contain the search
 
@@ -158,16 +171,16 @@ Use the “Add Predefined Search” context menu to add an already configured se
 
 ![Test search](https://cdn.advancedinstaller.com/img/toolbar/test-search.png "Test search")Use the\[Test \] toolbar button or the “Test” context menu item while the "Searches" tree root (Target Computer) or a search property is selected. A MSI will be launched to test your searches and the results will be displayed in the [Search Results](https://tools.techidaily.com/advancedinstaller/products/). The searches are tested as following:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * If the tree root is selected (Target Computer) is selected all the searches will be tested.
 * If a search is selected it will be tested along with all its locators.
 * If a locator is selected it will be tested along with its associated search.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Renaming Searches
 
@@ -178,17 +191,10 @@ Use the “Add Predefined Search” context menu to add an already configured se
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key while an element from the “Searches” panel is selected. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -243,21 +249,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-3d-lut-expertise-in-a-quick-learning-journey/"><u>[New] 3D LUT Expertise in a Quick Learning Journey</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-ultimate-compilation-of-top-7-android-adblocking-apps/"><u>[Updated] 2024 Approved The Ultimate Compilation of Top 7 Android AdBlocking Apps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-templates-unlocking-your-videos-potential-for-2024/"><u>[Updated] Cutting-Edge Templates Unlocking Your Video's Potential for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-easy-video-extraction-tool-convert-tv-now-streams-into-popular-formats-like-mp4movavi/"><u>1. Easy Video Extraction Tool: Convert TV NOW Streams Into Popular Formats Like MP4/MOV/AVI</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-masterpiece-in-motion-capture-sonys-x1000-action-gear/"><u>2024 Approved Masterpiece in Motion Capture Sony's X1000 Action Gear</u></a></li>
-<li><a href="https://fox-making.techidaily.com/access-educational-content-securely-downloading-video-on-demand-vod-from-learnerorg/"><u>Access Educational Content - Securely Downloading Video-on-Demand (VoD) From Learner.org</u></a></li>
-<li><a href="https://fox-making.techidaily.com/access-exclusive-content-pinkbikes-athletic-footage-melodies-and-cinematic-previews/"><u>Access Exclusive Content: Pinkbike's Athletic Footage, Melodies & Cinematic Previews</u></a></li>
-<li><a href="https://fox-making.techidaily.com/aol-radio-tracks-download-get-high-quality-audio-in-multiple-formats-including-mp3-aac-and-more/"><u>AOL Radio Tracks Download: Get High-Quality Audio in Multiple Formats Including MP3, AAC, and More</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-guide-on-downloading-all-formats-of-comedy-central-shows-mp4-wmv-avi-and-more/"><u>Comprehensive Guide on Downloading All Formats of Comedy Central Shows - MP4, WMV, AVI & More</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cut-down-chaos-learning-background-erasure-with-photopea/"><u>Cut Down Chaos Learning Background Erasure with Photopea</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-high-quality-songs-from-youtube-as-mp3s-including-album-artwork/"><u>Download High-Quality Songs From YouTube as MP3s Including Album Artwork</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-your-favorite-spreadtub-clips-in-high-quality-mp4-format-using-the-ultimate-video-downloader/"><u>Download Your Favorite SPREADTUB Clips in High-Quality MP4 Format Using the Ultimate Video Downloader!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-for-the-persistent-pc-crash-in-latest-game-release-a-comprehensive-guide/"><u>Fixes for the Persistent PC Crash in Latest Game Release: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-blend-photos-effortlessly-in-real-time/"><u>In 2024, Blend Photos Effortlessly in Real-Time</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/macos-stellar-file-shredder-efficient-scheduled-deletion-of-files-and-folders/"><u>MacOS Stellar File Shredder: Efficient Scheduled Deletion of Files & Folders</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-find-the-best-value-top-6-budget-friendly-camera-options/"><u>[New] Find the Best Value Top 6 Budget-Friendly Camera Options</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-expert-group-chat-options-for-virtual-gatherings/"><u>[New] In 2024, Expert Group Chat Options for Virtual Gatherings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-video-builder-how-to-create-video-ads-for-free/"><u>[New] In 2024, YouTube Video Builder How to Create Video Ads for Free?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-essential-guide-implementing-audio-fades-for-2024/"><u>[Updated] Essential Guide Implementing Audio Fades for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/acer-xfa240-assessment-where-practicality-prevails/"><u>Acer XFA240 Assessment: Where Practicality Prevails</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ver-these-10-quickly-rising-youtube-inspirations/"><u>Discover These 10 Quickly Rising YouTube Inspirations</u></a></li>
+<li><a href="https://fox-making.techidaily.com/fast-and-efficient-methods-top-5-rapid-techniques-for-editing-text-within-your-pdf-files/"><u>Fast and Efficient Methods: Top 5 Rapid Techniques for Editing Text Within Your PDF Files</u></a></li>
+<li><a href="https://fox-making.techidaily.com/guide-to-generating-effective-filefolder-associations-for-streamlined-installation-processes/"><u>Guide to Generating Effective File/Folder Associations for Streamlined Installation Processes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-lenovo-thinkphone-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Lenovo ThinkPhone Data? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-realme-v30t-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Realme V30T FRP</u></a></li>
+<li><a href="https://fox-making.techidaily.com/next-level-scripting-unlocking-the-full-potential-of-installer-powershell-apis/"><u>Next-Level Scripting: Unlocking the Full Potential of Installer PowerShell APIs</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-rated-free-and-premium-background-replacement-apps/"><u>Top-Rated Free and Premium Background Replacement Apps</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-benefits-of-synology-rt2600ac-exceptional-wi-fi-range-and-robust-parental-control-mechanisms-for-secure-home-networking/"><u>Unveiling the Benefits of Synology RT2600ac – Exceptional Wi-Fi Range and Robust Parental Control Mechanisms for Secure Home Networking</u></a></li>
 </ul></div>
 

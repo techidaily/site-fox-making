@@ -1,7 +1,7 @@
 ---
 title: Instant File Disposal Made Simple Using IRemoveFile
-date: 2024-09-28T21:04:59.245Z
-updated: 2024-09-29T17:41:12.213Z
+date: 2024-10-04T16:13:31.968Z
+updated: 2024-10-05T21:10:26.188Z
 tags:
   - user-guide
 categories:
@@ -111,10 +111,10 @@ Table of Contents
 This interface is meant to edit a file removal operation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -122,10 +122,10 @@ This interface is meant to edit a file removal operation.
 IRemoveFile : IDirectoryMember
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -141,10 +141,10 @@ IRemoveFile : IDirectoryMember
 **Bool RemoveNonEmptyFolders** \- Gets or sets the option that enables the removal of non-empty folders that match the specified name.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -184,18 +184,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-secret-behind-successful-igtv-uploads-from-h-videos-for-2024/"><u>[New] The Secret Behind Successful IGTV Uploads From H-Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-11-useful-youtube-seo-tips-to-rank-your-video-for-2024/"><u>[Updated] 11 Useful YouTube SEO Tips to Rank Your Video for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-what-does-the-blue-marker-on-fb-chat-reveal/"><u>[Updated] In 2024, What Does the Blue Marker on FB Chat Reveal?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-easy-video-extraction-tool-convert-tv-now-streams-into-popular-formats-like-mp4movavi/"><u>1. Easy Video Extraction Tool: Convert TV NOW Streams Into Popular Formats Like MP4/MOV/AVI</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-phone-personalizing-the-ios-alert-sound/"><u>2024 Approved Transform Your Phone Personalizing the iOS Alert Sound</u></a></li>
-<li><a href="https://fox-making.techidaily.com/access-educational-content-securely-downloading-video-on-demand-vod-from-learnerorg/"><u>Access Educational Content - Securely Downloading Video-on-Demand (VoD) From Learner.org</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-fixing-warzone-graphic-glitches-missing-textures-explained/"><u>Comprehensive Guide to Fixing Warzone Graphic Glitches: Missing Textures Explained</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/discover-7-advantages-of-speaking-croatian-and-why-now/"><u>Discover 7 Advantages of Speaking Croatian, and Why Now?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitter-video-requirements-how-to-upload-a-video-on-twitter/"><u>In 2024, Twitter Video Requirements | How to Upload a Video on Twitter?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-tutorial-on-downloading-and-transforming-mark-manson-videos-into-desired-audiovideo-formats/"><u>Step-by-Step Tutorial on Downloading and Transforming Mark Manson Videos Into Desired Audio/Video Formats</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-tutorial-on-saving-and-transforming-ufc-fights-to-mp4avimov-files/"><u>Step-by-Step Tutorial on Saving and Transforming UFC Fights to MP4/AVI/MOV Files</u></a></li>
-<li><a href="https://fox-making.techidaily.com/troubleshooting-steps-to-resolve-issues-with-spotizr-get-your-free-replacement-now/"><u>Troubleshooting Steps to Resolve Issues with Spotizr - Get Your FREE Replacement Now!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-steps-on-the-path-equipment-for-beginners/"><u>[Updated] In 2024, First Steps on the Path Equipment for Beginners</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-secrets-to-amassing-affordable-artistic-elements/"><u>[Updated] Secrets to Amassing Affordable Artistic Elements</u></a></li>
+<li><a href="https://fox-making.techidaily.com/2-streamline-file-management-mastering-the-art-of-editing-temp-files-quickly/"><u>2. Streamline File Management: Mastering the Art of Editing Temp Files Quickly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/effective-approaches-to-capturing-high-def-live-games/"><u>Effective Approaches to Capturing High-Def Live Games</u></a></li>
+<li><a href="https://fox-making.techidaily.com/guide-capturing-gameplay-on-your-xbox-one-and-xbox-360-a-step-by-step-tutorial/"><u>Guide: Capturing Gameplay on Your Xbox One & Xbox 360 – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-v27-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from V27.</u></a></li>
+<li><a href="https://fox-making.techidaily.com/leading-video-advertisement-makers-web-and-app-solutions/"><u>Leading Video Advertisement Makers: Web & App Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/live-streaming-made-easy-discover-the-power-of-manycams-virtual-camera-technology/"><u>Live Streaming Made Easy: Discover the Power of ManyCam's Virtual Camera Technology</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/revel-in-richness-your-pcs-pathway-to-exceptional-video-quality-for-2024/"><u>Revel in Richness Your PC's Pathway to Exceptional Video Quality for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-rated-watermarking-application-for-ios-devices/"><u>Top Rated Watermarking Application for iOS Devices</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/understanding-intellectual-property-rights-on-video-screen-captures/"><u>Understanding Intellectual Property Rights on Video Screen Captures</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-the-file-properties-window-a-comprehensive-guide/"><u>Understanding the File Properties Window: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/user-guide-navigating-through-effective-file-elimination-conversations/"><u>User Guide: Navigating Through Effective File Elimination Conversations</u></a></li>
 </ul></div>
 

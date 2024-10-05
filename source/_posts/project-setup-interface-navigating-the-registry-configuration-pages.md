@@ -1,7 +1,7 @@
 ---
 title: "Project Setup Interface: Navigating the Registry Configuration Pages"
-date: 2024-09-24T05:40:29.206Z
-updated: 2024-09-30T02:45:00.848Z
+date: 2024-09-29T18:50:38.287Z
+updated: 2024-10-05T16:02:54.253Z
 tags:
   - user-guide
 categories:
@@ -108,35 +108,55 @@ Copy
 
 ![Value Removal](https://cdn.advancedinstaller.com/img/toolbar/registry-value-removal-new.png "Value Removal") Use the \[New Value Removal \] toolbar button or the “New Value Removal” list context menu item. To change the removal properties use the [Registry Value Removal Dialog](https://tools.techidaily.com/advancedinstaller/products/). 
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding registry keys
 
 ![Add Keys](https://cdn.advancedinstaller.com/img/toolbar/folder-add.png "Add Keys") Use the \[Add Key \] toolbar button, the “Add Key...” tree/list context menu item or press the \* key while the “Values” panel is focused. You will be prompted to choose a registry key from your computer's registry using the [Registry Key Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/). All the selected key's subkeys and values will be added. 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adding registry values
 
 ![Add Values](https://cdn.advancedinstaller.com/img/toolbar/registry-add.png "Add Values") Use the \[Add Values \] toolbar button, the “Add Values...” tree/list context menu item or press the + key while the “Values” panel is selected. You will be prompted to choose registry values from your computer's registry using the [Registry Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Importing Registry Entries from a Registration File (.reg)
 
 ![Import REG file](https://cdn.advancedinstaller.com/img/toolbar/registry-import-reg.png "Import REG file") Use the \[Import REG \] toolbar button to import registry entries from a Windows Registration File (.reg).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Exporting Registry Entries to a Registration File (.reg)
 
 ![Export REG file](https://cdn.advancedinstaller.com/img/toolbar/registry-export-reg.png "Export REG file")Select a hive, a key or the _Target Computer_ root element(this will select everything) then use the \[Export REG \] toolbar button or the “Export” context menu item to export the registry entries to a Windows Registration File (.reg). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)**Current user/Local machine** hive will always be exported as **HKEY\_LOCAL\_MACHINE**.
 
@@ -146,26 +166,13 @@ Advanced Installer will create components for the added resources as necessary. 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can further manage the your package's organization in the [Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This feature is not available for Merge Module projects. For more details see the [Merge Module Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing and setting properties and permissions for a registry key or value
@@ -181,10 +188,10 @@ Advanced Installer will create components for the added resources as necessary. 
 Launches a wizard that will allow you to specify what registry entries created by your application will be removed upon uninstall.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Locating the attached component for a resource
@@ -197,15 +204,22 @@ This command is available for:
 * a registry key or value removal operation
 * a registry key that will be created (if absent) at install or deleted (if present) at uninstall.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Moving registry keys and values
 
 Select the items to be moved and then drag and drop them to the target location.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Renaming registry keys and values
@@ -215,13 +229,6 @@ Use the "Rename" context menu item or press theF2 key while an item is selected.
 ### Removing registry keys or values
 
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” tree/list context menu item, or press the Delete key on a selected element.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Product information registry entries
 
@@ -241,13 +248,6 @@ These settings are available in a registry key's context menu. They are used to 
 ### Add registry path to ignore list
 
 Specify the registry path to be disregarded during a repackager scan.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Registry Settings...
 
@@ -305,24 +305,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-navigate-the-art-of-film-with-xps-easy-tools/"><u>[New] Navigate the Art of Film with XP's Easy Tools</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-step-by-step-streaming-on-discord-tips-to-engage-and-retain-viewers/"><u>[Updated] 2024 Approved Step-by-Step Streaming on Discord Tips to Engage and Retain Viewers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-deciphering-finances-how-much-do-youtubers-earn-per-ad/"><u>2024 Approved Deciphering Finances How Much Do YouTubers Earn Per Ad?</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/advanced-argon-admin-panel-with-tailwind-css-support-enhanced-features-by-creative-tim/"><u>Advanced Argon Admin Panel with Tailwind CSS Support - Enhanced Features by Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/advanced-bootstrap-4-pro-administrator-interface-premium-lighter-design-from-creative-tim/"><u>Advanced Bootstrap 4 PRO Administrator Interface: Premium, Lighter Design From Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/advanced-vue-paper-pro-dashboard-high-quality-bootstrap-vue-admin-layout-from-creative-tim/"><u>Advanced Vue Paper Pro Dashboard - High-Quality Bootstrap Vue Admin Layout From Creative Tim</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/download-torrents-with-vpn-to-stay-safe-the-fastest-vpn-around-the-world/"><u>Download Torrents with VPN to Stay Safe - The Fastest VPN Around the World</u></a></li>
-<li><a href="https://fox-making.techidaily.com/experience-seamless-web-management-with-the-free-vue-argon-aspnet-admin-template-crafted-by-creative-tim-creative-tim/"><u>Experience Seamless Web Management with the Free Vue Argon Asp.Net Admin Template - Crafted by Creative Tim @ Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/free-nextjs-and-tailwind-css-starter-kit-for-a-customizable-blog-detail-page-download-now/"><u>Free NextJS & Tailwind CSS Starter Kit for a Customizable Blog Detail Page – Download Now!</u></a></li>
-<li><a href="https://fox-making.techidaily.com/free-react-and-bootstrap-4-combo-from-creative-tim-ultimate-paper-kit-for-web-apps/"><u>Free React & Bootstrap 4 Combo From Creative Tim - Ultimate Paper Kit for Web Apps</u></a></li>
-<li><a href="https://fox-making.techidaily.com/high-end-material-kit-for-react-apps-exclusive-from-creativetim/"><u>High-End Material Kit for React Apps, Exclusive From @CreativeTim</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-access-tons-of-free-vocal-textures/"><u>In 2024, Access Tons of Free Vocal Textures!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-simplified-mac-solution-audioplusscreen-capture/"><u>In 2024, Simplified Mac Solution Audio+Screen Capture</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-graphics-cards-download-rtx-2060-super-gpu-drivers-for-win-10-and-win-11/"><u>Latest Graphics Cards: Download RTX 2060 Super GPU Drivers for Win 10 & Win 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-mix-fold-3-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Mix Fold 3, is it possible?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/superior-vue-material-dashboard-pro-high-end-vuejs-administrative-template-powered-by-creative-tim/"><u>Superior Vue Material Dashboard PRO: High-End VueJS Administrative Template - Powered by Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-20-vuejs-examples-using-apis-showcase-by-creative-tim/"><u>Top 20 Vue.js Examples Using APIs - Showcase by Creative Tim</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-essential-tips-for-overwatch-game-sound-logging/"><u>2024 Approved Essential Tips for Overwatch Game Sound Logging</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-v27e-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo V27e FRP</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easy-conversion-tips-how-to-make-any-mkv-video-play-smoothly-on-an-ipadipad-2new-ipad/"><u>Easy Conversion Tips: How to Make Any MKV Video Play Smoothly on an iPad/iPad 2/New iPad</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-journey-to-vivid-visuals-top-11-hue-enhancement-guides/"><u>In 2024, A Journey to Vivid Visuals Top 11 Hue Enhancement Guides</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-the-art-of-analytic-assessment-in-the-youtube-sphere/"><u>In 2024, The Art of Analytic Assessment in the YouTube Sphere</u></a></li>
+<li><a href="https://fox-making.techidaily.com/leading-itunes-data-recovery-software-for-windows-and-mac-operating-systems/"><u>Leading iTunes Data Recovery Software for Windows & Mac Operating Systems</u></a></li>
+<li><a href="https://fox-making.techidaily.com/optimize-your-database-searches-with-sql-command-line-tools/"><u>Optimize Your Database Searches with SQL Command Line Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-video-file-types-optimal-for-youtube-content-upload/"><u>Top Video File Types Optimal for YouTube Content Upload</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-guide-incorporating-motion-typography-in-your-videos/"><u>Ultimate Guide: Incorporating Motion Typography in Your Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncover-the-best-a-list-of-top-8-no-cost-roku-channels/"><u>Uncover the Best: A List of Top 8 No-Cost Roku Channels</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-new-possibilities-how-apples-integration-of-nfc-in-iphones-with-third-party-apps-enhances-your-experience-techinsights/"><u>Unlocking New Possibilities: How Apple's Integration of NFC in iPhones with Third-Party Apps Enhances Your Experience | TechInsights</u></a></li>
 </ul></div>
 

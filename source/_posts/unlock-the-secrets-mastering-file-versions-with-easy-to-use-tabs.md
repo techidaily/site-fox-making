@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Secrets: Mastering File Versions with Easy-to-Use Tabs"
-date: 2024-09-25T21:14:35.943Z
-updated: 2024-09-30T03:29:58.366Z
+date: 2024-09-30T22:39:02.282Z
+updated: 2024-10-05T20:42:14.819Z
 tags:
   - user-guide
 categories:
@@ -99,19 +99,31 @@ In this dialog, you can specify a file version that will be used during the inst
 ![The File Version Tab](https://cdn.advancedinstaller.com/img/dialog/file-version.png "The File Version Tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## File Version
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get from file
@@ -119,10 +131,10 @@ In this dialog, you can specify a file version that will be used during the inst
 The file has the default version if it has one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### User specified
@@ -130,10 +142,10 @@ The file has the default version if it has one.
 You can specify the version for the file. The default value is 1.0.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Make companion of file
@@ -177,22 +189,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-ais-best-podcast-naming-tools-top-ten-list/"><u>[Updated] AI's Best Podcast Naming Tools Top Ten List</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-captivating-chats-with-animated-content-an-in-depth-guide-to-snapchats-gif-feature/"><u>[Updated] Captivating Chats with Animated Content An In-Depth Guide to Snapchat's GIF Feature</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-how-to-dominate-tiktoks-trending-topics-for-more-engagement-for-2024/"><u>[Updated] How to Dominate TikTok's Trending Topics for More Engagement for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-digital-cash-creation-a-closer-look-at-vids-vs-videos/"><u>[Updated] In 2024, Digital Cash Creation A Closer Look at Vids Vs. Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-ensuring-earning-potential-on-youtubers/"><u>[Updated] In 2024, Ensuring Earning Potential on YouTubers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-traffic-essential-youtube-seo-equipment/"><u>[Updated] Maximize Traffic - Essential YouTube SEO Equipment</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-strategic-planning-of-podcast-drop-times/"><u>[Updated] Strategic Planning of Podcast Drop Times</u></a></li>
-<li><a href="https://fox-making.techidaily.com/can-i-feature-corporate-details-in-my-interactive-pdf-with-flipbuilder/"><u>Can I Feature Corporate Details in My Interactive PDF with FlipBuilder?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-epson-ds-530-ready-on-windows-11-64-bit-driver-installation-guide-and-download-links/"><u>Get Your Epson DS-530 Ready on Windows 11 (64-Bit): Driver Installation Guide and Download Links</u></a></li>
-<li><a href="https://fox-making.techidaily.com/is-it-possible-for-a-purchased-product-to-make-your-brand-vanish-insights-from-flipbuildercom/"><u>Is It Possible For A Purchased Product To Make Your Brand Vanish? Insights From FlipBuilder.com</u></a></li>
-<li><a href="https://fox-making.techidaily.com/mastering-file-transfers-how-to-use-ftp-for-online-sharing-with-flipbuilders-assistance/"><u>Mastering File Transfers: How to Use FTP for Online Sharing with FlipBuilder's Assistance</u></a></li>
-<li><a href="https://fox-making.techidaily.com/modifying-text-properties-adjusting-the-title-and-typeface-of-a-flipbook-on-windows-with-flipbuilder-tutorial/"><u>Modifying Text Properties: Adjusting the Title & Typeface of a FlipBook on Windows with FlipBuilder Tutorial</u></a></li>
-<li><a href="https://fox-making.techidaily.com/protecting-access-to-your-digital-publications-with-robust-passwords-tips-for-using-flipbuilder/"><u>Protecting Access to Your Digital Publications with Robust Passwords - Tips for Using FlipBuilder</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-comprehensible-rundown-on-djis-latest-creation-inspire-2/"><u>The Comprehensible Rundown on DJI's Latest Creation - Inspire 2</u></a></li>
-<li><a href="https://fox-making.techidaily.com/transitioning-your-eflipbook-layout-guide-for-changing-text-flow-in-flipplrcom/"><u>Transitioning Your eFlipbook Layout: Guide for Changing Text Flow in flipplr.com</u></a></li>
-<li><a href="https://fox-making.techidaily.com/troubleshooting-guide-for-grey-screen-hurdles-in-page-editing-on-flipplatform-flipbuildercom/"><u>Troubleshooting Guide for 'Grey Screen' Hurdles in Page Editing on FlipPlatform [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-flipbuilders-comprehensive-refunds-strategy-find-out-how-we-protect-our-customers/"><u>Understanding FlipBuilder's Comprehensive Refunds Strategy – Find Out How We Protect Our Customers</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-100-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-lg-k51-critique-impressive-style-hindered-by-inadequate-cpu-power/"><u>Comprehensive LG K51 Critique: Impressive Style Hindered By Inadequate CPU Power</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-the-problem-when-steelseries-gg-engine-stops-responding-in-windows/"><u>Diagnosing and Repairing the Problem: When SteelSeries GG Engine Stops Responding in Windows</u></a></li>
+<li><a href="https://fox-making.techidaily.com/guide-to-generating-effective-filefolder-associations-for-streamlined-installation-processes/"><u>Guide to Generating Effective File/Folder Associations for Streamlined Installation Processes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y56-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y56 5G</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-web-based-online-vertical-video-editors/"><u>New In 2024, Best Web-Based Online Vertical Video Editors</u></a></li>
+<li><a href="https://fox-making.techidaily.com/next-level-scripting-unlocking-the-full-potential-of-installer-powershell-apis/"><u>Next-Level Scripting: Unlocking the Full Potential of Installer PowerShell APIs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-v30-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo V30 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-your-connection-windows-driver-for-tp-link-device/"><u>Streamline Your Connection: Windows Driver for TP Link Device</u></a></li>
+<li><a href="https://fox-making.techidaily.com/the-ultimate-list-of-top-free-photo-editing-tools-on-android/"><u>The Ultimate List of Top Free Photo Editing Tools on Android</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-10-screen-recording-tools-for-windows-11-free-and-premium-options-explored/"><u>Top 10 Screen Recording Tools for Windows 11: Free and Premium Options Explored</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-rated-free-and-premium-background-replacement-apps/"><u>Top-Rated Free and Premium Background Replacement Apps</u></a></li>
 </ul></div>
 

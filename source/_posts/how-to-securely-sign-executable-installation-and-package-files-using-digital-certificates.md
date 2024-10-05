@@ -1,7 +1,7 @@
 ---
 title: How to Securely Sign Executable, Installation and Package Files Using Digital Certificates
-date: 2024-09-29T07:58:54.147Z
-updated: 2024-09-30T00:34:23.041Z
+date: 2024-09-30T18:56:30.290Z
+updated: 2024-10-05T18:54:21.964Z
 tags:
   - user-guide
 categories:
@@ -83,19 +83,19 @@ You also can individually sign each file from your package by enabling this opti
 ![Digital signature](https://cdn.advancedinstaller.com/img/ui/digital-signature.png "Digital signature")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Signing utilities
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### SignTool.exe
@@ -103,10 +103,10 @@ You also can individually sign each file from your package by enabling this opti
 The default tool, available with the Windows SDK v8.0 or higher, used by Advanced Installer. The[SignTool.exe](https://tools.techidaily.com/advancedinstaller/products/) utility tool can be used only with certificates exported as PFX files. can be used only with certificates exported as PFX files. You can use either pvkimprt or pvk2pfx to create a PFX certificate from the SPC and PVK files.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -149,16 +149,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-phones-to-cameras-enhancing-your-live-stream-setup-for-2024/"><u>[New] Phones to Cameras Enhancing Your Live Stream Setup for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-selecting-the-perfect-fps-a-deep-dive-into-30fps-vs-60fps-for-2024/"><u>[New] Selecting the Perfect FPS A Deep Dive Into 30Fps Vs. 60Fps for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-shadow-scribes-compendium-best-kept-voice-apps-iosandroid/"><u>[Updated] In 2024, Shadow Scribes' Compendium Best-Kept Voice Apps (iOS/Android)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-gamers-blueprint-techniques-to-record-virtual-realms/"><u>[Updated] In 2024, The Gamer's Blueprint Techniques to Record Virtual Realms</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-the-bugs-fixing-fallout-3-crashes-when-played-on-windows-11-systems/"><u>Banish the Bugs: Fixing Fallout 3 Crashes When Played on Windows 11 Systems</u></a></li>
-<li><a href="https://fox-making.techidaily.com/boilerplate-mastery-for-developers-pro-horizon-ai-framework-advanced-oauth-stripe-and-supabase-features-in-nextjsfigma-combo-by-creative-tim/"><u>Boilerplate Mastery for Developers: Pro Horizon AI Framework - Advanced OAuth, Stripe & Supabase Features in NextJS/Figma Combo by Creative Tim</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/cookiebot-your-gateway-to-dynamic-user-experience-and-data-collection/"><u>Cookiebot: Your Gateway to Dynamic User Experience and Data Collection</u></a></li>
-<li><a href="https://fox-making.techidaily.com/creative-tims-complimentary-paper-dashboard-bootstrap-admin-layout-for-quick-website-development/"><u>Creative Tim's Complimentary Paper Dashboard Bootstrap Admin Layout for Quick Website Development</u></a></li>
-<li><a href="https://fox-making.techidaily.com/creative-tims-elite-angular-boosted-paper-kit-2-bootstrap-4-theme-for-top-tier-web-development/"><u>Creative Tim's Elite Angular Boosted Paper Kit 2: Bootstrap 4 Theme for Top-Tier Web Development</u></a></li>
-<li><a href="https://fox-making.techidaily.com/creative-tims-top-quality-svelte-free-design-themes-and-starter-kits/"><u>Creative Tim's Top-Quality Svelte Free Design Themes and Starter Kits</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/straightforward-guide-switch-video-direction-in-vlc/"><u>Straightforward Guide Switch Video Direction in VLC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-building-your-brand-with-brilliant-educational-videos-a-guide-to-youtube-excellence/"><u>[New] 2024 Approved Building Your Brand with Brilliant Educational Videos A Guide to YouTube Excellence</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-elite-recording-devices-for-livestream-producers/"><u>[New] 2024 Approved Elite Recording Devices for Livestream Producers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-ensuring-your-shorts-videos-thumbnail-shows-up/"><u>[New] 2024 Approved Ensuring Your Shorts Video's Thumbnail Shows Up</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ips-for-preventing-invisible-thumbnails-on-shorts-videos/"><u>[New] Tips for Preventing Invisible Thumbnails on Shorts Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-top-tiktok-patterns-you-cant-miss-this-year/"><u>[New] Top TikTok Patterns You Can’t Miss This Year</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-prime-screen-grabs-for-film-enthusiasts/"><u>[Updated] In 2024, Prime Screen Grabs for Film Enthusiasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instant-clearing-the-best-ios-apps-for-precise-image-editing/"><u>[Updated] Instant Clearing The Best iOS Apps for Precise Image Editing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effortlessly-crafting-editable-pdf-forms-no-adobe-required/"><u>Effortlessly Crafting Editable PDF Forms: No Adobe Required!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/explore-the-best-alternatives-to-facebook-top-social-media-platforms-you-should-know/"><u>Explore the Best Alternatives to Facebook: Top Social Media Platforms You Should Know</u></a></li>
+<li><a href="https://fox-making.techidaily.com/exploring-the-power-of-icom-classes-unlocking-new-career-opportunities/"><u>Exploring the Power of ICOM Classes: Unlocking New Career Opportunities</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-unrequested-youtube-video-selections/"><u>Pause Unrequested YouTube Video Selections</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726028524969-pc/"><u>PCにて楽曲同士を融合させる手順 - ミキシング技術</u></a></li>
+<li><a href="https://fox-making.techidaily.com/quick-tips-boosting-your-iphones-performance-on-ios-8/"><u>Quick Tips: Boosting Your iPhone's Performance on iOS 8</u></a></li>
+<li><a href="https://fox-making.techidaily.com/speedy-techniques-for-instant-whiteness-transforming-online-background-colors-with-ease/"><u>Speedy Techniques for Instant Whiteness: Transforming Online Background Colors with Ease</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-casting-your-android-screen-onto-a-samsung-smart-tv/"><u>Step-by-Step Guide: Casting Your Android Screen Onto a Samsung Smart TV</u></a></li>
+<li><a href="https://fox-making.techidaily.com/the-ultimate-list-of-top-free-photo-editing-tools-on-android/"><u>The Ultimate List of Top Free Photo Editing Tools on Android</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-and-customizing-systems-preferred-applications/"><u>Understanding and Customizing System's Preferred Applications</u></a></li>
 </ul></div>
 

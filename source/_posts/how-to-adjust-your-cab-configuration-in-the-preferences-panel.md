@@ -1,7 +1,7 @@
 ---
 title: How to Adjust Your CAB Configuration in the Preferences Panel
-date: 2024-09-28T08:11:17.689Z
-updated: 2024-09-30T02:18:48.115Z
+date: 2024-10-02T22:47:09.455Z
+updated: 2024-10-05T19:42:53.081Z
 tags:
   - user-guide
 categories:
@@ -93,10 +93,16 @@ Table of Contents
 ![Edit Cab Size](https://cdn.advancedinstaller.com/img/dialog/edit-cab-size.png "Edit Cab Size")  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Decide automatically
@@ -104,16 +110,10 @@ Table of Contents
 The CAB file's size is automatically computed, depending on the size you have specified for the media volumes. The CAB file will have the volume size if the volume size is smaller than 2 GB. Otherwise, the CAB size is computed this way: the volume size (in bytes) is divided by 650 MB (in bytes). This will give the number of CABs per volume. The remaining space is then equally distributed among the CABs. 
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Custom CAB size
@@ -125,16 +125,10 @@ You have the possibility to specify your CAB size. There are however some restri
 * The CAB size cannot exceed the media volume size.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fixed number of CABs per volume
@@ -174,24 +168,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-avoiding-pitfalls-tiktok-video-copyright-verification-guide/"><u>[Updated] In 2024, Avoiding Pitfalls TikTok Video Copyright Verification Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-monitoring-and-measuring-igtv-video-performance/"><u>[Updated] Monitoring and Measuring IGTV Video Performance</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-easy-video-extraction-tool-convert-tv-now-streams-into-popular-formats-like-mp4movavi/"><u>1. Easy Video Extraction Tool: Convert TV NOW Streams Into Popular Formats Like MP4/MOV/AVI</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-s18-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo S18 Pro Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/access-educational-content-securely-downloading-video-on-demand-vod-from-learnerorg/"><u>Access Educational Content - Securely Downloading Video-on-Demand (VoD) From Learner.org</u></a></li>
-<li><a href="https://fox-making.techidaily.com/access-exclusive-content-pinkbikes-athletic-footage-melodies-and-cinematic-previews/"><u>Access Exclusive Content: Pinkbike's Athletic Footage, Melodies & Cinematic Previews</u></a></li>
-<li><a href="https://fox-making.techidaily.com/aol-radio-tracks-download-get-high-quality-audio-in-multiple-formats-including-mp3-aac-and-more/"><u>AOL Radio Tracks Download: Get High-Quality Audio in Multiple Formats Including MP3, AAC, and More</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/braving-new-waters-with-bard-google-aims-at-gpt-supremacy/"><u>Braving New Waters with 'Bard', Google Aims at GPT Supremacy</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-guide-on-downloading-all-formats-of-comedy-central-shows-mp4-wmv-avi-and-more/"><u>Comprehensive Guide on Downloading All Formats of Comedy Central Shows - MP4, WMV, AVI & More</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-high-quality-songs-from-youtube-as-mp3s-including-album-artwork/"><u>Download High-Quality Songs From YouTube as MP3s Including Album Artwork</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-your-favorite-spreadtub-clips-in-high-quality-mp4-format-using-the-ultimate-video-downloader/"><u>Download Your Favorite SPREADTUB Clips in High-Quality MP4 Format Using the Ultimate Video Downloader!</u></a></li>
-<li><a href="https://fox-making.techidaily.com/easy-guide-to-downloading-and-converting-dj-tracks-from-beatport-as-mp3s-wav-files-or-flac-on-windowsmac-systems/"><u>Easy Guide to Downloading & Converting DJ Tracks From Beatport as MP3s, WAV Files or FLAC on Windows/Mac Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-fixing-unresponsive-camera-feature-on-snap-devices/"><u>Guide to Fixing Unresponsive Camera Feature on Snap Devices</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-amplifying-photos-through-acoustics-internet-based/"><u>In 2024, Amplifying Photos Through Acoustics, Internet-Based</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-savory-storytelling-in-video-cooking-top-7-insights/"><u>In 2024, Savory Storytelling in Video Cooking - Top 7 Insights</u></a></li>
-<li><a href="https://fox-making.techidaily.com/troubleshooting-steps-to-resolve-issues-with-spotizr-get-your-free-replacement-now/"><u>Troubleshooting Steps to Resolve Issues with Spotizr - Get Your FREE Replacement Now!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/yearly-top-unpacking-channel-guide-the-best-of-2024/"><u>Yearly Top-Unpacking Channel Guide - The Best of 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-countdown-configuration-for-obs-users-a-compreenas-guide/"><u>[Updated] 2024 Approved Countdown Configuration for OBS Users A Compreenas Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-guide-to-bandicam-navigating-its-full-potential-for-2024/"><u>[Updated] The Ultimate Guide to Bandicam Navigating Its Full Potential for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-amazon-kindle-paperwhite-assessment-your-ultimate-reading-companion/"><u>Comprehensive Amazon Kindle Paperwhite Assessment: Your Ultimate Reading Companion</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-manager-issue-45-cleared/"><u>Device Manager Issue #45 Cleared</u></a></li>
+<li><a href="https://fox-making.techidaily.com/identifying-and-neutralizing-keyloggers-in-windows-environments-with-effective-detection-tools/"><u>Identifying and Neutralizing Keyloggers in Windows Environments with Effective Detection Tools</u></a></li>
+<li><a href="https://fox-making.techidaily.com/modify-simulated-structure-dialogue-box/"><u>Modify Simulated Structure Dialogue Box</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-facebook-playbook-for-business-growth-30-key-points/"><u>The Ultimate Facebook Playbook for Business Growth (30 Key Points)</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-rated-digital-canvas-the-ultimate-online-photo-editing-tool/"><u>Top-Rated Digital Canvas: The Ultimate Online Photo Editing Tool</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transfer-and-display-recent-pictures-from-mobile-to-windows-11-seamlessly/"><u>Transfer and Display Recent Pictures From Mobile to Windows 11 Seamlessly</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-the-folder-properties-dialog-box-a-comprehensive-guide/"><u>Understanding the Folder Properties Dialog Box: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Database Searches with SQL Command Line Tools
-date: 2024-09-26T09:31:50.819Z
-updated: 2024-09-30T09:10:25.616Z
+date: 2024-10-02T17:05:43.220Z
+updated: 2024-10-05T20:23:44.531Z
 tags:
   - user-guide
 categories:
@@ -82,6 +82,13 @@ Table of Contents
 
 This tab allows you to configure the selected SQL query.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Execution
 
 Set the execution options for the SQL query.
@@ -111,10 +118,17 @@ Use the \[Up \], \[Down \] buttons, the “Up”, “Down” context menu items 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The top-bottom order of the data bindings is important because it will represent the left-right columns order in the result set.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing a data binding
@@ -122,10 +136,16 @@ Use the \[Up \], \[Down \] buttons, the “Up”, “Down” context menu items 
 Use the \[Remove \] button, the “Remove” context menu item or press theDelete key while an element from the list control is focused.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Results
@@ -144,16 +164,16 @@ The specified binding properties will be used by Advanced Installer to return th
 
 Specify the file for the query. Use \[... \] button to select it.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Script Inline
 
 Use the embedded editor to instantly create a query on the fly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Statement separator (SQL Batch file separator)
 
@@ -161,27 +181,13 @@ Specify the separator for the SQL statements.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)By default this field is empty; if you supply a statement separator (Eg. semicolon  ;  or  GO), during installation the SQL script batch file will be automatically split into component statements using the supplied statement separator and each SQL statement will be executed individually. Otherwise, SQL script will be executed as a whole.**Format:** with the exception of semicolon  ;, the statement separator must always begin with a_letter_ and can contain only_alpha-numeric_ characters.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Some Database Servers do not permit executing multiple statements at once. In this case supply a statement separator to indicate that the SQL queries should be executed individually. For more information please read [Why does my SQL Script fail to run when executed from the installer?](https://tools.techidaily.com/advancedinstaller/products/) FAQ.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Strip comments from SQL script
@@ -193,10 +199,10 @@ Removes all comments from the SQL script. (This option also removes SQL comments
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Make sure the SQL code you supply is well-tested before deployment. If errors occur during installation, the changes cannot be undone. This functionality assumes familiarity with SQL syntax. Advanced Installer Technical Support does not provide assistance with debugging SQL statements.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -237,21 +243,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-elevating-youtube-consumption-strategies-for-organizing-videos-for-future-viewing/"><u>[New] 2024 Approved Elevating YouTube Consumption Strategies for Organizing Videos for Future Viewing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-12-best-tycoon-games-guaranteed-to-hook-you/"><u>[Updated] Top 12 Best Tycoon Games Guaranteed to Hook You</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-your-daily-dose-of-delightful-and-distressing-memes-from-ig-for-2024/"><u>[Updated] Your Daily Dose of Delightful & Distressing Memes From IG for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-convert-your-total-product-blueprints-into-various-formats-mp4-mov-avi-mp3-a-comprehensive-guide/"><u>1. Convert Your Total Product Blueprints Into Various Formats: MP4, MOV, AVI, MP3 - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/access-and-save-oncourse-learning-media-content-comprehensive-course-materials-at-your-fingertps/"><u>Access and Save OnCourse Learning Media Content – Comprehensive Course Materials at Your Fingertps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-tecno-spark-20-proplus-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Tecno Spark 20 Pro+</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/weaver-workshop-for-2024/"><u>Clip Weaver Workshop for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-sexual-education-resources-downloader-access-educational-videos-from-manhub/"><u>Comprehensive Sexual Education Resources Downloader - Access Educational Videos From ManHub</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-and-convert-3d-buzz-media-high-quality-formats-like-mp4-wmv-and-avi-at-your-fingertips/"><u>Download & Convert 3D Buzz Media: High-Quality Formats Like MP4, WMV and AVI at Your Fingertips</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-ultra-hd-videos-from-youtube-in-8k-resolution-on-pc-or-mac/"><u>Download Ultra HD Videos From YouTube in 8K Resolution on PC or Mac</u></a></li>
-<li><a href="https://fox-making.techidaily.com/efficient-ways-to-transform-webpt-videos-into-high-quality-mp4-or-mov-on-windows-and-mac-systems/"><u>Efficient Ways to Transform WebPT Videos Into High-Quality MP4 or MOV on Windows & Mac Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhanced-gaming-experience-fixing-battlefield-2042s-lag-issues-and-frame-rate-drop-for-pc-players/"><u>Enhanced Gaming Experience - Fixing Battlefield 2042'S Lag Issues & Frame Rate Drop for PC Players</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-the-problem-of-automatic-mouse-shifting/"><u>Tackling the Problem of Automatic Mouse Shifting</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-midland-gxt1-grotto-a-deep-dive-into-cutting-edge-two-way-communication-technology/"><u>The Midland GXT1 Grotto: A Deep Dive Into Cutting-Edge Two-Way Communication Technology</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-additional-control-button-options-in-flip-book-production-with-flipbuildercom/"><u>Understanding Additional Control Button Options in Flip Book Production with FlipBuilder.com</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/your-guide-to-android-2023s-best-vr-and-360-content-watching-for-2024/"><u>Your Guide to Android 2023'S Best VR & 360 Content Watching for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-progopro-series-camera-comparison/"><u>[New] 2024 Approved ProGoPro Series Camera Comparison</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-complete-facetune-overhaul-analysis-a-2024-insight/"><u>[New] Complete Facetune Overhaul Analysis A 2024 Insight</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-screencapture-pro-laptop-tips-and-tricks-for-2024/"><u>[New] ScreenCapture Pro Laptop Tips & Tricks for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-best-liked-ae-templates/"><u>[Updated] 2024 Approved The Ultimate Guide to Best-Liked AE Templates</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-billboard-advertising-mastering-the-art-of-outdoor-communication/"><u>Effective Billboard Advertising: Mastering the Art of Outdoor Communication</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/hoe-zet-je-de-perfecte-photo-organiseringsapps-op-9aan-ultimate-verzameling-en-beoordeelingen/"><u>Hoe Zet Je De Perfecte Photo OrganiseringsApps Op 9Aan? Ultimate Verzameling en Beoordeelingen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tier-zero-cost-digital-picture-upscaler/"><u>In 2024, Top-Tier Zero-Cost Digital Picture Upscaler</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-slow-how-to-slow-down-youtube-videos-3-ways/"><u>In 2024, YouTube Slow How to Slow Down YouTube Videos [3 Ways]</u></a></li>
+<li><a href="https://fox-making.techidaily.com/in-depth-details-on-items-product-info-section/"><u>In-Depth Details on Items - Product Info Section</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-prototyping-with-ai-assisted-techniques-and-strategies/"><u>Revolutionize Prototyping with AI-Assisted Techniques & Strategies</u></a></li>
+<li><a href="https://fox-making.techidaily.com/secure-file-transfer-protocol-login-how-to-obtain-ftp-credentials/"><u>Secure File Transfer Protocol Login: How to Obtain FTP Credentials</u></a></li>
+<li><a href="https://fox-making.techidaily.com/solving-issue-panes-in-project-management-a-comprehensive-guide/"><u>Solving 'Issue Panes' In Project Management: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-screen-effortless-guide-on-syncing-your-iphone-with-a-haier-television/"><u>Step-by-Screen: Effortless Guide on Syncing Your iPhone with a Haier Television</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-nvidia-graphics-card-gtx-1-cups-on-windows-10-or-11-step-by-step-guide-to-freshest-driver-installation/"><u>Update Your NVIDIA Graphics Card (GTX 1 Cups) on Windows 10 or 11: Step-by-Step Guide to Freshest Driver Installation</u></a></li>
 </ul></div>
 

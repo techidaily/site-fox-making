@@ -1,7 +1,7 @@
 ---
 title: "Custom DLL Function Call: How to Implement IInstalledDll in Windows"
-date: 2024-09-26T05:49:57.989Z
-updated: 2024-09-30T09:08:48.064Z
+date: 2024-09-29T20:32:32.411Z
+updated: 2024-10-05T21:22:04.835Z
 tags:
   - user-guide
 categories:
@@ -126,16 +126,16 @@ Table of Contents
 ## IInstalledDllFunctionCallCustomAction
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -143,22 +143,15 @@ Table of Contents
 IInstalledDllFunctionCallCustomAction: ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface facilitates editing custom action for calling function from installed native dll .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -169,10 +162,10 @@ This interface facilitates editing custom action for calling function from insta
 **String ActionData** \- Gets or sets the value of the CustomActionData property. This property can be retrieved as a regular property inside Deferred custom actions and it is available only for DLL, JScript and VBScript custom actions. A common usage scenario is to use the CustomActionData property in Rollback Custom Actions since they are also deferred .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Example
@@ -184,6 +177,13 @@ $custAct = $project.CustomActionsComponent.NewInstalledNativeDllFunctionCall($dl
 $custAct.FunctionName = "ExecuteTest"
 
     Copy
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -224,14 +224,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-eliminate-imposter-face-effects-in-facebook-discussion/"><u>[Updated] Eliminate Imposter Face Effects in Facebook Discussion</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/black-ops-cold-war-repair-your-voice-chat-feature-expert-fixes-and-advice/"><u>Black Ops Cold War: Repair Your Voice Chat Feature - Expert Fixes & Advice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-conversion-turn-dall-es-webp-art-into-jpeg-png/"><u>Effortless Conversion: Turn DALL-E's WebP Art Into JPEG, PNG</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-customize-your-websites-book-titles-with-keywords-and-descriptions-using-flipbuilder/"><u>How to Customize Your Website's Book Titles with Keywords & Descriptions Using FlipBuilder</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-htc-u23-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing HTC U23 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/recovering-your-missing-flipkey-a-comprehensive-guide-on-the-flipbuilder-platform/"><u>Recovering Your Missing FlipKey: A Comprehensive Guide on the FlipBuilder Platform</u></a></li>
-<li><a href="https://fox-making.techidaily.com/share-functionality-explained-navigating-through-flipbuilders-sharing-tools/"><u>Share Functionality Explained: Navigating Through FlipBuilder's Sharing Tools</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-locations-to-source-custom-photo-frames-after-editing-with-flipbuilder/"><u>Top Locations to Source Custom Photo Frames After Editing with FlipBuilder</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/understanding-your-place-in-youtube-earnings-for-2024/"><u>Understanding Your Place in YouTube Earnings for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-uncluttered-window-logger-w10-version/"><u>[New] Uncluttered Window Logger W10 Version</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capturing-the-action-top-four-ways-to-record-on-xbox-one-for-2024/"><u>Capturing the Action Top Four Ways to Record on Xbox One for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-guide-to-resolving-game-crash-issues-in-samurai-warriors-5-for-pc-users/"><u>Complete Guide to Resolving Game-Crash Issues in Samurai Warriors 5 for PC Users</u></a></li>
+<li><a href="https://fox-making.techidaily.com/download-apowersofts-latest-update-the-new-version-40-of-streaming-audio-recorder/"><u>Download Apowersoft's Latest Update: The New Version 4.0 of Streaming Audio Recorder</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-roleplay-experience-6-ways-to-leverage-chatgpt-for-dynamic-dandd-sessions/"><u>Elevate Your Roleplay Experience: 6 Ways to Leverage ChatGPT for Dynamic D&D Sessions</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/microsoft-bluetooth-driver-download-and-update-win-101187/"><u>Microsoft Bluetooth Driver Download & Update - Win 10/11/8/7</u></a></li>
+<li><a href="https://fox-making.techidaily.com/optimized-browser-extension-for-dominating-holeio-best-for-windows-and-macs/"><u>Optimized Browser Extension for Dominating Hole.io - Best for Windows and Macs</u></a></li>
+<li><a href="https://fox-making.techidaily.com/permanent-deletion-guide-erasing-footage-off-your-ios-device-effortlessly/"><u>Permanent Deletion Guide: Erasing Footage Off Your iOS Device Effortlessly</u></a></li>
+<li><a href="https://fox-making.techidaily.com/the-role-of-data-accuracy-in-business-success-defining-data-integrity-and-key-methods-for-assurance/"><u>The Role of Data Accuracy in Business Success: Defining Data Integrity & Key Methods for Assurance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-audio-issues-fixing-low-sound-output-in-windows-11/"><u>Troubleshooting PC Audio Issues: Fixing Low Sound Output in Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-top-15-solutions-for-fixing-issues-on-any-iphone-model/"><u>Ultimate Guide: Top 15 Solutions for Fixing Issues on Any iPhone Model</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-strategies-for-smoother-loads-in-cod-warzone-eradicating-lags-and-upping-fps/"><u>Ultimate Strategies For Smoother Loads in COD: Warzone - Eradicating Lags and Upping Fps</u></a></li>
 </ul></div>
 

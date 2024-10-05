@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of COM/ActiveX Interoperability in Software Development
-date: 2024-09-26T04:36:55.071Z
-updated: 2024-09-29T18:21:43.974Z
+date: 2024-10-04T16:46:55.267Z
+updated: 2024-10-05T21:21:25.862Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 ## IComClassActiveX
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -130,10 +130,16 @@ IComClassActiveX: IDispatch
 This interface is meant to edit COM classes that will be registered.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +169,10 @@ This interface is meant to edit COM classes that will be registered.
 **Array<String> ImplementedCategories** \- Gets the categories this COM implements.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -182,10 +188,10 @@ This interface is meant to edit COM classes that will be registered.
 **RemoveCategory(String aCategory)** \- removes the specified category.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -227,14 +233,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-online-slot-scanner-summary/"><u>[Updated] 2024 Approved ONLINE SLOT SCANNER SUMMARY</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/98119215-2024-approved-jumpstart-your-channelstopwatch-seeking-viewers-with-these-youtube-seo-essentials/"><u>2024 Approved Jumpstart Your Channel’stopwatch-Seeking Viewers with These YouTube SEO Essentials</u></a></li>
-<li><a href="https://fox-making.techidaily.com/advanced-argon-admin-panel-with-tailwind-css-support-enhanced-features-by-creative-tim/"><u>Advanced Argon Admin Panel with Tailwind CSS Support - Enhanced Features by Creative Tim</u></a></li>
-<li><a href="https://facebook.techidaily.com/confirm-your-credibility-with-us-metacredentials/"><u>Confirm Your Credibility with U.S. Metacredentials</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/convertissez-facilement-et-sans-frais-un-fichier-ram-en-mp4-via-movavi-service-de-conversion-en-ligne-rapide/"><u>Convertissez Facilement Et Sans Frais Un Fichier RAM en MP4 via Movavi - Service De Conversion en Ligne Rapide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/high-end-material-kit-for-react-apps-exclusive-from-creativetim/"><u>High-End Material Kit for React Apps, Exclusive From @CreativeTim</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/persistent-discord-errors-heres-how-you-can-prevent-app-crashes/"><u>Persistent Discord Errors? Here's How You Can Prevent App Crashes</u></a></li>
-<li><a href="https://fox-making.techidaily.com/superior-vue-material-dashboard-pro-high-end-vuejs-administrative-template-powered-by-creative-tim/"><u>Superior Vue Material Dashboard PRO: High-End VueJS Administrative Template - Powered by Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-20-vuejs-examples-using-apis-showcase-by-creative-tim/"><u>Top 20 Vue.js Examples Using APIs - Showcase by Creative Tim</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-pioneering-photography-with-advanced-software/"><u>[New] 2024 Approved Pioneering Photography with Advanced Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-navigating-networks-generating-social-media-sensations/"><u>[Updated] 2024 Approved Navigating Networks Generating Social Media Sensations</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-sell-more-grow-faster-discover-how-these-15-facebook-apps-can-help/"><u>[Updated] 2024 Approved Sell More, Grow Faster Discover How These 15 Facebook Apps Can Help</u></a></li>
+<li><a href="https://fox-making.techidaily.com/fast-and-efficient-methods-top-5-rapid-techniques-for-editing-text-within-your-pdf-files/"><u>Fast and Efficient Methods: Top 5 Rapid Techniques for Editing Text Within Your PDF Files</u></a></li>
+<li><a href="https://fox-making.techidaily.com/guide-to-generating-effective-filefolder-associations-for-streamlined-installation-processes/"><u>Guide to Generating Effective File/Folder Associations for Streamlined Installation Processes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-realme-narzo-n53-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Realme Narzo N53 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-when-your-backspace-isnt-responding-correctly/"><u>How to Fix When Your 'Backspace' Isn't Responding Correctly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-v27-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo V27 Pro to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/instant-access-to-wacom-drivers-fast-and-easy-download-process/"><u>Instant Access to Wacom Drivers - Fast and Easy Download Process</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-the-art-of-watermarks-a-step-by-step-guide-with-apowerpdf/"><u>Mastering the Art of Watermarks: A Step-by-Step Guide with ApowerPDF</u></a></li>
+<li><a href="https://fox-making.techidaily.com/next-level-scripting-unlocking-the-full-potential-of-installer-powershell-apis/"><u>Next-Level Scripting: Unlocking the Full Potential of Installer PowerShell APIs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-samsung-galaxy-a05s-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Samsung Galaxy A05s has been deleted.</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-rated-free-and-premium-background-replacement-apps/"><u>Top-Rated Free and Premium Background Replacement Apps</u></a></li>
 </ul></div>
 

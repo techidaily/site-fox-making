@@ -1,7 +1,7 @@
 ---
 title: Enhance Application Functionality Using IMergeModule - The Ultimate Guide
-date: 2024-09-28T08:42:46.514Z
-updated: 2024-09-30T09:07:23.154Z
+date: 2024-10-01T22:16:01.735Z
+updated: 2024-10-05T21:03:32.440Z
 tags:
   - user-guide
 categories:
@@ -109,10 +109,10 @@ Table of Contents
 ## IMergeModule
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -120,10 +120,10 @@ Table of Contents
 IMergeModule : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -131,10 +131,10 @@ IMergeModule : IDispatch
 This interface is meant to view information about an added merge module. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -160,16 +160,10 @@ This interface is meant to view information about an added merge module.
 **Uint Oder** \- Gets the order of the merge module.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -211,17 +205,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-find-your-niche-and-style-a-starters-guide/"><u>[New] 2024 Approved How to Find Your Niche and Style - a Starter's Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-spotlight-on-the-5-most-advanced-game-streaming-webcams-for-2024/"><u>[New] Spotlight On The 5 Most Advanced Game Streaming Webcams for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-revisiting-yesteryears-social-stories-on-fb-device-guide/"><u>[Updated] 2024 Approved Revisiting Yesteryear's Social Stories on FB Device Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/advanced-bootstrap-4-pro-administrator-interface-premium-lighter-design-from-creative-tim/"><u>Advanced Bootstrap 4 PRO Administrator Interface: Premium, Lighter Design From Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/advanced-vue-paper-pro-dashboard-high-quality-bootstrap-vue-admin-layout-from-creative-tim/"><u>Advanced Vue Paper Pro Dashboard - High-Quality Bootstrap Vue Admin Layout From Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-pro-level-full-stack-project-utilizing-vue-laravel-and-json-api-by-creative-tim/"><u>Comprehensive Pro-Level Full Stack Project Utilizing Vue, Laravel and JSON API by Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/creative-tims-premium-bootstrap-5-and-material-design-ui-element-suite-download-your-complimentary-starter-pack/"><u>Creative Tim's Premium Bootstrap 5 & Material Design UI Element Suite - Download Your Complimentary Starter Pack!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-efficient-utilization-of-whiteboard-features-in-zoom-meetings/"><u>In 2024, Efficient Utilization of Whiteboard Features in Zoom Meetings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-is-minimizing-unstable-movement-in-photoshop-beneficial/"><u>In 2024, Is Minimizing Unstable Movement in Photoshop Beneficial?</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-itel-a60s-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Itel A60s Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unleashing-potential-in-virtual-collaboration-platforms/"><u>[Updated] 2024 Approved Unleashing Potential in Virtual Collaboration Platforms</u></a></li>
+<li><a href="https://fox-making.techidaily.com/adjusting-visual-preferences-in-installation-setup-wizard/"><u>Adjusting Visual Preferences in Installation Setup Wizard</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/boost-your-storytelling-on-instagram-with-loops-for-2024/"><u>Boost Your Storytelling on Instagram With Loops for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/create-personalized-pdf-seals-online-at-no-cost-use-our-free-pdf-embossing-service/"><u>Create Personalized PDF Seals Online at No Cost - Use Our Free PDF Embossing Service</u></a></li>
+<li><a href="https://fox-making.techidaily.com/custom-dll-function-call-how-to-implement-iinstalleddll-in-windows/"><u>Custom DLL Function Call: How to Implement IInstalledDll in Windows</u></a></li>
+<li><a href="https://fox-making.techidaily.com/custom-subscriptions-per-client-personalized-software-licenses/"><u>Custom Subscriptions Per Client: Personalized Software Licenses</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-techniques-for-converting-scanned-pdf-documents-into-editable-word-files/"><u>Effective Techniques for Converting Scanned PDF Documents Into Editable Word Files</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-nubia-z50-ultra-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Nubia Z50 Ultra</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-adjust-your-cab-configuration-in-the-preferences-panel/"><u>How to Adjust Your CAB Configuration in the Preferences Panel</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-enhance-picture-presentations-by-adding-the-ideal-soundtrack/"><u>How to Enhance Picture Presentations by Adding the Ideal Soundtrack</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-6-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-elevate-your-snaps-the-soundtrack-edition/"><u>In 2024, Elevate Your Snaps The Soundtrack Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y200e-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y200e 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-podcasters-guide-to-high-quality-home-recordings-for-2024/"><u>The Podcaster’s Guide to High-Quality Home Recordings for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-c51-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme C51 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Customize Your Image Settings Through the User-Friendly Image Panel
-date: 2024-09-25T03:15:07.423Z
-updated: 2024-09-30T03:58:39.657Z
+date: 2024-10-01T19:38:38.975Z
+updated: 2024-10-05T17:43:21.987Z
 tags:
   - user-guide
 categories:
@@ -73,10 +73,10 @@ Table of Contents
 This dialog allows you to edit the properties of a slideshow image. It can be showed by using the \[Edit \] button orSpace key in the [Slideshow](https://tools.techidaily.com/advancedinstaller/products/) tab.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Image
@@ -84,19 +84,19 @@ This dialog allows you to edit the properties of a slideshow image. It can be sh
 In this section you can use the \[... \] button to select an image file from disk. The image path cannot be edited manually.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Options
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display Time
@@ -104,10 +104,10 @@ In this section you can use the \[... \] button to select an image file from dis
 In this field you can specify the number of seconds during which the image is showed. The _minimum value is "1"_ and the _maximum value is "3600"_.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -147,19 +147,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-step-by-step-approach-to-webinar-savings-mac-and-pc-systems/"><u>[New] In 2024, Step-by-Step Approach to Webinar Savings Mac & PC Systems</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-initial-steps-in-kinetic-illustration-techniques/"><u>[Updated] In 2024, Initial Steps in Kinetic Illustration Techniques</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-spotlight-on-the-top-8-authentic-video-promotion-methods/"><u>[Updated] In 2024, Spotlight on the Top 8 Authentic Video Promotion Methods</u></a></li>
-<li><a href="https://fox-making.techidaily.com/advanced-argon-admin-panel-with-tailwind-css-support-enhanced-features-by-creative-tim/"><u>Advanced Argon Admin Panel with Tailwind CSS Support - Enhanced Features by Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/advanced-bootstrap-4-pro-administrator-interface-premium-lighter-design-from-creative-tim/"><u>Advanced Bootstrap 4 PRO Administrator Interface: Premium, Lighter Design From Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/advanced-vue-paper-pro-dashboard-high-quality-bootstrap-vue-admin-layout-from-creative-tim/"><u>Advanced Vue Paper Pro Dashboard - High-Quality Bootstrap Vue Admin Layout From Creative Tim</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-gameplay-essential-tips-to-improve-your-ps4/"><u>Enhance Gameplay: Essential Tips to Improve Your PS4</u></a></li>
-<li><a href="https://fox-making.techidaily.com/high-end-material-kit-for-react-apps-exclusive-from-creativetim/"><u>High-End Material Kit for React Apps, Exclusive From @CreativeTim</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-tapping-into-built-in-screen-recording-features-of-huaweis-mate-and-p-lineup/"><u>In 2024, Tapping Into Built-In Screen Recording Features of Huawei's Mate & P Lineup</u></a></li>
-<li><a href="https://fox-making.techidaily.com/superior-vue-material-dashboard-pro-high-end-vuejs-administrative-template-powered-by-creative-tim/"><u>Superior Vue Material Dashboard PRO: High-End VueJS Administrative Template - Powered by Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-20-vuejs-examples-using-apis-showcase-by-creative-tim/"><u>Top 20 Vue.js Examples Using APIs - Showcase by Creative Tim</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-secure-periscope-streaming-techniques-and-strategies/"><u>Unlocking Secure Periscope Streaming Techniques & Strategies</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-your-instagrams-virtual-meet-up-potential/"><u>Unlocking Your Instagram's Virtual Meet-Up Potential</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-cutting-edge-tech-a-journey-through-toms-hardware-world/"><u>Unveiling Cutting-Edge Tech: A Journey Through Tom's Hardware World</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/5-inspiring-youtube-guides-for-aspiring-singers-and-instrumentalists/"><u>[New] 15 Inspiring YouTube Guides for Aspiring Singers and Instrumentalists</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-extract-subtitles-for-free-top-10-tools-reviewed/"><u>[New] 2024 Approved Extract Subtitles for Free Top 10 Tools Reviewed</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-mp3-from-tweeted-media-a-step-by-step-guide/"><u>[New] 2024 Approved MP3 From Tweeted Media A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-asmr-app-selection-guide-for-phones/"><u>[New] In 2024, ASMR App Selection Guide for Phones</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-to-download-gif-images-from-twitter/"><u>[Updated] How to Download GIF Images From Twitter</u></a></li>
+<li><a href="https://fox-making.techidaily.com/an-overview-on-ac3-file-format-and-compatibility-guide/"><u>An Overview on AC3 File Format and Compatibility Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/bypassing-iphone-activation-locks-methods-for-users-and-non-users-of-itunes/"><u>Bypassing iPhone Activation Locks: Methods for Users and Non-Users of iTunes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-reset-of-your-pc-on-windows-11-a-detailed-approach-with-revo-uninstaller/"><u>Complete Reset of Your PC on Windows 11 - A Detailed Approach with Revo Uninstaller</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-perfection-ios-and-androids-best-montage-aides/"><u>Crafting Perfection IOS & Android's Best Montage Aides</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-audio-experience-download-and-setup-for-soundmax-on-windows-systems/"><u>Enhance Your Audio Experience - Download & Setup for SoundMAX on Windows Systems</u></a></li>
+<li><a href="https://fox-making.techidaily.com/identifying-and-neutralizing-keyloggers-in-windows-environments-with-effective-detection-tools/"><u>Identifying and Neutralizing Keyloggers in Windows Environments with Effective Detection Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigate-the-metaverse-with-these-7-key-technologies/"><u>In 2024, Navigate the Metaverse with These 7 Key Technologies</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-the-art-of-comactivex-interoperability-in-software-development/"><u>Mastering the Art of COM/ActiveX Interoperability in Software Development</u></a></li>
+<li><a href="https://fox-making.techidaily.com/modify-simulated-structure-dialogue-box/"><u>Modify Simulated Structure Dialogue Box</u></a></li>
+<li><a href="https://fox-making.techidaily.com/organizational-component-strategies-and-implementation/"><u>Organizational Component Strategies and Implementation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resetting-your-samsung-tv-essential-steps-and-tips-for-success/"><u>Resetting Your Samsung TV: Essential Steps and Tips for Success</u></a></li>
+<li><a href="https://fox-making.techidaily.com/seamless-transition-guide-turning-your-avi-videos-into-m4v-format/"><u>Seamless Transition Guide: Turning Your AVI Videos Into M4V Format</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-rated-digital-canvas-the-ultimate-online-photo-editing-tool/"><u>Top-Rated Digital Canvas: The Ultimate Online Photo Editing Tool</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-the-folder-properties-dialog-box-a-comprehensive-guide/"><u>Understanding the Folder Properties Dialog Box: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Easily Set Up Your Merge Module: A Step-by-Step Guide"
-date: 2024-09-26T10:46:33.935Z
-updated: 2024-09-30T00:39:32.020Z
+date: 2024-09-29T16:36:38.344Z
+updated: 2024-10-05T20:50:53.480Z
 tags:
   - user-guide
 categories:
@@ -76,19 +76,19 @@ This dialog allows you to configure the merge process.
 ![Configure Merge Module Dialog](https://cdn.advancedinstaller.com/img/dialog/configure-merge-module.png "Configure Merge Module Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature
@@ -96,10 +96,16 @@ This dialog allows you to configure the merge process.
 You can select the feature that will contain the merge modules' components after the merge process ends. By default, it is the Main Feature (you can use the \[... \] button to select another one). The [Feature Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) will pop up, allowing you to select a feature to reference.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Folder
@@ -109,10 +115,10 @@ You can select the parent folder for the merge module's "TARGETDIR" directory. B
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Usually the "TARGETDIR" folder of a merge module is ".". This means that all the files and folders from the merge module's "TARGETDIR" are going to the selected folder.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -148,20 +154,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-decoding-the-payment-structure-on-youtube-for-2024/"><u>[Updated] Decoding the Payment Structure on YouTube for 2024</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/cookiebot-enhance-your-site-with-powerful-tracker-technology/"><u>Cookiebot: Enhance Your Site with Powerful Tracker Technology</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/does-youtube-offer-frequent-payments-to-you-for-2024/"><u>Does YouTube Offer Frequent Payments to You for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-ultra-hd-videos-from-youtube-in-8k-resolution-on-pc-or-mac/"><u>Download Ultra HD Videos From YouTube in 8K Resolution on PC or Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easy-upgrade-keep-your-files-intact-while-installing-windows-11/"><u>Easy Upgrade: Keep Your Files Intact While Installing Windows 11</u></a></li>
-<li><a href="https://fox-making.techidaily.com/efficient-ways-to-transform-webpt-videos-into-high-quality-mp4-or-mov-on-windows-and-mac-systems/"><u>Efficient Ways to Transform WebPT Videos Into High-Quality MP4 or MOV on Windows & Mac Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-setup-for-your-linksys-ae1200-router-instant-access-to-the-newest-drivers/"><u>Effortless Setup for Your Linksys AE1200 Router - Instant Access to the Newest Drivers</u></a></li>
-<li><a href="https://fox-making.techidaily.com/enhance-offline-watching-of-globo-channels-by-downloading-and-converting-videos-into-mp4-and-wmv-files/"><u>Enhance Offline Watching of Globo Channels by Downloading and Converting Videos Into MP4 & WMV Files</u></a></li>
-<li><a href="https://fox-making.techidaily.com/guide-converting-gamepro-tv-broadcasts-into-multiple-formats-mp4-mov-avi-mp3/"><u>Guide: Converting GamePro TV Broadcasts Into Multiple Formats - MP4, MOV, AVI, MP3</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/hands-on-experience-with-the-convenient-and-compact-msi-pro-mp161-e2-monitor/"><u>Hands-On Experience with the Convenient and Compact MSI PRO MP161 E2 Monitor</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-clarifying-gap-between-full-view-and-immersive-videos/"><u>In 2024, Clarifying Gap Between Full View & Immersive Videos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-tutorial-for-converting-amazon-prime-media-into-mp4-and-mp3-formats/"><u>Step-by-Step Tutorial for Converting Amazon Prime Media Into MP4 & MP3 Formats</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-tutorial-accessing-and-saving-hardsextube-media/"><u>Step-by-Step Tutorial: Accessing and Saving HardSexTube Media</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-vivo-y100-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Vivo Y100 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-effortlessdataback-take/"><u>[New] 2024 Approved EffortlessDataback Take</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-tutorial-creating-instagram-ready-videos-with-final-cut-pro-x-for-2024/"><u>[Updated] The Ultimate Tutorial Creating Instagram-Ready Videos with Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-15-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 15 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://fox-making.techidaily.com/create-personalized-pdf-seals-online-at-no-cost-use-our-free-pdf-embossing-service/"><u>Create Personalized PDF Seals Online at No Cost - Use Our Free PDF Embossing Service</u></a></li>
+<li><a href="https://fox-making.techidaily.com/custom-subscriptions-per-client-personalized-software-licenses/"><u>Custom Subscriptions Per Client: Personalized Software Licenses</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-web-analytics-strategies-unlocking-insights-and-growth/"><u>Effective Web Analytics Strategies: Unlocking Insights and Growth</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-adjust-your-cab-configuration-in-the-preferences-panel/"><u>How to Adjust Your CAB Configuration in the Preferences Panel</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-enhance-picture-presentations-by-adding-the-ideal-soundtrack/"><u>How to Enhance Picture Presentations by Adding the Ideal Soundtrack</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-securely-sign-executable-installation-and-package-files-using-digital-certificates/"><u>How to Securely Sign Executable, Installation and Package Files Using Digital Certificates</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-invisible-scrutiny-unlocking-ig-selfie-verification-secrets/"><u>In 2024, The Invisible Scrutiny Unlocking IG Selfie Verification Secrets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/magix-acid-pro-unveiled-and-options-examined/"><u>Magix ACID Pro Unveiled & Options Examined</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-t-mobiles-residential-cellular-coverage-guidelines/"><u>Navigating Through T-Mobile's Residential Cellular Coverage Guidelines</u></a></li>
 </ul></div>
 

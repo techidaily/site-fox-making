@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Folder Properties Dialog Box: A Comprehensive Guide"
-date: 2024-09-26T05:08:17.894Z
-updated: 2024-09-30T01:43:19.900Z
+date: 2024-10-03T22:01:45.006Z
+updated: 2024-10-05T22:36:41.459Z
 tags:
   - user-guide
 categories:
@@ -94,6 +94,13 @@ Table of Contents
 
 ![Folder Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/folder-properties.png "Folder Properties Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Identifier
 
 The property through which the folder can be identified or referenced by.
@@ -104,24 +111,24 @@ The property through which the folder can be identified or referenced by.
 
  This filed contains the name under which the folder will be installed. The target name will override the name of the folder on your disk, allowing you to specify a custom name for the folder.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Source Name
 
 When placing the installation files next to the MSI, Advanced Installer will create a folder structure which will contain the files. The name of a folder in this structure can be set in the "Source Name" field. This allows you to add to the project a folder with a custom name and set a more user-friendly name for it in the installation package.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Component
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Create folder on target machine
@@ -133,14 +140,14 @@ This checkbox gives you the possibility to create or delete the component associ
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)In some cases the folder's component cannot be removed, therefore the checkbox is disabled and selected.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The Folder Name is [localizable](https://tools.techidaily.com/advancedinstaller/products/) and [pseudoformatted](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Install folder content into the parent folder
 
@@ -153,13 +160,6 @@ At build time, the content of the folder that is not needed can be excluded from
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When this option is being used and resources with the same name can be found in the parent folder or in other sibling folders that uses this option, some conditions must be specified in order to decide what resources will be used. Component conditions and feature exclusion from build are the mechanisms to do that.
 
 ## File Options
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ensure that all files in this folder overwrite any installed target files
 
@@ -198,15 +198,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximizing-social-interaction-with-innovative-fb-slideshow-techniques/"><u>[New] 2024 Approved Maximizing Social Interaction with Innovative FB Slideshow Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-eliminating-odd-shades-a-step-by-step-guide-to-flawless-greenscreens-for-2024/"><u>[New] Eliminating Odd Shades A Step-by-Step Guide to Flawless Greenscreens for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/creative-tims-elite-angular-boosted-paper-kit-2-bootstrap-4-theme-for-top-tier-web-development/"><u>Creative Tim's Elite Angular Boosted Paper Kit 2: Bootstrap 4 Theme for Top-Tier Web Development</u></a></li>
-<li><a href="https://fox-making.techidaily.com/creative-tims-top-quality-svelte-free-design-themes-and-starter-kits/"><u>Creative Tim's Top-Quality Svelte Free Design Themes and Starter Kits</u></a></li>
-<li><a href="https://fox-making.techidaily.com/creative-tims-ultimate-react-and-material-ui-combo-premium-argon-dashboard-2-pro-for-enhanced-user-interfaces/"><u>Creative Tim's Ultimate React & Material UI Combo - Premium Argon Dashboard 2 PRO for Enhanced User Interfaces</u></a></li>
-<li><a href="https://fox-making.techidaily.com/discover-the-exciting-features-of-astrolaunch-ui-your-go-to-solution-for-creating-stunning-astro-templates-at-no-cost/"><u>Discover the Exciting Features of AstroLaunch UI: Your Go-To Solution for Creating Stunning Astro Templates at No Cost!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-mastering-video-caption-implementation-on-vimeo/"><u>In 2024, Mastering Video Caption Implementation on Vimeo</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-lenovo-thinkphone-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Lenovo ThinkPhone Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-artificial-intelligence-driven-platforms-for-personalized-book-suggestions/"><u>Top 5 Artificial Intelligence Driven Platforms for Personalized Book Suggestions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-decoding-the-impact-of-instagrams-algorithm-shifts/"><u>[New] 2024 Approved Decoding the Impact of Instagram's Algorithm Shifts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-essential-filmmakers-toolkit-a-guide-to-audio-recording/"><u>[New] In 2024, The Essential Filmmaker's Toolkit A Guide to Audio Recording</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solved-only-3d-settings-in-nvidia-control-panel/"><u>[Solved] Only 3D Settings in NVIDIA Control Panel</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-mastering-worldwide-configuration-options-a-comprehensive-guide/"><u>1. Mastering Worldwide Configuration Options: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-step-by-step-strategies-for-posting-and-uploading-gifs-on-instagram/"><u>2024 Approved Step-by-Step Strategies for Posting & Uploading GIFs on Instagram</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-xiaomi-13-ultra-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Xiaomi 13 Ultra to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/best-pdf-viewer-solutions-for-ipad-discover-the-top-picks-of-2020/"><u>Best PDF Viewer Solutions for iPad: Discover the Top Picks of 2020!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/comprehensive-guide-to-different-software-installation-methods/"><u>Comprehensive Guide to Different Software Installation Methods</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effortless-developing-of-lightweight-applications-using-thinapp-technology/"><u>Effortless Developing of Lightweight Applications Using ThinApp Technology</u></a></li>
+<li><a href="https://fox-making.techidaily.com/enhance-application-functionality-using-imergemodule-the-ultimate-guide/"><u>Enhance Application Functionality Using IMergeModule - The Ultimate Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/explore-the-best-alternatives-to-facebook-top-social-media-platforms-you-should-know/"><u>Explore the Best Alternatives to Facebook: Top Social Media Platforms You Should Know</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-optimal-quick-image-reader-for-pcs/"><u>In 2024, Optimal Quick Image Reader for PCs</u></a></li>
+<li><a href="https://fox-making.techidaily.com/introducing-apowerrec-unveiling-revolutionary-features/"><u>Introducing ApowerREC: Unveiling Revolutionary Features</u></a></li>
+<li><a href="https://fox-making.techidaily.com/repair-guide-eradicating-severe-system-damage-caused-by-quadruple-infections-with-malwarefox/"><u>Repair Guide: Eradicating Severe System Damage Caused by Quadruple Infections with MalwareFox</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-correcting-binkw32dll-errors-on-your-pc/"><u>Step-by-Step Guide: Correcting binkw32.dll Errors on Your PC</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/ultimate-4-facebook-film-compiler/"><u>Ultimate 4 Facebook Film Compiler</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ultimate-guide-to-record-games-on-windows-10-pc-for-2024/"><u>Ultimate Guide to Record Games on Windows 10 PC for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-and-using-typographic-feature-attributes-in-fonts/"><u>Understanding and Using Typographic Feature Attributes in Fonts</u></a></li>
 </ul></div>
 

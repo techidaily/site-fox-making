@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Mastering Java Configuration Options"
-date: 2024-09-28T08:43:23.269Z
-updated: 2024-09-29T16:27:15.410Z
+date: 2024-09-29T19:21:43.237Z
+updated: 2024-10-05T20:59:39.593Z
 tags:
   - user-guide
 categories:
@@ -79,6 +79,13 @@ Table of Contents
 
 ## Java Settings
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Package with Bundled JRE
 
  For [Java Products](https://tools.techidaily.com/advancedinstaller/products/), you can bundle a JRE into your installation at build time. If your installation package includes a JRE bundle, the installed Java Product will use the bundle over any JRE version installed on the target machine.
@@ -87,25 +94,18 @@ In order to bundle a JRE with your build use the \[Add JRE Bundle... \] button.
 
 ![Java settings tab](https://cdn.advancedinstaller.com/img/ui/java-settings-tab.png "Java settings tab")  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For the Mac OS build, only Java Products using Oracle VM support JRE bundling. You can change the MacOS VM provider from [Mac OS X settings Tab](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For the Mac OS build you can bundle only the JRE installed by the JDK. So you should first install the JDK on a Mac machine and then pick its installation folder when using the \[Add JRE Bundle... \] button.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When none of the Java Products, included in the Mac OS X build, is self-contained (all of its application files are added under [Product Section](https://tools.techidaily.com/advancedinstaller/products/)) a JRE bundle cannot be included in the Mac OS X build.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Compression
 
@@ -113,22 +113,21 @@ In order to bundle a JRE with your build use the \[Add JRE Bundle... \] button.
 
  Pack200 is a method to compress JAR files very efficiently. You can find more details on the [Pack200 page](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Only from JRE bundle
 
  You can use this option if you want to be packed using Pack200 only the JAR files from the JRE bundled with your application.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Verify JAR files signature before and after packing
@@ -136,6 +135,13 @@ In order to bundle a JRE with your build use the \[Add JRE Bundle... \] button.
 When you are using this option, the JAR signature is verified not to be broken during packing. The files whose signature is broken will not be compressed with Pack200.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The Verify JAR signature option requires JDK installed on your development machine and the JDK installation folder to be specified in the [External Tools](https://tools.techidaily.com/advancedinstaller/products/) settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Below there is a short video to visually discover this functionality:
 
@@ -177,21 +183,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-streamline-your-videos-a-guide-to-igtv-posting/"><u>[New] 2024 Approved Streamline Your Videos A Guide to IGTV Posting</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-ranking-top-9-puzzle-games-for-offline-play-for-2024/"><u>[Updated] The Ultimate Ranking Top 9 Puzzle Games for Offline Play for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-ultimate-directory-for-free-visual-treasures-for-2024/"><u>[Updated] Ultimate Directory for Free Visual Treasures for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streamers-financial-health-check-in-youtubers/"><u>2024 Approved Streamer's Financial Health Check in YouTubers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/filmora-promo-codes-2024-your-ultimate-guide-to-savings/"><u>Filmora Promo Codes 2024 Your Ultimate Guide to Savings</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-can-i-access-flippingbook-content-backwards-as-with-right-to-left-languages-like-arabic/"><u>How Can I Access FlippingBook Content Backwards as with Right-to-Left Languages Like Arabic?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-can-you-selectively-print-specific-pages-from-your-ebooks-with-flipbuilder/"><u>How Can You Selectively Print Specific Pages From Your eBooks with FlipBuilder?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-compile-and-convert-multiple-pdfs-into-an-engaging-flip-book-with-flipbuilder/"><u>How to Compile and Convert Multiple PDFs Into an Engaging Flip Book with FlipBuilder</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-customize-your-websites-book-titles-with-keywords-and-descriptions-using-flipbuilder/"><u>How to Customize Your Website's Book Titles with Keywords & Descriptions Using FlipBuilder</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-maps-to-mastery-terrarias-quintessential-gold-hunt/"><u>In 2024, Maps to Mastery Terraria's Quintessential Gold Hunt</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-hidden-potential-how-to-use-video-filters-on-zoom/"><u>In 2024, Unlocking Hidden Potential How To Use Video Filters on Zoom</u></a></li>
-<li><a href="https://fox-making.techidaily.com/recovering-your-missing-flipkey-a-comprehensive-guide-on-the-flipbuilder-platform/"><u>Recovering Your Missing FlipKey: A Comprehensive Guide on the FlipBuilder Platform</u></a></li>
-<li><a href="https://extra-information.techidaily.com/reviewing-acid-pro-seeking-substitutes/"><u>Reviewing ACID Pro Seeking Substitutes</u></a></li>
-<li><a href="https://fox-making.techidaily.com/share-functionality-explained-navigating-through-flipbuilders-sharing-tools/"><u>Share Functionality Explained: Navigating Through FlipBuilder's Sharing Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/tech-tutorial-how-to-seamlessly-upload-your-iphones-4k-footage-to-your-windows-1011-pc/"><u>Tech Tutorial: How to Seamlessly Upload Your iPhone's 4K Footage to Your Windows 10/11 PC</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-locations-to-source-custom-photo-frames-after-editing-with-flipbuilder/"><u>Top Locations to Source Custom Photo Frames After Editing with FlipBuilder</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-from-live-action-to-digital-footage-gadget-guidebook-for-2024/"><u>[Updated] From Live Action to Digital Footage Gadget Guidebook for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-xs-max-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone XS Max Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/2-streamline-file-management-mastering-the-art-of-editing-temp-files-quickly/"><u>2. Streamline File Management: Mastering the Art of Editing Temp Files Quickly</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-precision-editing-embedding-times-in-video-posts/"><u>2024 Approved Precision Editing Embedding Times in Video Posts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-8-streamers-pick-high-end-cameras-reviewed/"><u>Best 8 Streamer's Pick High-End Cameras Reviewed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-pick-for-the-ultimate-stylus-tablet-of-216plus372-in-depth-analysis-and-expert-ratings-gizmosphere/"><u>Exclusive Pick for the Ultimate Stylus Tablet of 2^16+3(7/2): In-Depth Analysis and Expert Ratings | GizmoSphere</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-v30-lite-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo V30 Lite 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/guide-capturing-gameplay-on-your-xbox-one-and-xbox-360-a-step-by-step-tutorial/"><u>Guide: Capturing Gameplay on Your Xbox One & Xbox 360 – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-itel-a60-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Itel A60 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/leading-video-advertisement-makers-web-and-app-solutions/"><u>Leading Video Advertisement Makers: Web & App Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-to-refresh-nvidia-geforce-gtx-1660s-drivers-swiftly/"><u>Step-by-Step Tutorial to Refresh nVIDIA GeForce GTX 1660'S Drivers Swiftly</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-rated-watermarking-application-for-ios-devices/"><u>Top Rated Watermarking Application for iOS Devices</u></a></li>
+<li><a href="https://fox-making.techidaily.com/user-guide-navigating-through-effective-file-elimination-conversations/"><u>User Guide: Navigating Through Effective File Elimination Conversations</u></a></li>
 </ul></div>
 

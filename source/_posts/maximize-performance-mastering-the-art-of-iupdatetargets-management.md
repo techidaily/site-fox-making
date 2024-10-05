@@ -1,7 +1,7 @@
 ---
 title: "Maximize Performance: Mastering the Art of IUpdateTargets Management"
-date: 2024-09-23T09:11:27.829Z
-updated: 2024-09-29T17:35:58.919Z
+date: 2024-09-30T16:32:55.692Z
+updated: 2024-10-05T22:48:38.796Z
 tags:
   - user-guide
 categories:
@@ -123,33 +123,27 @@ Table of Contents
 
 ## IUpdateTargets
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IUpdateTargets : IDispatch 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to configure the update targets by specifying for which application versions the update applies.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -162,10 +156,10 @@ This interface is meant to configure the update targets by specifying for which 
 **String TargetPlatformMaxVersion** \- Gets or sets the maximum version of the target OS. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -177,10 +171,10 @@ Creates a new target application.
 Removes an existing target application.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -222,20 +216,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-animated-artistry-on-instagram-caption-creativity/"><u>[New] Animated Artistry on Instagram Caption Creativity</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-craft-your-visual-narrative-top-10-iphoneandroid-screenshot-sticker-apps/"><u>[New] Craft Your Visual Narrative – Top 10 iPhone/Android Screenshot Sticker Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-joining-the-global-game-how-to-zoom-on-xbox-one/"><u>[Updated] Joining the Global Game How to Zoom on Xbox One</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-clearer-captures-await-with-next-gen-tracker-tech/"><u>2024 Approved Clearer Captures Await with Next-Gen Tracker Tech</u></a></li>
-<li><a href="https://fox-making.techidaily.com/advanced-argon-admin-panel-with-tailwind-css-support-enhanced-features-by-creative-tim/"><u>Advanced Argon Admin Panel with Tailwind CSS Support - Enhanced Features by Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/advanced-bootstrap-4-pro-administrator-interface-premium-lighter-design-from-creative-tim/"><u>Advanced Bootstrap 4 PRO Administrator Interface: Premium, Lighter Design From Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/advanced-vue-paper-pro-dashboard-high-quality-bootstrap-vue-admin-layout-from-creative-tim/"><u>Advanced Vue Paper Pro Dashboard - High-Quality Bootstrap Vue Admin Layout From Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-pro-level-full-stack-project-utilizing-vue-laravel-and-json-api-by-creative-tim/"><u>Comprehensive Pro-Level Full Stack Project Utilizing Vue, Laravel and JSON API by Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/creative-tims-premium-bootstrap-5-and-material-design-ui-element-suite-download-your-complimentary-starter-pack/"><u>Creative Tim's Premium Bootstrap 5 & Material Design UI Element Suite - Download Your Complimentary Starter Pack!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/how-to-apply-a-classic-video-transition-with-camtasia-9/"><u>How to Apply a Classic Video Transition with Camtasia 9</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solution-guide-successfully-starting-the-origin-platform-on-windows-10-11-os/"><u>Solution Guide: Successfully Starting the Origin Platform on Windows 10, 11 OS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-complete-guide-to-proficient-kinemaster-use-and-top-digital-services-for-2024/"><u>The Complete Guide to Proficient KineMaster Use and Top Digital Services for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-20-vuejs-examples-using-apis-showcase-by-creative-tim/"><u>Top 20 Vue.js Examples Using APIs - Showcase by Creative Tim</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-without-xinput13dll-in-your-system/"><u>Troubleshooting Without XINPUT1_3.dll in Your System</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-deadly-dominance-the-quintessential-zombie-gameplay-for-2024/"><u>[Updated] Deadly Dominance The Quintessential Zombie Gameplay for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-engineering-eye-catching-podcast-sizzle-reels/"><u>[Updated] In 2024, Engineering Eye-Catching Podcast Sizzle Reels</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-pro-tips-for-pioneering-board-use-in-webinars-android-iphone-and-windows-users/"><u>[Updated] In 2024, Pro Tips for Pioneering Board Use in Webinars Android, iPhone & Windows Users</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-constructing-success-personalized-home-building-solutions/"><u>1. Constructing Success: Personalized Home Building Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anonymous-glance-your-step-by-step-guide-for-seeing-instagram-pics-without-signing-up/"><u>Anonymous Glance: Your Step-by-Step Guide for Seeing Instagram Pics Without Signing Up</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easily-set-up-your-merge-module-a-step-by-step-guide/"><u>Easily Set Up Your Merge Module: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-doodles-to-dollars-the-graphic-artists-guide/"><u>From Doodles to Dollars The Graphic Artist's Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ifolder-fastentry-streamline-your-file-navigation/"><u>IFolder FastEntry - Streamline Your File Navigation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamless-video-recording-on-ios-and-android-select-the-best-apps/"><u>In 2024, Seamless Video Recording on iOS & Android Select the Best Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-screen-not-turning-off-promptly-discover-how-to-fix-this-annoyance/"><u>IPhone Screen Not Turning Off Promptly? Discover How to Fix This Annoyance!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/navigating-application-features-with-the-program-options-panel/"><u>Navigating Application Features with the Program Options Panel</u></a></li>
+<li><a href="https://fox-making.techidaily.com/resetting-your-apple-id-password-on-iphone-models-x-6-7-and-8-step-by-step-guide/"><u>Resetting Your Apple ID Password on iPhone Models X, 6, 7 & 8 - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/review-of-exceptional-video-converters-advanced-feature-comparison-guide/"><u>Review of Exceptional Video Converters – Advanced Feature Comparison Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-converting-ape-files-into-mp3-format/"><u>Step-by-Step Guide: Converting APE Files Into MP3 Format</u></a></li>
+<li><a href="https://fox-making.techidaily.com/superior-video-editing-and-conversion-tools-top-notch-reviews/"><u>Superior Video Editing & Conversion Tools - Top-Notch Reviews</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-10-video-screenshot-tools-reviewed-for-2024/"><u>Top 10 Video Screenshot Tools Reviewed for 2024</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/transforming-mp3s-into-perfect-iphone-ringtones-discover-the-top-two-techniques/"><u>Transforming MP3s Into Perfect iPhone Ringtones: Discover the Top Two Techniques</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unlock-ultimate-recording-easy-guide-to-activating-apowerrec-pro-on-windows-and-mac/"><u>Unlock Ultimate Recording: Easy Guide to Activating ApowerREC Pro on Windows and Mac</u></a></li>
 </ul></div>
 

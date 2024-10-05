@@ -1,7 +1,7 @@
 ---
 title: "Effective Web Analytics Strategies: Unlocking Insights and Growth"
-date: 2024-09-25T08:07:44.716Z
-updated: 2024-09-30T10:24:23.965Z
+date: 2024-09-28T20:03:30.290Z
+updated: 2024-10-05T17:24:44.334Z
 tags:
   - user-guide
 categories:
@@ -77,13 +77,6 @@ Each distributed package will send out data to Advanced Installer's Analytics se
 
 ## Tracking
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Track installs using Advanced Installer
 
 Select this option to start configuring automatic tracking for your application. Continue with generating the unique ID that will identify your application.
@@ -94,25 +87,18 @@ Generate a new application ID using the “Create a tracking code for this insta
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg) If you have an [Installer Analytics](https://installeranalytics.com/ "Installer Analytics") account then you can generate this code from your account, after logging in.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Report installation data
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Always
 
 Always report installation data, regardless of the installing user's actions.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Only if the user accepts your license terms
 
@@ -120,28 +106,28 @@ The installation information will be centralized only when the user agrees to th
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg) In case your application is installed silent or with Basic UI, then the Analytics will not send any data since there is no LicenseAgreementDlg displayed. In this case, you should select the Always option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Enabled using a custom trigger
 
 Set the AI\_IA\_ENABLE property from any custom trigger to submit the installation data. For example, you can [publish an event](https://tools.techidaily.com/advancedinstaller/products/) from a control.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The Installer Analytics will be enabled for a package if the_AI\_IA\_ENABLE_ is set. At run time this property can set to empty and the Analytics will not be enabled. For example, you can launch the package with the following command line : _Setup.exe AI\_IA\_ENABLE=""_
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Send collected data using a secured connection
 
 Check this option if you want to use a secured connection for sending the data collected by Installer Analytics.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Custom Properties
@@ -156,21 +142,35 @@ Double click on a property from the list to add or edit a comment.
 
 ## Uninstall
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Display uninstall reason popup survey
 
 When this option is enabled, your setup package will automatically open a feedback page in the user's default Internet browser. In this page, the user can tell you why he decided to uninstall your application, by selecting one of the predefined options or by mentioning a custom reason.
 
 The feedback page will appear to your users after they start and confirm the uninstall process. It is optional, so they can choose not to reply and completely separate from the uninstall process, so it does not stop the users from uninstalling the application.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Free trial and licensing
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You will get full analytics data, free for one month, by accessing the “View reports” link. To extend the trial period, you can sign up for a free account from our website.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Try out [Installer Analytics](https://installeranalytics.com/) for free in one of the following ways:
@@ -212,19 +212,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-making.techidaily.com/1726792607057-y-3/"><u> [Y = -3 </u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-10-best-youtube-makeup-artists-you-must-have-heard/"><u>[New] 2024 Approved 10 Best YouTube Makeup Artists You Must Have Heard</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-cutting-edge-moves-simple-steps-to-edit-videos-in-windows-10/"><u>[New] 2024 Approved Cutting-Edge Moves Simple Steps to Edit Videos in Windows 10</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unbox-the-joy-of-9-premium-complete-christmas-movies-for-free/"><u>[New] In 2024, Unbox the Joy of 9 Premium, Complete Christmas Movies for Free</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unveiling-the-power-of-social-media-video-marketing-strategies-for-2024/"><u>[New] Unveiling the Power of Social Media Video Marketing Strategies for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/access-the-most-recent-update-for-action-available-for-download/"><u>Access The Most Recent Update for 'Action!' Available For Download</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-troubleshoot-your-netflix-connection-with-error-message-nw-21-7-a-complete-fixers-checklist/"><u>How to Troubleshoot Your Netflix Connection with Error Message NW-21-7: A Complete Fixer's Checklist</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/master-live-video-gaming-on-youtube-with-our-step-by-step-guide/"><u>Master Live Video Gaming on YouTube with Our Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/mirillis-help-desk-frequently-asked-questions-about-our-product-line/"><u>Mirilli's Help Desk: Frequently Asked Questions About Our Product Line</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-game-changing-effect-of-leveraging-chatgpt-and-whisper-apis-in-the-corporate-world/"><u>The Game-Changing Effect of Leveraging ChatGPT and Whisper APIs in the Corporate World</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-se-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone SE</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uninstalling-microsoft-edge-from-windows-11/"><u>Uninstalling Microsoft Edge From Windows 11</u></a></li>
-<li><a href="https://fox-making.techidaily.com/universal-silverlight-video-saver-effortless-downloads-for-mac-and-windows-users/"><u>Universal Silverlight Video Saver: Effortless Downloads for Mac and Windows Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-the-secrets-of-facebook-videos-for-2024/"><u>[Updated] Unveiling the Secrets of Facebook Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-sound-recorder-quality-overview/"><u>2024 Approved Sound Recorder Quality Overview</u></a></li>
+<li><a href="https://fox-making.techidaily.com/best-pdf-viewer-solutions-for-ipad-discover-the-top-picks-of-2020/"><u>Best PDF Viewer Solutions for iPad: Discover the Top Picks of 2020!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/comprehensive-guide-to-different-software-installation-methods/"><u>Comprehensive Guide to Different Software Installation Methods</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-motorola-g54-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Motorola G54 5G</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-12-mini-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/introducing-apowerrec-unveiling-revolutionary-features/"><u>Introducing ApowerREC: Unveiling Revolutionary Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/laptops-smartphones-and-books-oh-my/"><u>Laptops, Smartphones, and Books, Oh My</u></a></li>
+<li><a href="https://fox-making.techidaily.com/repair-guide-eradicating-severe-system-damage-caused-by-quadruple-infections-with-malwarefox/"><u>Repair Guide: Eradicating Severe System Damage Caused by Quadruple Infections with MalwareFox</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-and-using-typographic-feature-attributes-in-fonts/"><u>Understanding and Using Typographic Feature Attributes in Fonts</u></a></li>
 </ul></div>
 

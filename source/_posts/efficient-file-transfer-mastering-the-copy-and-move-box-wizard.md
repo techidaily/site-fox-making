@@ -1,7 +1,7 @@
 ---
 title: "Efficient File Transfer: Mastering the Copy and Move Box Wizard"
-date: 2024-09-27T23:39:00.783Z
-updated: 2024-09-30T11:08:16.925Z
+date: 2024-09-28T17:38:27.320Z
+updated: 2024-10-05T20:23:45.044Z
 tags:
   - user-guide
 categories:
@@ -96,6 +96,13 @@ Table of Contents
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)This operation is intended for files outside the package only. If you need to duplicate files included in the package, you can use a [file duplication operation](https://tools.techidaily.com/advancedinstaller/products/) instead.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Source File
 
 ### Name
@@ -104,18 +111,18 @@ The name of the file to be copied/moved. Use wildcard patterns to copy/move mult
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)When using wildcards, leave the "Destination's File" "Name" field blank in order to preserve the original file names.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Folder
 
 The location of the file to be copied/moved. Use the\[... \] button to select the source folder.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If the source folder is not among the ones displayed in the [Folder Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) you must first specify it through a [property based folder](https://tools.techidaily.com/advancedinstaller/products/). Then you will be able to select it in the picker.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Destination File
 
@@ -123,24 +130,24 @@ The location of the file to be copied/moved. Use the\[... \] button to select th
 
 The name target file's name. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Folder
 
 The target location of the file to be copied/moved. This folder is set automatically to the folder which contains the file operation.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Properties
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Component
@@ -156,22 +163,21 @@ The time when the copy/move operation will be executed. There are three availabl
 * Both
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
 
 Specify a condition for the copy/move operation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Operation
 
@@ -213,24 +219,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-streamlined-techniques-to-capture-webinars-efficiently-windows-mac/"><u>[New] Streamlined Techniques to Capture Webinars Efficiently (Windows, Mac)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-vlcs-screen-recording-capabilities/"><u>[New] VLC's Screen Recording Capabilities</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-best-youtube-conversion-tools-for-webm-format/"><u>[Updated] 2024 Approved 10 Best YouTube Conversion Tools for WebM Format</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-elite-interactive-web-summit-title/"><u>[Updated] Elite Interactive Web Summit Title</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-convert-your-total-product-blueprints-into-various-formats-mp4-mov-avi-mp3-a-comprehensive-guide/"><u>1. Convert Your Total Product Blueprints Into Various Formats: MP4, MOV, AVI, MP3 - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/access-and-save-oncourse-learning-media-content-comprehensive-course-materials-at-your-fingertps/"><u>Access and Save OnCourse Learning Media Content – Comprehensive Course Materials at Your Fingertps</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-sexual-education-resources-downloader-access-educational-videos-from-manhub/"><u>Comprehensive Sexual Education Resources Downloader - Access Educational Videos From ManHub</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-and-convert-3d-buzz-media-high-quality-formats-like-mp4-wmv-and-avi-at-your-fingertips/"><u>Download & Convert 3D Buzz Media: High-Quality Formats Like MP4, WMV and AVI at Your Fingertips</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/enhance-your-ebook-with-our-flipbuildercom-branding-feature-incorporate-your-logo-into-the-background/"><u>Enhance Your eBook with Our FlipBuilder.com Branding Feature: Incorporate Your Logo Into the Background!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ensuring-confidentiality-strategies-for-avoiding-chatgpts-retention-of-discussions/"><u>Ensuring Confidentiality: Strategies for Avoiding ChatGPT's Retention of Discussions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastering-video-editing-a-step-by-step-tutorial-on-sizing-your-clips-with-ffmpeg/"><u>Mastering Video Editing: A Step-by-Step Tutorial on Sizing Your Clips with FFmpeg</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/seamlessly-sync-your-linux-system-and-android-devices-with-our-premier-integration-tool/"><u>Seamlessly Sync Your Linux System & Android Devices with Our Premier Integration Tool</u></a></li>
-<li><a href="https://fox-making.techidaily.com/share-functionality-explained-navigating-through-flipbuilders-sharing-tools/"><u>Share Functionality Explained: Navigating Through FlipBuilder's Sharing Tools</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-locations-to-source-custom-photo-frames-after-editing-with-flipbuilder/"><u>Top Locations to Source Custom Photo Frames After Editing with FlipBuilder</u></a></li>
-<li><a href="https://fox-making.techidaily.com/transform-pdf-documents-into-accessible-html-format-at-no-cost-via-flipbuilders-conversion-tool/"><u>Transform PDF Documents Into Accessible HTML Format at No Cost via FlipBuilder's Conversion Tool</u></a></li>
-<li><a href="https://fox-making.techidaily.com/transforming-your-pdf-collection-into-one-interactive-ebook-with-flipbuilder-a-step-by-step-tutorial/"><u>Transforming Your PDF Collection Into One Interactive eBook with FlipBuilder: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-additional-control-button-options-in-flip-book-production-with-flipbuildercom/"><u>Understanding Additional Control Button Options in Flip Book Production with FlipBuilder.com</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/k-creative-expression-mastering-jump-cut-usage-for-2024/"><u>Unlock Creative Expression Mastering Jump Cut Usage for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-s17e-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17e Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-essential-techniques-for-sizing-up-your-instagram-video-reach/"><u>[Updated] 2024 Approved Essential Techniques for Sizing Up Your Instagram Video Reach</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-efface-thin-borders-for-a-seamless-youtube-experience/"><u>[Updated] Efface Thin Borders for a Seamless YouTube Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-transform-images-on-the-fly-the-best-overlay-apps-for-android-and-iphone-for-2024/"><u>[Updated] Transform Images on the Fly – The Best Overlay Apps for Android & iPhone for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-mastering-worldwide-configuration-options-a-comprehensive-guide/"><u>1. Mastering Worldwide Configuration Options: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effortless-developing-of-lightweight-applications-using-thinapp-technology/"><u>Effortless Developing of Lightweight Applications Using ThinApp Technology</u></a></li>
+<li><a href="https://fox-making.techidaily.com/enhance-application-functionality-using-imergemodule-the-ultimate-guide/"><u>Enhance Application Functionality Using IMergeModule - The Ultimate Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 13 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://fox-making.techidaily.com/introducing-apowerrec-unveiling-revolutionary-features/"><u>Introducing ApowerREC: Unveiling Revolutionary Features</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/pushing-the-envelope-on-instagram-larger-videos-explained/"><u>Pushing the Envelope on Instagram Larger Videos Explained</u></a></li>
 </ul></div>
 

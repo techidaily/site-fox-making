@@ -1,7 +1,7 @@
 ---
 title: "Next-Level Scripting: Unlocking the Full Potential of Installer PowerShell APIs"
-date: 2024-09-23T08:01:06.334Z
-updated: 2024-09-29T19:05:03.205Z
+date: 2024-09-28T19:05:16.317Z
+updated: 2024-10-05T21:03:40.562Z
 tags:
   - user-guide
 categories:
@@ -111,10 +111,10 @@ Table of Contents
 Configure your Advanced Installer project by using custom interfaces and [PowerShell commands](https://tools.techidaily.com/advancedinstaller/products/). You can manage files and folders, get license information, access components, and much more all from PowerShell, thus making the automation of your build process easier than ever.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Video Tutorial
@@ -122,10 +122,10 @@ Configure your Advanced Installer project by using custom interfaces and [PowerS
 Get started with PowerShell commands by watching our video tutorial.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -266,14 +266,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-elevate-your-videos-the-basics-of-stunning-slow-motion-capturing-in-android/"><u>[New] In 2024, Elevate Your Videos The Basics of Stunning Slow Motion Capturing in Android</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-navigating-snapchats-call-feature-in-three-steps/"><u>[Updated] In 2024, Navigating Snapchat's Call Feature in Three Steps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-ultimate-underwater-gopro-filter-setup/"><u>2024 Approved Ultimate Underwater Gopro Filter Setup</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-pro-level-full-stack-project-utilizing-vue-laravel-and-json-api-by-creative-tim/"><u>Comprehensive Pro-Level Full Stack Project Utilizing Vue, Laravel and JSON API by Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/creative-tims-premium-bootstrap-5-and-material-design-ui-element-suite-download-your-complimentary-starter-pack/"><u>Creative Tim's Premium Bootstrap 5 & Material Design UI Element Suite - Download Your Complimentary Starter Pack!</u></a></li>
-<li><a href="https://fox-making.techidaily.com/creative-tims-ultimate-react-paper-kit-with-bootstrap-and-reactstrap-gratis/"><u>Creative Tim's Ultimate React Paper Kit with Bootstrap & Reactstrap - Gratis</u></a></li>
-<li><a href="https://fox-making.techidaily.com/doubling-the-scale-ratio-means-each-unit-on-the-representation-now-corresponds-to-twice-as-much-in-reality-so-distances-will-appear-half-as-large/"><u>Doubling the Scale Ratio Means Each Unit on the Representation Now Corresponds to Twice as Much in Reality, so Distances Will Appear Half as Large.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/strategies-unveiled-entry-into-metas-profile-management-domain/"><u>Strategies Unveiled: Entry Into Meta’s Profile Management Domain</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-choosing-the-right-display-elevate-your-xbox-series-x-experience/"><u>[New] 2024 Approved Choosing the Right Display - Elevate Your Xbox Series X Experience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-prime-videobg-selections-enhancing-remote-collaboration/"><u>[New] In 2024, Prime Videobg Selections Enhancing Remote Collaboration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-turn-off-youtube-previews-on-all-devices/"><u>[Updated] Turn Off YouTube Previews on All Devices</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-seamless-guide-transferring-your-entire-music-library-from-iphone-to-mac/"><u>1. Seamless Guide: Transferring Your Entire Music Library From iPhone to Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-steps-to-effectively-utilize-oculus-quests-hand-motion-controls-in-vr-gaming/"><u>Comprehensive Steps to Effectively Utilize Oculus Quest's Hand Motion Controls in VR Gaming</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creative-photo-distortion-strategies/"><u>Creative Photo Distortion Strategies</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-database-management-solutions/"><u>Effective Database Management Solutions</u></a></li>
+<li><a href="https://fox-making.techidaily.com/efficient-file-transfer-mastering-the-copy-and-move-box-wizard/"><u>Efficient File Transfer: Mastering the Copy and Move Box Wizard</u></a></li>
+<li><a href="https://fox-making.techidaily.com/efficient-registry-editor-window-handling-in-software-development/"><u>Efficient Registry Editor Window Handling in Software Development</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-optimize-your-gameplay-banishing-rainbow-six-siege-delays/"><u>How to Optimize Your Gameplay - Banishing Rainbow Six Siege Delays</u></a></li>
+<li><a href="https://fox-making.techidaily.com/in-depth-details-on-items-product-info-section/"><u>In-Depth Details on Items - Product Info Section</u></a></li>
+<li><a href="https://article-helps.techidaily.com/money-smart-aerial-explorers-5-best-drones-for-less-than-100-for-2024/"><u>Money-Smart Aerial Explorers 5 Best Drones for Less Than $100 for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-screen-effortless-guide-on-syncing-your-iphone-with-a-haier-television/"><u>Step-by-Screen: Effortless Guide on Syncing Your iPhone with a Haier Television</u></a></li>
+<li><a href="https://fox-making.techidaily.com/structured-packaging-blueprint-cluster-guide/"><u>Structured Packaging Blueprint Cluster Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-10-methods-employed-by-cybercriminals-in-hacking-attacks/"><u>Top 10 Methods Employed by Cybercriminals in Hacking Attacks</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-rated-mind-mapping-tools-for-mac-users-2020-edition/"><u>Top-Rated Mind Mapping Tools for Mac Users (2020 Edition)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-y27s-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo Y27s FRP Bypass</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unveiling-the-differences-ipad-vs-ipad-air-compared/"><u>Unveiling the Differences: IPad Vs. IPad Air Compared</u></a></li>
 </ul></div>
 

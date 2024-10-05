@@ -1,7 +1,7 @@
 ---
 title: Adjusting Visual Preferences in Installation Setup Wizard
-date: 2024-09-25T19:03:42.257Z
-updated: 2024-09-30T13:09:15.981Z
+date: 2024-09-30T21:01:14.794Z
+updated: 2024-10-05T18:05:51.613Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ Table of Contents
 ![Image Options](https://cdn.advancedinstaller.com/img/dialog/image-options.png "Image Options")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Image Path
@@ -91,10 +91,10 @@ Table of Contents
 Specify the image's path. Use the \[... \] to select it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Property Name
@@ -134,20 +134,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-exclusive-list-digital-dominators-in-av-production/"><u>[New] Exclusive List Digital Dominators in AV Production</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-essential-guide-to-free-licensed-audio-for-yt/"><u>[New] The Essential Guide to Free, Licensed Audio for YT</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-mp3s-incorporating-tunes-into-powerpoint-slides/"><u>[Updated] Mastering MP3s Incorporating Tunes Into PowerPoint Slides</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-restful-narratives-on-display/"><u>[Updated] Restful Narratives on Display</u></a></li>
-<li><a href="https://fox-making.techidaily.com/efficient-techniques-for-converting-various-pdf-formats-discover-flipbuilders-solutions/"><u>Efficient Techniques for Converting Various PDF Formats: Discover FlipBuilder's Solutions</u></a></li>
-<li><a href="https://fox-making.techidaily.com/flipbuilder-tutorial-extracting-preferred-page-sections-for-importation-effortlessly/"><u>FlipBuilder Tutorial: Extracting Preferred Page Sections for Importation Effortlessly</u></a></li>
-<li><a href="https://fox-making.techidaily.com/guide-to-inserting-image-formats-into-webpages-using-flipbuilders-tools/"><u>Guide to Inserting Image Formats Into Webpages Using FlipBuilder's Tools</u></a></li>
-<li><a href="https://fox-making.techidaily.com/guide-to-preserving-and-sharing-templates-in-the-flip-ebook-designer-suite/"><u>Guide to Preserving & Sharing Templates in the Flip eBook Designer Suite</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-can-i-access-flippingbook-content-backwards-as-with-right-to-left-languages-like-arabic/"><u>How Can I Access FlippingBook Content Backwards as with Right-to-Left Languages Like Arabic?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-can-you-selectively-print-specific-pages-from-your-ebooks-with-flipbuilder/"><u>How Can You Selectively Print Specific Pages From Your eBooks with FlipBuilder?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-compile-and-convert-multiple-pdfs-into-an-engaging-flip-book-with-flipbuilder/"><u>How to Compile and Convert Multiple PDFs Into an Engaging Flip Book with FlipBuilder</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-erase-all-data-and-restore-settings-on-iphone-and-ipad-a-step-by-step-tutorial/"><u>How To Erase All Data and Restore Settings on iPhone & iPad - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-honor-70-lite-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor 70 Lite 5G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-xp-error-code-0x80300024/"><u>Tackling Windows XP Error Code: 0X80300024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-twist-tactics-achieving-angles-that-stand-out-on-social-media/"><u>[New] 2024 Approved Twist Tactics Achieving Angles That Stand Out on Social Media</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-seamless-guide-transferring-your-entire-music-library-from-iphone-to-mac/"><u>1. Seamless Guide: Transferring Your Entire Music Library From iPhone to Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-groundbreaking-replacements-to-enhance-phone-interactions-with-ai/"><u>8 Groundbreaking Replacements to Enhance Phone Interactions with AI</u></a></li>
+<li><a href="https://win-answers.techidaily.com/capturing-live-webcast-audio-in-windows-10-a-step-by-step-guide/"><u>Capturing Live Webcast Audio in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/comprehensive-guide-answering-your-most-common-questions-about-apowermirror/"><u>Comprehensive Guide: Answering Your Most Common Questions About ApowerMirror</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-database-management-solutions/"><u>Effective Database Management Solutions</u></a></li>
+<li><a href="https://fox-making.techidaily.com/efficient-file-transfer-mastering-the-copy-and-move-box-wizard/"><u>Efficient File Transfer: Mastering the Copy and Move Box Wizard</u></a></li>
+<li><a href="https://fox-making.techidaily.com/efficient-registry-editor-window-handling-in-software-development/"><u>Efficient Registry Editor Window Handling in Software Development</u></a></li>
+<li><a href="https://fox-making.techidaily.com/guide-mastering-among-us-gameplay-on-your-computer/"><u>Guide: Mastering Among Us Gameplay on Your Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-v27e-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo V27e to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lexicon-origins-shakespearean-words-in-modern-chatter/"><u>Lexicon Origins: Shakespearean Words in Modern Chatter</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-the-language-of-facebook-to-capture-attention/"><u>Mastering the Language of Facebook to Capture Attention</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915414416-resolve-persistent-windows-explorer-freezing-with-these-7-tips/"><u>Resolve Persistent Windows Explorer Freezing with These 7 Tips</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-transferring-videos-to-your-android-device/"><u>Step-by-Step Guide: Transferring Videos to Your Android Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-asus-rog-phone-7-ultimate-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Asus ROG Phone 7 Ultimate Device</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-10-methods-employed-by-cybercriminals-in-hacking-attacks/"><u>Top 10 Methods Employed by Cybercriminals in Hacking Attacks</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-rated-mind-mapping-tools-for-mac-users-2020-edition/"><u>Top-Rated Mind Mapping Tools for Mac Users (2020 Edition)</u></a></li>
 </ul></div>
 

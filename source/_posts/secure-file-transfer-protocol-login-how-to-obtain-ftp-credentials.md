@@ -1,7 +1,7 @@
 ---
 title: "Secure File Transfer Protocol Login: How to Obtain FTP Credentials"
-date: 2024-09-29T06:46:16.522Z
-updated: 2024-09-30T02:44:43.028Z
+date: 2024-10-01T18:44:02.475Z
+updated: 2024-10-05T22:49:13.849Z
 tags:
   - user-guide
 categories:
@@ -98,10 +98,10 @@ Table of Contents
 ![Ftp access](https://cdn.advancedinstaller.com/img/ui/ftp-access.png "Ftp access")  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Create FTP access
@@ -121,10 +121,10 @@ ftp://yourdomain/parent_web_site_name/virtual_directory_name
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Set NTFS security flags
@@ -132,10 +132,16 @@ Copy
 Enable this option to allow anonymous FTP connection in case this access mode is used. Otherwise only a registered user on the target machine, having the proper access rights, can connect through FTP.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### FTP Access rights
@@ -175,19 +181,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-snippet-filmmaker-pro/"><u>[New] 2024 Approved Snippet Filmmaker Pro</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mastering-the-transition-moving-your-snapchat-savings-home/"><u>[Updated] 2024 Approved Mastering the Transition Moving Your Snapchat Savings Home</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-retro-yet-current-top-10-songs-from-tiktok-that-never-end/"><u>[Updated] 2024 Approved Retro Yet Current Top 10 Songs From TikTok That Never End</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-google-pixel-fold-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Google Pixel Fold without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/access-the-most-recent-update-for-action-available-for-download/"><u>Access The Most Recent Update for 'Action!' Available For Download</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-perfect-pixel-a-guide-to-captivating-pc-gaming-moments/"><u>In 2024, The Perfect Pixel A Guide to Captivating PC Gaming Moments</u></a></li>
-<li><a href="https://fox-making.techidaily.com/master-live-video-gaming-on-youtube-with-our-step-by-step-guide/"><u>Master Live Video Gaming on YouTube with Our Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/mirillis-help-desk-frequently-asked-questions-about-our-product-line/"><u>Mirilli's Help Desk: Frequently Asked Questions About Our Product Line</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/navigating-through-youtubes-top-favorite-shorters-for-2024/"><u>Navigating Through YouTube’s Top Favorite Shorters for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-cinematographers-journey-shooting-top-notch-youtube-content/"><u>The Cinematographer's Journey Shooting Top-Notch YouTube Content</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/ultimate-tutorial-downloading-and-saving-videos-from-vrtbe-as-mp4-avi-mov-and-more/"><u>Ultimate Tutorial: Downloading and Saving Videos From VRT.be as MP4, AVI, MOV & More</u></a></li>
-<li><a href="https://fox-making.techidaily.com/universal-silverlight-video-saver-effortless-downloads-for-mac-and-windows-users/"><u>Universal Silverlight Video Saver: Effortless Downloads for Mac and Windows Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/44km44kj44o844oc44gn5pya6ygp44gq5l244ge5pa544go44ot44oh44kq5lplusd5oyb44gu44kz44oe/"><u>ウィーボで最適な使い方とビデオ保持のコツ</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-alarm-clocks-totobays-second-generation-sunrise-simulator-revealed/"><u>Affordable Alarm Clocks - Totobay's Second Generation Sunrise Simulator Revealed!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easy-steps-how-to-save-spotify-playlists-on-pc-or-mac-systems/"><u>Easy Steps: How to Save Spotify Playlists on PC or Mac Systems</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-strategies-for-creating-an-engaging-youtube-banner-to-boost-viewer-numbers/"><u>Effective Strategies for Creating an Engaging YouTube Banner to Boost Viewer Numbers</u></a></li>
+<li><a href="https://fox-making.techidaily.com/efficient-file-management-with-ifile-the-ultimate-tool/"><u>Efficient File Management with iFile - The Ultimate Tool</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-to-retrieve-deleted-songs-on-your-iphone-effective-techniques-for-music-recovery/"><u>How To Retrieve Deleted Songs on Your iPhone: Effective Techniques for Music Recovery</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-nubia-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Nubia Phone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-top-6-must-try-instagram-reel-apps/"><u>In 2024, Top 6 Must-Try Instagram Reel Apps</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-the-fundamentals-of-typeface-characteristics/"><u>Mastering the Fundamentals of Typeface Characteristics</u></a></li>
+<li><a href="https://fox-making.techidaily.com/maximize-performance-mastering-the-art-of-iupdatetargets-management/"><u>Maximize Performance: Mastering the Art of IUpdateTargets Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-device-dialogue-syncing-android-and-windows/"><u>Navigating Device Dialogue: Syncing Android & Windows</u></a></li>
+<li><a href="https://fox-making.techidaily.com/no-cost-methods-for-moving-music-from-your-iphone-onto-a-laptop-or-desktop/"><u>No-Cost Methods for Moving Music From Your iPhone Onto a Laptop or Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-blue-screen-5-must-do-fixes-for-win11-issues/"><u>Prevent Blue Screen: 5 Must-Do Fixes for Win11 Issues</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-applying-image-watermarks-effortlessly/"><u>Step-by-Step Guide: Applying Image Watermarks Effortlessly</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/iques-for-safe-youtube-audio-extraction-at-no-cost/"><u>Techniques for Safe YouTube Audio Extraction at No Cost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-hidden-drawbacks-of-artifice-intelligence-in-instant-messaging-a-closer-look-at-7-key-issues/"><u>The Hidden Drawbacks of Artifice Intelligence in Instant Messaging: A Closer Look at 7 Key Issues</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-7-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 7 Plus? | Stellar</u></a></li>
 </ul></div>
 

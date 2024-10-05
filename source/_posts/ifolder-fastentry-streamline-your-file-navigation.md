@@ -1,7 +1,7 @@
 ---
 title: IFolder FastEntry - Streamline Your File Navigation
-date: 2024-09-26T12:33:47.357Z
-updated: 2024-09-30T04:20:23.898Z
+date: 2024-09-28T19:42:28.216Z
+updated: 2024-10-05T17:01:30.230Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 Using this interface you can edit the folder shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,10 +126,10 @@ Using this interface you can edit the folder shortcut.
 IFolderShortcut : IBaseShortcut
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -169,16 +169,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-minecraft-homestead-essentials-6-10/"><u>[New] In 2024, Minecraft Homestead Essentials #6-10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1-ultimate-step-by-step-tutorial-adjusting-and-correcting-plex-video-display-ratios/"><u>1. Ultimate Step-by-Step Tutorial: Adjusting and Correcting Plex Video Display Ratios</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-stabilized-mobile-shooting-with-precision-mounts/"><u>2024 Approved Stabilized Mobile Shooting with Precision Mounts</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/can-i-feature-corporate-details-in-my-interactive-pdf-with-flipbuilder/"><u>Can I Feature Corporate Details in My Interactive PDF with FlipBuilder?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/creating-eye-catching-digital-brochures-with-custom-fonts-a-guide-using-flipbuilder/"><u>Creating Eye-Catching Digital Brochures with Custom Fonts - A Guide Using FlipBuilder</u></a></li>
-<li><a href="https://fox-making.techidaily.com/designing-your-own-branded-flipbooks-on-flipbuilder-a-comprehasternow-how/"><u>Designing Your Own Branded Flipbooks on FlipBuilder - A Comprehasternow How?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-system-requirement-need-a-d3d11-supported-graphics-card/"><u>Essential System Requirement: Need a D3D11 Supported Graphics Card</u></a></li>
-<li><a href="https://extra-information.techidaily.com/sony-blu-ray-player-s6500-fresh-perspective/"><u>Sony Blu-Ray Player S6500 Fresh Perspective</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-flipbuilders-comprehensive-refunds-strategy-find-out-how-we-protect-our-customers/"><u>Understanding FlipBuilder's Comprehensive Refunds Strategy – Find Out How We Protect Our Customers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-ai-potential-with-personalized-premium-gpt-services/"><u>Unleash AI Potential with Personalized, Premium GPT Services!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/conic-video-titles-youtubes-most-watched-lore-for-2024/"><u>[New] Iconic Video Titles YouTube's Most-Watched Lore for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-select-vhs-magic-transforming-video-editing-today/"><u>2024 Approved Select VHS Magic Transforming Video Editing Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-rx-6700-xt-graphics-card-freshest-windows-compatible-drivers-ready/"><u>AMD RX 6700 XT Graphics Card: Freshest Windows-Compatible Drivers Ready!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/best-no-cost-video-format-changers-on-the-go-your-guide-for-android-devices/"><u>Best No-Cost Video Format Changers on the Go: Your Guide for Android Devices</u></a></li>
+<li><a href="https://fox-making.techidaily.com/comprehensive-guide-on-business-license-registration-insights-and-processes/"><u>Comprehensive Guide on Business License Registration: Insights & Processes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-for-installing-latest-ati-radeon-driver-updates-in-windows-os/"><u>Easy Instructions for Installing Latest ATI Radeon Driver Updates in Windows OS</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easy-steps-how-to-save-spotify-playlists-on-pc-or-mac-systems/"><u>Easy Steps: How to Save Spotify Playlists on PC or Mac Systems</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-strategies-for-creating-an-engaging-youtube-banner-to-boost-viewer-numbers/"><u>Effective Strategies for Creating an Engaging YouTube Banner to Boost Viewer Numbers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enhancing-your-retro-gaming-setup-with-additional-nes-classics/"><u>Enhancing Your Retro Gaming Setup with Additional NES Classics</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-deleting-your-windows-11-profile-swiftly-with-revo-uninstaller/"><u>Expert Tips for Deleting Your Windows 11 Profile Swiftly with Revo Uninstaller</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720673652824-how-to-fix-blue-screen-of-death-bsod-error-in-windows-1011/"><u>How to Fix Blue Screen of Death [BSOD] Error in Windows 10/11</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-online-queries-the-ultimate-guide-to-understanding-and-utilizing-search-engines/"><u>Mastering Online Queries: The Ultimate Guide to Understanding and Utilizing Search Engines</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-mastering-the-gameplay-of-diablo-immortal-on-a-mac-device/"><u>Step-by-Step Guide: Mastering the Gameplay of Diablo Immortal on a Mac Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-starting-your-journey-as-a-prompt-engineer/"><u>Step-by-Step Guide: Starting Your Journey as a Prompt Engineer</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/egic-steps-making-your-private-yt-videos-public-via-google/"><u>Strategic Steps Making Your Private YT Videos Public via Google</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-ranking-video-format-changers-transform-clips-effortlessly-and-gratis/"><u>Top-Ranking Video Format Changers: Transform Clips Effortlessly & Gratis</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unraveling-the-truth-about-https-does-it-always-guarantee-website-security/"><u>Unraveling the Truth About HTTPS - Does It Always Guarantee Website Security?</u></a></li>
 </ul></div>
 

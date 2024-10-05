@@ -1,7 +1,7 @@
 ---
 title: "Understanding ILibrary Files: Essential Insights and Uses"
-date: 2024-09-25T13:05:05.566Z
-updated: 2024-09-30T03:42:17.707Z
+date: 2024-10-02T18:40:54.069Z
+updated: 2024-10-05T19:18:21.813Z
 tags:
   - user-guide
 categories:
@@ -40,10 +40,10 @@ Table of Contents
 Using this interface, you can edit a library file.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -51,10 +51,10 @@ Using this interface, you can edit a library file.
 ILibraryFile : IDirectoryMember
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -67,10 +67,10 @@ ILibraryFile : IDirectoryMember
 * String Type - Gets the type of the file as string.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -80,10 +80,10 @@ ILibraryFile : IDirectoryMember
 * DeleteFile() - This method will delete the library file from the project. The object on which this method is called is no longer available for editing.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -125,19 +125,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-mix-text-and-video-on-a-shoestring-budget-for-2024/"><u>[New] How to Mix Text & Video on a Shoestring Budget for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-evaluating-the-skys-new-kid-on-the-block-syma-x5c-review/"><u>[Updated] 2024 Approved Evaluating the Sky's New Kid on the Block – Syma X5C Review</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-avoiding-the-crowd-stand-out-with-unique-youtube-persona/"><u>[Updated] Avoiding the Crowd Stand Out with Unique YouTube Persona</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-editors-almanac-key-takeaways-from-filmora-editioning-for-2024/"><u>[Updated] The Editor’s Almanac Key Takeaways From Filmora Editioning for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-ultra-hd-videos-from-youtube-in-8k-resolution-on-pc-or-mac/"><u>Download Ultra HD Videos From YouTube in 8K Resolution on PC or Mac</u></a></li>
-<li><a href="https://fox-making.techidaily.com/efficient-ways-to-transform-webpt-videos-into-high-quality-mp4-or-mov-on-windows-and-mac-systems/"><u>Efficient Ways to Transform WebPT Videos Into High-Quality MP4 or MOV on Windows & Mac Systems</u></a></li>
-<li><a href="https://fox-making.techidaily.com/enhance-offline-watching-of-globo-channels-by-downloading-and-converting-videos-into-mp4-and-wmv-files/"><u>Enhance Offline Watching of Globo Channels by Downloading and Converting Videos Into MP4 & WMV Files</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/everything-you-need-to-know-about-samsung-galaxy-ring-price-points-specs-release-schedule-and-current-headlines/"><u>Everything You Need to Know About Samsung Galaxy Ring - Price Points, Specs, Release Schedule & Current Headlines</u></a></li>
-<li><a href="https://fox-making.techidaily.com/guide-converting-gamepro-tv-broadcasts-into-multiple-formats-mp4-mov-avi-mp3/"><u>Guide: Converting GamePro TV Broadcasts Into Multiple Formats - MP4, MOV, AVI, MP3</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-microsoft-excel-a-complete-guide-to-utilizing-the-fv-formula/"><u>Mastering Microsoft Excel: A Complete Guide to Utilizing the FV Formula</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/real-time-streaming-with-manycam-professional-live-video-production-and-virtual-camera-solutions/"><u>Real-Time Streaming with ManyCam: Professional Live Video Production and Virtual Camera Solutions</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-tutorial-for-converting-amazon-prime-media-into-mp4-and-mp3-formats/"><u>Step-by-Step Tutorial for Converting Amazon Prime Media Into MP4 & MP3 Formats</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-tutorial-accessing-and-saving-hardsextube-media/"><u>Step-by-Step Tutorial: Accessing and Saving HardSexTube Media</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-huawei-p60-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Huawei P60 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-guidelines-to-create-impactful-youtube-banners/"><u>[New] In 2024, Essential Guidelines to Create Impactful YouTube Banners</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-streams-into-premium-4k-videos-easily/"><u>[Updated] Transform Streams Into Premium 4K Videos Easily</u></a></li>
+<li><a href="https://fox-making.techidaily.com/best-no-cost-video-format-changers-on-the-go-your-guide-for-android-devices/"><u>Best No-Cost Video Format Changers on the Go: Your Guide for Android Devices</u></a></li>
+<li><a href="https://fox-making.techidaily.com/comprehensive-guide-on-business-license-registration-insights-and-processes/"><u>Comprehensive Guide on Business License Registration: Insights & Processes</u></a></li>
+<li><a href="https://fox-making.techidaily.com/heic-to-pdf-transformation-made-easy-top-free-online-editors-and-guides/"><u>HEIC to PDF Transformation Made Easy - Top Free Online Editors & Guides</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-aeon-matrix-the-single-screen-superior-desk/"><u>In 2024, Aeon Matrix The Single Screen, Superior Desk</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y200e-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y200e 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-liveaction-gaming-diary/"><u>In 2024, LiveAction Gaming Diary</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-optimize-audio-quality-while-recording-lectures-on-apple-devices/"><u>In 2024, Optimize Audio Quality While Recording Lectures on Apple Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/installation-errors-correct-missing-drivers-on-windows-1187-here-solved/"><u>Installation Errors? Correct Missing Drivers on Windows 11/8/7 Here [SOLVED]</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-online-queries-the-ultimate-guide-to-understanding-and-utilizing-search-engines/"><u>Mastering Online Queries: The Ultimate Guide to Understanding and Utilizing Search Engines</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-mastering-the-gameplay-of-diablo-immortal-on-a-mac-device/"><u>Step-by-Step Guide: Mastering the Gameplay of Diablo Immortal on a Mac Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dilemma-of-aligning-artificial-intelligence/"><u>The Dilemma of Aligning Artificial Intelligence</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-ranking-video-format-changers-transform-clips-effortlessly-and-gratis/"><u>Top-Ranking Video Format Changers: Transform Clips Effortlessly & Gratis</u></a></li>
 </ul></div>
 

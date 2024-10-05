@@ -1,7 +1,7 @@
 ---
 title: Expert Strategies for Successful Execution of Sophisticated Installer Creations
-date: 2024-09-28T03:54:27.899Z
-updated: 2024-09-30T13:24:28.347Z
+date: 2024-10-03T22:38:41.573Z
+updated: 2024-10-05T17:46:25.086Z
 tags:
   - user-guide
 categories:
@@ -72,6 +72,13 @@ The Advanced Installer Project is an XML file with the extension AIP. Advanced I
 
 ![New Project](https://cdn.advancedinstaller.com/img/toolbar/project-new.png "New Project") Use the \[New... \] toolbar button, the “File > New...” menu item or theCtrl+N keyboard shortcut. The [Start Page](https://tools.techidaily.com/advancedinstaller/products/) will show up.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Loading an existing project
 
 ![Open Project](https://cdn.advancedinstaller.com/img/toolbar/project-open.png "Open Project")Use the\[Open... \] toolbar button, the “File > Open...” menu item or the Ctrl+O keyboard shortcut. You can also load an existing project by double clicking on the corresponding AIP project file in Windows Explorer.
@@ -80,16 +87,16 @@ The Advanced Installer Project is an XML file with the extension AIP. Advanced I
 
  Use the “File > Recent Projects >” sub menu or select the project from the [Start Page](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Saving the project
 
 ![Save Project](https://cdn.advancedinstaller.com/img/toolbar/project-save.png "Save Project") Use the \[Save \] toolbar button, the “File > Save” menu item or theCtrl+S keyboard shortcut.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Saving the project under a different name
 
@@ -98,10 +105,10 @@ The Advanced Installer Project is an XML file with the extension AIP. Advanced I
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Warning: starting a new project from an already existing one by saving it under a different name is **not** advisable, because all the GUIDs for product, components, etc. in the two projects will be identical and thus will conflict. You should use the “File > Save as Template...” option for this.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Save As Template...
@@ -110,16 +117,16 @@ Use the “Save As Template...” menu item.
 
 Creates a project template starting from the current project in order to reuse it in building a different package. New UpgradeCode, ProductCode and all the components GUIDs are generated when the template is used.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Building the project
 
 ![Build Project](https://cdn.advancedinstaller.com/img/toolbar/project-build.png "Build Project")Use the \[Build \] toolbar button, the “Project > Build” menu item or theF7 keyboard shortcut. You need at least one component (file, registry entry, etc) in your project before you can build it.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You have the option to select which build to perform from the button's drop down menu. When you directly push the button, the project that was build last is created. If no individual build was made previous, all builds are performed.
 
@@ -129,47 +136,40 @@ You have the option to select which build to perform from the button's drop down
 
 ![Run Project](https://cdn.advancedinstaller.com/img/toolbar/project-run.png "Run Project") Use the \[Run \] toolbar button, the “Project > Run” menu item or theF5 keyboard shortcut. If the project is out of date, it will first be built and then launched. 
 
-When this button is used, the resulted package from the last performed build is launched. If all the builds were performed than the first package in the building order is launched.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+When this button is used, the resulted package from the last performed build is launched. If all the builds were performed than the first package in the building order is launched.
 
 ### Running the project with logging enabled
 
 Enable the “Show run log” item “Home” tab in the ribbon. The resulting Windows Installer log will be shown in the “Run Log” Panel. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Running the project in a virtual machine
 
 Use the “Run in VM” item of the \[Run \] button context menu or the “Project > Run > Run in VM” menu item. You can test the installation by running it in the provisioned virtual machine. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Displaying context-sensitive help
 
 ![Run Project](https://cdn.advancedinstaller.com/img/toolbar/help.png "Run Project")Use the \[Help \] toolbar button, the “Help > Context Help” menu item or press theF1 key. Certain pages may also have embedded help displayed by default in their unused screen space. You can turn off the embedded help from the “View > Embedded Help” menu item.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -224,22 +224,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-fix-chromium-and-youtube-streams/"><u>[New] In 2024, Fix Chromium and YouTube Streams</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-how-to-view-comments-on-youtube/"><u>[Updated] 2024 Approved How to View Comments on YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-best-cameras-the-creme-de-la-crop-of-mobile-video-recorders-for-2024/"><u>[Updated] Best Cameras The Crème De La Crop of Mobile Video Recorders for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-imovies-crop-technique-a-guide-for-2024/"><u>[Updated] IMovie's Crop Technique A Guide for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/advanced-argon-admin-panel-with-tailwind-css-support-enhanced-features-by-creative-tim/"><u>Advanced Argon Admin Panel with Tailwind CSS Support - Enhanced Features by Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/advanced-bootstrap-4-pro-administrator-interface-premium-lighter-design-from-creative-tim/"><u>Advanced Bootstrap 4 PRO Administrator Interface: Premium, Lighter Design From Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/advanced-vue-paper-pro-dashboard-high-quality-bootstrap-vue-admin-layout-from-creative-tim/"><u>Advanced Vue Paper Pro Dashboard - High-Quality Bootstrap Vue Admin Layout From Creative Tim</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amazon-fire-hd-10-overview-your-next-family-entertainment-center-in-a-slate/"><u>Amazon Fire HD 10 Overview: Your Next Family Entertainment Center in a Slate</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-pro-level-full-stack-project-utilizing-vue-laravel-and-json-api-by-creative-tim/"><u>Comprehensive Pro-Level Full Stack Project Utilizing Vue, Laravel and JSON API by Creative Tim</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-job-performance-using-chatgpt-as-your-personal-workplace-companion/"><u>Enhance Job Performance Using ChatGPT as Your Personal Workplace Companion</u></a></li>
-<li><a href="https://fox-making.techidaily.com/free-react-and-bootstrap-4-combo-from-creative-tim-ultimate-paper-kit-for-web-apps/"><u>Free React & Bootstrap 4 Combo From Creative Tim - Ultimate Paper Kit for Web Apps</u></a></li>
-<li><a href="https://fox-making.techidaily.com/high-end-material-kit-for-react-apps-exclusive-from-creativetim/"><u>High-End Material Kit for React Apps, Exclusive From @CreativeTim</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/imac-and-the-m1-revolution-an-expert-insight-into-enhanced-visuals-and-improved-processing/"><u>IMac and the M1 Revolution: An Expert Insight Into Enhanced Visuals and Improved Processing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-basics-how-does-ai-utilize-transfer-learning/"><u>Mastering the Basics: How Does AI Utilize Transfer Learning?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/mline-your-online-listening-experience-with-direct-capture/"><u>Streamline Your Online Listening Experience with Direct Capture</u></a></li>
-<li><a href="https://fox-making.techidaily.com/superior-vue-material-dashboard-pro-high-end-vuejs-administrative-template-powered-by-creative-tim/"><u>Superior Vue Material Dashboard PRO: High-End VueJS Administrative Template - Powered by Creative Tim</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-20-vuejs-examples-using-apis-showcase-by-creative-tim/"><u>Top 20 Vue.js Examples Using APIs - Showcase by Creative Tim</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-frameitright-instagram-size-settings-explained-for-2024/"><u>[Updated] FrameItRight Instagram Size Settings Explained for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-y02t-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo Y02T? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-free-premiere-pro-templates-for-2024/"><u>Best Free Premiere Pro Templates for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-use-kik-chat-service-from-a-windows-or-mac-laptop/"><u>How to Use KIK Chat Service From a Windows or Mac Laptop</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-the-fascinating-world-of-stock-pictures-and-meme-lore/"><u>In 2024, The Fascinating World of Stock Pictures & Meme Lore</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-15-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 15 Plus Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/malvertising-explained-insights-from-malwarefox-specialists/"><u>Malvertising Explained – Insights From MalwareFox Specialists</u></a></li>
+<li><a href="https://fox-making.techidaily.com/quick-guide-removing-notes-seamlessly-on-ios-devices/"><u>Quick Guide: Removing Notes Seamlessly on iOS Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-realme-c55-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme C55 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unlock-the-secrets-mastering-file-versions-with-easy-to-use-tabs/"><u>Unlock the Secrets: Mastering File Versions with Easy-to-Use Tabs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Custom Subscriptions Per Client: Personalized Software Licenses"
-date: 2024-09-29T04:49:34.640Z
-updated: 2024-09-30T12:52:02.518Z
+date: 2024-10-02T22:30:39.069Z
+updated: 2024-10-05T22:09:35.644Z
 tags:
   - user-guide
 categories:
@@ -53,10 +53,10 @@ About the **Per-User Subscription**:
 A subscription allows you to start using Advanced Installer at the best price available. Once a subscription expires you can no longer use Advanced Installer but you can still distribute the setup package created when the subscriptionwas valid. If you prefer a perpetual license, please check the prices for our one-time [purchase option](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Registering with a Per-User Subscription
@@ -68,10 +68,10 @@ Now launch Advanced Installer, go to Start Page and select the option "Log in wi
 Advanced Installer will automatically register using the highest active edition available in your account.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does the Per-User Subscription license work?
@@ -81,10 +81,16 @@ The Advanced Installer tool allows users to install and use the software on mult
 If the builds can be triggered by other developers, then you would need a license for each member of the team that works with Advanced Installer (creates, edits, or builds an installer project) or you can use a [Team Subscription](https://tools.techidaily.com/advancedinstaller/products/). If the builds are running independently on the server machine, e.g., there is no developer that can trigger a build, then you don't need a license for the developers.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -126,24 +132,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-essential-tips-for-successful-home-based-podcasts-for-2024/"><u>[New] Essential Tips for Successful Home-Based Podcasts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-endorsed-asmr-microphones-unveiled/"><u>[Updated] 2024 Approved Expert-Endorsed ASMR Microphones Unveiled</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-futures-in-your-hands-with-powerdirector-24-unleashed/"><u>[Updated] 2024 Approved The Future's in Your Hands with PowerDirector '24 Unleashed</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-premier-zero-cost-facebook-videoimage-craftsman/"><u>[Updated] In 2024, Premier Zero-Cost Facebook Video/Image Craftsman</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-top-10-youtube-growth-titles-where-creativity-soars-quickly/"><u>2024 Approved Top 10 YouTube Growth Titles Where Creativity Soars Quickly</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/bulk-download-convert-and-save-zuzkas-video-collection-in-various-formats-mp4-mov-avi-etc/"><u>Bulk Download: Convert and Save Zuzka's Video Collection in Various Formats (MP4, MOV, AVI, Etc.)</u></a></li>
-<li><a href="https://fox-making.techidaily.com/find-the-ideal-replacement-for-mactubes-across-macos-and-windows-operating-systems-discover-what-allavsoft-offers/"><u>Find the Ideal Replacement for MacTubes Across macOS & Windows Operating Systems: Discover What AllavSoft Offers</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-easily-download-4tube-media-as-mp4-avi-or-mov-files/"><u>How To Easily Download 4Tube Media as MP4, AVI or MOV Files</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-save-your-favorite-shows-from-uktv-play-as-high-quality-mp4avi-files/"><u>How to Save Your Favorite Shows From UKTV Play as High-Quality MP4/AVI Files</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-verizon-is-shaping-the-new-era-of-wireless-technology-with-its-5g-network/"><u>How Verizon Is Shaping the New Era of Wireless Technology with Its 5G Network</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-6s-plus-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 6s Plus Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/reliable-f4v-downloader-with-mp4-conversion-feature-for-mac-and-windows/"><u>Reliable F4V Downloader with MP4 Conversion Feature for Mac and Windows</u></a></li>
-<li><a href="https://fox-making.techidaily.com/save-brooks-trading-lessons-as-various-video-files-get-mp4-mov-avi-options-now/"><u>Save Brooks Trading Lessons as Various Video Files - Get MP4, MOV, AVI Options Now</u></a></li>
-<li><a href="https://blog-min.techidaily.com/simple-guide-on-copying-dvds-directly-to-your-computers-storage/"><u>Simple Guide on Copying DVDs Directly to Your Computer's Storage</u></a></li>
-<li><a href="https://fox-making.techidaily.com/simple-guide-to-converting-and-downloading-your-desired-videos-from-fapdu-as-mp4-mov-or-avi-files/"><u>Simple Guide to Converting and Downloading Your Desired Videos From Fapdu as MP4, MOV or AVI Files</u></a></li>
-<li><a href="https://fox-making.techidaily.com/stream-and-save-your-favorites-with-tvnz-downloader-easy-access-to-downloads-from-tvnz-on-demand/"><u>Stream and Save Your Favorites with TVNZ Downloader: Easy Access to Downloads From TVNZ On-Demand</u></a></li>
-<li><a href="https://fox-making.techidaily.com/the-complete-walkthrough-on-downloading-content-from-teaching-channel-for-learning-enhancement/"><u>The Complete Walkthrough on Downloading Content From Teaching Channel for Learning Enhancement</u></a></li>
-<li><a href="https://fox-making.techidaily.com/title-apple-music-versus-google-play-music-a-comprehensive-head-to-head-comparison/"><u>Title: Apple Music versus Google Play Music – A Comprehensive Head-to-Head Comparison</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-avoiding-the-blank-thumbnail-scenario-in-shorts/"><u>[New] In 2024, Avoiding the Blank Thumbnail Scenario in Shorts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unleashing-your-funny-bone-a-stepwise-guide-to-making-memes-on-9gag/"><u>[Updated] 2024 Approved Unleashing Your Funny Bone A Stepwise Guide to Making Memes on 9GAG</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-digital-doppelganger-drawing-crafting-caricatured-emblems-for-2024/"><u>[Updated] Digital Doppelganger Drawing Crafting Caricatured Emblems for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-framefusion-creator-for-2024/"><u>[Updated] FrameFusion Creator for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-21-pioneering-metaverse-ventures-for-insightful-discussion/"><u>[Updated] In 2024, 21 Pioneering Metaverse Ventures for Insightful Discussion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-score-big-with-these-8-no-cost-3d-videos-apps-for-windows-and-mac-os/"><u>2024 Approved Score Big with These 8 No-Cost 3D Videos Apps for Windows & Mac OS</u></a></li>
+<li><a href="https://fox-making.techidaily.com/leading-itunes-data-recovery-software-for-windows-and-mac-operating-systems/"><u>Leading iTunes Data Recovery Software for Windows & Mac Operating Systems</u></a></li>
+<li><a href="https://fox-making.techidaily.com/optimize-your-database-searches-with-sql-command-line-tools/"><u>Optimize Your Database Searches with SQL Command Line Tools</u></a></li>
+<li><a href="https://fox-making.techidaily.com/secure-your-device-with-zero-costs-try-malwarefox-the-ultimate-no-cost-malware-eliminator/"><u>Secure Your Device with Zero Costs: Try MalwareFox, the Ultimate No-Cost Malware Eliminator!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-guide-incorporating-motion-typography-in-your-videos/"><u>Ultimate Guide: Incorporating Motion Typography in Your Videos</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-escape-sequences-in-xml-a-comprehensive-guide/"><u>Understanding Escape Sequences in XML: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Modify Simulated Structure Dialogue Box
-date: 2024-09-26T02:52:44.242Z
-updated: 2024-09-29T22:44:40.207Z
+date: 2024-10-03T17:55:10.532Z
+updated: 2024-10-05T22:00:49.249Z
 tags:
   - user-guide
 categories:
@@ -82,16 +82,10 @@ Table of Contents
 ![Edit PseudoFormatted Type Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-pseudoformatted-type.png "Edit PseudoFormatted Type Dialog")  
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Inserting a reference to a property
@@ -103,10 +97,10 @@ Table of Contents
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Be careful to remove both matching square brackets and everything in between.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -142,19 +136,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-swiftly-delete-autoplayed-podcast-suggestions-on-spotify/"><u>[Updated] 2024 Approved Swiftly Delete Autoplayed Podcast Suggestions on Spotify</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-strategies-for-selective-success-in-the-youtube-realm/"><u>[Updated] Strategies for Selective Success in the YouTube Realm</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/a-seamless-transition-from-aspect-ratio-to-square-on-instagram-with-imovie/"><u>A Seamless Transition From Aspect Ratio to Square on Instagram with iMovie</u></a></li>
-<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/slomo-visual-delight-thorough-assessment-release/"><u>SloMo Visual Delight Thorough Assessment Release</u></a></li>
-<li><a href="https://fox-making.techidaily.com/the-complete-walkthrough-on-downloading-content-from-teaching-channel-for-learning-enhancement/"><u>The Complete Walkthrough on Downloading Content From Teaching Channel for Learning Enhancement</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-gionee-f3-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Gionee F3 Pro</u></a></li>
-<li><a href="https://fox-making.techidaily.com/title-apple-music-versus-google-play-music-a-comprehensive-head-to-head-comparison/"><u>Title: Apple Music versus Google Play Music – A Comprehensive Head-to-Head Comparison</u></a></li>
-<li><a href="https://fox-making.techidaily.com/ultimate-audiovideo-extractor-seamless-conversion-of-episodes-into-various-formats/"><u>Ultimate Audio/Video Extractor - Seamless Conversion of Episodes Into Various Formats</u></a></li>
-<li><a href="https://fox-making.techidaily.com/ultimate-fixes-for-a-non-functioning-lynda-desktop-app-on-mac-osx-and-windows-systems/"><u>Ultimate Fixes for a Non-Functioning Lynda Desktop App on Mac OSX & Windows Systems</u></a></li>
-<li><a href="https://fox-making.techidaily.com/ultimate-guide-to-the-most-efficient-video-extraction-tools-compatible-with-windows-and-mac-systems/"><u>Ultimate Guide to the Most Efficient Video Extraction Tools Compatible with Windows & Mac Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstuck-on-your-iphone-boot-up-guides-for-damaged-button-situations/"><u>Unstuck on Your iPhone? Boot-Up Guides for Damaged Button Situations</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-most-downloaded-and-loved-iphone-apps-a-comprehensive-review/"><u>Updated The Most Downloaded and Loved iPhone Apps A Comprehensive Review</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-infinix-smart-8-hd-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Infinix Smart 8 HD Phone Network-Ready</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-full-guide-to-facebook-algorithm-change-are-you-ready/"><u>[New] 2024 Approved Full Guide to Facebook Algorithm Change Are You Ready？</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-ultimate-guide-to-ae-title-effect-wizardry/"><u>[New] 2024 Approved The Ultimate Guide to AE Title Effect Wizardry</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx/"><u>[New] In 2024, Evolutionary Tools Redefining the Art of Game Capture Beyond FBX</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/51-der-deutschen-unternehmen-zitieren-ein-fehlendes-prozessverstandnis-als-hauptgrund-fur-rpa-fehlschlage-expertenwissen-von-abbyy/"><u>51% Der Deutschen Unternehmen Zitieren Ein Fehlendes Prozessverständnis Als Hauptgrund Für RPA-Fehlschläge - Expertenwissen Von ABBYY</u></a></li>
+<li><a href="https://fox-making.techidaily.com/an-overview-on-ac3-file-format-and-compatibility-guide/"><u>An Overview on AC3 File Format and Compatibility Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ning-a-blogging-journey-profit-from-your-passion-for-2024/"><u>Beginning a Blogging Journey Profit From Your Passion for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/bypassing-iphone-activation-locks-methods-for-users-and-non-users-of-itunes/"><u>Bypassing iPhone Activation Locks: Methods for Users and Non-Users of iTunes</u></a></li>
+<li><a href="https://fox-making.techidaily.com/download-and-install-kik-app-on-your-desktop-computer/"><u>Download and Install KIK App on Your Desktop Computer</u></a></li>
+<li><a href="https://fox-making.techidaily.com/identifying-and-neutralizing-keyloggers-in-windows-environments-with-effective-detection-tools/"><u>Identifying and Neutralizing Keyloggers in Windows Environments with Effective Detection Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-tecno-spark-10-pro-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Tecno Spark 10 Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-base-to-brilliance-comparing-gopro-hero5-black-and-hero4-silver/"><u>In 2024, From Base to Brilliance Comparing GoPro Hero5 Black and Hero4 Silver</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-itel-p55-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Itel P55 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://video-capture.techidaily.com/innovative-recorder-options-without-latency-anxiety-for-2024/"><u>Innovative Recorder Options Without Latency Anxiety for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-the-art-of-comactivex-interoperability-in-software-development/"><u>Mastering the Art of COM/ActiveX Interoperability in Software Development</u></a></li>
+<li><a href="https://fox-making.techidaily.com/organizational-component-strategies-and-implementation/"><u>Organizational Component Strategies and Implementation</u></a></li>
+<li><a href="https://fox-making.techidaily.com/seamless-transition-guide-turning-your-avi-videos-into-m4v-format/"><u>Seamless Transition Guide: Turning Your AVI Videos Into M4V Format</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/take-charge-of-your-listening-experience-disabling-autoplay-in-apple-music/"><u>Take Charge of Your Listening Experience: Disabling Autoplay in Apple Music</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-rated-digital-canvas-the-ultimate-online-photo-editing-tool/"><u>Top-Rated Digital Canvas: The Ultimate Online Photo Editing Tool</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-the-folder-properties-dialog-box-a-comprehensive-guide/"><u>Understanding the Folder Properties Dialog Box: A Comprehensive Guide</u></a></li>
 </ul></div>
 

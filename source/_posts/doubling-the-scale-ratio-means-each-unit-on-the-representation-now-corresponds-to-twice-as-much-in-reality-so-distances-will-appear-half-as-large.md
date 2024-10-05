@@ -1,7 +1,7 @@
 ---
 title: Doubling the Scale Ratio Means Each Unit on the Representation Now Corresponds to Twice as Much in Reality, so Distances Will Appear Half as Large.
-date: 2024-09-25T04:54:08.789Z
-updated: 2024-09-30T11:15:30.810Z
+date: 2024-10-04T16:24:04.217Z
+updated: 2024-10-05T21:31:49.015Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,16 +54,20 @@ thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-safeguarding-your-music-three-recording-approaches-for-2024/"><u>[New] Safeguarding Your Music Three Recording Approaches for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-elevating-your-footage-imovie-videos-for-youtube-enthusiasts/"><u>[Updated] In 2024, Elevating Your Footage IMovie Videos for YouTube Enthusiasts</u></a></li>
-<li><a href="https://fox-making.techidaily.com/creative-tims-top-quality-svelte-free-design-themes-and-starter-kits/"><u>Creative Tim's Top-Quality Svelte Free Design Themes and Starter Kits</u></a></li>
-<li><a href="https://fox-making.techidaily.com/creative-tims-ultimate-react-and-material-ui-combo-premium-argon-dashboard-2-pro-for-enhanced-user-interfaces/"><u>Creative Tim's Ultimate React & Material UI Combo - Premium Argon Dashboard 2 PRO for Enhanced User Interfaces</u></a></li>
-<li><a href="https://fox-making.techidaily.com/discover-the-exciting-features-of-astrolaunch-ui-your-go-to-solution-for-creating-stunning-astro-templates-at-no-cost/"><u>Discover the Exciting Features of AstroLaunch UI: Your Go-To Solution for Creating Stunning Astro Templates at No Cost!</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-free-vuetify-admin-template-for-vuejs-projects-inspired-by-creative-tim/"><u>Download Free Vuetify Admin Template for Vue.js Projects - Inspired by Creative Tim</u></a></li>
-<li><a href="https://blog-min.techidaily.com/downloads-gratuito-de-mka-a-mp4-mejorar-tu-video-con-convertidor-en-linea/"><u>Downloads Gratuito De MKA a MP4: Mejorar Tu Video Con Convertidor en Línea</u></a></li>
-<li><a href="https://fox-making.techidaily.com/experience-seamless-web-management-with-the-free-vue-argon-aspnet-admin-template-crafted-by-creative-tim-creative-tim/"><u>Experience Seamless Web Management with the Free Vue Argon Asp.Net Admin Template - Crafted by Creative Tim @ Creative Tim</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-a24-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy A24?</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-sync-your-sound-step-by-step-audio-editing-in-avidemux-for-the-modern-producer/"><u>In 2024, Sync Your Sound Step-by-Step Audio Editing in Avidemux for the Modern Producer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/techniques-for-transforming-twitter-vids-to-mp3-audios/"><u>Techniques for Transforming Twitter Vids to MP3 Audios</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-a-closer-look-at-facebooks-video-transformation/"><u>[New] A Closer Look at Facebook’s Video Transformation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-entry-into-the-world-of-google-meet-webinars/"><u>[New] Entry Into the World of Google Meet Webinars</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-captureeverything-a-deep-dive-into-laptop-recording/"><u>[Updated] In 2024, CaptureEverything A Deep Dive Into Laptop Recording</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-ultimate-free-pdf-markup-tool-2020-simplify-your-pdf-note-taking-experience/"><u>1. Ultimate Free PDF Markup Tool 2020 - Simplify Your PDF Note-Taking Experience</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-imaginarium-collagecraft-cutting-edge-assembler/"><u>2024 Approved Imaginarium CollageCraft Cutting-Edge Assembler</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-ping-woes-in-chivalry-of-heroes-advanced-fixes-and-tweaks-expert-guide/"><u>Eliminate Ping Woes in Chivalry of Heroes - Advanced Fixes & Tweaks (Expert Guide )</u></a></li>
+<li><a href="https://fox-making.techidaily.com/enhancing-visuals-with-videography-borders-a-comprehensive-tutorial/"><u>Enhancing Visuals with Videography Borders - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-m54-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy M54 5G FRP</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-powershell-a-guide-to-the-options-configuration-panel/"><u>Mastering Powershell: A Guide to the Options Configuration Panel</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-the-fundamentals-of-typeface-characteristics/"><u>Mastering the Fundamentals of Typeface Characteristics</u></a></li>
+<li><a href="https://fox-making.techidaily.com/maximize-performance-mastering-the-art-of-iupdatetargets-management/"><u>Maximize Performance: Mastering the Art of IUpdateTargets Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/pro-tips-to-locate-windows-10-or-11-keys-efficiently/"><u>Pro Tips to Locate Windows 10 or 11 Keys Efficiently</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-operation-of-usbasp-on-varied-windows-platforms-unlocked-solved/"><u>Smooth Operation of USBasp on Varied Windows Platforms Unlocked [SOLVED]</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-applying-image-watermarks-effortlessly/"><u>Step-by-Step Guide: Applying Image Watermarks Effortlessly</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-guide-how-to-seamlessly-copy-iphone-x-information-onto-android-phones/"><u>Ultimate Guide: How to Seamlessly Copy iPhone X Information Onto Android Phones</u></a></li>
 </ul></div>
 

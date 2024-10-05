@@ -1,7 +1,7 @@
 ---
 title: Understanding and Customizing System's Preferred Applications
-date: 2024-09-26T21:00:58.375Z
-updated: 2024-09-30T06:01:25.470Z
+date: 2024-09-30T19:19:12.743Z
+updated: 2024-10-05T17:35:27.128Z
 tags:
   - user-guide
 categories:
@@ -95,9 +95,23 @@ For additional information please, see Microsoft's Platform SDK documentation.
 
 This section allows you to specify all the information needed to register an application to Windows Default Programs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Application description
 
 A string that describes the application's capabilities. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Capabilities Path
 
@@ -106,10 +120,10 @@ Specify the Capabilities key's registry key path.
 The Capabilities key contains all the Default Programs information for a specific application. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set your defaults
@@ -121,39 +135,19 @@ This is achieved with the use of a custom action which is running at the end of 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The options you set here only apply to the user that performs the installation. Your choices won't affect other user accounts on the machine. Also, all the settings performed after the installation through the Default Programs UI will apply only to the current user.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Program Association
 
 To add a new Program association, right click on the_Set Default_ table and choose Add Program Association... option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Protocol (URL) Association
 
 To define a new Protocol Association, right click on the_Set Default_ table and choose Add URL Association... option. The [Add Protocol Association dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed.
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -193,24 +187,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-perfect-skype-recordings-mastering-the-art-of-obs/"><u>[New] 2024 Approved Perfect Skype Recordings Mastering the Art of OBS</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-comprehensive-manual-for-flawless-snapchat-boomers/"><u>[New] 2024 Approved The Comprehensive Manual for Flawless Snapchat Boomers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tranquil-twilight-tales-in-video-form/"><u>[Updated] Tranquil Twilight Tales in Video Form</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/comprehensive-guide-to-optimizing-facetime-recording-quality-for-2024/"><u>Comprehensive Guide to Optimizing FaceTime Recording Quality for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-and-convert-3d-buzz-media-high-quality-formats-like-mp4-wmv-and-avi-at-your-fingertips/"><u>Download & Convert 3D Buzz Media: High-Quality Formats Like MP4, WMV and AVI at Your Fingertips</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-ultra-hd-videos-from-youtube-in-8k-resolution-on-pc-or-mac/"><u>Download Ultra HD Videos From YouTube in 8K Resolution on PC or Mac</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-lava-blaze-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Lava Blaze Pro 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/efficient-ways-to-transform-webpt-videos-into-high-quality-mp4-or-mov-on-windows-and-mac-systems/"><u>Efficient Ways to Transform WebPT Videos Into High-Quality MP4 or MOV on Windows & Mac Systems</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/elevate-your-fb-video-game-11-winning-strategies/"><u>Elevate Your FB Video Game 11 Winning Strategies</u></a></li>
-<li><a href="https://fox-making.techidaily.com/enhance-offline-watching-of-globo-channels-by-downloading-and-converting-videos-into-mp4-and-wmv-files/"><u>Enhance Offline Watching of Globo Channels by Downloading and Converting Videos Into MP4 & WMV Files</u></a></li>
-<li><a href="https://fox-making.techidaily.com/guide-converting-gamepro-tv-broadcasts-into-multiple-formats-mp4-mov-avi-mp3/"><u>Guide: Converting GamePro TV Broadcasts Into Multiple Formats - MP4, MOV, AVI, MP3</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-for-when-zoom-wont-play-your-video-the-best-5-methods/"><u>Quick Fixes for When Zoom Won't Play Your Video – The Best 5 Methods</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-tutorial-for-converting-amazon-prime-media-into-mp4-and-mp3-formats/"><u>Step-by-Step Tutorial for Converting Amazon Prime Media Into MP4 & MP3 Formats</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-tutorial-on-downloading-and-transforming-mark-manson-videos-into-desired-audiovideo-formats/"><u>Step-by-Step Tutorial on Downloading and Transforming Mark Manson Videos Into Desired Audio/Video Formats</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-tutorial-on-saving-and-transforming-ufc-fights-to-mp4avimov-files/"><u>Step-by-Step Tutorial on Saving and Transforming UFC Fights to MP4/AVI/MOV Files</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-tutorial-accessing-and-saving-hardsextube-media/"><u>Step-by-Step Tutorial: Accessing and Saving HardSexTube Media</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-your-chatgpt-access-top-4-causes-of-bans-and-solutions/"><u>Unlocking Your ChatGPT Access: Top 4 Causes of Bans and Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/vividaieditor-bringing-images-to-life-anew/"><u>VividAiEditor Bringing Images to Life Anew</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-a-compreenas-guide-for-efficient-pip-integration-in-edge-browser/"><u>[New] 2024 Approved A Compreenas Guide for Efficient PIP Integration in Edge Browser</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-techniques-to-rectify-non-sending-videos-on-iphones-and-android-messengers/"><u>[New] 2024 Approved Techniques to Rectify Non-Sending Videos on iPhones & Android Messengers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-deciphering-highlighted-discussion-threads/"><u>[New] In 2024, Deciphering Highlighted Discussion Threads</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-anime-aesthetics-top-20-visual-elements-on-tiktok-for-2024/"><u>[Updated] Anime Aesthetics Top 20 Visual Elements on TikTok for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-ultimate-free-pdf-markup-tool-2020-simplify-your-pdf-note-taking-experience/"><u>1. Ultimate Free PDF Markup Tool 2020 - Simplify Your PDF Note-Taking Experience</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-engage-entertain-enlighten-crafting-compelling-live-thumbnails/"><u>2024 Approved Engage, Entertain, Enlighten Crafting Compelling Live Thumbnails</u></a></li>
+<li><a href="https://fox-making.techidaily.com/best-methods-for-transferring-your-favorite-youtube-audio-tracks-to-itunes-across-pc-and-mac/"><u>Best Methods for Transferring Your Favorite YouTube Audio Tracks to iTunes Across PC & Mac</u></a></li>
+<li><a href="https://fox-making.techidaily.com/complex-interaction-frameworks-in-dialog-systems/"><u>Complex Interaction Frameworks in Dialog Systems</u></a></li>
+<li><a href="https://fox-making.techidaily.com/comprehensive-analysis-screenr-vs-competing-software-options/"><u>Comprehensive Analysis: Screenr Vs. Competing Software Options</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effortlessly-export-documents-as-templates/"><u>Effortlessly Export Documents as Templates</u></a></li>
+<li><a href="https://fox-making.techidaily.com/exploring-smartscreen-technology-in-windows-defender-to-disable-or-not-to-disable/"><u>Exploring SmartScreen Technology in Windows Defender – To Disable or Not to Disable?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-visual-storytelling-the-cutting-edge-6-instagram-reel-tools/"><u>In 2024, Mastering Visual Storytelling The Cutting-Edge 6 Instagram Reel Tools</u></a></li>
+<li><a href="https://facebook.techidaily.com/metas-strategic-moves-spark-concern-over-european-tech-titans-future/"><u>Meta’s Strategic Moves Spark Concern Over European Tech Titans' Future</u></a></li>
+<li><a href="https://fox-making.techidaily.com/quick-and-simple-methods-optimize-your-music-by-shrinking-mp3-size/"><u>Quick & Simple Methods: Optimize Your Music by Shrinking MP3 Size</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-oneplus-11r-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on OnePlus 11R Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-moving-your-iphone-videos-to-a-windows-11-computer/"><u>Step-by-Step Guide: Moving Your iPhone Videos to a Windows 11 Computer</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-tutorial-transforming-myvideo-streams-to-mp3-format-for-download-and-play/"><u>Step-by-Step Tutorial: Transforming MyVideo Streams to MP3 Format for Download and Play</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/sunshine-strategies-enhancing-indoor-luminary-quality-for-2024/"><u>Sunshine Strategies Enhancing Indoor Luminary Quality for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-art-of-flawless-instantaneous-iphone-podcast-downloads-for-2024/"><u>Unlocking the Art of Flawless, Instantaneous iPhone Podcast Downloads for 2024</u></a></li>
 </ul></div>
 

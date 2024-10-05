@@ -1,7 +1,7 @@
 ---
 title: "Understanding the File Properties Window: A Comprehensive Guide"
-date: 2024-09-28T16:36:55.892Z
-updated: 2024-09-29T20:40:03.671Z
+date: 2024-10-01T18:28:51.054Z
+updated: 2024-10-05T17:36:01.497Z
 tags:
   - user-guide
 categories:
@@ -97,10 +97,10 @@ Table of Contents
 In this dialog you change the source path, mark the file (DLL, OCX) for install time self registration, set its version, attributes and permissions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -151,18 +151,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-quick-guide-to-capturing-moments-during-google-meets/"><u>2024 Approved Quick Guide to Capturing Moments During Google Meets</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-sony-xbr-49x900f-49-4k-uhd-smart-led-television-evaluation-breathtking-visuals/"><u>Comprehensive Sony XBR-49X900F 49 4K UHD Smart LED Television Evaluation: Breathtking Visuals</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-lava-storm-5g-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Lava Storm 5G</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-faulty-printer-response-in-ad-ds-win-10-and-11/"><u>Eliminating Faulty Printer Response in AD DS, WIN 10 & 11</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-harnessing-instagrams-power-for-financial-gain/"><u>In 2024, Harnessing Instagram's Power for Financial Gain</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/lytter-til-lyd-med-simpelste-audio-extraktor-trekke-taettere-op-pa-netvaerket/"><u>Lytter Til Lyd Med Simpelste Audio Extraktør, Trekke Tættere Op På Netværket</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/my-podcast-journey-with-ai-texting/"><u>My Podcast Journey with AI Texting</u></a></li>
-<li><a href="https://fox-making.techidaily.com/protecting-access-to-your-digital-publications-with-robust-passwords-tips-for-using-flipbuilder/"><u>Protecting Access to Your Digital Publications with Robust Passwords - Tips for Using FlipBuilder</u></a></li>
-<li><a href="https://fox-links.techidaily.com/superb-online-stores-where-to-find-and-purchase-youtube-ringtones/"><u>Superb Online Stores Where to Find & Purchase YouTube Ringtones?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/transitioning-your-eflipbook-layout-guide-for-changing-text-flow-in-flipplrcom/"><u>Transitioning Your eFlipbook Layout: Guide for Changing Text Flow in flipplr.com</u></a></li>
-<li><a href="https://fox-making.techidaily.com/troubleshooting-guide-for-grey-screen-hurdles-in-page-editing-on-flipplatform-flipbuildercom/"><u>Troubleshooting Guide for 'Grey Screen' Hurdles in Page Editing on FlipPlatform [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-flipbuilders-comprehensive-refunds-strategy-find-out-how-we-protect-our-customers/"><u>Understanding FlipBuilder's Comprehensive Refunds Strategy – Find Out How We Protect Our Customers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-obs-meets-shadowcast/"><u>[New] In 2024, OBS Meets ShadowCast</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unlock-the-power-to-create-personalized-whatsapp-alerts/"><u>[Updated] 2024 Approved Unlock the Power to Create Personalized WhatsApp Alerts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-key-aspects-of-web-based-storytelling/"><u>2024 Approved Key Aspects of Web-Based Storytelling</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-honor-x9a-frp-bypass-by-drfone-android/"><u>About Honor X9a FRP Bypass</u></a></li>
+<li><a href="https://fox-making.techidaily.com/an-overview-on-ac3-file-format-and-compatibility-guide/"><u>An Overview on AC3 File Format and Compatibility Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/best-of-the-best-top-4-mac-compatible-watermarking-solutions/"><u>Best of the Best: Top 4 Mac-Compatible Watermarking Solutions</u></a></li>
+<li><a href="https://fox-making.techidaily.com/download-and-install-kik-app-on-your-desktop-computer/"><u>Download and Install KIK App on Your Desktop Computer</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/earths-dominant-dialects-ranked-15/"><u>Earth's Dominant Dialects – Ranked #15</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-methods-to-detect-and-eliminate-filerepmalware-expert-insights/"><u>Effective Methods to Detect and Eliminate FileRepMalware – Expert Insights</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-k11-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo K11 5G?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-strategies-for-smooth-clear-sound-in-zoom-powered-podcasts/"><u>In 2024, Strategies for Smooth, Clear Sound in Zoom-Powered Podcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultra-clarity-the-new-era-of-hd-monitors-envy-27/"><u>In 2024, Ultra Clarity The New Era of HD Monitors - Envy 27</u></a></li>
+<li><a href="https://fox-making.techidaily.com/organizational-component-strategies-and-implementation/"><u>Organizational Component Strategies and Implementation</u></a></li>
+<li><a href="https://fox-making.techidaily.com/preventing-spam-and-malicious-sms-a-guide-to-securing-your-android-device-with-malwarefox/"><u>Preventing Spam and Malicious SMS: A Guide to Securing Your Android Device with MalwareFox</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-transferring-data-from-your-huawei-mate-40-pro-to-a-computer/"><u>Step-by-Step Guide: Transferring Data From Your Huawei Mate 40 Pro to a Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-siri-suggestions-when-they-wont-appear-on-your-iphone/"><u>Troubleshooting Siri Suggestions When They Won't Appear on Your iPhone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-guide-mastering-java-configuration-options/"><u>Ultimate Guide: Mastering Java Configuration Options</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-guide-reactivating-your-locked-or-deactivated-ipad/"><u>Ultimate Guide: Reactivating Your Locked or Deactivated iPad</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-asmrs-health-perks/"><u>Understanding ASMR's Health Perks</u></a></li>
 </ul></div>
 
