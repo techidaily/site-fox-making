@@ -1,7 +1,7 @@
 ---
 title: Expert Strategies for Successful Execution of Sophisticated Installer Creations
-date: 2024-10-03T22:38:41.573Z
-updated: 2024-10-05T17:46:25.086Z
+date: 2024-10-08T05:02:38.763Z
+updated: 2024-10-10T16:34:36.999Z
 tags:
   - user-guide
 categories:
@@ -73,15 +73,22 @@ The Advanced Installer Project is an XML file with the extension AIP. Advanced I
 ![New Project](https://cdn.advancedinstaller.com/img/toolbar/project-new.png "New Project") Use the \[New... \] toolbar button, the “File > New...” menu item or theCtrl+N keyboard shortcut. The [Start Page](https://tools.techidaily.com/advancedinstaller/products/) will show up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Loading an existing project
 
 ![Open Project](https://cdn.advancedinstaller.com/img/toolbar/project-open.png "Open Project")Use the\[Open... \] toolbar button, the “File > Open...” menu item or the Ctrl+O keyboard shortcut. You can also load an existing project by double clicking on the corresponding AIP project file in Windows Explorer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Loading a recently accessed project
 
@@ -91,13 +98,6 @@ The Advanced Installer Project is an XML file with the extension AIP. Advanced I
 
 ![Save Project](https://cdn.advancedinstaller.com/img/toolbar/project-save.png "Save Project") Use the \[Save \] toolbar button, the “File > Save” menu item or theCtrl+S keyboard shortcut.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Saving the project under a different name
 
  Use the “File > Save as...” menu item.
@@ -105,10 +105,17 @@ The Advanced Installer Project is an XML file with the extension AIP. Advanced I
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Warning: starting a new project from an already existing one by saving it under a different name is **not** advisable, because all the GUIDs for product, components, etc. in the two projects will be identical and thus will conflict. You should use the “File > Save as Template...” option for this.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Save As Template...
@@ -117,31 +124,38 @@ Use the “Save As Template...” menu item.
 
 Creates a project template starting from the current project in order to reuse it in building a different package. New UpgradeCode, ProductCode and all the components GUIDs are generated when the template is used.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Building the project
 
 ![Build Project](https://cdn.advancedinstaller.com/img/toolbar/project-build.png "Build Project")Use the \[Build \] toolbar button, the “Project > Build” menu item or theF7 keyboard shortcut. You need at least one component (file, registry entry, etc) in your project before you can build it.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You have the option to select which build to perform from the button's drop down menu. When you directly push the button, the project that was build last is created. If no individual build was made previous, all builds are performed.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)By default, Advanced Installer [caches](https://tools.techidaily.com/advancedinstaller/products/) the _archives_ created during build process in order to **reuse** them in future builds if the source files did not change.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Running the project
 
 ![Run Project](https://cdn.advancedinstaller.com/img/toolbar/project-run.png "Run Project") Use the \[Run \] toolbar button, the “Project > Run” menu item or theF5 keyboard shortcut. If the project is out of date, it will first be built and then launched. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 When this button is used, the resulted package from the last performed build is launched. If all the builds were performed than the first package in the building order is launched.
 
@@ -149,23 +163,9 @@ When this button is used, the resulted package from the last performed build is 
 
 Enable the “Show run log” item “Home” tab in the ribbon. The resulting Windows Installer log will be shown in the “Run Log” Panel. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Running the project in a virtual machine
 
 Use the “Run in VM” item of the \[Run \] button context menu or the “Project > Run > Run in VM” menu item. You can test the installation by running it in the provisioned virtual machine. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Displaying context-sensitive help
 
@@ -224,15 +224,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-frameitright-instagram-size-settings-explained-for-2024/"><u>[Updated] FrameItRight Instagram Size Settings Explained for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-y02t-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo Y02T? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-free-premiere-pro-templates-for-2024/"><u>Best Free Premiere Pro Templates for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-use-kik-chat-service-from-a-windows-or-mac-laptop/"><u>How to Use KIK Chat Service From a Windows or Mac Laptop</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-fascinating-world-of-stock-pictures-and-meme-lore/"><u>In 2024, The Fascinating World of Stock Pictures & Meme Lore</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-15-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 15 Plus Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/malvertising-explained-insights-from-malwarefox-specialists/"><u>Malvertising Explained – Insights From MalwareFox Specialists</u></a></li>
-<li><a href="https://fox-making.techidaily.com/quick-guide-removing-notes-seamlessly-on-ios-devices/"><u>Quick Guide: Removing Notes Seamlessly on iOS Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-realme-c55-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme C55 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/unlock-the-secrets-mastering-file-versions-with-easy-to-use-tabs/"><u>Unlock the Secrets: Mastering File Versions with Easy-to-Use Tabs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-best-zero-cost-chromebook-recorders/"><u>[New] 2024 Approved Best Zero Cost Chromebook Recorders</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-aperture-aces-top-picks-the-most-impressive-6-4k-dslrs/"><u>[New] Aperture Aces' Top Picks The Most Impressive 6 4K DSLRs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-frolicsome-videoland-assessor/"><u>2024 Approved Frolicsome Videoland Assessor</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-livestream-quality-decision-opt-for-streamlabs-or-obs/"><u>2024 Approved Livestream Quality Decision Opt for Streamlabs or OBS?</u></a></li>
+<li><a href="https://fox-making.techidaily.com/best-of-the-best-top-4-mac-compatible-watermarking-solutions/"><u>Best of the Best: Top 4 Mac-Compatible Watermarking Solutions</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-methods-to-detect-and-eliminate-filerepmalware-expert-insights/"><u>Effective Methods to Detect and Eliminate FileRepMalware – Expert Insights</u></a></li>
+<li><a href="https://fox-making.techidaily.com/expert-strategies-for-creating-viral-videos-on-facebook/"><u>Expert Strategies for Creating Viral Videos on Facebook</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-tecno-spark-10-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Tecno Spark 10 5G Phone?</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-windows-registry-tweaks-the-ultimate-dialog-on-changing-settings/"><u>Mastering Windows Registry Tweaks: The Ultimate Dialog on Changing Settings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/maximizing-your-audio-quality-tips-for-amplifying-m4a-file-volumes/"><u>Maximizing Your Audio Quality - Tips for Amplifying M4A File Volumes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/most-reliable-image-archiving-sites-for-2024/"><u>Most Reliable Image Archiving Sites for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/next-level-entertainment-the-rise-of-vr-applications-for-2024/"><u>Next-Level Entertainment The Rise of VR Applications for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/optimized-browser-extension-for-dominating-holeio-best-for-windows-and-macs/"><u>Optimized Browser Extension for Dominating Hole.io - Best for Windows and Macs</u></a></li>
+<li><a href="https://fox-making.techidaily.com/preventing-spam-and-malicious-sms-a-guide-to-securing-your-android-device-with-malwarefox/"><u>Preventing Spam and Malicious SMS: A Guide to Securing Your Android Device with MalwareFox</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-sim-card-not-activated-message-mmdd-issue-a-comprehensive-guide/"><u>Solving 'SIM Card Not Activated, Message (MM/DD)' Issue - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-transferring-data-from-your-huawei-mate-40-pro-to-a-computer/"><u>Step-by-Step Guide: Transferring Data From Your Huawei Mate 40 Pro to a Computer</u></a></li>
 </ul></div>
 

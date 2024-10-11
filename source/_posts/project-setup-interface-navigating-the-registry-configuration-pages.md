@@ -1,7 +1,7 @@
 ---
 title: "Project Setup Interface: Navigating the Registry Configuration Pages"
-date: 2024-09-29T18:50:38.287Z
-updated: 2024-10-05T16:02:54.253Z
+date: 2024-10-07T01:53:46.870Z
+updated: 2024-10-11T06:58:37.588Z
 tags:
   - user-guide
 categories:
@@ -88,6 +88,13 @@ You can add registry keys and values to the install package in the Registry page
 
 There is a special hive in the left pane, named "Current user / Local machine". The registry entries added under this section will be installed in either HKEY\_CURRENT\_USER or HKEY\_LOCAL\_MACHINE, depending on the type of installation: per-user or per-machine.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating new registry keys
 
 ![New Key](https://cdn.advancedinstaller.com/img/toolbar/folder-new.png "New Key") Use the \[New Key \] toolbar button, the “New Key” tree/list context menu item, or press the Insert key while the “Hive” panel is selected. The new key will be added under the selected key in the left pane. It is possible to create multiple subkeys at once using the "\\" character in the key's name. 
@@ -108,39 +115,19 @@ Copy
 
 ![Value Removal](https://cdn.advancedinstaller.com/img/toolbar/registry-value-removal-new.png "Value Removal") Use the \[New Value Removal \] toolbar button or the “New Value Removal” list context menu item. To change the removal properties use the [Registry Value Removal Dialog](https://tools.techidaily.com/advancedinstaller/products/). 
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding registry keys
 
 ![Add Keys](https://cdn.advancedinstaller.com/img/toolbar/folder-add.png "Add Keys") Use the \[Add Key \] toolbar button, the “Add Key...” tree/list context menu item or press the \* key while the “Values” panel is focused. You will be prompted to choose a registry key from your computer's registry using the [Registry Key Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/). All the selected key's subkeys and values will be added. 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Adding registry values
 
 ![Add Values](https://cdn.advancedinstaller.com/img/toolbar/registry-add.png "Add Values") Use the \[Add Values \] toolbar button, the “Add Values...” tree/list context menu item or press the + key while the “Values” panel is selected. You will be prompted to choose registry values from your computer's registry using the [Registry Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/). 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Importing Registry Entries from a Registration File (.reg)
@@ -151,14 +138,14 @@ Copy
 
 ![Export REG file](https://cdn.advancedinstaller.com/img/toolbar/registry-export-reg.png "Export REG file")Select a hive, a key or the _Target Computer_ root element(this will select everything) then use the \[Export REG \] toolbar button or the “Export” context menu item to export the registry entries to a Windows Registration File (.reg). 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)**Current user/Local machine** hive will always be exported as **HKEY\_LOCAL\_MACHINE**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Setting the Current Feature
 
@@ -166,19 +153,27 @@ Advanced Installer will create components for the added resources as necessary. 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can further manage the your package's organization in the [Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
 
-![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This feature is not available for Merge Module projects. For more details see the [Merge Module Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This feature is not available for Merge Module projects. For more details see the [Merge Module Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 ### Editing and setting properties and permissions for a registry key or value
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the\[Properties \] toolbar button, the “Properties...” tree context menu item or press theEnter key while an element in the “Values” panel is selected.  
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the [Registry Value Dialog](https://tools.techidaily.com/advancedinstaller/products/) you can modify the registry value's name, type and content, and you can add, modify or remove permissions.   
   
  In the [Registry Key Dialog](https://tools.techidaily.com/advancedinstaller/products/) you can set the registry key's creation and deletion properties, and you can add, modify or remove permissions (permissions must be created first, by checking at least one option in the Properties page). 
@@ -186,13 +181,6 @@ Advanced Installer will create components for the added resources as necessary. 
 ### Uninstall Cleanup
 
 Launches a wizard that will allow you to specify what registry entries created by your application will be removed upon uninstall.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Locating the attached component for a resource
 
@@ -205,10 +193,10 @@ This command is available for:
 * a registry key that will be created (if absent) at install or deleted (if present) at uninstall.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Moving registry keys and values
@@ -216,10 +204,10 @@ This command is available for:
 Select the items to be moved and then drag and drop them to the target location.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Renaming registry keys and values
@@ -254,6 +242,19 @@ Specify the registry path to be disregarded during a repackager scan.
 Configure registry filters directly from the [Repackager Settings dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)A new **Duplicate of Default** profile will be created if no current profile is already defined.
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -305,16 +306,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-essential-tips-for-overwatch-game-sound-logging/"><u>2024 Approved Essential Tips for Overwatch Game Sound Logging</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-v27e-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo V27e FRP</u></a></li>
-<li><a href="https://fox-making.techidaily.com/easy-conversion-tips-how-to-make-any-mkv-video-play-smoothly-on-an-ipadipad-2new-ipad/"><u>Easy Conversion Tips: How to Make Any MKV Video Play Smoothly on an iPad/iPad 2/New iPad</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-journey-to-vivid-visuals-top-11-hue-enhancement-guides/"><u>In 2024, A Journey to Vivid Visuals Top 11 Hue Enhancement Guides</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-the-art-of-analytic-assessment-in-the-youtube-sphere/"><u>In 2024, The Art of Analytic Assessment in the YouTube Sphere</u></a></li>
-<li><a href="https://fox-making.techidaily.com/leading-itunes-data-recovery-software-for-windows-and-mac-operating-systems/"><u>Leading iTunes Data Recovery Software for Windows & Mac Operating Systems</u></a></li>
-<li><a href="https://fox-making.techidaily.com/optimize-your-database-searches-with-sql-command-line-tools/"><u>Optimize Your Database Searches with SQL Command Line Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-video-file-types-optimal-for-youtube-content-upload/"><u>Top Video File Types Optimal for YouTube Content Upload</u></a></li>
-<li><a href="https://fox-making.techidaily.com/ultimate-guide-incorporating-motion-typography-in-your-videos/"><u>Ultimate Guide: Incorporating Motion Typography in Your Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/uncover-the-best-a-list-of-top-8-no-cost-roku-channels/"><u>Uncover the Best: A List of Top 8 No-Cost Roku Channels</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-new-possibilities-how-apples-integration-of-nfc-in-iphones-with-third-party-apps-enhances-your-experience-techinsights/"><u>Unlocking New Possibilities: How Apple's Integration of NFC in iPhones with Third-Party Apps Enhances Your Experience | TechInsights</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/verage-revenue-what-every-view-contributes-to-creators/"><u>[New] Average Revenue What Every View Contributes to Creators</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-critical-review-of-superior-stream-platforms/"><u>[Updated] Critical Review of Superior Stream Platforms</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-become-a-pro-at-mac-audio-recording-using-audacity-today/"><u>[Updated] In 2024, Become a Pro at Mac Audio Recording Using Audacity Today</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-roguelikes-traditional-tactics-vs-modern-mechanics/"><u>2024 Approved Roguelike's Traditional Tactics Vs. Modern Mechanics</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easy-steps-how-to-save-spotify-playlists-on-pc-or-mac-systems/"><u>Easy Steps: How to Save Spotify Playlists on PC or Mac Systems</u></a></li>
+<li><a href="https://fox-making.techidaily.com/efficient-file-management-with-ifile-the-ultimate-tool/"><u>Efficient File Management with iFile - The Ultimate Tool</u></a></li>
+<li><a href="https://fox-making.techidaily.com/maximize-performance-mastering-the-art-of-iupdatetargets-management/"><u>Maximize Performance: Mastering the Art of IUpdateTargets Management</u></a></li>
+<li><a href="https://fox-making.techidaily.com/no-cost-methods-for-moving-music-from-your-iphone-onto-a-laptop-or-desktop/"><u>No-Cost Methods for Moving Music From Your iPhone Onto a Laptop or Desktop</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/radiant-realities-setting-up-for-standout-videos/"><u>Radiant Realities Setting Up for Standout Videos</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-applying-image-watermarks-effortlessly/"><u>Step-by-Step Guide: Applying Image Watermarks Effortlessly</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-perfect-blend-of-exercise-tracking-and-music-streaming-discover-the-garmin-vivoactive-3/"><u>The Perfect Blend of Exercise Tracking & Music Streaming: Discover the Garmin Vivoactive 3</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-7-devices-to-power-your-metaverse-experience-for-2024/"><u>Top 7 Devices to Power Your Metaverse Experience for 2024</u></a></li>
 </ul></div>
 

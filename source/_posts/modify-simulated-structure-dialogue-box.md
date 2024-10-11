@@ -1,7 +1,7 @@
 ---
 title: Modify Simulated Structure Dialogue Box
-date: 2024-10-03T17:55:10.532Z
-updated: 2024-10-05T22:00:49.249Z
+date: 2024-10-08T02:50:25.575Z
+updated: 2024-10-11T00:01:35.192Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,10 @@ Table of Contents
 ![Edit PseudoFormatted Type Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-pseudoformatted-type.png "Edit PseudoFormatted Type Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Inserting a reference to a property
@@ -97,10 +97,16 @@ Table of Contents
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Be careful to remove both matching square brackets and everything in between.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -136,24 +142,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-full-guide-to-facebook-algorithm-change-are-you-ready/"><u>[New] 2024 Approved Full Guide to Facebook Algorithm Change Are You Ready？</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-ultimate-guide-to-ae-title-effect-wizardry/"><u>[New] 2024 Approved The Ultimate Guide to AE Title Effect Wizardry</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx/"><u>[New] In 2024, Evolutionary Tools Redefining the Art of Game Capture Beyond FBX</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/51-der-deutschen-unternehmen-zitieren-ein-fehlendes-prozessverstandnis-als-hauptgrund-fur-rpa-fehlschlage-expertenwissen-von-abbyy/"><u>51% Der Deutschen Unternehmen Zitieren Ein Fehlendes Prozessverständnis Als Hauptgrund Für RPA-Fehlschläge - Expertenwissen Von ABBYY</u></a></li>
-<li><a href="https://fox-making.techidaily.com/an-overview-on-ac3-file-format-and-compatibility-guide/"><u>An Overview on AC3 File Format and Compatibility Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ning-a-blogging-journey-profit-from-your-passion-for-2024/"><u>Beginning a Blogging Journey Profit From Your Passion for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/bypassing-iphone-activation-locks-methods-for-users-and-non-users-of-itunes/"><u>Bypassing iPhone Activation Locks: Methods for Users and Non-Users of iTunes</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-and-install-kik-app-on-your-desktop-computer/"><u>Download and Install KIK App on Your Desktop Computer</u></a></li>
-<li><a href="https://fox-making.techidaily.com/identifying-and-neutralizing-keyloggers-in-windows-environments-with-effective-detection-tools/"><u>Identifying and Neutralizing Keyloggers in Windows Environments with Effective Detection Tools</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-tecno-spark-10-pro-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Tecno Spark 10 Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-base-to-brilliance-comparing-gopro-hero5-black-and-hero4-silver/"><u>In 2024, From Base to Brilliance Comparing GoPro Hero5 Black and Hero4 Silver</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-itel-p55-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Itel P55 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://video-capture.techidaily.com/innovative-recorder-options-without-latency-anxiety-for-2024/"><u>Innovative Recorder Options Without Latency Anxiety for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/mastering-the-art-of-comactivex-interoperability-in-software-development/"><u>Mastering the Art of COM/ActiveX Interoperability in Software Development</u></a></li>
-<li><a href="https://fox-making.techidaily.com/organizational-component-strategies-and-implementation/"><u>Organizational Component Strategies and Implementation</u></a></li>
-<li><a href="https://fox-making.techidaily.com/seamless-transition-guide-turning-your-avi-videos-into-m4v-format/"><u>Seamless Transition Guide: Turning Your AVI Videos Into M4V Format</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/take-charge-of-your-listening-experience-disabling-autoplay-in-apple-music/"><u>Take Charge of Your Listening Experience: Disabling Autoplay in Apple Music</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-rated-digital-canvas-the-ultimate-online-photo-editing-tool/"><u>Top-Rated Digital Canvas: The Ultimate Online Photo Editing Tool</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-the-folder-properties-dialog-box-a-comprehensive-guide/"><u>Understanding the Folder Properties Dialog Box: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-access-short-videos-anywhere-the-top-6-free-and-online-youtube-short-download-apps/"><u>[New] 2024 Approved Access Short Videos Anywhere The Top 6 Free & Online YouTube Short Download Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-innovating-with-numbers-tips-for-tiktok-video-enhancements/"><u>[New] 2024 Approved Innovating with Numbers Tips for TikTok Video Enhancements</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-ultimate-selection-for-top-tier-hdr-cameras/"><u>2024 Approved Ultimate Selection for Top-Tier HDR Cameras</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/book-trailers-reviewed-top-5-picks-revealed/"><u>Book Trailers Reviewed Top 5 Picks Revealed</u></a></li>
+<li><a href="https://fox-making.techidaily.com/enhancing-visuals-with-videography-borders-a-comprehensive-tutorial/"><u>Enhancing Visuals with Videography Borders - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-troubleshoot-non-functional-laptop-speakers/"><u>Fixing the Issue: How to Troubleshoot Non-Functional Laptop Speakers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-aerial-sovereign-unpacking-the-gopro-karma-system/"><u>In 2024, Aerial Sovereign Unpacking the GoPro Karma System</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-powershell-a-guide-to-the-options-configuration-panel/"><u>Mastering Powershell: A Guide to the Options Configuration Panel</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-the-fundamentals-of-typeface-characteristics/"><u>Mastering the Fundamentals of Typeface Characteristics</u></a></li>
+<li><a href="https://fox-making.techidaily.com/maximize-performance-mastering-the-art-of-iupdatetargets-management/"><u>Maximize Performance: Mastering the Art of IUpdateTargets Management</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-guide-how-to-seamlessly-copy-iphone-x-information-onto-android-phones/"><u>Ultimate Guide: How to Seamlessly Copy iPhone X Information Onto Android Phones</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-animated-explainer-tools-for-pc-and-mac-2024-update/"><u>Updated Best Free Animated Explainer Tools for PC and Mac (2024 Update)</u></a></li>
+<li><a href="https://solve-news.techidaily.com/nsv-avi-movavi/"><u>무세수 NSV 파일을 AVI로 변환하기 – 가상의 이웃: Movavi</u></a></li>
 </ul></div>
 

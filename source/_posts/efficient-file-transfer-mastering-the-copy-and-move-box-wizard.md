@@ -1,7 +1,7 @@
 ---
 title: "Efficient File Transfer: Mastering the Copy and Move Box Wizard"
-date: 2024-09-28T17:38:27.320Z
-updated: 2024-10-05T20:23:45.044Z
+date: 2024-10-09T02:11:22.613Z
+updated: 2024-10-11T00:01:29.203Z
 tags:
   - user-guide
 categories:
@@ -96,13 +96,6 @@ Table of Contents
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)This operation is intended for files outside the package only. If you need to duplicate files included in the package, you can use a [file duplication operation](https://tools.techidaily.com/advancedinstaller/products/) instead.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Source File
 
 ### Name
@@ -111,6 +104,13 @@ The name of the file to be copied/moved. Use wildcard patterns to copy/move mult
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)When using wildcards, leave the "Destination's File" "Name" field blank in order to preserve the original file names.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Folder
 
 The location of the file to be copied/moved. Use the\[... \] button to select the source folder.
@@ -118,10 +118,23 @@ The location of the file to be copied/moved. Use the\[... \] button to select th
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If the source folder is not among the ones displayed in the [Folder Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) you must first specify it through a [property based folder](https://tools.techidaily.com/advancedinstaller/products/). Then you will be able to select it in the picker.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Destination File
@@ -135,19 +148,19 @@ The name target file's name. You can [localize](https://tools.techidaily.com/adv
 The target location of the file to be copied/moved. This folder is set automatically to the folder which contains the file operation.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Component
@@ -161,19 +174,6 @@ The time when the copy/move operation will be executed. There are three availabl
 * Component install
 * Component uninstall
 * Both
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Condition
 
@@ -219,15 +219,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-essential-techniques-for-sizing-up-your-instagram-video-reach/"><u>[Updated] 2024 Approved Essential Techniques for Sizing Up Your Instagram Video Reach</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-efface-thin-borders-for-a-seamless-youtube-experience/"><u>[Updated] Efface Thin Borders for a Seamless YouTube Experience</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-transform-images-on-the-fly-the-best-overlay-apps-for-android-and-iphone-for-2024/"><u>[Updated] Transform Images on the Fly – The Best Overlay Apps for Android & iPhone for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-mastering-worldwide-configuration-options-a-comprehensive-guide/"><u>1. Mastering Worldwide Configuration Options: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/effortless-developing-of-lightweight-applications-using-thinapp-technology/"><u>Effortless Developing of Lightweight Applications Using ThinApp Technology</u></a></li>
-<li><a href="https://fox-making.techidaily.com/enhance-application-functionality-using-imergemodule-the-ultimate-guide/"><u>Enhance Application Functionality Using IMergeModule - The Ultimate Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 13 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://fox-making.techidaily.com/introducing-apowerrec-unveiling-revolutionary-features/"><u>Introducing ApowerREC: Unveiling Revolutionary Features</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/pushing-the-envelope-on-instagram-larger-videos-explained/"><u>Pushing the Envelope on Instagram Larger Videos Explained</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-proven-strategies-for-premium-picture-acquisition-gratis/"><u>[New] In 2024, Proven Strategies for Premium Picture Acquisition Gratis</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-soundsnatch-aural-replay-analysis/"><u>[New] SoundSnatch Aural Replay Analysis</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-enhance-your-ios-experience-with-ps2-emulators/"><u>[Updated] 2024 Approved Enhance Your IOS Experience with PS2 Emulators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-complete-guide-to-producing-high-quality-gopro-time-lapse/"><u>[Updated] 2024 Approved The Complete Guide to Producing High-Quality GoPro Time-Lapse</u></a></li>
+<li><a href="https://fox-making.techidaily.com/2-streamline-file-management-mastering-the-art-of-editing-temp-files-quickly/"><u>2. Streamline File Management: Mastering the Art of Editing Temp Files Quickly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-optimizing-viewing-habits-the-ultimate-guide-to-youtube-save-and-playlists/"><u>2024 Approved Optimizing Viewing Habits The Ultimate Guide to YouTube Save and Playlists</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easily-set-up-your-merge-module-a-step-by-step-guide/"><u>Easily Set Up Your Merge Module: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-ways-to-transform-your-pdf-documents-into-docx-using-windows-software/"><u>Effective Ways to Transform Your PDF Documents Into DOCX Using Windows Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-cod-modern-warfare-2s-troublesome-directx-compatibility-problems/"><u>Fixing COD Modern Warfare 2'S Troublesome DirectX Compatibility Problems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratis-omzetting-van-ogv-naar-webm-efficient-en-eenvoudig-met-movavi/"><u>Gratis Omzetting Van OGV Naar Webm - Efficiënt en Eenvoudig Met Movavi</u></a></li>
+<li><a href="https://fox-making.techidaily.com/guide-capturing-gameplay-on-your-xbox-one-and-xbox-360-a-step-by-step-tutorial/"><u>Guide: Capturing Gameplay on Your Xbox One & Xbox 360 – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/netflix-silence-no-more-effortless-solutions-to-restore-sounds/"><u>Netflix Silence No More: Effortless Solutions to Restore Sounds</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-converting-ape-files-into-mp3-format/"><u>Step-by-Step Guide: Converting APE Files Into MP3 Format</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-transmitting-data-from-your-iphone-to-a-dji-quadcopter/"><u>Step-by-Step Guide: Transmitting Data From Your iPhone to a DJI Quadcopter</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unlock-ultimate-recording-easy-guide-to-activating-apowerrec-pro-on-windows-and-mac/"><u>Unlock Ultimate Recording: Easy Guide to Activating ApowerREC Pro on Windows and Mac</u></a></li>
 </ul></div>
 

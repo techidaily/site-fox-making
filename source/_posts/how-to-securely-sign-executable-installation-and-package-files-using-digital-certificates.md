@@ -1,7 +1,7 @@
 ---
 title: How to Securely Sign Executable, Installation and Package Files Using Digital Certificates
-date: 2024-09-30T18:56:30.290Z
-updated: 2024-10-05T18:54:21.964Z
+date: 2024-10-07T07:54:24.547Z
+updated: 2024-10-10T22:51:09.665Z
 tags:
   - user-guide
 categories:
@@ -83,19 +83,19 @@ You also can individually sign each file from your package by enabling this opti
 ![Digital signature](https://cdn.advancedinstaller.com/img/ui/digital-signature.png "Digital signature")  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Signing utilities
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### SignTool.exe
@@ -103,10 +103,10 @@ You also can individually sign each file from your package by enabling this opti
 The default tool, available with the Windows SDK v8.0 or higher, used by Advanced Installer. The[SignTool.exe](https://tools.techidaily.com/advancedinstaller/products/) utility tool can be used only with certificates exported as PFX files. can be used only with certificates exported as PFX files. You can use either pvkimprt or pvk2pfx to create a PFX certificate from the SPC and PVK files.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -149,22 +149,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-building-your-brand-with-brilliant-educational-videos-a-guide-to-youtube-excellence/"><u>[New] 2024 Approved Building Your Brand with Brilliant Educational Videos A Guide to YouTube Excellence</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-elite-recording-devices-for-livestream-producers/"><u>[New] 2024 Approved Elite Recording Devices for Livestream Producers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-ensuring-your-shorts-videos-thumbnail-shows-up/"><u>[New] 2024 Approved Ensuring Your Shorts Video's Thumbnail Shows Up</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ips-for-preventing-invisible-thumbnails-on-shorts-videos/"><u>[New] Tips for Preventing Invisible Thumbnails on Shorts Videos</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-top-tiktok-patterns-you-cant-miss-this-year/"><u>[New] Top TikTok Patterns You Can’t Miss This Year</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-prime-screen-grabs-for-film-enthusiasts/"><u>[Updated] In 2024, Prime Screen Grabs for Film Enthusiasts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-instant-clearing-the-best-ios-apps-for-precise-image-editing/"><u>[Updated] Instant Clearing The Best iOS Apps for Precise Image Editing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/effortlessly-crafting-editable-pdf-forms-no-adobe-required/"><u>Effortlessly Crafting Editable PDF Forms: No Adobe Required!</u></a></li>
-<li><a href="https://fox-making.techidaily.com/explore-the-best-alternatives-to-facebook-top-social-media-platforms-you-should-know/"><u>Explore the Best Alternatives to Facebook: Top Social Media Platforms You Should Know</u></a></li>
-<li><a href="https://fox-making.techidaily.com/exploring-the-power-of-icom-classes-unlocking-new-career-opportunities/"><u>Exploring the Power of ICOM Classes: Unlocking New Career Opportunities</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-unrequested-youtube-video-selections/"><u>Pause Unrequested YouTube Video Selections</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726028524969-pc/"><u>PCにて楽曲同士を融合させる手順 - ミキシング技術</u></a></li>
-<li><a href="https://fox-making.techidaily.com/quick-tips-boosting-your-iphones-performance-on-ios-8/"><u>Quick Tips: Boosting Your iPhone's Performance on iOS 8</u></a></li>
-<li><a href="https://fox-making.techidaily.com/speedy-techniques-for-instant-whiteness-transforming-online-background-colors-with-ease/"><u>Speedy Techniques for Instant Whiteness: Transforming Online Background Colors with Ease</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-guide-casting-your-android-screen-onto-a-samsung-smart-tv/"><u>Step-by-Step Guide: Casting Your Android Screen Onto a Samsung Smart TV</u></a></li>
-<li><a href="https://fox-making.techidaily.com/the-ultimate-list-of-top-free-photo-editing-tools-on-android/"><u>The Ultimate List of Top Free Photo Editing Tools on Android</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-and-customizing-systems-preferred-applications/"><u>Understanding and Customizing System's Preferred Applications</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-captivating-customer-revelation/"><u>[New] Captivating Customer Revelation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-extra-memory-for-sony-a7c-model/"><u>[New] Ideal Extra Memory for Sony A7C Model</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-navigating-the-art-of-facebook-video-distribution/"><u>[New] Navigating the Art of Facebook Video Distribution</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlock-youtubes-best-viewing-experience-with-ratios/"><u>[Updated] 2024 Approved Unlock YouTube's Best Viewing Experience with Ratios</u></a></li>
+<li><a href="https://fox-making.techidaily.com/detect-and-remove-rootkits-with-malwarefox-advanced-cybersecurity-protection-tools/"><u>Detect & Remove Rootkits with MalwareFox: Advanced Cybersecurity Protection Tools</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easily-set-up-your-merge-module-a-step-by-step-guide/"><u>Easily Set Up Your Merge Module: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/resetting-your-apple-id-password-on-iphone-models-x-6-7-and-8-step-by-step-guide/"><u>Resetting Your Apple ID Password on iPhone Models X, 6, 7 & 8 - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/review-of-exceptional-video-converters-advanced-feature-comparison-guide/"><u>Review of Exceptional Video Converters – Advanced Feature Comparison Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Escape Sequences in XML: A Comprehensive Guide"
-date: 2024-10-01T22:07:38.010Z
-updated: 2024-10-05T19:44:16.694Z
+date: 2024-10-10T07:43:16.339Z
+updated: 2024-10-10T19:45:09.773Z
 tags:
   - user-guide
 categories:
@@ -106,10 +106,10 @@ At build time, Advanced Installer will automatically perform the XML special cha
 For example, if you add an existing XML file or create a new one in your project and insert a special XML character in one of its elements, let's say < character, when you will build the project, Advanced Installer will automatically escape this character, replacing it with &lt;. The result is that the XML document installed by the built package will contain the escaped character making possible the correct interpretation of the XML code.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## XML special characters that get escaped at install time
@@ -123,10 +123,10 @@ For example, if you add an existing XML file or create a new one in your project
 | **Apostrophe**        | **&apos;**       | **'**                |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Video tutorial
@@ -164,22 +164,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-divergence-in-dungeons-classic-and-hybrid-games/"><u>[New] 2024 Approved Divergence in Dungeons Classic and Hybrid Games</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-clearing-up-youtube-watchlater-stored-list/"><u>[New] In 2024, Guide Clearing Up YouTube Watchlater Stored List</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-bandicam-or-camtasia-best-recording-and-editing-software-in-2024/"><u>[Updated] Bandicam or Camtasia Best Recording & Editing Software, In 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-cutting-edge-top-11-list-of-soundscape-capturers/"><u>[Updated] In 2024, Cutting-Edge Top 11 List of Soundscape Capturers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-rapid-reclamation-of-elusive-videos-for-2024/"><u>[Updated] Rapid Reclamation of Elusive Videos for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tailoring-your-whatsapp-ringtone-for-ios-and-android-devices/"><u>[Updated] Tailoring Your WhatsApp Ringtone for iOS and Android Devices</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-seamless-guide-transferring-your-entire-music-library-from-iphone-to-mac/"><u>1. Seamless Guide: Transferring Your Entire Music Library From iPhone to Mac</u></a></li>
-<li><a href="https://fox-making.techidaily.com/effective-database-management-solutions/"><u>Effective Database Management Solutions</u></a></li>
-<li><a href="https://fox-making.techidaily.com/efficient-file-transfer-mastering-the-copy-and-move-box-wizard/"><u>Efficient File Transfer: Mastering the Copy and Move Box Wizard</u></a></li>
-<li><a href="https://fox-making.techidaily.com/efficient-registry-editor-window-handling-in-software-development/"><u>Efficient Registry Editor Window Handling in Software Development</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-dying-light-game-audio-glitch-in-just-a-few-steps/"><u>Fix Your Dying Light Game Audio Glitch in Just a Few Steps!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-12-pro-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 12 Pro Max without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-ntldr-is-missing-blue-screen-comprehensive-guide/"><u>Solving the 'NTLDR Is Missing' Blue Screen: Comprehensive Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-guide-transferring-videos-to-your-android-device/"><u>Step-by-Step Guide: Transferring Videos to Your Android Device</u></a></li>
-<li><a href="https://fox-making.techidaily.com/structured-packaging-blueprint-cluster-guide/"><u>Structured Packaging Blueprint Cluster Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-10-methods-employed-by-cybercriminals-in-hacking-attacks/"><u>Top 10 Methods Employed by Cybercriminals in Hacking Attacks</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-rated-mind-mapping-tools-for-mac-users-2020-edition/"><u>Top-Rated Mind Mapping Tools for Mac Users (2020 Edition)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-google-meet-for-everyone-a-comprehensive-no-cost-strategy-booklet/"><u>[New] 2024 Approved Google Meet for Everyone A Comprehensive, No-Cost Strategy Booklet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immersive-chronicles-virtual-realitys-history/"><u>[New] Immersive Chronicles Virtual Reality's History</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ptimize-youtube-creations-a-guide-to-high-quality-visuals/"><u>[New] Optimize YouTube Creations A Guide to High-Quality Visuals</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-prime-10-terraria-game-enhancements/"><u>[New] Prime 10 Terraria Game Enhancements</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-troubleshooting-and-fixing-issues-with-idt-hd-audio-driver-in-windows-10/"><u>Expert Advice: Troubleshooting and Fixing Issues with IDT HD Audio Driver in Windows 10</u></a></li>
+<li><a href="https://fox-making.techidaily.com/fast-and-efficient-methods-top-5-rapid-techniques-for-editing-text-within-your-pdf-files/"><u>Fast and Efficient Methods: Top 5 Rapid Techniques for Editing Text Within Your PDF Files</u></a></li>
+<li><a href="https://fox-making.techidaily.com/guide-to-generating-effective-filefolder-associations-for-streamlined-installation-processes/"><u>Guide to Generating Effective File/Folder Associations for Streamlined Installation Processes</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-nokia-c12-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Nokia C12 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-the-art-of-watermarks-a-step-by-step-guide-with-apowerpdf/"><u>Mastering the Art of Watermarks: A Step-by-Step Guide with ApowerPDF</u></a></li>
+<li><a href="https://discover-help.techidaily.com/top-ranking-free-mp4-converter-tools-and-downloads-seamless-format-transformation/"><u>Top-Ranking Free MP4 Converter Tools & Downloads: Seamless Format Transformation</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-rated-free-and-premium-background-replacement-apps/"><u>Top-Rated Free and Premium Background Replacement Apps</u></a></li>
 </ul></div>
 

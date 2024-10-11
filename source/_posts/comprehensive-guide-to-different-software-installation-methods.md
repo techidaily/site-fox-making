@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Different Software Installation Methods
-date: 2024-10-02T19:57:05.786Z
-updated: 2024-10-05T21:54:11.213Z
+date: 2024-10-07T05:54:40.038Z
+updated: 2024-10-10T18:47:03.197Z
 tags:
   - user-guide
 categories:
@@ -79,9 +79,23 @@ Table of Contents
 
 ## Installer Project Types
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specialized templates
 
  Each specialized template is designed for a specific application type, package type or deployment method. Also, a wizard helps you configure elements specific to each template.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Visual Studio Application
 
@@ -103,6 +117,19 @@ Table of Contents
 
 ![Mixed3264 template](https://cdn.advancedinstaller.com/img/project/mixed3264-template.png "Mixed3264 template")This template allows you to configure a mixed 32/64-bit installer. Note that this project type requires an Professional license.
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Client/Server Application Installation Package
 
 ![Client server template](https://cdn.advancedinstaller.com/img/project/client-server-template.png "Client server template")This template allows you to configure an installer for a client/server application. Note that this project type requires an [Enterprise](https://tools.techidaily.com/advancedinstaller/products/) license.
@@ -111,40 +138,13 @@ Table of Contents
 
 ![Xna game template](https://cdn.advancedinstaller.com/img/project/xna-game-template.png "Xna game template")This template allows you to create an installation for an XNA-based game. Note that this project type requires an Enterprise license.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### SharePoint Solution
 
 ![Sharepoint](https://cdn.advancedinstaller.com/img/project/sharepoint.png "Sharepoint")This template allows you to create an installation for a SharePoint solution. Note that this project type requires an Enterprise license.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### MSIX Package
 
 ![Modification](https://cdn.advancedinstaller.com/img/project/modification.png "Modification")This template allows you to create MSIX packages. Note that this project type requires a Professional license.
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### RAD Studio Application
 
@@ -154,42 +154,54 @@ Table of Contents
 
 ![Real template](https://cdn.advancedinstaller.com/img/project/real-template.png "Real template")This template allows you to configure an installer for a Real Studio application. You don't need any license to build a project of this type.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Generic templates
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Simple
 
 ![Simple Project](https://cdn.advancedinstaller.com/img/project/simple.png "Simple Project") This type of project has a limited functionality. You can only install files, folders, registry keys and environment variables. You don't need any license to build a project of this type.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Professional
 
 ![Professional Project](https://cdn.advancedinstaller.com/img/project/professional.png "Professional Project") You have access to all the functionality offered in a Simple project and, in addition, you can create file associations, define custom actions, install services, add merge modules, customize your installation package's user interface and more. After the trial period expires, a Professional license is required to build a project of this type.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Enterprise
@@ -201,10 +213,10 @@ Table of Contents
 ![Architect Project](https://cdn.advancedinstaller.com/img/project/architect.png "Architect Project") This type of project gives you access to all the functionality offered by a Enterprise project. Additionally it offers support for creating App-V packages. After the trial period expires, an [Architect](https://tools.techidaily.com/advancedinstaller/products/) license is required to build a project of this type.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -240,19 +252,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-leading-audio-transformation-software-listings/"><u>[New] In 2024, Leading Audio Transformation Software Listings</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-strategies-for-effective-content-management-in-creator-studio/"><u>2024 Approved Essential Strategies for Effective Content Management in Creator Studio</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/2024s-leading-cable-modem-models-for-optimal-internet-performance/"><u>2024'S Leading Cable Modem Models for Optimal Internet Performance</u></a></li>
-<li><a href="https://fox-making.techidaily.com/best-no-cost-video-format-changers-on-the-go-your-guide-for-android-devices/"><u>Best No-Cost Video Format Changers on the Go: Your Guide for Android Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/clarified-response-handling-non-writable-memory-situations-in-location-x/"><u>Clarified Response: Handling Non-Writable Memory Situations in Location X</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-guide-on-business-license-registration-insights-and-processes/"><u>Comprehensive Guide on Business License Registration: Insights & Processes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-updated-realtek-bluetooth-driver-software-for-enhanced-compatibility-with-windows-11-10/"><u>Download Updated Realtek Bluetooth Driver Software for Enhanced Compatibility with Windows 11, 10</u></a></li>
-<li><a href="https://fox-making.techidaily.com/effective-strategies-for-creating-an-engaging-youtube-banner-to-boost-viewer-numbers/"><u>Effective Strategies for Creating an Engaging YouTube Banner to Boost Viewer Numbers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-realme-11-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Realme 11 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/mastering-online-queries-the-ultimate-guide-to-understanding-and-utilizing-search-engines/"><u>Mastering Online Queries: The Ultimate Guide to Understanding and Utilizing Search Engines</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revolutionize-your-mouse-experience-update-drivers-in-windows-10/"><u>Revolutionize Your Mouse Experience - Update Drivers in Windows 10</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-guide-mastering-the-gameplay-of-diablo-immortal-on-a-mac-device/"><u>Step-by-Step Guide: Mastering the Gameplay of Diablo Immortal on a Mac Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-hidden-pitfalls-why-you-shouldnt-use-an-ai-for-personal-counseling-or-diagnosis/"><u>The Hidden Pitfalls: Why You Shouldn't Use an AI for Personal Counseling or Diagnosis</u></a></li>
-<li><a href="https://fox-making.techidaily.com/unraveling-the-truth-about-https-does-it-always-guarantee-website-security/"><u>Unraveling the Truth About HTTPS - Does It Always Guarantee Website Security?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-ultimate-playlist-to-share-on-fb-stories/"><u>[New] In 2024, The Ultimate Playlist to Share on FB Stories</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outubes-best-font-choices-for-striking-thumbnails/"><u>[New] YouTube's Best Font Choices for Striking Thumbnails</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-10-best-tags-analyzing-apps-fb-twt-and-ig-platforms/"><u>[Updated] In 2024, 10 Best Tags Analyzing Apps FB, Twt & IG Platforms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/advanced-streaming-equipment-for-broadcasters-for-2024/"><u>Advanced Streaming Equipment for Broadcasters for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/best-5-iphone-apps-of-2022-for-converting-images-to-pdf-format/"><u>Best 5 iPhone Apps of 2022 for Converting Images to PDF Format</u></a></li>
+<li><a href="https://fox-making.techidaily.com/comprehensive-overview-of-ini-parser-options-and-specifications/"><u>Comprehensive Overview of INI Parser Options and Specifications</u></a></li>
+<li><a href="https://fox-making.techidaily.com/efficient-methods-to-clear-storage-on-iphone-or-ipad-prior-to-upgrading-to-ios-8/"><u>Efficient Methods to Clear Storage on iPhone or iPad Prior to Upgrading to iOS 8</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-revive-your-sennheiser-gameone-mic-a-step-by-step-fixing-guide/"><u>How To Revive Your Sennheiser GameOne Mic: A Step-by-Step Fixing Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-voice-recording-for-powerpoint-visuals/"><u>In 2024, Voice Recording for PowerPoint Visuals</u></a></li>
+<li><a href="https://fox-making.techidaily.com/instant-file-disposal-made-simple-using-iremovefile/"><u>Instant File Disposal Made Simple Using IRemoveFile</u></a></li>
+<li><a href="https://fox-making.techidaily.com/quick-guide-removing-notes-seamlessly-on-ios-devices/"><u>Quick Guide: Removing Notes Seamlessly on iOS Devices</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-ilibrary-files-essential-insights-and-uses/"><u>Understanding ILibrary Files: Essential Insights and Uses</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unlock-the-secrets-mastering-file-versions-with-easy-to-use-tabs/"><u>Unlock the Secrets: Mastering File Versions with Easy-to-Use Tabs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-tech-toms-authoritative-hardware-reviews/"><u>Unveiling the Latest in Tech: Tom's Authoritative Hardware Reviews</u></a></li>
 </ul></div>
 

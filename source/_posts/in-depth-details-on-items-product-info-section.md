@@ -1,7 +1,7 @@
 ---
 title: In-Depth Details on Items - Product Info Section
-date: 2024-10-01T16:49:25.273Z
-updated: 2024-10-05T17:00:31.436Z
+date: 2024-10-05T18:45:28.455Z
+updated: 2024-10-11T06:26:07.594Z
 tags:
   - user-guide
 categories:
@@ -80,16 +80,16 @@ This page allows you to specify the information that will identify the products 
 
 ## Product
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Upgrade Code
 
 Specify the product's Upgrade Code. You can directly specify it or use the \[... \] button to select the MSI package. The Upgrade Code, Max. Version and Language will be imported from the MSI file. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Versions To Upgrade
 
@@ -102,47 +102,28 @@ In this field, you can specify the minimum old product version which will be upg
  This option will include the minimum version you specified in the old product versions which will be upgraded. For example, if the minimum version is 1.1 then your package will upgrade all the old product versions which are equal to or higher than 1.1.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Max. Version
 
 In this field, you can specify the maximum old product version which will be upgraded. For example, if the maximum version is 2.0 then your package will upgrade all the old product versions which are lower than 2.0\. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Include maximum version in range
 
  This option will include the maximum version you specified in the old product versions which will be upgraded. For example, if the maximum version is 2.0 then your package will upgrade all the old product versions which are equal to or lower than 2.0.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If the either "Min. Version" or "Max. Version" fields are left blank no minimum/maximum version is taken into consideration when the old product versions are detected. Also, the correspondent "include" flag is disregarded.
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Languages
 
@@ -151,6 +132,19 @@ Specify a set of languages to be detected. Use the\[... \] button to select them
 You have the option to specify whether you want to detect the languages you specify or ignore them.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If this field is blank all the languages will be detected. Also, the correspondent flags will be ignored.
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -185,24 +179,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-enhancing-collaboration-slack-melded-with-filmoras-video-capabilities/"><u>[New] 2024 Approved Enhancing Collaboration Slack Melded With Filmora’s Video Capabilities</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-tailored-obs-tweaks-for-affordable-systems/"><u>[New] 2024 Approved Tailored OBS Tweaks for Affordable Systems</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-whats-buzzing-the-social-sphere-tiktok-and-twitter-hits/"><u>[New] 2024 Approved What's Buzzing the Social Sphere? TikTok & Twitter Hits</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-exhilarating-freeness-of-screen-pairing-games/"><u>[Updated] Exhilarating Freeness of Screen Pairing Games</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-gaming-streams-best-recording-programs/"><u>[Updated] Gaming Streams Best Recording Programs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-how-to-get-more-likes-on-your-tiktok-unboxing-video/"><u>[Updated] How to Get More Likes on Your TikTok Unboxing Video?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-ultimate-free-pdf-markup-tool-2020-simplify-your-pdf-note-taking-experience/"><u>1. Ultimate Free PDF Markup Tool 2020 - Simplify Your PDF Note-Taking Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beginners-guide-exploring-the-best-artificial-intelligence-tools-across-9-communities/"><u>Beginner's Guide: Exploring the Best Artificial Intelligence Tools Across 9 Communities</u></a></li>
-<li><a href="https://fox-making.techidaily.com/best-methods-for-transferring-your-favorite-youtube-audio-tracks-to-itunes-across-pc-and-mac/"><u>Best Methods for Transferring Your Favorite YouTube Audio Tracks to iTunes Across PC & Mac</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/discovering-content-iphones-and-podcasts/"><u>Discovering Content IPhones and Podcasts</u></a></li>
-<li><a href="https://fox-making.techidaily.com/effortlessly-export-documents-as-templates/"><u>Effortlessly Export Documents as Templates</u></a></li>
-<li><a href="https://fox-making.techidaily.com/enhancing-visuals-with-videography-borders-a-comprehensive-tutorial/"><u>Enhancing Visuals with Videography Borders - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-making.techidaily.com/exploring-smartscreen-technology-in-windows-defender-to-disable-or-not-to-disable/"><u>Exploring SmartScreen Technology in Windows Defender – To Disable or Not to Disable?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Oppo A59 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-mac-efficiency-a-step-by-step-guide-to-configuring-and-utilizing-hot-corners-in-macos-unveiled-by-zdnet/"><u>Mastering Mac Efficiency: A Step-by-Step Guide to Configuring & Utilizing Hot Corners in macOS - Unveiled by ZDNet</u></a></li>
-<li><a href="https://fox-making.techidaily.com/mastering-powershell-a-guide-to-the-options-configuration-panel/"><u>Mastering Powershell: A Guide to the Options Configuration Panel</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-guide-moving-your-iphone-videos-to-a-windows-11-computer/"><u>Step-by-Step Guide: Moving Your iPhone Videos to a Windows 11 Computer</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-tutorial-transforming-myvideo-streams-to-mp3-format-for-download-and-play/"><u>Step-by-Step Tutorial: Transforming MyVideo Streams to MP3 Format for Download and Play</u></a></li>
-<li><a href="https://fox-making.techidaily.com/ultimate-guide-how-to-seamlessly-copy-iphone-x-information-onto-android-phones/"><u>Ultimate Guide: How to Seamlessly Copy iPhone X Information Onto Android Phones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-fast-fixes-for-chaotic-youtube-list-ordering-for-2024/"><u>[New] Fast Fixes for Chaotic YouTube List Ordering for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-hues-in-harmony-the-process-of-film-coloring-for-2024/"><u>[New] Hues in Harmony The Process of Film Coloring for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-reaction-videos-a-comprehensive-overview/"><u>[New] Twitter Reaction Videos A Comprehensive Overview</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unleashing-shareability-secrets-of-trending-on-fb-for-2024/"><u>[New] Unleashing Shareability Secrets of Trending on Fb for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-exclusive-screen-time-delight-with-these-top-offline-games/"><u>[Updated] 2024 Approved Exclusive Screen Time Delight with These Top Offline Games</u></a></li>
+<li><a href="https://fox-making.techidaily.com/advanced-screen-capture-solutions-with-samsung-next-gen-video-recording-features-unveiled/"><u>Advanced Screen Capture Solutions with Samsung: Next-Gen Video Recording Features Unveiled</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easy-guide-converting-avchd-files-to-avi-format-using-windows-software/"><u>Easy Guide: Converting AVCHD Files to AVI Format Using Windows Software</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-taskbar-tweaks-in-windows-11/"><u>Expert Guide to Taskbar Tweaks in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-stinger-audio-trouble-heres-how-to-restore-your-mic/"><u>HyperX Cloud Stinger Audio Trouble? Here's How to Restore Your Mic</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-srt-mastery-curating-the-best-mac-and-windows-turbo-boosts/"><u>In 2024, SRT Mastery Curating the Best Mac & Windows Turbo Boosts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/prevent-your-game-nightmares-defeating-garrys-mod-crashes-with-these-pro-tips/"><u>Prevent Your Game Nightmares: Defeating Garry's Mod Crashes with These Pro Tips</u></a></li>
+<li><a href="https://fox-making.techidaily.com/strategies-for-enhanced-interaction-in-the-add-protocol-collaborative-group/"><u>Strategies for Enhanced Interaction in the Add Protocol Collaborative Group</u></a></li>
+<li><a href="https://fox-making.techidaily.com/xml-attribute-modification-tool-a-comprehensive-guide/"><u>XML Attribute Modification Tool: A Comprehensive Guide</u></a></li>
 </ul></div>
 

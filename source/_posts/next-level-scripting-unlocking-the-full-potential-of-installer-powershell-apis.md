@@ -1,7 +1,7 @@
 ---
 title: "Next-Level Scripting: Unlocking the Full Potential of Installer PowerShell APIs"
-date: 2024-09-28T19:05:16.317Z
-updated: 2024-10-05T21:03:40.562Z
+date: 2024-10-06T03:52:53.407Z
+updated: 2024-10-11T05:04:46.135Z
 tags:
   - user-guide
 categories:
@@ -111,10 +111,10 @@ Table of Contents
 Configure your Advanced Installer project by using custom interfaces and [PowerShell commands](https://tools.techidaily.com/advancedinstaller/products/). You can manage files and folders, get license information, access components, and much more all from PowerShell, thus making the automation of your build process easier than ever.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Video Tutorial
@@ -122,10 +122,10 @@ Configure your Advanced Installer project by using custom interfaces and [PowerS
 Get started with PowerShell commands by watching our video tutorial.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -266,24 +266,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-choosing-the-right-display-elevate-your-xbox-series-x-experience/"><u>[New] 2024 Approved Choosing the Right Display - Elevate Your Xbox Series X Experience</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-prime-videobg-selections-enhancing-remote-collaboration/"><u>[New] In 2024, Prime Videobg Selections Enhancing Remote Collaboration</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-turn-off-youtube-previews-on-all-devices/"><u>[Updated] Turn Off YouTube Previews on All Devices</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-seamless-guide-transferring-your-entire-music-library-from-iphone-to-mac/"><u>1. Seamless Guide: Transferring Your Entire Music Library From iPhone to Mac</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-steps-to-effectively-utilize-oculus-quests-hand-motion-controls-in-vr-gaming/"><u>Comprehensive Steps to Effectively Utilize Oculus Quest's Hand Motion Controls in VR Gaming</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/creative-photo-distortion-strategies/"><u>Creative Photo Distortion Strategies</u></a></li>
-<li><a href="https://fox-making.techidaily.com/effective-database-management-solutions/"><u>Effective Database Management Solutions</u></a></li>
-<li><a href="https://fox-making.techidaily.com/efficient-file-transfer-mastering-the-copy-and-move-box-wizard/"><u>Efficient File Transfer: Mastering the Copy and Move Box Wizard</u></a></li>
-<li><a href="https://fox-making.techidaily.com/efficient-registry-editor-window-handling-in-software-development/"><u>Efficient Registry Editor Window Handling in Software Development</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-optimize-your-gameplay-banishing-rainbow-six-siege-delays/"><u>How to Optimize Your Gameplay - Banishing Rainbow Six Siege Delays</u></a></li>
-<li><a href="https://fox-making.techidaily.com/in-depth-details-on-items-product-info-section/"><u>In-Depth Details on Items - Product Info Section</u></a></li>
-<li><a href="https://article-helps.techidaily.com/money-smart-aerial-explorers-5-best-drones-for-less-than-100-for-2024/"><u>Money-Smart Aerial Explorers 5 Best Drones for Less Than $100 for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-screen-effortless-guide-on-syncing-your-iphone-with-a-haier-television/"><u>Step-by-Screen: Effortless Guide on Syncing Your iPhone with a Haier Television</u></a></li>
-<li><a href="https://fox-making.techidaily.com/structured-packaging-blueprint-cluster-guide/"><u>Structured Packaging Blueprint Cluster Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-10-methods-employed-by-cybercriminals-in-hacking-attacks/"><u>Top 10 Methods Employed by Cybercriminals in Hacking Attacks</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-rated-mind-mapping-tools-for-mac-users-2020-edition/"><u>Top-Rated Mind Mapping Tools for Mac Users (2020 Edition)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-y27s-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo Y27s FRP Bypass</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unveiling-the-differences-ipad-vs-ipad-air-compared/"><u>Unveiling the Differences: IPad Vs. IPad Air Compared</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-ultimate-guide-to-choosing-the-perfect-apple-watch-band-professional-ratings-and-testing-results/"><u>2024'S Ultimate Guide to Choosing the Perfect Apple Watch Band: Professional Ratings & Testing Results</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g04-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discover-the-power-of-easy-trimming-with-windows-photos-app/"><u>Discover the Power of Easy Trimming with Windows Photos App</u></a></li>
+<li><a href="https://fox-making.techidaily.com/fast-and-efficient-methods-top-5-rapid-techniques-for-editing-text-within-your-pdf-files/"><u>Fast and Efficient Methods: Top 5 Rapid Techniques for Editing Text Within Your PDF Files</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-pixelhunter-advanced-screen-grabber/"><u>In 2024, PixelHunter Advanced Screen Grabber</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-the-art-of-recording-sims-4-sessions-for-pc-gamers-a-step-by-step-guide/"><u>Mastering the Art of Recording Sims 4 Sessions for PC Gamers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-the-art-of-watermarks-a-step-by-step-guide-with-apowerpdf/"><u>Mastering the Art of Watermarks: A Step-by-Step Guide with ApowerPDF</u></a></li>
+<li><a href="https://fox-making.techidaily.com/overcoming-java-ransomware-effective-decryption-tactics-with-malwarefox/"><u>Overcoming Java Ransomware: Effective Decryption Tactics with MalwareFox</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-your-gaming-experience-top-7-fixes-for-the-persistent-steam-black-screen-issue/"><u>Revive Your Gaming Experience: Top 7 Fixes for the Persistent Steam Black Screen Issue!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-mastering-the-art-of-changing-image-backdrops/"><u>Step-by-Step Guide: Mastering the Art of Changing Image Backdrops</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-playbook-for-podcast-titling-success-and-50plus-name-suggestions-for-2024/"><u>The Ultimate Playbook for Podcast Titling Success & 50+ Name Suggestions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-5-complimentary-ripper-applications-to-convert-dvds-on-macos-monterey-64-bit-and-32-bit-latest-picks-for-2n3/"><u>Top 5 Complimentary RIPper Applications to Convert DVDs on macOS Monterey (64-Bit & 32-Bit) - Latest Picks for 2N3!</u></a></li>
 </ul></div>
 

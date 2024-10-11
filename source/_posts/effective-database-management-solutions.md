@@ -1,7 +1,7 @@
 ---
 title: Effective Database Management Solutions
-date: 2024-09-29T21:03:59.553Z
-updated: 2024-10-05T19:44:52.479Z
+date: 2024-10-09T19:27:58.788Z
+updated: 2024-10-11T07:27:00.032Z
 tags:
   - user-guide
 categories:
@@ -85,29 +85,22 @@ This section allows you to configure SQL scripts and queries that will be execut
 
 ![Test SQL Connection or Query](https://cdn.advancedinstaller.com/img/toolbar/test_sql_query.png "Test SQL Connection or Query")Use the \[Test \] toolbar button or the “Test” context menu item while the connection/query you want to test is selected.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The test is done by running a temporary built MSI, that is not installed on your machine, it is used just to launch the custom action and have access to the installer session so it can set the result back in the properties you selected when testing a query, or simply establishing a connection with the specified database when testing a connection.
 
 The test is started by default using the connection details specified in the project, you can change these when the MSI dialog will appear. After you are sure the connection details are correct press the button \[Next \] and the test will start. If you are testing a query you will see the data retrieved in the next dialog. If you have multiple result set columns, you can select them one by one from the correspondent combo, to see their values.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Only predefined and custom connections can be tested.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Add a New Predefined SQL Connection
 
 ![Add Connection](https://cdn.advancedinstaller.com/img/toolbar/sql-connection-predefined.png "Add Connection")Use the \[New Predefined SQL Connection \] toolbar button, the “New Predefined SQL Connection” context menu item or press the Insert key while the “Database server” item is focused.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Add a New Custom SQL Connection
 
@@ -118,10 +111,10 @@ The test is started by default using the connection details specified in the pro
 ![Add SQLite Connection](https://cdn.advancedinstaller.com/img/toolbar/sql-connection-lite.png "Add SQLite Connection")Use the \[New SQLite Connection \] toolbar button, the “New SQLite Connection” context menu item.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Add a New SQL Query
@@ -129,23 +122,10 @@ The test is started by default using the connection details specified in the pro
 ![Add Query](https://cdn.advancedinstaller.com/img/toolbar/sql-query.png "Add Query")Use the \[New SQL Query \] toolbar button or the “New SQL Query” context menu item while the “Database server” item is focused.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Add a New SQL Script
@@ -161,10 +141,10 @@ Only the following formats are supported:
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If no SQL Scripts or Queries are added under a connection, Advanced Installer will not establish that connection.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can select multiple files to be added in a single operation, avoiding repetitive and time consuming steps, for projects that contain a large number of scripts.
@@ -174,10 +154,10 @@ Only the following formats are supported:
 ![New Transaction](https://cdn.advancedinstaller.com/img/toolbar/sql-new-transaction.png "New Transaction")To create a new transaction use the \[Transaction \] toolbar button or the “New Transaction” context menu item.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _By default_ an ODBC driver is in**auto-commit mode**; that means each statement is committed immediately after it is executed. Advanced Installer allows you to configure**transaction isolation units**. You can group one or several SQL script files in a single _transaction unit_, hence ensuring the query changes will be atomically committed. At the beginning of each transaction unit, the ODBC driver is put in_manual commit mode_, and at the end of the unit the changes are committed (if everything went OK), otherwise all changes from the isolation unit are rolled back. After exiting a transaction unit, the ODBC driver is put back in _auto-commit mode_, so that your following, non-isolated, batch files will execute/commit automatically.
@@ -187,6 +167,19 @@ _By default_ an ODBC driver is in**auto-commit mode**; that means each statement
 ### Folders
 
 ![New Folder](https://cdn.advancedinstaller.com/img/toolbar/sql-new-folder.png "New Folder")To easily organize scripts use the \[Folder \] toolbar button or the “New Folder” context menu item.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Organizing scripts into folders allows you to easily track and maintain projects containing a large number of scripts. Scenarios that you could implement are to have folders grouping scripts in the following categories:
 
@@ -204,6 +197,13 @@ Use the “Rename” context menu item or press theF2 key while an SQL connectio
 
 ![Delete](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Delete")Use the \[Delete \] toolbar button, the “Delete” context menu item or press theDelete key while a SQL connection, script or query is selected.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Impersonate installing user
 
 Use the “Impersonate installing user” context menu option. You can check this option if you want to run all SQL scripts and queries as the user installing the application, not under the Local System account (this option is useful when using Trusted SQL Connections with Windows integrated authentication).
@@ -211,10 +211,10 @@ Use the “Impersonate installing user” context menu option. You can check thi
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can set the order of execution for SQL connections. scripts and queries by **drag & drop** in the tree.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -265,17 +265,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-laptop-and-mobile-entry-into-google-meet/"><u>[New] 2024 Approved Laptop & Mobile Entry Into Google Meet</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-amazons-premier-titles-social-media-sensation-winners/"><u>2024 Approved Amazon’s Premier Titles Social Media Sensation Winners</u></a></li>
-<li><a href="https://fox-making.techidaily.com/effortlessly-crafting-editable-pdf-forms-no-adobe-required/"><u>Effortlessly Crafting Editable PDF Forms: No Adobe Required!</u></a></li>
-<li><a href="https://fox-making.techidaily.com/exploring-the-power-of-icom-classes-unlocking-new-career-opportunities/"><u>Exploring the Power of ICOM Classes: Unlocking New Career Opportunities</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-network-driver-download-for-windows-1078/"><u>HP Network Driver Download for Windows 10/7/8</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ingenious-ways-to-enhance-trustworthiness-in-client-spots-on-screen-for-2024/"><u>Ingenious Ways to Enhance Trustworthiness in Client Spots on Screen for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/speedy-techniques-for-instant-whiteness-transforming-online-background-colors-with-ease/"><u>Speedy Techniques for Instant Whiteness: Transforming Online Background Colors with Ease</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-guide-casting-your-android-screen-onto-a-samsung-smart-tv/"><u>Step-by-Step Guide: Casting Your Android Screen Onto a Samsung Smart TV</u></a></li>
-<li><a href="https://fox-making.techidaily.com/the-ultimate-list-of-top-free-photo-editing-tools-on-android/"><u>The Ultimate List of Top Free Photo Editing Tools on Android</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transforming-vob-to-3gp-made-easy-a-step-by-step-tutorial-for-your-pc-conversion-process/"><u>Transforming VOB to 3GP Made Easy: A Step-by-Step Tutorial for Your PC Conversion Process</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/your-step-by-step-journey-to-professional-image-uploads-on-youtube/"><u>Your Step-by-Step Journey to Professional Image Uploads on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-downloading-the-latest-insta-reels-two-ways-to-go/"><u>[New] 2024 Approved Downloading the Latest Insta Reels, Two Ways to Go</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-pushing-boundaries-in-visual-storytelling-with-hdr/"><u>[New] 2024 Approved Pushing Boundaries in Visual Storytelling with HDR</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-superstar-status-secrets-a-step-by-step-plan-for-lightning-fame-on-social-media-giant-instagram/"><u>[New] Superstar Status Secrets A Step-by-Step Plan for Lightning Fame on Social Media Giant Instagram</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-captivating-crafts-trending-instagram-filters/"><u>[Updated] In 2024, Captivating Crafts Trending Instagram Filters</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-constructing-success-personalized-home-building-solutions/"><u>1. Constructing Success: Personalized Home Building Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-strategies-for-composing-complicated-workplace-correspondence-efficiently/"><u>ChatGPT Strategies for Composing Complicated Workplace Correspondence Efficiently</u></a></li>
+<li><a href="https://fox-making.techidaily.com/detect-and-remove-rootkits-with-malwarefox-advanced-cybersecurity-protection-tools/"><u>Detect & Remove Rootkits with MalwareFox: Advanced Cybersecurity Protection Tools</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-web-analytics-strategies-unlocking-insights-and-growth/"><u>Effective Web Analytics Strategies: Unlocking Insights and Growth</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Samsung Galaxy M34 5G.</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-securely-sign-executable-installation-and-package-files-using-digital-certificates/"><u>How to Securely Sign Executable, Installation and Package Files Using Digital Certificates</u></a></li>
+<li><a href="https://fox-making.techidaily.com/optimized-sql-code-panel-streamline-data-operations-effortlessly/"><u>Optimized SQL Code Panel: Streamline Data Operations Effortlessly</u></a></li>
+<li><a href="https://fox-making.techidaily.com/superior-video-editing-and-conversion-tools-top-notch-reviews/"><u>Superior Video Editing & Conversion Tools - Top-Notch Reviews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/through-eyes-unseen-an-essential-vr-chronology-for-2024/"><u>Through Eyes Unseen An Essential VR Chronology for 2024</u></a></li>
 </ul></div>
 

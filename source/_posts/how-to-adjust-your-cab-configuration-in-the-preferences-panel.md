@@ -1,7 +1,7 @@
 ---
 title: How to Adjust Your CAB Configuration in the Preferences Panel
-date: 2024-10-02T22:47:09.455Z
-updated: 2024-10-05T19:42:53.081Z
+date: 2024-10-07T16:24:23.205Z
+updated: 2024-10-10T16:15:21.690Z
 tags:
   - user-guide
 categories:
@@ -93,16 +93,10 @@ Table of Contents
 ![Edit Cab Size](https://cdn.advancedinstaller.com/img/dialog/edit-cab-size.png "Edit Cab Size")  
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Decide automatically
@@ -110,10 +104,10 @@ Table of Contents
 The CAB file's size is automatically computed, depending on the size you have specified for the media volumes. The CAB file will have the volume size if the volume size is smaller than 2 GB. Otherwise, the CAB size is computed this way: the volume size (in bytes) is divided by 650 MB (in bytes). This will give the number of CABs per volume. The remaining space is then equally distributed among the CABs. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Custom CAB size
@@ -125,10 +119,16 @@ You have the possibility to specify your CAB size. There are however some restri
 * The CAB size cannot exceed the media volume size.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fixed number of CABs per volume
@@ -168,15 +168,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-countdown-configuration-for-obs-users-a-compreenas-guide/"><u>[Updated] 2024 Approved Countdown Configuration for OBS Users A Compreenas Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-guide-to-bandicam-navigating-its-full-potential-for-2024/"><u>[Updated] The Ultimate Guide to Bandicam Navigating Its Full Potential for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-amazon-kindle-paperwhite-assessment-your-ultimate-reading-companion/"><u>Comprehensive Amazon Kindle Paperwhite Assessment: Your Ultimate Reading Companion</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-manager-issue-45-cleared/"><u>Device Manager Issue #45 Cleared</u></a></li>
-<li><a href="https://fox-making.techidaily.com/identifying-and-neutralizing-keyloggers-in-windows-environments-with-effective-detection-tools/"><u>Identifying and Neutralizing Keyloggers in Windows Environments with Effective Detection Tools</u></a></li>
-<li><a href="https://fox-making.techidaily.com/modify-simulated-structure-dialogue-box/"><u>Modify Simulated Structure Dialogue Box</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-facebook-playbook-for-business-growth-30-key-points/"><u>The Ultimate Facebook Playbook for Business Growth (30 Key Points)</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-rated-digital-canvas-the-ultimate-online-photo-editing-tool/"><u>Top-Rated Digital Canvas: The Ultimate Online Photo Editing Tool</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transfer-and-display-recent-pictures-from-mobile-to-windows-11-seamlessly/"><u>Transfer and Display Recent Pictures From Mobile to Windows 11 Seamlessly</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-the-folder-properties-dialog-box-a-comprehensive-guide/"><u>Understanding the Folder Properties Dialog Box: A Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-clearing-up-confusion-understanding-digital-rights-management-drm-for-2024/"><u>[Updated] Clearing Up Confusion Understanding Digital Rights Management (DRM) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-smartphone-security-showdown-iphone-x-vs-galaxy-recognition-prowess-for-2024/"><u>[Updated] Smartphone Security Showdown IPhone X Vs. Galaxy Recognition Prowess for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-record-keeper-thorough-az-audits/"><u>[Updated] Ultimate Record Keeper - Thorough AZ Audits</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-ultimate-free-pdf-markup-tool-2020-simplify-your-pdf-note-taking-experience/"><u>1. Ultimate Free PDF Markup Tool 2020 - Simplify Your PDF Note-Taking Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/deep-dive-into-facebooks-metaverse-three-concerns-raised/"><u>Deep Dive Into Facebook's Metaverse: Three Concerns Raised</u></a></li>
+<li><a href="https://fox-making.techidaily.com/enhancing-visuals-with-videography-borders-a-comprehensive-tutorial/"><u>Enhancing Visuals with Videography Borders - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-making.techidaily.com/exploring-smartscreen-technology-in-windows-defender-to-disable-or-not-to-disable/"><u>Exploring SmartScreen Technology in Windows Defender – To Disable or Not to Disable?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-run-a-giveaway-facebook-post-for-2024/"><u>How to Run a Giveaway Facebook Post for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-powershell-a-guide-to-the-options-configuration-panel/"><u>Mastering Powershell: A Guide to the Options Configuration Panel</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-the-fundamentals-of-typeface-characteristics/"><u>Mastering the Fundamentals of Typeface Characteristics</u></a></li>
+<li><a href="https://fox-making.techidaily.com/maximize-performance-mastering-the-art-of-iupdatetargets-management/"><u>Maximize Performance: Mastering the Art of IUpdateTargets Management</u></a></li>
+<li><a href="https://fox-making.techidaily.com/no-cost-methods-for-moving-music-from-your-iphone-onto-a-laptop-or-desktop/"><u>No-Cost Methods for Moving Music From Your iPhone Onto a Laptop or Desktop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revel-in-these-14-enthralling-text-based-movements-for-2024/"><u>Revel in These 14 Enthralling Text-Based Movements for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-crashes-and-instabilities-in-intel-processors-new-solution-targets-excessive-voltages-update-due-august-midpoint/"><u>Solving Crashes and Instabilities in Intel Processors - New Solution Targets Excessive Voltages, Update Due August Midpoint</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-applying-image-watermarks-effortlessly/"><u>Step-by-Step Guide: Applying Image Watermarks Effortlessly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-xiaomi-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Phone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-guide-how-to-seamlessly-copy-iphone-x-information-onto-android-phones/"><u>Ultimate Guide: How to Seamlessly Copy iPhone X Information Onto Android Phones</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-list-of-premium-sketching-pad-displays-for-2pressive-results-2024-edition/"><u>Ultimate List of Premium Sketching Pad Displays for 2Pressive Results, 2024 Edition</u></a></li>
 </ul></div>
 

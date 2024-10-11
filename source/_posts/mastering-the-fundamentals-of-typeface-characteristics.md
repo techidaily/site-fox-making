@@ -1,7 +1,7 @@
 ---
 title: Mastering the Fundamentals of Typeface Characteristics
-date: 2024-09-29T18:50:03.283Z
-updated: 2024-10-05T22:29:19.562Z
+date: 2024-10-10T04:25:29.144Z
+updated: 2024-10-11T00:45:21.824Z
 tags:
   - user-guide
 categories:
@@ -82,6 +82,13 @@ This view allows you to specify the information that will be placed in the regis
 
 ![Type library properties](https://cdn.advancedinstaller.com/img/ui/type-library-properties.png "Type library properties")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## General
 
 ### File
@@ -100,13 +107,6 @@ Specify the Type Library's version. The version's format is: major version dot m
 
 Specify a description for the type library.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Details
 
 ### Directory
@@ -114,10 +114,10 @@ Specify a description for the type library.
 Specify the directory that contains the Help file for the Type Library. Use the \[... \] and \[Reset \] buttons to do that.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature
@@ -125,10 +125,10 @@ Specify the directory that contains the Help file for the Type Library. Use the 
 Select the feature that must be installed in order for the Type Library to be operational.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cost
@@ -136,10 +136,10 @@ Select the feature that must be installed in order for the Type Library to be op
 Specify the cost, in bytes, associated with the Type Library properties.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Location
@@ -181,19 +181,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-avoid-video-ads-strategies-to-keep-ads-at-bay-for-2024/"><u>[New] Avoid Video Ads Strategies to Keep Ads at Bay for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-effortless-instagram-to-mp4-top-2-secrets-exposed-for-2024/"><u>[New] Effortless Instagram to MP4 Top 2 Secrets Exposed for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-psp-emulator-ios-top-5-picks/"><u>[New] In 2024, PSP Emulator iOS Top 5 Picks</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unlock-the-power-of-visual-storytelling-with-screen-capture-skills/"><u>2024 Approved Unlock the Power of Visual Storytelling with Screen Capture Skills</u></a></li>
-<li><a href="https://fox-making.techidaily.com/create-personalized-pdf-seals-online-at-no-cost-use-our-free-pdf-embossing-service/"><u>Create Personalized PDF Seals Online at No Cost - Use Our Free PDF Embossing Service</u></a></li>
-<li><a href="https://fox-making.techidaily.com/custom-subscriptions-per-client-personalized-software-licenses/"><u>Custom Subscriptions Per Client: Personalized Software Licenses</u></a></li>
-<li><a href="https://fox-making.techidaily.com/detect-and-remove-rootkits-with-malwarefox-advanced-cybersecurity-protection-tools/"><u>Detect & Remove Rootkits with MalwareFox: Advanced Cybersecurity Protection Tools</u></a></li>
-<li><a href="https://fox-making.techidaily.com/effective-web-analytics-strategies-unlocking-insights-and-growth/"><u>Effective Web Analytics Strategies: Unlocking Insights and Growth</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-truthgpts-unveiling-law-enforcement-action-against-mullvad-vpn-leading-free-pc-games-and-mechanical-keyboards-decoded/"><u>Exploring TruthGPT's Unveiling, Law Enforcement Action Against Mullvad VPN, Leading Free PC Games & Mechanical Keyboards Decoded</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-securely-sign-executable-installation-and-package-files-using-digital-certificates/"><u>How to Securely Sign Executable, Installation and Package Files Using Digital Certificates</u></a></li>
-<li><a href="https://fox-that.techidaily.com/is-your-smartphones-data-pace-dragging-you-down-accelerate-with-our-top-10-speed-enhancing-tips/"><u>Is Your Smartphone's Data Pace Dragging You Down? Accelerate with Our Top 10 Speed-Enhancing Tips</u></a></li>
-<li><a href="https://fox-making.techidaily.com/optimized-sql-code-panel-streamline-data-operations-effortlessly/"><u>Optimized SQL Code Panel: Streamline Data Operations Effortlessly</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/seamless-gopro-broadcasts-tips-for-facebook-and-periscope-channeling/"><u>Seamless GoPro Broadcasts Tips for Facebook & Periscope Channeling</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/steps-to-acquire-free-and-safe-vlc-player-on-a-mac-computer-for-2024/"><u>Steps to Acquire Free and Safe VLC Player on a Mac Computer for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-escalate-your-channel-with-a-swift-move-towards-youtube-partner-status/"><u>[New] 2024 Approved Escalate Your Channel with a Swift Move Towards YouTube Partner Status</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-10-free-passport-photo-maker-for-desktop-and-online/"><u>[Updated] 10 Free Passport Photo Maker for Desktop and Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/url3/"><u>「ブライトコーヴでダウンロードする動画を取得する：特定URLを使った効果的な戦略3選」</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-from-raw-to-richness-creating-and-merging-impressive-hdr-photos/"><u>2024 Approved From Raw to Richness Creating & Merging Impressive HDR Photos</u></a></li>
+<li><a href="https://fox-making.techidaily.com/best-of-the-best-top-4-mac-compatible-watermarking-solutions/"><u>Best of the Best: Top 4 Mac-Compatible Watermarking Solutions</u></a></li>
+<li><a href="https://fox-making.techidaily.com/download-and-install-kik-app-on-your-desktop-computer/"><u>Download and Install KIK App on Your Desktop Computer</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-methods-to-detect-and-eliminate-filerepmalware-expert-insights/"><u>Effective Methods to Detect and Eliminate FileRepMalware – Expert Insights</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-user-experience-through-smart-analytics-featuring-cookiebot-technology/"><u>Enhanced User Experience Through Smart Analytics - Featuring Cookiebot Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-closer-look-strategies-in-virtual-world-of-roblox/"><u>In 2024, Closer Look Strategies in Virtual World of Roblox</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/premier-asmr-vloggers-you-cant-miss-for-2024/"><u>Premier ASMR Vloggers You Can't Miss for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/preventing-spam-and-malicious-sms-a-guide-to-securing-your-android-device-with-malwarefox/"><u>Preventing Spam and Malicious SMS: A Guide to Securing Your Android Device with MalwareFox</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-transferring-data-from-your-huawei-mate-40-pro-to-a-computer/"><u>Step-by-Step Guide: Transferring Data From Your Huawei Mate 40 Pro to a Computer</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-guide-mastering-java-configuration-options/"><u>Ultimate Guide: Mastering Java Configuration Options</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-guide-reactivating-your-locked-or-deactivated-ipad/"><u>Ultimate Guide: Reactivating Your Locked or Deactivated iPad</u></a></li>
 </ul></div>
 

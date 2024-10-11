@@ -1,7 +1,7 @@
 ---
 title: Effortless Developing of Lightweight Applications Using ThinApp Technology
-date: 2024-09-29T17:25:47.162Z
-updated: 2024-10-05T17:41:40.779Z
+date: 2024-10-04T08:07:20.381Z
+updated: 2024-10-11T02:50:36.267Z
 tags:
   - user-guide
 categories:
@@ -88,7 +88,27 @@ Table of Contents
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)In order for an application to be virtualized it has to be target for a [shortcut](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Package
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Folder
 
@@ -99,10 +119,10 @@ Select the folder where the ThinApp package will be created.
 The name of DAT file.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Also create an MSI package
@@ -110,13 +130,6 @@ The name of DAT file.
 By enabling this option, aside from the virtual packages, a MSI package of your application will be created upon build as well.
 
 ## Isolation
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Allow the application to write to any location on the host PC (Merged isolation mode)
 
@@ -127,6 +140,13 @@ By enabling this option, aside from the virtual packages, a MSI package of your 
 
 For example, merged isolation is set for user-storage areas like Desktop and My Documents, so the application has direct write access to these locations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Allow the application to read from the host PC but not to write to it (WriteCopy isolation mode)
 
 * System elements at this location are visible to the application
@@ -136,14 +156,14 @@ For example, merged isolation is set for user-storage areas like Desktop and My 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)ThinApp caches the isolation modes for the registry and file system at runtime in the sandbox. If you change the isolation mode for your project and then rebuild the executable file, you might need to delete the sandbox for the change to take effect.
 
-## Compression
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Compression
 
 ### Fast
 
@@ -152,10 +172,10 @@ This option is recommend for most packages. Fast compression has a very fast rat
 For example, use fast compression for slow build time, good compression ratio, and fast load time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### None
@@ -164,21 +184,7 @@ This option is useful for building your application very fast for testing purpos
 
 For example, use no compression for fastest build time and fastest load time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Sandbox
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Name
 
@@ -188,13 +194,6 @@ The name of directory where the sandbox is created and stored.
 
 The path where ThinApp creates a new sandbox by default.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Reset sandbox on exit
 
 Resets the application by deleting the sandbox when the last child process exits.
@@ -202,13 +201,6 @@ Resets the application by deleting the sandbox when the last child process exits
 ### Redirect removable disks modifications to sandbox
 
 Prevents the user from writing directly to removable disks and instead, changes go to the sandbox.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Redirect mapped network drives changes to sandbox
 
@@ -220,11 +212,25 @@ Prevents the user from writing directly to network‐mapped drives and changes t
 
 This option removes all package usage restrictions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Only the following Active Directory user groups can run the package
 
 Restricts usage of the package to the specified list of Active Directory Group names.
 
 The Access Denied Message can be customized to instruct a user who doesn't have access to execute the package.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Advanced package options
 
@@ -268,18 +274,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-get-your-twitter-video-feed-ready-aspect-ratio-key/"><u>[New] 2024 Approved Get Your Twitter Video Feed Ready Aspect Ratio Key</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-exploring-the-full-features-sony-fdr-x1000-model-for-2024/"><u>[New] Exploring the Full Features Sony FDR-X1000 Model for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-delete-or-deactivate-an-instagram-account-permanently/"><u>[New] In 2024, How to Delete or Deactivate An Instagram Account Permanently</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-hd-graphics-drivers-download-for-windows-7/"><u>AMD Radeon HD Graphics Drivers Download for Windows 7</u></a></li>
-<li><a href="https://fox-making.techidaily.com/elevate-your-system-discover-the-power-of-i-upgrade-code/"><u>Elevate Your System: Discover the Power of I-Upgrade Code</u></a></li>
-<li><a href="https://fox-making.techidaily.com/expert-strategies-for-successful-execution-of-sophisticated-installer-creations/"><u>Expert Strategies for Successful Execution of Sophisticated Installer Creations</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-2023-unveils-top-screen-technology/"><u>IFA 2023 Unveils Top Screen Technology</u></a></li>
-<li><a href="https://techidaily.com/mastering-system-recovery-the-definitive-4-step-process-for-a-clean-windows-10-installation/"><u>Mastering System Recovery: The Definitive 4-Step Process for a Clean Windows 10 Installation</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/maximizing-income-through-effective-blog-ads-on-buyselladscom-platform/"><u>Maximizing Income Through Effective Blog Ads on BuySellAds.com Platform</u></a></li>
-<li><a href="https://fox-making.techidaily.com/swiftcut-intuitive-pathways-to-boost-productivity-and-time-saving-techniques/"><u>SwiftCut: Intuitive Pathways to Boost Productivity and Time-Saving Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-editors-secret-best-free-premiere-pro-resources-for-2024/"><u>Top Editors' Secret Best FREE Premiere Pro Resources for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/ultimate-tutorial-setting-up-an-expert-level-software-deployment-platform/"><u>Ultimate Tutorial: Setting Up an Expert-Level Software Deployment Platform</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-8-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 8 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unveiling-the-secrets-of-fb-video-full-screen/"><u>[New] In 2024, Unveiling the Secrets of FB Video Full-Screen</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-how-to-upload-videos-to-igtv/"><u>[Updated] In 2024, How to Upload Videos to IGTV?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-your-guide-to-getting-started-easy-aspects-of-starting-an-online-product-reviews-podcast/"><u>[Updated] In 2024, Your Guide to Getting Started Easy Aspects of Starting an Online Product Reviews Podcast</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-leading-steadicam-systems-for-drones-in-filmmaking-industry-for-2024/"><u>[Updated] Leading Steadicam Systems for Drones in Filmmaking Industry for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-step-by-step-to-superior-image-clarity-by-removing-backgrounds-using-affinity-for-2024/"><u>[Updated] Step-by-Step to Superior Image Clarity by Removing Backgrounds Using Affinity for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/an-overview-on-ac3-file-format-and-compatibility-guide/"><u>An Overview on AC3 File Format and Compatibility Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/bypassing-iphone-activation-locks-methods-for-users-and-non-users-of-itunes/"><u>Bypassing iPhone Activation Locks: Methods for Users and Non-Users of iTunes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-mf8500c-printer-software-free-download-for-windows-operating-systems/"><u>Canon MF8500C Printer Software: Free Download for Windows Operating Systems</u></a></li>
+<li><a href="https://fox-making.techidaily.com/download-and-install-kik-app-on-your-desktop-computer/"><u>Download and Install KIK App on Your Desktop Computer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722961011318-download-m-audio-fast-track-drivers-compatible-with-windows-107881/"><u>Download M-Audio Fast Track Drivers Compatible with Windows 10/7/8/8.1</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-the-art-of-comactivex-interoperability-in-software-development/"><u>Mastering the Art of COM/ActiveX Interoperability in Software Development</u></a></li>
+<li><a href="https://fox-making.techidaily.com/organizational-component-strategies-and-implementation/"><u>Organizational Component Strategies and Implementation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/premier-screen-grabber-chromebook-edition-leader/"><u>Premier Screen Grabber Chromebook Edition Leader</u></a></li>
+<li><a href="https://fox-making.techidaily.com/preventing-spam-and-malicious-sms-a-guide-to-securing-your-android-device-with-malwarefox/"><u>Preventing Spam and Malicious SMS: A Guide to Securing Your Android Device with MalwareFox</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reimagining-paperclips-with-ai-driven-maximization-techniques/"><u>Reimagining Paperclips with AI-Driven Maximization Techniques</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-transferring-data-from-your-huawei-mate-40-pro-to-a-computer/"><u>Step-by-Step Guide: Transferring Data From Your Huawei Mate 40 Pro to a Computer</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-guide-mastering-java-configuration-options/"><u>Ultimate Guide: Mastering Java Configuration Options</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-guide-reactivating-your-locked-or-deactivated-ipad/"><u>Ultimate Guide: Reactivating Your Locked or Deactivated iPad</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/wordcraft-wisdom-how-shakespeare-shapes-our-speech/"><u>Wordcraft Wisdom: How Shakespeare Shapes Our Speech</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding and Using Typographic Feature Attributes in Fonts
-date: 2024-09-28T17:45:36.413Z
-updated: 2024-10-05T17:27:59.072Z
+date: 2024-10-06T07:30:38.914Z
+updated: 2024-10-11T03:08:14.071Z
 tags:
   - user-guide
 categories:
@@ -82,20 +82,14 @@ This view allows you to specify the information that will be placed in the regis
 
 ![Type library properties](https://cdn.advancedinstaller.com/img/ui/type-library-properties.png "Type library properties")  
 
-## General
-
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## General
 
 ### File
 
@@ -105,36 +99,29 @@ This field displays the file that contains the Type Library. Use the \[... \] bu
 
 Specify the type library's language. Select one from the drop-down list.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Version
 
 Specify the Type Library's version. The version's format is: major version dot minor version.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
 
 Specify a description for the type library.
 
-## Details
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Details
 
 ### Directory
 
@@ -147,6 +134,19 @@ Select the feature that must be installed in order for the Type Library to be op
 ### Cost
 
 Specify the cost, in bytes, associated with the Type Library properties.
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Location
 
@@ -187,18 +187,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-best-of-breed-capture-card-for-switch/"><u>[Updated] Best of Breed Capture Card for Switch</u></a></li>
-<li><a href="https://fox-making.techidaily.com/easily-set-up-your-merge-module-a-step-by-step-guide/"><u>Easily Set Up Your Merge Module: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/film-frenzy-top-picks-of-free-and-paid-movies-on-iphones/"><u>Film Frenzy Top Picks of Free & Paid Movies on iPhones</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-lava-blaze-2-pro-easily-by-drfone-android/"><u>How To Unlock a Lava Blaze 2 Pro Easily?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-shoppers-quick-guide-to-choosing-top-notch-360cams/"><u>In 2024, The Shopper’s Quick Guide to Choosing Top-Notch 360Cams</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computer-hardware-with-toms-guide/"><u>Navigating the Latest in Computer Hardware with Tom's Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/new-bee-lc-41-one-of-the-best-bluetooth-headsets-under-20/"><u>New Bee LC-41: One of the Best Bluetooth Headsets Under $20</u></a></li>
-<li><a href="https://fox-making.techidaily.com/resetting-your-apple-id-password-on-iphone-models-x-6-7-and-8-step-by-step-guide/"><u>Resetting Your Apple ID Password on iPhone Models X, 6, 7 & 8 - Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/resurrecting-windows-photo-viewer-windows-10-techniques-1-and-2-for-2024/"><u>Resurrecting Windows Photo Viewer Windows 10 Techniques #1 & #2 for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/review-of-exceptional-video-converters-advanced-feature-comparison-guide/"><u>Review of Exceptional Video Converters – Advanced Feature Comparison Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/savespace-pros-review-summary/"><u>SaveSpace Pros Review Summary</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-guide-converting-ape-files-into-mp3-format/"><u>Step-by-Step Guide: Converting APE Files Into MP3 Format</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-know-how-to-create-ai-thumbnails-for-videos-this-article-will-mention-some-of-the-best-tools-to-generate-attractive-thumbnails-for-vi/"><u>Updated In 2024, Do You Know How to Create AI Thumbnails for Videos? This Article Will Mention some of the Best Tools to Generate Attractive Thumbnails for Videos with AI</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-digital-film-composer/"><u>[New] 2024 Approved Digital Film Composer</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-capture-your-gaming-success-on-win10/"><u>[Updated] How to Capture Your Gaming Success on Win10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pinning-down-content-5-superior-free-video-downloader-tools/"><u>2024 Approved Pinning Down Content 5 Superior Free Video Downloader Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-quick-and-quiet-recording-of-games/"><u>2024 Approved Quick and Quiet Recording of Games</u></a></li>
+<li><a href="https://fox-making.techidaily.com/best-free-and-premium-digital-collage-apps-top-picks-for-creating-stunning-layouts/"><u>Best Free and Premium Digital Collage Apps: Top Picks for Creating Stunning Layouts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blend-mp3s-with-presentation-content-in-ppt-for-2024/"><u>Blend MP3s with Presentation Content in PPT for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-billboard-advertising-mastering-the-art-of-outdoor-communication/"><u>Effective Billboard Advertising: Mastering the Art of Outdoor Communication</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-database-management-solutions/"><u>Effective Database Management Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-connection-not-private-errors-tips-and-solutions/"><u>Fixing 'Connection Not Private' Errors: Tips and Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-monitor-running-smoothly-on-windows-aoc-drivers-downloaded-here/"><u>Get Your Monitor Running Smoothly on Windows: AOC Drivers Downloaded Here!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/in-depth-details-on-items-product-info-section/"><u>In-Depth Details on Items - Product Info Section</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-mouse-settings-in-windows-11-with-minimal-hassle/"><u>Mastering Mouse Settings in Windows 11 with Minimal Hassle</u></a></li>
+<li><a href="https://fox-making.techidaily.com/secure-file-transfer-protocol-login-how-to-obtain-ftp-credentials/"><u>Secure File Transfer Protocol Login: How to Obtain FTP Credentials</u></a></li>
+<li><a href="https://fox-making.techidaily.com/solving-issue-panes-in-project-management-a-comprehensive-guide/"><u>Solving 'Issue Panes' In Project Management: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-screen-effortless-guide-on-syncing-your-iphone-with-a-haier-television/"><u>Step-by-Screen: Effortless Guide on Syncing Your iPhone with a Haier Television</u></a></li>
+<li><a href="https://fox-making.techidaily.com/structured-packaging-blueprint-cluster-guide/"><u>Structured Packaging Blueprint Cluster Guide</u></a></li>
 </ul></div>
 

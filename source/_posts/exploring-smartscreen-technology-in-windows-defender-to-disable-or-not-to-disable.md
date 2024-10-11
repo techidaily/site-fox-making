@@ -1,7 +1,7 @@
 ---
 title: Exploring SmartScreen Technology in Windows Defender – To Disable or Not to Disable?
-date: 2024-09-28T18:12:29.317Z
-updated: 2024-10-05T20:32:30.998Z
+date: 2024-10-07T20:08:00.859Z
+updated: 2024-10-10T20:18:03.895Z
 tags:
   - product
   - antivirus
@@ -52,25 +52,11 @@ The Antimalware Service Executable process is the Windows Defender program, and 
 
 [Why Antivirus is not Enough?](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Does SmartScreen Use Memory and CPU?
 
 The SmartScreen process is just sitting in the background most of the time not using hardly any system resources. You will see that it’s using around 0% CPU and only a couple of megabytes of memory in the Task Manager. Sometimes, you won’t even see it running as Windows will close the process when it isn’t using the feature.
 
 ![](https://malwarefox.com/wp-content/uploads/2018/06/board-1.png "board (1)")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 However, if your SmartScreen is enabled and you start downloading a new file or application, SmartScreen will kick in. Windows will launch the feature if it’s disabled at the moment and you will see that it’s using a bit of memory and CPU resources as it collects data from the file, sends that data to the Microsoft servers, and waits for the file to be checked to see if it is a known program. If the file is safe, your PC will launch the file or application normally.
 
@@ -79,10 +65,10 @@ The amount of memory and CPU SmartScreen uses should be very small, and the proc
 [What is Malvertising?](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Does SmartScreen Feature Work?
@@ -90,6 +76,19 @@ The amount of memory and CPU SmartScreen uses should be very small, and the proc
 At the level of the operating system, the SmartScreen feature works by sending information about almost every application you download and run to its servers. If the application you downloaded is fairly popular and legitimate, such as Apple iTunes or Google Chrome, Windows is going to allow it to run. If Microsoft knows that the downloaded application is something harmful, it will prevent that application from running.
 
 ![](https://malwarefox.com/wp-content/uploads/2017/10/shield-2.png "shield (2)")
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If the SmartScreen isn’t familiar with the application you download, you will get a warning message that will prevent the unrecognized application from starting. However, you can always choose to bypass this message if you think that the application isn’t harmful.
 
@@ -100,13 +99,6 @@ No matter where the file or application is coming from, this operating system pr
 ![SmartScreen Blocking Download](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/07/SmartScreen-Blocking-Download.jpg "SmartScreen Blocking Download")
 
 SmartScreen on Windows 10 also blocks malicious downloads and websites in the Windows Store and Microsoft Edge apps. It performs the same function as the Google Safe Browsing program, which blocks access to malicious websites in Firefox and Chrome.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Run an App SmartScreen doesn’t Recognize
 
@@ -130,6 +122,13 @@ On the Windows Defender’s sidebar, click the icon for App & Browser Control an
 
 ![](https://malwarefox.com/wp-content/uploads/2018/06/computer-1.png "computer (1)")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Windows SmartScreen has three different filters, and you can configure different options for each. You can choose to block applications that are unrecognized, to see a warning that you can click through, or you can turn Windows SmartScreen off altogether. Even if the “Warn” option is enabled, your SmartScreen process will always block malicious content, but it will first warn you before you run an application that’s unrecognized. Keep in mind that disabling SmartScreen will put your computer in potential danger as it won’t block dangerous files anymore.
 
 There’s also an option called “Check apps and files.” This will control the OS’s SmartScreen filter, which is going to protect you from malicious files no matter where you downloaded them from. Once you try to open a downloaded file or an application in, for example, File Explorer, Windows will check if that file or app is malicious and will block it if it is.
@@ -139,6 +138,13 @@ Your PC also has an option called “SmartScreen for Microsoft Edge.” Its purp
 Another option is the “SmartScreen for Windows Store apps.” Your computer uses this feature when applications you’re downloading from the Windows Store are accessing something on the web. It will warn you before applications load dangerous content.
 
 [Is Dropbox Really Safe?](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Disable SmartScreen on Windows 8?
 
@@ -156,17 +162,24 @@ Keep in mind that disabling the feature is not recommended! As we mentioned many
 
 [Is Windows Defender Enough?](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 thought on “What is SmartScreen Filter and Should You Disable It?”
 
 1. ![](https://secure.gravatar.com/avatar/7c9bc7a3ea6709300d73363e207bfaa3?s=50&d=mm&r=g)  
 JohnIL  
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [July 9, 2019 at 6:57 am](https://tools.techidaily.com/malwarefox/products/)  
 Windows has become a nanny OS now trying to save us all from ourselves. Our bad habits online, the files and content we download with unintended attachments. The emails that have nasties in them. Try Linux distribution sometime and you will experience what just a clean OS can really perform well. Mainly because it has no security like Defender running in background, or Smart screen or backup in case you get some sort of ransomeware. Windows used to be fast, back before all these nanny features got tacked on. Best you leave them on though if you doubt yourself even the slightest about your habits online. Maybe that stuff will save yourself some headaches some day?  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -196,15 +209,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-essential-iphone-and-android-apps-to-transform-your-gopro-shots/"><u>[Updated] Essential iPhone & Android Apps to Transform Your GoPro Shots</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-innovative-broadcast-strategies-live-on-instagram-using-obs-software-for-2024/"><u>[Updated] Innovative Broadcast Strategies Live on Instagram Using OBS Software for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/accelerating-your-online-presence-strategies-for-superior-website-response-times/"><u>Accelerating Your Online Presence: Strategies for Superior Website Response Times</u></a></li>
-<li><a href="https://article-tips.techidaily.com/audio-accomplishment-iphone-as-a-podcast-hub/"><u>Audio Accomplishment IPhone as a Podcast Hub</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-tutorial-identifying-and-updating-executable-detections/"><u>Comprehensive Tutorial: Identifying and Updating Executable Detections</u></a></li>
-<li><a href="https://fox-making.techidaily.com/efficient-maintenance-protocol-standardized-conversation-templates/"><u>Efficient Maintenance Protocol: Standardized Conversation Templates</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/gratis-y-sin-derechos-de-autor-descarga-videos-en-alta-definicion-storyblocks/"><u>Gratis Y Sin Derechos De Autor, Descarga Videos en Alta Definición - Storyblocks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-quickly-view-images-in-windows-11/"><u>How To Quickly View Images in Windows 11</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-tutorial-converting-android-pdfs-into-microsoft-word-format-for-efficient-editing-updated-for-2020/"><u>Step-by-Step Tutorial: Converting Android PDFs Into Microsoft Word Format for Efficient Editing (Updated for 2020)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-9-youtube-video-extraction-tools-for-android-reviewed/"><u>[New] 9 YouTube Video Extraction Tools for Android Reviewed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-gear-up-with-smart-techniques-elevating-your-ps4-gameplay-capture-abilities-for-2024/"><u>[New] Gear Up with Smart Techniques Elevating Your PS4 Gameplay Capture Abilities for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-perfect-proportions-for-professional-videos/"><u>[New] In 2024, Perfect Proportions for Professional Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimizing-storage-spend-best-prices-in-cloud-services/"><u>[New] Optimizing Storage Spend Best Prices in Cloud Services</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/can-you-control-the-quality-of-compressed-videos-in-google-photos/"><u>Can You Control the Quality of Compressed Videos in Google Photos?</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effortlessly-crafting-editable-pdf-forms-no-adobe-required/"><u>Effortlessly Crafting Editable PDF Forms: No Adobe Required!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/guide-to-generating-effective-filefolder-associations-for-streamlined-installation-processes/"><u>Guide to Generating Effective File/Folder Associations for Streamlined Installation Processes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-6-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Honor Magic 6 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-transitions-the-art-of-editing-with-garagebands-power-tools/"><u>In 2024, Seamless Transitions The Art of Editing with GarageBand's Power Tools</u></a></li>
+<li><a href="https://fox-making.techidaily.com/next-level-scripting-unlocking-the-full-potential-of-installer-powershell-apis/"><u>Next-Level Scripting: Unlocking the Full Potential of Installer PowerShell APIs</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/rabattiertes-komplett-software-paket-fur-mac-dvd-entpacker-and-videokonvertierungsprogramm/"><u>Rabattiertes Komplett-Software-Paket Für Mac: DVD-Entpacker & Videokonvertierungsprogramm</u></a></li>
+<li><a href="https://fox-making.techidaily.com/speedy-techniques-for-instant-whiteness-transforming-online-background-colors-with-ease/"><u>Speedy Techniques for Instant Whiteness: Transforming Online Background Colors with Ease</u></a></li>
+<li><a href="https://fox-making.techidaily.com/the-ultimate-list-of-top-free-photo-editing-tools-on-android/"><u>The Ultimate List of Top Free Photo Editing Tools on Android</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-10-screen-recording-tools-for-windows-11-free-and-premium-options-explored/"><u>Top 10 Screen Recording Tools for Windows 11: Free and Premium Options Explored</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-rated-free-and-premium-background-replacement-apps/"><u>Top-Rated Free and Premium Background Replacement Apps</u></a></li>
 </ul></div>
 

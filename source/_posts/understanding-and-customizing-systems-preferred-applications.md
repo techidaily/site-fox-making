@@ -1,7 +1,7 @@
 ---
 title: Understanding and Customizing System's Preferred Applications
-date: 2024-09-30T19:19:12.743Z
-updated: 2024-10-05T17:35:27.128Z
+date: 2024-10-08T06:10:09.107Z
+updated: 2024-10-11T03:35:44.829Z
 tags:
   - user-guide
 categories:
@@ -85,6 +85,13 @@ Table of Contents
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The Default Programs feature does not apply on Windows 8 and newer operating systems. Due to their design, these operating systems don't allow setting the default programs programmatically.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Register application with Default Programs
 
 This option enables you to register an application from your package to be used through Windows Default Programs (Vista or above).
@@ -95,22 +102,15 @@ For additional information please, see Microsoft's Platform SDK documentation.
 
 This section allows you to specify all the information needed to register an application to Windows Default Programs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Application description
 
 A string that describes the application's capabilities. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Capabilities Path
@@ -118,13 +118,6 @@ A string that describes the application's capabilities. This field is of [Format
 Specify the Capabilities key's registry key path. 
 
 The Capabilities key contains all the Default Programs information for a specific application. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Set your defaults
 
@@ -135,10 +128,23 @@ This is achieved with the use of a custom action which is running at the end of 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The options you set here only apply to the user that performs the installation. Your choices won't affect other user accounts on the machine. Also, all the settings performed after the installation through the Default Programs UI will apply only to the current user.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Program Association
@@ -187,24 +193,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-a-compreenas-guide-for-efficient-pip-integration-in-edge-browser/"><u>[New] 2024 Approved A Compreenas Guide for Efficient PIP Integration in Edge Browser</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-techniques-to-rectify-non-sending-videos-on-iphones-and-android-messengers/"><u>[New] 2024 Approved Techniques to Rectify Non-Sending Videos on iPhones & Android Messengers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-deciphering-highlighted-discussion-threads/"><u>[New] In 2024, Deciphering Highlighted Discussion Threads</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-anime-aesthetics-top-20-visual-elements-on-tiktok-for-2024/"><u>[Updated] Anime Aesthetics Top 20 Visual Elements on TikTok for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-ultimate-free-pdf-markup-tool-2020-simplify-your-pdf-note-taking-experience/"><u>1. Ultimate Free PDF Markup Tool 2020 - Simplify Your PDF Note-Taking Experience</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-engage-entertain-enlighten-crafting-compelling-live-thumbnails/"><u>2024 Approved Engage, Entertain, Enlighten Crafting Compelling Live Thumbnails</u></a></li>
-<li><a href="https://fox-making.techidaily.com/best-methods-for-transferring-your-favorite-youtube-audio-tracks-to-itunes-across-pc-and-mac/"><u>Best Methods for Transferring Your Favorite YouTube Audio Tracks to iTunes Across PC & Mac</u></a></li>
-<li><a href="https://fox-making.techidaily.com/complex-interaction-frameworks-in-dialog-systems/"><u>Complex Interaction Frameworks in Dialog Systems</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-analysis-screenr-vs-competing-software-options/"><u>Comprehensive Analysis: Screenr Vs. Competing Software Options</u></a></li>
-<li><a href="https://fox-making.techidaily.com/effortlessly-export-documents-as-templates/"><u>Effortlessly Export Documents as Templates</u></a></li>
-<li><a href="https://fox-making.techidaily.com/exploring-smartscreen-technology-in-windows-defender-to-disable-or-not-to-disable/"><u>Exploring SmartScreen Technology in Windows Defender – To Disable or Not to Disable?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-visual-storytelling-the-cutting-edge-6-instagram-reel-tools/"><u>In 2024, Mastering Visual Storytelling The Cutting-Edge 6 Instagram Reel Tools</u></a></li>
-<li><a href="https://facebook.techidaily.com/metas-strategic-moves-spark-concern-over-european-tech-titans-future/"><u>Meta’s Strategic Moves Spark Concern Over European Tech Titans' Future</u></a></li>
-<li><a href="https://fox-making.techidaily.com/quick-and-simple-methods-optimize-your-music-by-shrinking-mp3-size/"><u>Quick & Simple Methods: Optimize Your Music by Shrinking MP3 Size</u></a></li>
-<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-oneplus-11r-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on OnePlus 11R Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-guide-moving-your-iphone-videos-to-a-windows-11-computer/"><u>Step-by-Step Guide: Moving Your iPhone Videos to a Windows 11 Computer</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-tutorial-transforming-myvideo-streams-to-mp3-format-for-download-and-play/"><u>Step-by-Step Tutorial: Transforming MyVideo Streams to MP3 Format for Download and Play</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/sunshine-strategies-enhancing-indoor-luminary-quality-for-2024/"><u>Sunshine Strategies Enhancing Indoor Luminary Quality for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-the-art-of-flawless-instantaneous-iphone-podcast-downloads-for-2024/"><u>Unlocking the Art of Flawless, Instantaneous iPhone Podcast Downloads for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-simplified-webinar-recording-methods-for-windows-and-mac-users/"><u>[New] Simplified Webinar Recording Methods for Windows & Mac Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-final-touch-youtube-outro-essentials-plus-premier-creator-list/"><u>[New] The Final Touch YouTube Outro Essentials + Premier Creator List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-streaming-screens-using-netflixs-pip-mode/"><u>2024 Approved Unveiling Streaming Screens Using Netflix's PIP Mode</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-oppo-f23-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Oppo F23 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/adjusting-visual-preferences-in-installation-setup-wizard/"><u>Adjusting Visual Preferences in Installation Setup Wizard</u></a></li>
+<li><a href="https://fox-making.techidaily.com/custom-dll-function-call-how-to-implement-iinstalleddll-in-windows/"><u>Custom DLL Function Call: How to Implement IInstalledDll in Windows</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-techniques-for-converting-scanned-pdf-documents-into-editable-word-files/"><u>Effective Techniques for Converting Scanned PDF Documents Into Editable Word Files</u></a></li>
+<li><a href="https://fox-making.techidaily.com/elevate-your-system-discover-the-power-of-i-upgrade-code/"><u>Elevate Your System: Discover the Power of I-Upgrade Code</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-your-laptops-lifespan-with-windows-11s-battery-information-tool/"><u>Mastering Your Laptop’s Lifespan with Windows 11’S Battery Information Tool</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/step-by-step-guide-to-game-recording-using-obs/"><u>Step-by-Step Guide to Game Recording Using OBS</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/vob/"><u>VOBファイルを完全無料でオンライン変換 - 動画魔童</u></a></li>
 </ul></div>
 

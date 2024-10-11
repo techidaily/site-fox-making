@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Mastering Java Configuration Options"
-date: 2024-09-29T19:21:43.237Z
-updated: 2024-10-05T20:59:39.593Z
+date: 2024-10-09T08:14:10.452Z
+updated: 2024-10-11T09:13:13.357Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ Table of Contents
 ## Java Settings
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Package with Bundled JRE
@@ -95,17 +95,37 @@ In order to bundle a JRE with your build use the \[Add JRE Bundle... \] button.
 ![Java settings tab](https://cdn.advancedinstaller.com/img/ui/java-settings-tab.png "Java settings tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For the Mac OS build, only Java Products using Oracle VM support JRE bundling. You can change the MacOS VM provider from [Mac OS X settings Tab](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For the Mac OS build you can bundle only the JRE installed by the JDK. So you should first install the JDK on a Mac machine and then pick its installation folder when using the \[Add JRE Bundle... \] button.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When none of the Java Products, included in the Mac OS X build, is self-contained (all of its application files are added under [Product Section](https://tools.techidaily.com/advancedinstaller/products/)) a JRE bundle cannot be included in the Mac OS X build.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Compression
 
@@ -117,31 +137,11 @@ In order to bundle a JRE with your build use the \[Add JRE Bundle... \] button.
 
  You can use this option if you want to be packed using Pack200 only the JAR files from the JRE bundled with your application.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Verify JAR files signature before and after packing
 
 When you are using this option, the JAR signature is verified not to be broken during packing. The files whose signature is broken will not be compressed with Pack200.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The Verify JAR signature option requires JDK installed on your development machine and the JDK installation folder to be specified in the [External Tools](https://tools.techidaily.com/advancedinstaller/products/) settings.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Below there is a short video to visually discover this functionality:
 
@@ -183,18 +183,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-from-live-action-to-digital-footage-gadget-guidebook-for-2024/"><u>[Updated] From Live Action to Digital Footage Gadget Guidebook for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-xs-max-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone XS Max Activity | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/2-streamline-file-management-mastering-the-art-of-editing-temp-files-quickly/"><u>2. Streamline File Management: Mastering the Art of Editing Temp Files Quickly</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-precision-editing-embedding-times-in-video-posts/"><u>2024 Approved Precision Editing Embedding Times in Video Posts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-8-streamers-pick-high-end-cameras-reviewed/"><u>Best 8 Streamer's Pick High-End Cameras Reviewed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exclusive-pick-for-the-ultimate-stylus-tablet-of-216plus372-in-depth-analysis-and-expert-ratings-gizmosphere/"><u>Exclusive Pick for the Ultimate Stylus Tablet of 2^16+3(7/2): In-Depth Analysis and Expert Ratings | GizmoSphere</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-v30-lite-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo V30 Lite 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/guide-capturing-gameplay-on-your-xbox-one-and-xbox-360-a-step-by-step-tutorial/"><u>Guide: Capturing Gameplay on Your Xbox One & Xbox 360 – A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-itel-a60-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Itel A60 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/leading-video-advertisement-makers-web-and-app-solutions/"><u>Leading Video Advertisement Makers: Web & App Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-to-refresh-nvidia-geforce-gtx-1660s-drivers-swiftly/"><u>Step-by-Step Tutorial to Refresh nVIDIA GeForce GTX 1660'S Drivers Swiftly</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-rated-watermarking-application-for-ios-devices/"><u>Top Rated Watermarking Application for iOS Devices</u></a></li>
-<li><a href="https://fox-making.techidaily.com/user-guide-navigating-through-effective-file-elimination-conversations/"><u>User Guide: Navigating Through Effective File Elimination Conversations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-become-an-efficient-time-warrior-with-these-15-task-packed-listening-habits/"><u>[Updated] Become an Efficient Time Warrior with These 15 Task-Packed Listening Habits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-top-8-best-4k-blu-ray-players/"><u>[Updated] Top 8 Best 4K Blu-Ray Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-pc-gaming-experience-solving-fps-drops-in-resident-evil-village/"><u>Boost Your PC Gaming Experience - Solving FPS Drops in Resident Evil Village</u></a></li>
+<li><a href="https://fox-making.techidaily.com/comprehensive-tutorial-identifying-and-updating-executable-detections/"><u>Comprehensive Tutorial: Identifying and Updating Executable Detections</u></a></li>
+<li><a href="https://fox-making.techidaily.com/efficient-methods-to-clear-storage-on-iphone-or-ipad-prior-to-upgrading-to-ios-8/"><u>Efficient Methods to Clear Storage on iPhone or iPad Prior to Upgrading to iOS 8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-drivers-for-your-amd-ryzen-5-2600-quick-and-easy-methods/"><u>How to Get the Latest Drivers for Your AMD Ryzen 5 2600: Quick & Easy Methods</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-use-kik-chat-service-from-a-windows-or-mac-laptop/"><u>How to Use KIK Chat Service From a Windows or Mac Laptop</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-xiaomi-civi-3-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Xiaomi Civi 3 Phone Screen?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-15-pro-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone 15 Pro?</u></a></li>
+<li><a href="https://fox-making.techidaily.com/malvertising-explained-insights-from-malwarefox-specialists/"><u>Malvertising Explained – Insights From MalwareFox Specialists</u></a></li>
+<li><a href="https://fox-making.techidaily.com/project-setup-interface-navigating-the-registry-configuration-pages/"><u>Project Setup Interface: Navigating the Registry Configuration Pages</u></a></li>
+<li><a href="https://fox-making.techidaily.com/quick-guide-removing-notes-seamlessly-on-ios-devices/"><u>Quick Guide: Removing Notes Seamlessly on iOS Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-90-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/strategies-to-locate-personal-email-addresses-online-safely/"><u>Strategies to Locate Personal Email Addresses Online Safely</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-pick-queer-cinema-streaming-on-netflix-this-july-2024/"><u>Top Pick: Queer Cinema Streaming on Netflix This July 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unlock-the-secrets-mastering-file-versions-with-easy-to-use-tabs/"><u>Unlock the Secrets: Mastering File Versions with Easy-to-Use Tabs</u></a></li>
 </ul></div>
 

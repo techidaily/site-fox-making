@@ -1,7 +1,7 @@
 ---
 title: Navigating Application Features with the Program Options Panel
-date: 2024-09-30T16:18:49.397Z
-updated: 2024-10-05T19:32:28.577Z
+date: 2024-10-09T05:47:54.437Z
+updated: 2024-10-10T20:30:05.677Z
 tags:
   - user-guide
 categories:
@@ -75,10 +75,10 @@ Table of Contents
 In this tab you can create programs profiles associated with the current package. At least one program is**required**.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Programs
@@ -91,10 +91,10 @@ This list contains all the programs defined for this package. It contains two co
 | Command Line | The program will be executed using the parameters declared in this field |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Add a new program
@@ -103,16 +103,16 @@ Use the \[New... \] button to add a new program. The [Edit SCCM Program Dialog](
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can **not** add a new program profile in a predefined configuration profile.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Edit an existing program
 
 Use the \[Edit... \] button to edit the selected program profile. The [Edit SCCM Program Dialog](https://tools.techidaily.com/advancedinstaller/products/) will appear.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Remove an existing program
 
@@ -121,10 +121,10 @@ Use the \[Remove \] button to delete the selected program profile.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can **not** delete an existing program profile from a predefined configuration profile.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -165,19 +165,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-joint-venture-campaigns-for-brands-on-video-platforms/"><u>[New] Joint Venture Campaigns for Brands on Video Platforms</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-tactical-approach-to-effortless-ipad-screen-records-for-2024/"><u>[New] Tactical Approach to Effortless iPad Screen Records for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-personalizing-who-can-see-your-youtube-content/"><u>[Updated] 2024 Approved Personalizing Who Can See Your YouTube Content</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-simplify-screen-views-transforming-fb-content-for-televisions/"><u>[Updated] 2024 Approved Simplify Screen Views Transforming FB Content for Televisions</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-dive-into-video-production-mastering-green-screens-on-yt/"><u>[Updated] Dive Into Video Production Mastering Green Screens on YT</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/copy-protected-dvdbdimgburn/"><u>Copy-Protected DVD/BDをImgBurnで正常にコピーするためのエラー解決方法</u></a></li>
-<li><a href="https://fox-making.techidaily.com/heic-to-pdf-transformation-made-easy-top-free-online-editors-and-guides/"><u>HEIC to PDF Transformation Made Easy - Top Free Online Editors & Guides</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-xr-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone XR Without Passcode Now</u></a></li>
-<li><a href="https://fox-making.techidaily.com/leading-video-advertisement-makers-web-and-app-solutions/"><u>Leading Video Advertisement Makers: Web & App Solutions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-game-interruptions-resolving-samurai-warriors-5-pc-compatibility-issues/"><u>No More Game Interruptions: Resolving Samurai Warriors 5 PC Compatibility Issues</u></a></li>
-<li><a href="https://fox-making.techidaily.com/resetting-your-apple-id-password-on-iphone-models-x-6-7-and-8-step-by-step-guide/"><u>Resetting Your Apple ID Password on iPhone Models X, 6, 7 & 8 - Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-rated-watermarking-application-for-ios-devices/"><u>Top Rated Watermarking Application for iOS Devices</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-the-file-properties-window-a-comprehensive-guide/"><u>Understanding the File Properties Window: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/user-guide-navigating-through-effective-file-elimination-conversations/"><u>User Guide: Navigating Through Effective File Elimination Conversations</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-charting-the-course-for-youtube-keyword-mastery/"><u>[New] 2024 Approved Charting the Course for YouTube Keyword Mastery</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unleash-creativity-crafting-your-own-youtube-shorts-thumbnails/"><u>[New] 2024 Approved Unleash Creativity Crafting Your Own YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-making-avatar-creation-a-breeze-in-the-digital-realm-for-2024/"><u>[New] Making Avatar Creation a Breeze in the Digital Realm for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-recognizing-unseen-snaps-on-social-network-for-2024/"><u>[Updated] Recognizing Unseen Snaps on Social Network for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/openrectv/"><u>「ダウンロード・録画」機能でOPENREC.tvの動画を安全にコピー</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-tips-to-master-free-countdown-functions/"><u>2024 Approved Quick Tips to Master FREE Countdown Functions</u></a></li>
+<li><a href="https://fox-making.techidaily.com/accelerating-your-online-presence-strategies-for-superior-website-response-times/"><u>Accelerating Your Online Presence: Strategies for Superior Website Response Times</u></a></li>
+<li><a href="https://fox-making.techidaily.com/achieve-stellar-results-with-these-10-amazing-free-video-editors-on-android-devices/"><u>Achieve Stellar Results with These 10 Amazing Free Video Editors on Android Devices</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easy-techniques-for-instantly-whitening-image-backgrounds/"><u>Easy Techniques for Instantly Whitening Image Backgrounds</u></a></li>
+<li><a href="https://fox-making.techidaily.com/efficient-maintenance-protocol-standardized-conversation-templates/"><u>Efficient Maintenance Protocol: Standardized Conversation Templates</u></a></li>
+<li><a href="https://fox-making.techidaily.com/seamlessly-switch-from-pages-to-text-proven-strategies-for-quick-conversion/"><u>Seamlessly Switch From Pages to Text: Proven Strategies for Quick Conversion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/shadowlessedit-advanced-background-removal-app/"><u>ShadowLessEdit Advanced Background Removal App</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-tutorial-converting-android-pdfs-into-microsoft-word-format-for-efficient-editing-updated-for-2020/"><u>Step-by-Step Tutorial: Converting Android PDFs Into Microsoft Word Format for Efficient Editing (Updated for 2020)</u></a></li>
 </ul></div>
 

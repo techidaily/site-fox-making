@@ -1,7 +1,7 @@
 ---
 title: "XML Attribute Modification Tool: A Comprehensive Guide"
-date: 2024-10-03T17:52:32.412Z
-updated: 2024-10-05T18:26:14.449Z
+date: 2024-10-05T19:23:05.877Z
+updated: 2024-10-10T20:38:31.152Z
 tags:
   - user-guide
 categories:
@@ -98,13 +98,6 @@ Table of Contents
 
 ![Edit Element](https://cdn.advancedinstaller.com/img/dialog/xml-edit-attribute.png "Edit Element")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## General
 
 Specify the name and value of an XML attribute.
@@ -112,20 +105,20 @@ Specify the name and value of an XML attribute.
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)The “Value” field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edit using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). Also you can [localize](https://tools.techidaily.com/advancedinstaller/products/) it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Options
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Is identifier attribute
 
@@ -134,10 +127,10 @@ In order to enhance the _localizing precision of matching elements_, you can use
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can specify several attributes as _identifiers_ for an XML element.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Operation
@@ -147,6 +140,13 @@ Specify the attribute update behavior. The following options are available:
 * Create or update - if a matching attribute is found , the update operation will execute.
 * Create only if it does not exist - if a matching attribute is found no action will be performed.
 * Remove - if a matching attribute is found the remove action will execute.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Execute update
 
@@ -187,21 +187,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-elite-epics-crafted-for-the-airwaves/"><u>[New] 2024 Approved Elite Epics Crafted for the Airwaves</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-10-best-history-youtube-channels-for-students-and-history-lovers/"><u>[New] In 2024, 10 Best History YouTube Channels for Students & History Lovers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-techniques-for-accurate-ps3-playback-rendering/"><u>[Updated] Techniques for Accurate PS3 Playback Rendering</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-constructing-success-personalized-home-building-solutions/"><u>1. Constructing Success: Personalized Home Building Solutions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-comprehensive-tutorial-for-using-movie-maker-on-windows-8-os/"><u>2024 Approved A Comprehensive Tutorial for Using Movie Maker on Windows 8 OS</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-navigating-through-the-premier-10-image-stock-websites/"><u>2024 Approved Navigating Through the Premier 10 Image Stock Websites</u></a></li>
-<li><a href="https://fox-making.techidaily.com/easily-set-up-your-merge-module-a-step-by-step-guide/"><u>Easily Set Up Your Merge Module: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-xs-max-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/ifolder-fastentry-streamline-your-file-navigation/"><u>IFolder FastEntry - Streamline Your File Navigation</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-7-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone 7</u></a></li>
-<li><a href="https://fox-making.techidaily.com/navigating-application-features-with-the-program-options-panel/"><u>Navigating Application Features with the Program Options Panel</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-free-online-dailymotion-downloader-and-converter-for-2024/"><u>New Free Online Dailymotion Downloader and Converter for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/pull-in-viewers-with-the-best-tiktok-caption-ideas-for-engagement-for-2024/"><u>Pull in Viewers With The Best TikTok Caption Ideas for Engagement for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/resetting-your-apple-id-password-on-iphone-models-x-6-7-and-8-step-by-step-guide/"><u>Resetting Your Apple ID Password on iPhone Models X, 6, 7 & 8 - Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/review-of-exceptional-video-converters-advanced-feature-comparison-guide/"><u>Review of Exceptional Video Converters – Advanced Feature Comparison Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/superior-video-editing-and-conversion-tools-top-notch-reviews/"><u>Superior Video Editing & Conversion Tools - Top-Notch Reviews</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-multi-image-instagram-stories-a-step-by-step-tutorial/"><u>[New] Mastering Multi-Image Instagram Stories A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pinnacle-performance-discover-the-top-8-webcams-today/"><u>[New] Pinnacle Performance Discover the Top 8 Webcams Today</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhance-youtube-video-speed-fast-render-and-upload-techniques/"><u>[Updated] 2024 Approved Enhance YouTube Video Speed - Fast Render and Upload Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-screen-time-storytelling-before-sleep-analysis-and-reviews/"><u>[Updated] In 2024, Screen-Time Storytelling Before Sleep Analysis and Reviews</u></a></li>
+<li><a href="https://fox-making.techidaily.com/benchmarking-performance-excel-versus-xml-data-management/"><u>Benchmarking Performance: Excel Versus XML Data Management</u></a></li>
+<li><a href="https://fox-making.techidaily.com/best-free-and-premium-digital-collage-apps-top-picks-for-creating-stunning-layouts/"><u>Best Free and Premium Digital Collage Apps: Top Picks for Creating Stunning Layouts</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-billboard-advertising-mastering-the-art-of-outdoor-communication/"><u>Effective Billboard Advertising: Mastering the Art of Outdoor Communication</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guidance-instagram-ringtone-download-and-make-instagram-ringtone-on-your-own-for-2024/"><u>Guidance Instagram Ringtone Download and Make Instagram Ringtone on Your Own for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-icon-and-logo-havens-a-guide-to-6-unique-online-resources/"><u>In 2024, Icon & Logo Havens A Guide to 6 Unique Online Resources</u></a></li>
+<li><a href="https://fox-making.techidaily.com/solving-issue-panes-in-project-management-a-comprehensive-guide/"><u>Solving 'Issue Panes' In Project Management: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/the-quick-guide-to-viewing-your-videos-forward-and-backward/"><u>The Quick Guide to Viewing Your Videos Forward and Backward</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-methods-for-remote-controlling-your-pc-using-an-iphone/"><u>Top Methods for Remote Controlling Your PC Using an iPhone</u></a></li>
 </ul></div>
 

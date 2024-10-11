@@ -1,7 +1,7 @@
 ---
 title: "Optimized SQL Code Panel: Streamline Data Operations Effortlessly"
-date: 2024-09-29T21:57:45.235Z
-updated: 2024-10-05T19:33:20.225Z
+date: 2024-10-08T00:24:33.320Z
+updated: 2024-10-11T07:54:01.484Z
 tags:
   - user-guide
 categories:
@@ -83,6 +83,13 @@ This tab allows you to configure the selected SQL script.
 
 ![Sql script](https://cdn.advancedinstaller.com/img/ui/sql-script.png "Sql script")  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## SQL Script Execution Sequence
 
 The SQL scripts of an SQL connection are executed in the order they appear in the tree (top-down). To change the execution order, move them by drag and drop in the tree.
@@ -101,10 +108,10 @@ Select when the SQL script should be executed. You have three options:
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The changes made by an SQL Script on a database cannot be undone. Uninstall won't rollback the changes performed by the SQL statements. You will need to supply, if necessary, SQL scripts scheduled to run at uninstall or rollback that will undo changes made by the scripts ran during install.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Script Condition
@@ -119,14 +126,14 @@ Specify the action that should be taken if an SQL script error is encountered wh
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you choose to go to the SQL script file's next statement in case of script execution error you will need to supply a statement separator for the SQL script.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## SQL
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Script File
 
@@ -135,13 +142,6 @@ Specify the script file. Use \[... \] button to select it.
 ### Script Inline
 
 Use the embedded editor to instantly create a script inline on the fly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Statement separator (SQL Batch file separator)
 
@@ -152,17 +152,17 @@ Specify the separator for the SQL statements.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Some Database Servers do not permit executing multiple statements at once. In this case supply a statement separator to indicate that the SQL queries should be executed individually. For more information please read [Why does my SQL Script fail to run when executed from the installer?](https://tools.techidaily.com/advancedinstaller/products/) FAQ.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Strip comments from SQL script
@@ -170,10 +170,10 @@ Specify the separator for the SQL statements.
 Removes all comments from the SQL script. (This option also removes SQL comments from your **stored procedures**, if any.)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disclaimer
@@ -213,14 +213,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-hidden-economics-of-youtube-content-production/"><u>[Updated] In 2024, The Hidden Economics of YouTube Content Production</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-media-streamlining-is-a-podcast-or-youtube-better-for-you/"><u>[Updated] Media Streamlining Is a Podcast or YouTube Better for You?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/complex-interaction-frameworks-in-dialog-systems/"><u>Complex Interaction Frameworks in Dialog Systems</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-analysis-screenr-vs-competing-software-options/"><u>Comprehensive Analysis: Screenr Vs. Competing Software Options</u></a></li>
-<li><a href="https://fox-making.techidaily.com/customize-your-image-settings-through-the-user-friendly-image-panel/"><u>Customize Your Image Settings Through the User-Friendly Image Panel</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-guide-mastering-the-art-of-changing-image-backdrops/"><u>Step-by-Step Guide: Mastering the Art of Changing Image Backdrops</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-leading-video-merge-tools-for-your-computer-a-comprehensive-review-of-superior-video-splicers/"><u>The Leading Video Merge Tools for Your Computer: A Comprehensive Review of Superior Video Splicers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/transform-your-mornings-with-the-ihome-zenergy-bedside-revitalizing-sleep-solution/"><u>Transform Your Mornings with the IHome Zenergy Bedside Revitalizing Sleep Solution</u></a></li>
-<li><a href="https://games-able.techidaily.com/uniting-different-minecraft-worlds-bedrock-java-on-geysermc-server/"><u>Uniting Different Minecraft Worlds: Bedrock-Java on GeyserMC Server</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-best-10-action-ready-microphones-reviewed/"><u>[Updated] 2024 Approved Best 10 Action-Ready Microphones Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-performance-gpus-for-4k-vision/"><u>[Updated] High-Performance GPUs for 4K Vision</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-top-windows-cutting-tools-for-editors-and-vids/"><u>[Updated] In 2024, Top Windows Cutting Tools for Editors & Vids</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-transform-your-images-with-freepaid-lut-bundles-for-canon/"><u>[Updated] Transform Your Images with Free/Paid LUT Bundles for Canon</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-become-an-expert-at-unearthing-unique-visuals-from-pexels/"><u>2024 Approved Become an Expert at Unearthing Unique Visuals From Pexels</u></a></li>
+<li><a href="https://fox-making.techidaily.com/adjusting-visual-preferences-in-installation-setup-wizard/"><u>Adjusting Visual Preferences in Installation Setup Wizard</u></a></li>
+<li><a href="https://fox-making.techidaily.com/create-personalized-pdf-seals-online-at-no-cost-use-our-free-pdf-embossing-service/"><u>Create Personalized PDF Seals Online at No Cost - Use Our Free PDF Embossing Service</u></a></li>
+<li><a href="https://fox-making.techidaily.com/custom-dll-function-call-how-to-implement-iinstalleddll-in-windows/"><u>Custom DLL Function Call: How to Implement IInstalledDll in Windows</u></a></li>
+<li><a href="https://fox-making.techidaily.com/custom-subscriptions-per-client-personalized-software-licenses/"><u>Custom Subscriptions Per Client: Personalized Software Licenses</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-techniques-for-converting-scanned-pdf-documents-into-editable-word-files/"><u>Effective Techniques for Converting Scanned PDF Documents Into Editable Word Files</u></a></li>
+<li><a href="https://fox-making.techidaily.com/elevate-your-system-discover-the-power-of-i-upgrade-code/"><u>Elevate Your System: Discover the Power of I-Upgrade Code</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-adjust-your-cab-configuration-in-the-preferences-panel/"><u>How to Adjust Your CAB Configuration in the Preferences Panel</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-enhance-picture-presentations-by-adding-the-ideal-soundtrack/"><u>How to Enhance Picture Presentations by Adding the Ideal Soundtrack</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-plain-out-windows-edges/"><u>How to Plain Out Windows Edges</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-quest-finding-the-perfect-model/"><u>In 2024, Gopro Quest Finding the Perfect Model</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/internet-disconnection-dilemma/"><u>Internet Disconnection Dilemma</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-tutorial-setting-up-an-expert-level-software-deployment-platform/"><u>Ultimate Tutorial: Setting Up an Expert-Level Software Deployment Platform</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-premium-priced-no-cost-graphic-websites/"><u>Unveiling Premium-Priced, No-Cost Graphic Websites</u></a></li>
 </ul></div>
 
