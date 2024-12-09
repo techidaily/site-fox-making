@@ -1,7 +1,7 @@
 ---
 title: "Master Your Mix with Gemini Slate: Free Download of DEX 3 Mapping for PCDJ Controllers"
-date: 2024-11-26T20:43:32.395Z
-updated: 2024-11-30T18:16:51.073Z
+date: 2024-12-04T16:03:11.928Z
+updated: 2024-12-09T00:08:56.336Z
 tags:
   - product
 categories:
@@ -60,7 +60,7 @@ The pre-mapped FX controls for DJ software bring immediate results upon first us
 _Have questions about the **Slate DJ controller** or using it with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -82,24 +82,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/06/gemini-slatemap-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-ensuring-your-shorts-videos-thumbnail-shows-up-for-2024/"><u>[New] Ensuring Your Shorts Video's Thumbnail Shows Up for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-top-tip-how-to-create-a-quick-and-easy-google-collage-photo/"><u>[New] In 2024, Top Tip How to Create a Quick and Easy Google Collage Photo</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-laughing-up-high-reddit-and-twitters-top-twenty/"><u>[Updated] Laughing Up High Reddit and Twitter's Top Twenty</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sci-fis-new-realms-exploring-the-best-metaverse-adventures-on-screen/"><u>[Updated] Sci-Fi's New Realms Exploring the Best Metaverse Adventures on Screen</u></a></li>
-<li><a href="https://fox-making.techidaily.com/best-pdf-viewer-solutions-for-ipad-discover-the-top-picks-of-2020/"><u>Best PDF Viewer Solutions for iPad: Discover the Top Picks of 2020!</u></a></li>
-<li><a href="https://discover-data.techidaily.com/como-crear-una-copia-de-seguridad-efectiva-en-tu-nas-synology-usando-windows-11/"><u>Cómo Crear Una Copia De Seguridad Efectiva en Tu NAS Synology Usando Windows 11</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-guide-to-different-software-installation-methods/"><u>Comprehensive Guide to Different Software Installation Methods</u></a></li>
-<li><a href="https://fox-making.techidaily.com/enhance-application-functionality-using-imergemodule-the-ultimate-guide/"><u>Enhance Application Functionality Using IMergeModule - The Ultimate Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/explore-the-best-alternatives-to-facebook-top-social-media-platforms-you-should-know/"><u>Explore the Best Alternatives to Facebook: Top Social Media Platforms You Should Know</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/how-to-import-music-to-inshot-app/"><u>How to Import Music to Inshot App?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/introducing-apowerrec-unveiling-revolutionary-features/"><u>Introducing ApowerREC: Unveiling Revolutionary Features</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-accelerate-your-footage-a-step-by-step-guide-to-time-lapse-videos/"><u>New In 2024, Accelerate Your Footage A Step-by-Step Guide to Time Lapse Videos</u></a></li>
-<li><a href="https://fox-making.techidaily.com/quick-tips-boosting-your-iphones-performance-on-ios-8/"><u>Quick Tips: Boosting Your iPhone's Performance on iOS 8</u></a></li>
-<li><a href="https://fox-making.techidaily.com/repair-guide-eradicating-severe-system-damage-caused-by-quadruple-infections-with-malwarefox/"><u>Repair Guide: Eradicating Severe System Damage Caused by Quadruple Infections with MalwareFox</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808356136-revive-your-arch-bluetooth-mouse-compatibility-following-the-latest-windows-amoled-update/"><u>Revive Your Arch Bluetooth Mouse Compatibility Following the Latest Windows Amoled Update.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tailoring-the-pace-of-your-content-consumption/"><u>Tailoring the Pace of Your Content Consumption</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-and-customizing-systems-preferred-applications/"><u>Understanding and Customizing System's Preferred Applications</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-and-using-typographic-feature-attributes-in-fonts/"><u>Understanding and Using Typographic Feature Attributes in Fonts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/window-warriors-fixed-wobbling-arrows-await/"><u>Window Warriors, Fixed Wobbling Arrows Await</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-dissecting-drama-introducing-chapters-to-video-content-for-2024/"><u>[Updated] Dissecting Drama Introducing Chapters to Video Content for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gifs-and-graphics-iphone-laughter/"><u>[Updated] GIFs & Graphics IPhone Laughter</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/analyze-youtube-data-efficiently-with-social-blade-tools/"><u>Analyze YouTube Data Efficiently with Social Blade Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-your-boundless-imagination-with-these-android-graphics-tools-for-2024/"><u>Boost Your Boundless Imagination with These Android Graphics Tools for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/does-shunning-facial-identification-compromise-facebook-user-protection/"><u>Does Shunning Facial Identification Compromise Facebook User Protection?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-microsoft-wi-fi-display-adapter-connection-issues-in-windows-11/"><u>How to Fix Microsoft Wi-Fi Display Adapter Connection Issues in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17t-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo S17t Phone without Any Data Loss</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beat-cutting-editing-music-videos-on-ios/"><u>In 2024, Beat Cutting Editing Music Videos on iOS</u></a></li>
+<li><a href="https://fox-making.techidaily.com/reviving-unresponsive-key-caps-step-by-step-fixes-with-yl-software-guidance/"><u>Reviving Unresponsive Key Caps: Step-by-Step Fixes with YL Software Guidance</u></a></li>
+<li><a href="https://fox-making.techidaily.com/section-3b-five-facts-to-remember/"><u>Section 3B: Five Facts to Remember</u></a></li>
+<li><a href="https://fox-making.techidaily.com/securing-your-digital-wealth-strategies-to-safeguard-crypto-assets-against-hacking-and-scams-insights-by-yl-computing/"><u>Securing Your Digital Wealth: Strategies to Safeguard Crypto Assets Against Hacking & Scams - Insights by YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-when-your-razer-kraken-mic-fails-to-function-properly/"><u>Solution Steps When Your Razer Kraken Mic Fails to Function Properly</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-setting-up-your-wifi-printer-with-ease-tech-tips-by-yl/"><u>Step-by-Step Guide: Setting Up Your WiFi Printer with Ease - Tech Tips by YL</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-free-applications-to-accelerate-your-computers-performance-insights-from-yl-software/"><u>Top Free Applications to Accelerate Your Computer's Performance: Insights From YL Software</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unlocking-accuracy-with-yl-software-advanced-techniques-for-reliable-address-balancing-insights/"><u>Unlocking Accuracy with YL Software: Advanced Techniques for Reliable Address Balancing Insights</u></a></li>
 </ul></div>
 

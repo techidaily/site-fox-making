@@ -1,7 +1,7 @@
 ---
 title: "New DEX Version 3.5 Launch: Join Our Community of Beta Tester Volunteers!"
-date: 2024-11-28T16:55:10.507Z
-updated: 2024-11-30T23:13:19.333Z
+date: 2024-12-01T17:15:38.753Z
+updated: 2024-12-09T00:02:52.187Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ If you meet the BETA Tester requirements below please fill out the form at the b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.5 Beta Team Requirements
@@ -69,7 +69,7 @@ Multichannel Core Audio soundcard
 If you meet these requirements please submit the form below. A PCDJ production team member will get back to you. (**NOTE:** _Not all testers will be accepted as we have limited space on the BETA testing team_)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,18 +91,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/dex35betatest-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-unbeatable-method-for-permanent-bio-link-integration-in-tiktok/"><u>[New] Unbeatable Method for Permanent Bio-Link Integration in TikTok</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-most-popular-raps-on-tiktok-for-everyone-for-2024/"><u>[Updated] Most Popular Raps on TikTok for Everyone for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-sparring-spirits-versus-social-media-savvy/"><u>[Updated] Sparring Spirits Versus Social Media Savvy</u></a></li>
-<li><a href="https://fox-making.techidaily.com/nvme-ssdsatahdd/"><u>如何在NVMe SSD上成功克隆SATA或HDD：關鍵技巧與安全啟動配置</u></a></li>
-<li><a href="https://fox-making.techidaily.com/aomei-cloud-und-aomei-serverbackup-fur-microsoft-windows-servers-kaufen/"><u>AOMEI Cloud Und AOMEI Serverbackup Für Microsoft Windows Servers - Kaufen</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comprehensive-tutorial-on-how-to-safely-acquire-1080p-resolution-moviesvideos-from-popular-websites-including-youtube-dailymotion-and-facebook/"><u>Comprehensive Tutorial on How to Safely Acquire 1080P Resolution Movies/Videos From Popular Websites Including YouTube, Dailymotion, and Facebook</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-screenshot-to-ringtone-your-guide-to-tiktok-song-selection/"><u>From Screenshot to Ringtone Your Guide to TikTok Song Selection</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-honor-x8b-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Honor X8b Location Settings | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/patriot-ssd-cloning-made-easy-how-to-duplicate-hdd-or-ssd-drives-with-bootability/"><u>Patriot SSD Cloning Made Easy: How to Duplicate HDD or SSD Drives with Bootability</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-issue-a-step-by-step-guide-to-solving-error-code-0x80004005/"><u>Resolving the Issue: A Step-by-Step Guide to Solving Error Code 0X80004005</u></a></li>
-<li><a href="https://fox-making.techidaily.com/simple-steps-syncing-your-iphone-photographs-with-a-laptopdesktop-via-usb-and-wi-fi/"><u>Simple Steps: Syncing Your iPhone Photographs with a Laptop/Desktop via USB and Wi-Fi</u></a></li>
-<li><a href="https://fox-making.techidaily.com/simplify-file-and-folder-management-on-your-external-hard-drive-with-cloud-syncing/"><u>Simplify File and Folder Management on Your External Hard Drive with Cloud Syncing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-apple-m1-explained-the-future-in-your-hands/"><u>[New] Apple M1 Explained The Future in Your Hands</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/vercoming-adversities-in-digital-self-expression/"><u>[New] Overcoming Adversities in Digital Self-Expression</u></a></li>
+<li><a href="https://fox-making.techidaily.com/bpm-supremes-latest-edition-showcasing-insights-from-leading-music-platforms-like-pcdj-digital-dj-tips-and-more/"><u>BPM Supreme's Latest Edition Showcasing Insights From Leading Music Platforms Like PCDJ, Digital DJ Tips & More</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-broadcom-bluetooth-software-downloads-for-windows-10-8-and-7/"><u>Free Broadcom Bluetooth Software Downloads for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/guide-to-transforming-your-dvds-into-hdwmv-files-with-windows-tools/"><u>Guide to Transforming Your DVDs Into HDWMV Files with Windows Tools</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-can-you-safeguard-against-hardware-issues-on-your-windows-pc-insights-by-yl-computing/"><u>How Can You Safeguard Against Hardware Issues on Your Windows PC? - Insights by YL Computing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-first-steps-in-digital-content-top-10-easy-to-make-youtube-projects/"><u>In 2024, First Steps in Digital Content Top 10 Easy-to-Make YouTube Projects</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-cryptocurrency-markets-a-step-by-step-guide-by-yl-software-specialists/"><u>Mastering Cryptocurrency Markets: A Step-by-Step Guide by YL Software Specialists</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-adjusting-your-pcs-energy-options-through-windows-control-panel-insights-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your PC's Energy Options Through Windows Control Panel - Insights From YL Computing</u></a></li>
 </ul></div>
 

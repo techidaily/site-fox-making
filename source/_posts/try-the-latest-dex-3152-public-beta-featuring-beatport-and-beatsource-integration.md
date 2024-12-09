@@ -1,7 +1,7 @@
 ---
 title: Try the Latest DEX 3.15.2 Public Beta - Featuring Beatport & Beatsource Integration
-date: 2024-11-23T16:53:59.188Z
-updated: 2024-11-30T18:47:56.453Z
+date: 2024-12-02T01:39:22.405Z
+updated: 2024-12-09T05:31:38.193Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.2 Beta
@@ -57,7 +57,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 _Have questions about the latest 3.15.2 version of our DEX 3 **DJ software** or **Beatport LINK** and **Beatsource LINK**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,18 +79,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/10/introscreen.jpg?fit=1920%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-a-deep-dive-into-insta-verified-posts/"><u>[New] A Deep Dive Into Insta Verified Posts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-bridging-light-and-time-iphones-extended-exposure-techniques/"><u>[New] Bridging Light and Time IPhone's Extended Exposure Techniques</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-incorporating-music-seamlessly-in-projects-with-premiere-pro/"><u>[Updated] 2024 Approved Incorporating Music Seamlessly in Projects with Premiere Pro</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-optimal-4-strategies-to-fix-faded-iphone-hdr-in-editing/"><u>[Updated] In 2024, [Optimal] 4 Strategies to Fix Faded iPhone HDR in Editing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/breaking-ground-in-easy-modern-nft-creation-techniques/"><u>Breaking Ground in Easy, Modern NFT Creation Techniques</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-tutorial-identifying-and-updating-executable-detections/"><u>Comprehensive Tutorial: Identifying and Updating Executable Detections</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-hacks-for-flawless-music-streaming-solve-spotifys-quirks-on-android-auto-using-these-13-tips/"><u>Expert Hacks for Flawless Music Streaming: Solve Spotify's Quirks on Android Auto Using These 13 Tips</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/guida-istantanea-come-spostare-i-tuoi-dati-da-un-mac-allaltro-in-modo-efficiente/"><u>Guida Istantanea: Come Spostare I Tuoi Dati Da Un Mac All'altro in Modo Efficiente</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-use-kik-chat-service-from-a-windows-or-mac-laptop/"><u>How to Use KIK Chat Service From a Windows or Mac Laptop</u></a></li>
-<li><a href="https://fox-making.techidaily.com/malvertising-explained-insights-from-malwarefox-specialists/"><u>Malvertising Explained – Insights From MalwareFox Specialists</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209667312-9781547574599-meditacion-una-guia-para-principiantes-para-descubrir-el-poder-de-la-meditacion/"><u>Meditación : Una Guía Para Principiantes Para Descubrir El Poder De La Meditación | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-valorants-stubborn-loading-loop-with-these-fixes/"><u>Overcome Valorant's Stubborn Loading Loop with These Fixes</u></a></li>
-<li><a href="https://fox-making.techidaily.com/project-setup-interface-navigating-the-registry-configuration-pages/"><u>Project Setup Interface: Navigating the Registry Configuration Pages</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-hashtags-that-amplify-to-6k-views/"><u>[New] 2024 Approved Finding #Hashtags That Amplify to 6K Views</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-elevate-visual-impact-with-custom-typography-in-after-effects/"><u>[New] Elevate Visual Impact with Custom Typography in After Effects</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-impeccablecapture-studio-suite-windows-10-edition/"><u>[Updated] 2024 Approved ImpeccableCapture Studio Suite (Windows 10 Edition)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-disabling-apex-legends-cross-play-best-platform-tactics-unveiled-for-2024/"><u>[Updated] Disabling Apex Legends Cross-Play Best Platform Tactics Unveiled for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/high-definition-nina-dobrev-wallpaper-collection-premium-quality-photos-and-images-for-your-screens-curated-by-yl-computing/"><u>High-Definition Nina Dobrev Wallpaper Collection: Premium Quality Photos & Images for Your Screens - Curated by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-honor-90-pro-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Honor 90 Pro Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-max-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone XS Max Without Passcode?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lenovo-thinkpad-essential-software-download-and-update-with-100-security-assurance/"><u>Lenovo ThinkPad Essential Software: Download & Update with 100% Security Assurance</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/maximizing-engagement-by-integrating-youtube-videos-into-your-instagram-saga-a-step-by-step-tutorial/"><u>Maximizing Engagement by Integrating YouTube Videos Into Your Instagram Saga - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-making.techidaily.com/reviving-unresponsive-key-caps-step-by-step-fixes-with-yl-software-guidance/"><u>Reviving Unresponsive Key Caps: Step-by-Step Fixes with YL Software Guidance</u></a></li>
+<li><a href="https://fox-making.techidaily.com/section-3b-five-facts-to-remember/"><u>Section 3B: Five Facts to Remember</u></a></li>
+<li><a href="https://fox-making.techidaily.com/securing-your-digital-wealth-strategies-to-safeguard-crypto-assets-against-hacking-and-scams-insights-by-yl-computing/"><u>Securing Your Digital Wealth: Strategies to Safeguard Crypto Assets Against Hacking & Scams - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-adjusting-language-and-regional-preferences-via-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Language & Regional Preferences via Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-setting-up-your-wifi-printer-with-ease-tech-tips-by-yl/"><u>Step-by-Step Guide: Setting Up Your WiFi Printer with Ease - Tech Tips by YL</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unlocking-accuracy-with-yl-software-advanced-techniques-for-reliable-address-balancing-insights/"><u>Unlocking Accuracy with YL Software: Advanced Techniques for Reliable Address Balancing Insights</u></a></li>
 </ul></div>
 

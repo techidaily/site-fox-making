@@ -1,7 +1,7 @@
 ---
 title: "Exclusive JammText Promo: Enhance Your DJ Set with Interactive Screens on DEX 3"
-date: 2024-11-24T22:00:56.973Z
-updated: 2024-11-30T20:22:59.535Z
+date: 2024-12-06T19:28:00.583Z
+updated: 2024-12-08T19:36:21.519Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ Use Promo Code PCDJ2016
 ![Display](https://i1.wp.com/mixcityinc.com/images/emails/jt_screenshot_pic_wedding.jpg?w=1500&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Guests share pictures and messages on screen
@@ -46,14 +46,6 @@ Use the same hashtag as the wedding (e.g. “#JackAndDiane”). As guests hashta
 
 ![Skinny Jimmy](https://i1.wp.com/mixcityinc.com/images/jammtext-testimonials/skinny_jimmy-min.jpg?w=1500)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Case Study: DJ Skinny Jimmy
 
 “I used JammText recently while DJing a wedding. The bride and groom loved it. Their friends and family sent over 70 pictures! I was able to give the couple all the pictures at the end of the wedding on a flash drive.”
@@ -63,19 +55,23 @@ Union, NJ
 
 [OTHER SUCCESS STORIES >](http://mixcityinc.com/jammtext/success-stories.html?utm%5Fsource=PCDJ-blast&utm%5Fmedium=email&utm%5Fcampaign=PCDJ)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Give bride and groom instant gratification
 
 After the reception, give the bride and groom the pictures collected. No waiting for a photographer. Offer the couple the instant gratification that they want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use in conjunction with photo booths
 
 Many photobooths now share pictures on Instagram automatically. Use the same hashtag and show photobooth pictures as they are taken.
 
 Great for concerts, sweet sixteens, bar mitzvahs, conferences, bars, nightclubs, and more!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## PCDJ customers get one month FREE!
 
@@ -89,10 +85,14 @@ Sign up with promo code PCDJ2016 today
 ![JammText Picture](https://i0.wp.com/www.mixcityinc.com/images/JammText-3-Screen-image.jpg?w=1500&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _**Promo code PCDJ2016 is good for one free month of either the JammText Base plan or the JammText Pro plan. Subsequent months are billed at the regular rate.**_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -113,19 +113,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/09/jammtext-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-iphone-photography-simplified-adopt-these-10-easy-rules/"><u>[New] 2024 Approved IPhone Photography Simplified Adopt These 10 Easy Rules</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-professional-ios-podcast-setup-boost-your-audio-quality-game-for-2024/"><u>[New] Professional iOS Podcast Setup Boost Your Audio Quality Game for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-allinone-vmix-companion/"><u>[Updated] In 2024, AllInOne VMix Companion</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-simplified-steps-for-backdrop-elimination-in-photoshop-like-affinity-photo/"><u>[Updated] Simplified Steps for Backdrop Elimination in Photoshop-Like Affinity Photo</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1728471158683-ntfs/"><u>仿真NTFS硬盘恢复：确保安全高效方法</u></a></li>
-<li><a href="https://fox-making.techidaily.com/grosse-limit-fur-datenverschlusselung-volumes-)-2088958-megabytes-erfordern-besondere-aufmerksamkeit/"><u>Größe-Limit Für Datenverschlüsselung - Volumes > 2088958 Megabytes Erfordern Besondere Aufmerksamkeit</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-oppo-a2-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Oppo A2</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/offnen-sie-die-windows-sicherheitsfunktion-in-windows-10-mit-vier-effektiven-ansatzen/"><u>Öffnen Sie Die Windows-Sicherheitsfunktion in Windows 10 Mit Vier Effektiven Ansätzen</u></a></li>
-<li><a href="https://fox-making.techidaily.com/say-goodbye-to-vmware-workstations-bloat-on-your-windows-10-machine-this-tutorial-offers-a-simple-way-to-fully-detach-the-application-and-improve-performanc155/"><u>Say Goodbye to VMware Workstation's Bloat on Your Windows 10 Machine! This Tutorial Offers a Simple Way to Fully Detach the Application and Improve Performance.</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tips-for-prolonging-gopros-energy-stamina-for-2024/"><u>Tips for Prolonging GoPro's Energy Stamina for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/top-10-free-video-sharing-platforms-for-personal-and-commercial-use/"><u>Top 10 Free Video Sharing Platforms for Personal and Commercial Use</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-addressing-non-supported-video-input-timings-on-displays/"><u>Troubleshooting Guide: Addressing Non-Supported Video Input Timings on Displays</u></a></li>
-<li><a href="https://fox-making.techidaily.com/oinalina-asama-rasayakal-bna-ka-hatakara-safitavayara-para-nakasana-tha-aapaka-fail-dhadha/"><u>ऑनलाइन-असिम रीसायकल बिन को हटाकर, सॉफ़्टवेयर पर नुकसान दें: आपकी फाइलें ढूंढें!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-boosting-roi-in-fb-ads-through-animation-techniques/"><u>[New] Boosting ROI in FB Ads Through Animation Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-overcoming-uneven-sound-in-fb-video-playback/"><u>[New] Overcoming Uneven Sound in FB Video Playback</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-steps-to-ensure-whole-sound-in-fb-video-playbacks/"><u>[New] Steps to Ensure Whole Sound in FB Video Playbacks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-stream-like-a-pro-top-5-devices-for-live-recording-success/"><u>[Updated] 2024 Approved Stream Like a Pro Top 5 Devices for Live Recording Success</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-lenovo-tab-m10-hd-2020-comprehensive-review-for-efficient-browsing-and-media-streaming/"><u>Affordable Lenovo Tab M10 HD (2020): Comprehensive Review for Efficient Browsing & Media Streaming</u></a></li>
+<li><a href="https://fox-making.techidaily.com/boost-pc-speed-with-driver-optimization-techniques-expert-advice-by-yl-software/"><u>Boost PC Speed with Driver Optimization Techniques - Expert Advice by YL Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-excellent-2-in-1-office-workhorse-laptops-beyond-dell-and-lenovo-options-professional-picks-by-zdnet/"><u>Discover Excellent 2-in-1 Office Workhorse Laptops Beyond Dell & Lenovo Options | Professional Picks by ZDNet</u></a></li>
+<li><a href="https://fox-making.techidaily.com/efficient-image-handling-techniques-on-windows-platforms-insights-from-yl-computings-expertise/"><u>Efficient Image Handling Techniques on Windows Platforms - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://fox-making.techidaily.com/explore-the-enthralling-realm-of-the-amazing-world-of-gumball-with-vibrant-wallpapers-from-yl-software/"><u>Explore the Enthralling Realm of 'The Amazing World of Gumball' With Vibrant Wallpapers From YL Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-facile-retourner-une-video-mp4-en-90-180-et-270-avec-une-haute-resolution-intacte/"><u>Guide Facile : Retourner Une Vidéo MP4 en 90°, 180° Et 270° Avec Une Haute Résolution Intacte</u></a></li>
+<li><a href="https://fox-making.techidaily.com/high-quality-jaguar-e-type-desktop-imagery-powered-by-yl-software-for-yl-computing-systems/"><u>High-Quality Jaguar E-Type Desktop Imagery - Powered by YL Software for YL Computing Systems</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-fix-continuous-gpu-driver-issues-tips-and-solutions-by-yl-software-experts/"><u>How to Fix Continuous GPU Driver Issues: Tips and Solutions by YL Software Experts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-insiders-view-advanced-strategies-for-successful-storytelling-in-social-media-for-2024/"><u>The Insider’s View Advanced Strategies for Successful Storytelling in Social Media for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-how-to-make-memoji-talk-make-memoji-video-on-your-own/"><u>Updated 2024 Approved How to Make Memoji Talk-Make Memoji Video On Your Own</u></a></li>
 </ul></div>
 
