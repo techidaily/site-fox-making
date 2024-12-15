@@ -1,7 +1,7 @@
 ---
 title: "Master Your Mix with Gemini Slate: Free Download of DEX 3 Mapping for PCDJ Controllers"
-date: 2024-12-04T16:03:11.928Z
-updated: 2024-12-09T00:08:56.336Z
+date: 2024-12-11T02:46:19.826Z
+updated: 2024-12-14T19:08:10.183Z
 tags:
   - product
 categories:
@@ -60,7 +60,7 @@ The pre-mapped FX controls for DJ software bring immediate results upon first us
 _Have questions about the **Slate DJ controller** or using it with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -82,20 +82,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/06/gemini-slatemap-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-dissecting-drama-introducing-chapters-to-video-content-for-2024/"><u>[Updated] Dissecting Drama Introducing Chapters to Video Content for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-gifs-and-graphics-iphone-laughter/"><u>[Updated] GIFs & Graphics IPhone Laughter</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/analyze-youtube-data-efficiently-with-social-blade-tools/"><u>Analyze YouTube Data Efficiently with Social Blade Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/boost-your-boundless-imagination-with-these-android-graphics-tools-for-2024/"><u>Boost Your Boundless Imagination with These Android Graphics Tools for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/does-shunning-facial-identification-compromise-facebook-user-protection/"><u>Does Shunning Facial Identification Compromise Facebook User Protection?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-microsoft-wi-fi-display-adapter-connection-issues-in-windows-11/"><u>How to Fix Microsoft Wi-Fi Display Adapter Connection Issues in Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17t-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo S17t Phone without Any Data Loss</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-beat-cutting-editing-music-videos-on-ios/"><u>In 2024, Beat Cutting Editing Music Videos on iOS</u></a></li>
-<li><a href="https://fox-making.techidaily.com/reviving-unresponsive-key-caps-step-by-step-fixes-with-yl-software-guidance/"><u>Reviving Unresponsive Key Caps: Step-by-Step Fixes with YL Software Guidance</u></a></li>
-<li><a href="https://fox-making.techidaily.com/section-3b-five-facts-to-remember/"><u>Section 3B: Five Facts to Remember</u></a></li>
-<li><a href="https://fox-making.techidaily.com/securing-your-digital-wealth-strategies-to-safeguard-crypto-assets-against-hacking-and-scams-insights-by-yl-computing/"><u>Securing Your Digital Wealth: Strategies to Safeguard Crypto Assets Against Hacking & Scams - Insights by YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-when-your-razer-kraken-mic-fails-to-function-properly/"><u>Solution Steps When Your Razer Kraken Mic Fails to Function Properly</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-guide-setting-up-your-wifi-printer-with-ease-tech-tips-by-yl/"><u>Step-by-Step Guide: Setting Up Your WiFi Printer with Ease - Tech Tips by YL</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-free-applications-to-accelerate-your-computers-performance-insights-from-yl-software/"><u>Top Free Applications to Accelerate Your Computer's Performance: Insights From YL Software</u></a></li>
-<li><a href="https://fox-making.techidaily.com/unlocking-accuracy-with-yl-software-advanced-techniques-for-reliable-address-balancing-insights/"><u>Unlocking Accuracy with YL Software: Advanced Techniques for Reliable Address Balancing Insights</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-efficient-video-categorization-with-tags/"><u>[New] 2024 Approved Efficient Video Categorization with Tags</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-illuminating-images-techniques-in-color-science/"><u>[New] In 2024, Illuminating Images Techniques in Color Science</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-identifying-ideal-release-moments-for-podcasts/"><u>[Updated] Identifying Ideal Release Moments for Podcasts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/channel-marketing-making-a-trailer-that-sells-more/"><u>Channel Marketing Making a Trailer that Sells More</u></a></li>
+<li><a href="https://fox-making.techidaily.com/efficiently-configuring-network-connections-via-windows-pcs-control-panel-expert-tips-from-yl-computing/"><u>Efficiently Configuring Network Connections via Windows PC's Control Panel - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-determine-if-your-audio-devices-drivers-are-current-tips-from-yl-computing/"><u>How to Determine If Your Audio Device's Drivers Are Current - Tips From YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-7-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off Apple iPhone 7 without Password</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-xs-max-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone XS Max on MetroPCS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/investigating-whether-sns-hdr-offers-superior-ux/"><u>Investigating Whether SNS HDR Offers Superior UX</u></a></li>
+<li><a href="https://fox-making.techidaily.com/network-configuration-guide-easy-steps-with-yl-computings-expert-solutions/"><u>Network Configuration Guide: Easy Steps with YL Computing's Expert Solutions</u></a></li>
+<li><a href="https://fox-making.techidaily.com/resolving-printer-connectivity-issues-expert-tips-from-yl-computing/"><u>Resolving Printer Connectivity Issues: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/resolving-video-device-malfunctions-expert-tips-by-yl-software-professionals/"><u>Resolving Video Device Malfunctions: Expert Tips by YL Software Professionals</u></a></li>
+<li><a href="https://techidaily.com/top-5-ways-to-fix-excel-2007-file-not-opening-error-by-stellar-guide/"><u>Top 5 Ways to Fix Excel 2007 File Not Opening Error</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-file-corruption-causes-and-solutions-by-yl-software/"><u>Understanding File Corruption: Causes and Solutions by YL Software</u></a></li>
+<li><a href="https://fox-making.techidaily.com/updating-your-windows-defender-step-by-step-guide-on-refreshing-virus-signatures/"><u>Updating Your Windows Defender: Step-by-Step Guide on Refreshing Virus Signatures</u></a></li>
+<li><a href="https://fox-making.techidaily.com/verify-your-machines-cpu-performance-with-ease-insights-by-yl-computing-and-yl-software-experts/"><u>Verify Your Machine's CPU Performance with Ease - Insights by YL Computing and YL Software Experts</u></a></li>
 </ul></div>
 

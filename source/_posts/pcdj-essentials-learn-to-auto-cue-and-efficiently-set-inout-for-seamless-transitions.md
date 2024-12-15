@@ -1,7 +1,7 @@
 ---
 title: PCDJ Essentials - Learn to Auto-Cue & Efficiently Set In/Out for Seamless Transitions!
-date: 2024-12-07T16:46:50.881Z
-updated: 2024-12-09T06:48:00.816Z
+date: 2024-12-13T01:57:30.523Z
+updated: 2024-12-14T19:46:11.903Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ The video tutorial below will walk you through how **autocue** works, and how yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT IS AUTOCUE?
@@ -35,13 +35,13 @@ This means when you load a track to one of the four available decks in DEX 3 and
 The wonderful thing about the revamped **autocue feature** is that the autocue points will be used as mix points for automix.   **Trim the long intro or outtro** using the new autocue mix points for more **seamless transitions** between tracks when using automix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,21 +63,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/autocuemixinout-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-affordable-methods-for-video-and-text-synergy/"><u>[New] 2024 Approved Affordable Methods for Video and Text Synergy</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/rom-phone-pics-to-professional-videos-selecting-the-top-9-enhancers/"><u>[New] From Phone Pics to Professional Videos Selecting the Top 9 Enhancers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mastering-clip-composition-blending-modes-techniques/"><u>[Updated] 2024 Approved Mastering Clip Composition Blending Modes Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-stream-viewer-unraveler-for-2024/"><u>[Updated] Stream Viewer Unraveler for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/accelerate-your-system-top-ranked-applications-for-speeding-up-computers/"><u>Accelerate Your System: Top-Ranked Applications for Speeding Up Computers</u></a></li>
-<li><a href="https://fox-making.techidaily.com/choosing-the-perfect-graphics-card-for-your-windows-system-insights-and-recommendations-from-yl-computing/"><u>Choosing the Perfect Graphics Card for Your Windows System: Insights & Recommendations From YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/exploring-top-audio-troubleshooting-utilities-a-guide-by-yl-computing/"><u>Exploring Top Audio Troubleshooting Utilities: A Guide by YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-social-media-comparing-igtv-and-youtube-features/"><u>In 2024, Navigating Social Media Comparing IGTV and YouTube Features</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/master-the-art-of-sharing-gaming-moments-xboxfb-livestream/"><u>Master the Art of Sharing Gaming Moments Xbox/FB Livestream</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ize-watch-time-minimize-leaving-6-key-tactics-to-retain-more-audience/"><u>Maximize Watch Time, Minimize Leaving 6 Key Tactics to Retain More Audience</u></a></li>
-<li><a href="https://fox-making.techidaily.com/premium-alexandra-daddario-visuals-hd-walls-background-graphics-and-photographs-by-yl-tech-solutions/"><u>Premium Alexandra Daddario Visuals: HD Walls, Background Graphics & Photographs by YL Tech Solutions</u></a></li>
-<li><a href="https://fox-making.techidaily.com/troubleshooting-unresponsive-scanners-solutions-and-tips-yl-computing/"><u>Troubleshooting Unresponsive Scanners: Solutions & Tips - YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/ultimate-guide-to-fortifying-your-web-browser-safely-with-yl-techs-expertise/"><u>Ultimate Guide to Fortifying Your Web Browser Safely with YL Tech's Expertise</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-guide-seamlessly-move-all-mobile-snapshots-onto-your-dell-computer/"><u>Ultimate Guide: Seamlessly Move All Mobile Snapshots Onto Your Dell Computer</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-and-resolving-incorrect-image-visualization-on-graphics-cards-with-expertise-from-yl-software/"><u>Understanding and Resolving Incorrect Image Visualization on Graphics Cards with Expertise From YL Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repaired-no-light-on-asus-keys/"><u>[REPAIRED] No Light on ASUS Keys</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-central-points-for-virtual-world-engagement/"><u>[Updated] Central Points for Virtual World Engagement</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-enhancing-the-speed-of-vimeo-videos/"><u>[Updated] In 2024, Enhancing the Speed of Vimeo Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-video-devices-direct-headset-screens/"><u>[Updated] Premium Video Devices Direct Headset Screens</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-boost-your-pcs-performance-a-guide-to-essential-hardware-upgrades/"><u>1. Boost Your PC's Performance: A Guide to Essential Hardware Upgrades</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/can-you-afford-not-to-sign-up-for-youtube-tv/"><u>Can You Afford Not to Sign Up for YouTube TV?</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ensuring-secure-file-restoration-techniques-by-yl-computing/"><u>Ensuring Secure File Restoration: Techniques by YL Computing</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-endless-loading-screen-in-minecraft-ultimate-solutions/"><u>Fixing the Endless Loading Screen in Minecraft: Ultimate Solutions</u></a></li>
+<li><a href="https://fox-making.techidaily.com/high-definition-aston-martin-v8-vantage-wallpaper-downloads-premium-car-visuals-by-yl-computing/"><u>High-Definition Aston Martin V8 Vantage Wallpaper Downloads - Premium Car Visuals by YL Computing</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-pova-5-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Pova 5 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-resolve-issues-when-your-scanner-wont-detect-your-pc-expert-tips-from-yl-computing/"><u>How to Resolve Issues When Your Scanner Won't Detect Your PC - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/is-your-pc-protected-exploring-windows-defenders-ability-against-rootkits-insights-from-yl-computing/"><u>Is Your PC Protected?: Exploring Windows Defender's Ability Against Rootkits - Insights From YL Computing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-picks-top-macpc-bd-players-and-codecs/"><u>Premium Picks Top Mac/PC BD Players and Codecs</u></a></li>
+<li><a href="https://discover-great.techidaily.com/welcome-to-digiarty-software-inc-your-guide-to-winxdvd-solutions/"><u>Welcome to Digiarty Software, Inc. - Your Guide to WinXDVD Solutions</u></a></li>
+<li><a href="https://fox-making.techidaily.com/yl-software-solutions-for-easily-accessing-compressed-zip-folders-on-your-pc/"><u>YL Software Solutions for Easily Accessing Compressed ZIP Folders on Your PC</u></a></li>
+<li><a href="https://fox-making.techidaily.com/zip-file-creation-tutorial-by-yl-software-experts/"><u>Zip File Creation Tutorial by YL Software Experts</u></a></li>
 </ul></div>
 

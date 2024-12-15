@@ -1,7 +1,7 @@
 ---
 title: Get the New Slam Dunk Theme for Your DJ Set with DEX3 by Pioneer DJ
-date: 2024-12-06T06:00:46.450Z
-updated: 2024-12-08T23:00:22.551Z
+date: 2024-12-09T16:27:35.772Z
+updated: 2024-12-14T17:26:01.210Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ The new DEX 3 ‘Slam Dunks’ Skin features everything found on the new RED Mob
 _Unzip all contents to Documents (Docs on Mac) -> PCDJ-DEX3 -> Skins. Access and select the ‘slam dunks (2 deck)’ skin in DEX 3’s options under the ‘select user interface’ drop down menu to apply._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,17 +52,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/12/slamdunksskin-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-digital-legacy-preservation-saving-fb-video-conversations/"><u>[New] In 2024, Digital Legacy Preservation Saving FB Video Conversations</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-encore-list-top-pick-for-digital-music-tones/"><u>[New] The Encore List Top Pick for Digital Music Tones</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-superior-economical-live-camera-snapper/"><u>[Updated] Superior Economical Live Camera Snapper</u></a></li>
-<li><a href="https://fox-making.techidaily.com/best-tools-and-applications-for-enhancing-your-pcs-performance-yl-computing/"><u>Best Tools and Applications for Enhancing Your PC's Performance - YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/exquisite-japanese-art-designs-high-quality-wallpapers-backgrounds-and-image-collections-yl-computing-solutions/"><u>Exquisite Japanese Art Designs: High-Quality Wallpapers, Backgrounds & Image Collections - YL Computing Solutions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-speed-up-sound-on-smartphones-with-these/"><u>In 2024, Speed Up Sound on Smartphones with These</u></a></li>
-<li><a href="https://fox-making.techidaily.com/need-to-pause-windows-defender-protection-in-windows-find-out-how-with-yl-software-tips/"><u>Need to Pause Windows Defender Protection in Windows? Find Out How with YL Software Tips!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revamping-your-iphones-quick-access-tailor-control-center-in-ios-18-articles-by-tech-experts-at-zdnet/"><u>Revamping Your iPhone's Quick Access: Tailor Control Center in iOS 18 - Articles by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-booking-your-next-tech-support-session-with-apples-genius-bar/"><u>Step-by-Step Guide: Booking Your Next Tech Support Session with Apple's Genius Bar</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-guide-transforming-excel-files-into-csv-format-with-yl-computings-easy-solution/"><u>Step-by-Step Guide: Transforming Excel Files Into CSV Format with YL Computing's Easy Solution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unmuted-solution-restoring-audio-to-your-desktops-fb-watchlist-modern-fixes/"><u>Unmuted Solution: Restoring Audio to Your Desktop's FB Watchlist – Modern Fixes</u></a></li>
-<li><a href="https://fox-making.techidaily.com/why-choose-a-portable-laptop-over-a-stationary-desktop-discover-key-advantages-insights-from-yl-computing/"><u>Why Choose a Portable Laptop Over a Stationary Desktop? Discover Key Advantages – Insights From YL Computing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-excellent-multimedia-collaboration-apps/"><u>[Updated] Excellent Multimedia Collaboration Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-essential-tips-for-switch-gaming-recordings/"><u>[Updated] In 2024, Essential Tips for Switch Gaming Recordings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-optimizing-color-depth-and-gradients-for-obs-for-2024/"><u>[Updated] Optimizing Color Depth and Gradients for OBS for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-perfecting-auto-captioned-content-in-instagram-reels-for-2024/"><u>[Updated] Perfecting Auto-Captioned Content in Instagram Reels for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-conversation-titans-gpt-vs-bing-for-best-bot/"><u>AI Conversation Titans: GPT Vs. Bing for Best Bot</u></a></li>
+<li><a href="https://fox-making.techidaily.com/high-definition-nina-dobrev-wallpaper-collection-premium-quality-photos-and-images-for-your-screens-curated-by-yl-computing/"><u>High-Definition Nina Dobrev Wallpaper Collection: Premium Quality Photos & Images for Your Screens - Curated by YL Computing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-wisdom-warriors-top-11-trivia-videos/"><u>In 2024, Wisdom Warriors' Top 11 Trivia Videos</u></a></li>
+<li><a href="https://fox-making.techidaily.com/section-3b-five-facts-to-remember/"><u>Section 3B: Five Facts to Remember</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-adjusting-language-and-regional-preferences-via-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Language & Regional Preferences via Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-setting-up-your-wifi-printer-with-ease-tech-tips-by-yl/"><u>Step-by-Step Guide: Setting Up Your WiFi Printer with Ease - Tech Tips by YL</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unlocking-accuracy-with-yl-software-advanced-techniques-for-reliable-address-balancing-insights/"><u>Unlocking Accuracy with YL Software: Advanced Techniques for Reliable Address Balancing Insights</u></a></li>
 </ul></div>
 
