@@ -1,7 +1,7 @@
 ---
 title: Try the Latest DEX 3.15.2 Public Beta - Featuring Beatport & Beatsource Integration
-date: 2024-12-08T07:05:32.117Z
-updated: 2024-12-15T00:39:27.348Z
+date: 2024-12-21T17:57:40.308Z
+updated: 2024-12-23T17:03:50.412Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.2 Beta
@@ -57,7 +57,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 _Have questions about the latest 3.15.2 version of our DEX 3 **DJ software** or **Beatport LINK** and **Beatsource LINK**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,22 +79,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/10/introscreen.jpg?fit=1920%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-ticklishtunes-your-guide-to-amusing-ringtone-downloads/"><u>[Updated] TicklishTunes Your Guide to Amusing Ringtone Downloads</u></a></li>
-<li><a href="https://fox-links.techidaily.com/affordable-gopros-where-to-buy-with-best-price/"><u>Affordable GoPros Where to Buy with Best Price</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/insights-into-crafting-responses-to-youtube-comments-for-2024/"><u>Insights Into Crafting Responses to YouTube Comments for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/laughmaker-begin-your-content-creation-journey/"><u>LaughMaker Begin Your Content Creation Journey</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-latest-ios-update-europe-gets-online-app-store-access-with-version-175-beta-2-techinsights-by-zdnet/"><u>Navigating the Latest iOS Update: Europe Gets Online App Store Access with Version 17.5 Beta 2 | TechInsights by ZDNET</u></a></li>
-<li><a href="https://fox-making.techidaily.com/optimizing-memory-management-tips-for-lowering-ram-consumption-guided-by-yl-software/"><u>Optimizing Memory Management: Tips for Lowering RAM Consumption - Guided by YL Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-workflow-top-8-chrome-with-ai/"><u>Revolutionize Your Workflow: Top 8 Chrome with AI</u></a></li>
-<li><a href="https://fox-making.techidaily.com/stunning-paula-garces-wallpaper-collections-and-graphic-designs-high-quality-digital-artwork-by-yl-computing/"><u>Stunning Paula Garcés Wallpaper Collections & Graphic Designs - High-Quality Digital Artwork by YL Computing</u></a></li>
-<li><a href="https://games-able.techidaily.com/switching-off-discord-game-overlay/"><u>Switching Off Discord Game Overlay</u></a></li>
-<li><a href="https://fox-making.techidaily.com/the-luminous-future-of-filipino-innovation-how-yl-computing-is-revolutionizing-with-bsv-technology/"><u>The Luminous Future of Filipino Innovation: How YL Computing Is Revolutionizing with BSV Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-risks-and-limitations-of-using-generative-ai-within-instant-messaging-applications/"><u>The Risks and Limitations of Using Generative AI Within Instant Messaging Applications</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/troubleshoot-your-cars-error-codes-using-our-latest-bluetooth-scanner-device-expert-reviews/"><u>Troubleshoot Your Car's Error Codes Using Our Latest Bluetooth Scanner Device | Expert Reviews</u></a></li>
-<li><a href="https://fox-making.techidaily.com/troubleshooting-tips-how-to-fix-when-your-scanner-ignores-the-pc-innovative-solutions-by-yl-software/"><u>Troubleshooting Tips: How to Fix When Your Scanner Ignores the PC - Innovative Solutions by YL Software</u></a></li>
-<li><a href="https://fox-making.techidaily.com/troubleshooting-unresponsive-optical-drives-why-wont-my-pc-detect-discs-expert-advice-by-yl-software/"><u>Troubleshooting Unresponsive Optical Drives: Why Won’t My PC Detect Discs? - Expert Advice by YL Software</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-the-regulatory-landscape-of-crypto-trading-and-investment-opportunities-with-yl-software-insights/"><u>Understanding the Regulatory Landscape of Crypto Trading and Investment Opportunities with YL Software Insights</u></a></li>
-<li><a href="https://fox-making.techidaily.com/unraveling-the-mystery-why-does-my-computer-show-a-bsod-insights-from-yl-computing/"><u>Unraveling the Mystery: Why Does My Computer Show a BSOD? - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/yl-software-guide-managing-your-update-preferences-efficiently/"><u>YL Software Guide: Managing Your Update Preferences Efficiently</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-digital-filmmaking-recording-video-across-various-platforms/"><u>[New] In 2024, Digital Filmmaking Recording Video Across Various Platforms</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-investigating-instagrams-videography-cap-for-2024/"><u>[Updated] Investigating Instagram's Videography Cap for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-troubleshooting-your-pc-how-to-fix-connection-issues-between-your-printer-and-computer-tips-from-yl-computing/"><u>1. Troubleshooting Your PC: How to Fix Connection Issues Between Your Printer and Computer - Tips From YL Computing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-personalized-branding-made-easy-use-free-logo-templates-and-edit/"><u>2024 Approved Personalized Branding Made Easy Use Free Logo Templates and Edit</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ensuring-secure-file-restoration-techniques-by-yl-computing/"><u>Ensuring Secure File Restoration: Techniques by YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-thoroughly-sanitizing-your-tv-control-unit/"><u>Expert Tips for Thoroughly Sanitizing Your TV Control Unit</u></a></li>
+<li><a href="https://fox-making.techidaily.com/explore-the-past-with-classic-sea-craft-imagery-and-digital-wallpaper-collections-by-yl-software/"><u>Explore the Past with Classic Sea Craft Imagery and Digital Wallpaper Collections by YL Software</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/guia-facil-para-transcodificar-archivos-de-sonido-en-mp3-sin-coste-hazlo-desde-tu-pc/"><u>Guía Fácil Para Transcodificar Archivos De Sonido en MP3 Sin Coste: Hazlo Desde Tu PC</u></a></li>
+<li><a href="https://fox-making.techidaily.com/high-definition-aston-martin-v8-vantage-wallpaper-downloads-premium-car-visuals-by-yl-computing/"><u>High-Definition Aston Martin V8 Vantage Wallpaper Downloads - Premium Car Visuals by YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-enhance-your-windows-os-expert-optimization-techniques-from-yl-software/"><u>How to Enhance Your Windows OS: Expert Optimization Techniques From YL Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-apple-iphone-13-pro-max-location-on-skout-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Apple iPhone 13 Pro Max Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/join-our-mac-compatible-basic-karaoke-software-trial-beta-tester-opportunities-available/"><u>Join Our Mac-Compatible Basic Karaoke Software Trial - Beta Tester Opportunities Available!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/power-up-with-these-20-top-songs-that-elevate-your-exercise-routine-for-2024/"><u>Power-Up with These 20 Top Songs that Elevate Your Exercise Routine for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/projecting-film-costs-for-your-music-video-for-2024/"><u>Projecting Film Costs for Your Music Video for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-local-vs-global-configuration-options-a-deep-dive-by-yl-computing/"><u>Understanding Local Vs. Global Configuration Options: A Deep Dive by YL Computing</u></a></li>
 </ul></div>
 

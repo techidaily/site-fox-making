@@ -1,7 +1,7 @@
 ---
 title: "Master Your Mix with Gemini Slate: Free Download of DEX 3 Mapping for PCDJ Controllers"
-date: 2024-12-11T02:46:19.826Z
-updated: 2024-12-14T19:08:10.183Z
+date: 2024-12-20T06:34:45.325Z
+updated: 2024-12-23T18:50:51.210Z
 tags:
   - product
 categories:
@@ -60,7 +60,7 @@ The pre-mapped FX controls for DJ software bring immediate results upon first us
 _Have questions about the **Slate DJ controller** or using it with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -82,22 +82,14 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/06/gemini-slatemap-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-efficient-video-categorization-with-tags/"><u>[New] 2024 Approved Efficient Video Categorization with Tags</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-illuminating-images-techniques-in-color-science/"><u>[New] In 2024, Illuminating Images Techniques in Color Science</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-identifying-ideal-release-moments-for-podcasts/"><u>[Updated] Identifying Ideal Release Moments for Podcasts</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/channel-marketing-making-a-trailer-that-sells-more/"><u>Channel Marketing Making a Trailer that Sells More</u></a></li>
-<li><a href="https://fox-making.techidaily.com/efficiently-configuring-network-connections-via-windows-pcs-control-panel-expert-tips-from-yl-computing/"><u>Efficiently Configuring Network Connections via Windows PC's Control Panel - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-determine-if-your-audio-devices-drivers-are-current-tips-from-yl-computing/"><u>How to Determine If Your Audio Device's Drivers Are Current - Tips From YL Computing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-7-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off Apple iPhone 7 without Password</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-xs-max-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone XS Max on MetroPCS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/investigating-whether-sns-hdr-offers-superior-ux/"><u>Investigating Whether SNS HDR Offers Superior UX</u></a></li>
-<li><a href="https://fox-making.techidaily.com/network-configuration-guide-easy-steps-with-yl-computings-expert-solutions/"><u>Network Configuration Guide: Easy Steps with YL Computing's Expert Solutions</u></a></li>
-<li><a href="https://fox-making.techidaily.com/resolving-printer-connectivity-issues-expert-tips-from-yl-computing/"><u>Resolving Printer Connectivity Issues: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/resolving-video-device-malfunctions-expert-tips-by-yl-software-professionals/"><u>Resolving Video Device Malfunctions: Expert Tips by YL Software Professionals</u></a></li>
-<li><a href="https://techidaily.com/top-5-ways-to-fix-excel-2007-file-not-opening-error-by-stellar-guide/"><u>Top 5 Ways to Fix Excel 2007 File Not Opening Error</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-file-corruption-causes-and-solutions-by-yl-software/"><u>Understanding File Corruption: Causes and Solutions by YL Software</u></a></li>
-<li><a href="https://fox-making.techidaily.com/updating-your-windows-defender-step-by-step-guide-on-refreshing-virus-signatures/"><u>Updating Your Windows Defender: Step-by-Step Guide on Refreshing Virus Signatures</u></a></li>
-<li><a href="https://fox-making.techidaily.com/verify-your-machines-cpu-performance-with-ease-insights-by-yl-computing-and-yl-software-experts/"><u>Verify Your Machine's CPU Performance with Ease - Insights by YL Computing and YL Software Experts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-create-memorable-thumbnails-discover-these-8-youtube-aids/"><u>[New] In 2024, Create Memorable Thumbnails - Discover These 8 YouTube Aids</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elevate-your-sims-gaming-with-recording-expertise/"><u>[Updated] In 2024, Elevate Your Sims Gaming with Recording Expertise</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-essential-safety-strategies-for-secure-cryptocurrency-transactions-insights-from-yl-computing/"><u>1. Essential Safety Strategies for Secure Cryptocurrency Transactions: Insights From YL Computing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-anker-powercoreplus-26800-portable-charger-review/"><u>Comprehensive Anker PowerCore+ 26800 Portable Charger Review</u></a></li>
+<li><a href="https://fox-making.techidaily.com/is-your-graphics-hardware-matched-to-your-system-learn-compatibility-checks-with-yl-software-guide/"><u>Is Your Graphics Hardware Matched to Your System? Learn Compatibility Checks with YL Software Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/recharge-your-space-top-cloud-service-picks-offering-plentiful-free-storage/"><u>Recharge Your Space Top Cloud Service Picks Offering Plentiful, FREE Storage</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210571717-9781449494827-the-little-book-of-witchcraft/"><u>The Little Book of Witchcraft | Free Book</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-and-fixing-no-network-found-errors-in-your-system-with-expert-tips-from-yl-tech-support/"><u>Understanding and Fixing 'No Network Found' Errors in Your System with Expert Tips From YL Tech Support</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unlocking-full-potential-troubleshooting-restricted-scanner-settings-with-yl-software/"><u>Unlocking Full Potential: Troubleshooting Restricted Scanner Settings with YL Software</u></a></li>
 </ul></div>
 

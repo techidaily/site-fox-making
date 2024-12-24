@@ -1,7 +1,7 @@
 ---
 title: PCDJ Essentials - Learn to Auto-Cue & Efficiently Set In/Out for Seamless Transitions!
-date: 2024-12-13T01:57:30.523Z
-updated: 2024-12-14T19:46:11.903Z
+date: 2024-12-21T04:19:56.278Z
+updated: 2024-12-24T04:13:18.933Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ The video tutorial below will walk you through how **autocue** works, and how yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT IS AUTOCUE?
@@ -35,13 +35,13 @@ This means when you load a track to one of the four available decks in DEX 3 and
 The wonderful thing about the revamped **autocue feature** is that the autocue points will be used as mix points for automix.   **Trim the long intro or outtro** using the new autocue mix points for more **seamless transitions** between tracks when using automix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,21 +63,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/autocuemixinout-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/repaired-no-light-on-asus-keys/"><u>[REPAIRED] No Light on ASUS Keys</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-central-points-for-virtual-world-engagement/"><u>[Updated] Central Points for Virtual World Engagement</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-enhancing-the-speed-of-vimeo-videos/"><u>[Updated] In 2024, Enhancing the Speed of Vimeo Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premium-video-devices-direct-headset-screens/"><u>[Updated] Premium Video Devices Direct Headset Screens</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-boost-your-pcs-performance-a-guide-to-essential-hardware-upgrades/"><u>1. Boost Your PC's Performance: A Guide to Essential Hardware Upgrades</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/can-you-afford-not-to-sign-up-for-youtube-tv/"><u>Can You Afford Not to Sign Up for YouTube TV?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/ensuring-secure-file-restoration-techniques-by-yl-computing/"><u>Ensuring Secure File Restoration: Techniques by YL Computing</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-endless-loading-screen-in-minecraft-ultimate-solutions/"><u>Fixing the Endless Loading Screen in Minecraft: Ultimate Solutions</u></a></li>
-<li><a href="https://fox-making.techidaily.com/high-definition-aston-martin-v8-vantage-wallpaper-downloads-premium-car-visuals-by-yl-computing/"><u>High-Definition Aston Martin V8 Vantage Wallpaper Downloads - Premium Car Visuals by YL Computing</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-tecno-pova-5-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Pova 5 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-resolve-issues-when-your-scanner-wont-detect-your-pc-expert-tips-from-yl-computing/"><u>How to Resolve Issues When Your Scanner Won't Detect Your PC - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/is-your-pc-protected-exploring-windows-defenders-ability-against-rootkits-insights-from-yl-computing/"><u>Is Your PC Protected?: Exploring Windows Defender's Ability Against Rootkits - Insights From YL Computing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premium-picks-top-macpc-bd-players-and-codecs/"><u>Premium Picks Top Mac/PC BD Players and Codecs</u></a></li>
-<li><a href="https://discover-great.techidaily.com/welcome-to-digiarty-software-inc-your-guide-to-winxdvd-solutions/"><u>Welcome to Digiarty Software, Inc. - Your Guide to WinXDVD Solutions</u></a></li>
-<li><a href="https://fox-making.techidaily.com/yl-software-solutions-for-easily-accessing-compressed-zip-folders-on-your-pc/"><u>YL Software Solutions for Easily Accessing Compressed ZIP Folders on Your PC</u></a></li>
-<li><a href="https://fox-making.techidaily.com/zip-file-creation-tutorial-by-yl-software-experts/"><u>Zip File Creation Tutorial by YL Software Experts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-capture-the-chuckles-a-guide-to-using-snapchats-laughing-lenses-for-2024/"><u>[New] Capture the Chuckles A Guide to Using Snapchat’s Laughing Lenses for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-advanced-3d-text-techniques-in-ai-for-2024/"><u>[Updated] Advanced 3D Text Techniques in AI for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-x-audio-capture-pc-version/"><u>[Updated] In 2024, X-Audio Capture PC Version</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-samsung-q60r-series-the-ultimate-4k-smart-tv-for-gamers/"><u>Comprehensive Analysis of the Samsung Q60R Series - The Ultimate 4K Smart TV for Gamers</u></a></li>
+<li><a href="https://fox-making.techidaily.com/fix-your-pcs-visual-woes-the-top-5-graphics-card-troubles-solved-by-yl-experts/"><u>Fix Your PC's Visual Woes: The Top 5 Graphics Card Troubles Solved by YL Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-microsoft-ergo-keyboard-4000-software-effortless-download-guide/"><u>Get the Latest Microsoft Ergo Keyboard 4000 Software: Effortless Download Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/gpu-detection-issues-solved-discover-why-and-how-to-fix-an-unrecognized-graphics-card-with-yl-software-insights/"><u>GPU Detection Issues Solved: Discover Why and How to Fix an Unrecognized Graphics Card with YL Software Insights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-100-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor 100 Phones? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/integrating-websites-into-your-instagram-presence/"><u>Integrating Websites Into Your Instagram Presence</u></a></li>
+<li><a href="https://fox-making.techidaily.com/is-your-laptop-facing-heat-issues-identifying-key-symptoms-with-help-from-yl-solutions/"><u>Is Your Laptop Facing Heat Issues? Identifying Key Symptoms with Help From YL Solutions</u></a></li>
+<li><a href="https://fox-making.techidaily.com/is-your-system-secure-with-windows-defender-discover-reliable-solutions-at-yl-softwares-tech-corner/"><u>Is Your System Secure with Windows Defender? Discover Reliable Solutions at YL Software's Tech Corner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/live-streaming-pro-discover-the-versatility-of-manycam-as-your-digital-camera-solution/"><u>Live Streaming Pro: Discover the Versatility of ManyCam as Your Digital Camera Solution</u></a></li>
+<li><a href="https://fox-making.techidaily.com/overcoming-scangearmp-error-troubles-with-expert-tips-by-yl-software/"><u>Overcoming Scangearmp Error Troubles with Expert Tips by YL Software</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-creating-cdsdvds-on-windows-pc-with-yl-software-solutions/"><u>Step-by-Step Guide: Creating CDs/DVDs on Windows PC with YL Software Solutions</u></a></li>
+<li><a href="https://fox-making.techidaily.com/timeline-of-the-historic-conflict-the-inception-date-of-the-sino-british-opium-wars-insights-by-yl-computing/"><u>Timeline of the Historic Conflict: The Inception Date of the Sino-British Opium Wars - Insights by YL Computing</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/vergleich-von-hyper-v-vs-virtualbox-welche-virtualisierungsoption-wird-sie-bevorzugen/"><u>Vergleich Von Hyper-V Vs. VirtualBox: Welche Virtualisierungsoption Wird Sie Bevorzugen?</u></a></li>
+<li><a href="https://fox-making.techidaily.com/yl-computings-tutorial-easily-uninstall-unnecessary-system-settings-applets-for-better-performance/"><u>YL Computing's Tutorial: Easily Uninstall Unnecessary System Settings Applets for Better Performance</u></a></li>
 </ul></div>
 
