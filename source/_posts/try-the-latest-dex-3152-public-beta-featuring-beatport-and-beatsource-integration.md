@@ -1,7 +1,7 @@
 ---
 title: Try the Latest DEX 3.15.2 Public Beta - Featuring Beatport & Beatsource Integration
-date: 2024-12-21T17:57:40.308Z
-updated: 2024-12-23T17:03:50.412Z
+date: 2024-12-27T20:06:53.285Z
+updated: 2024-12-29T20:36:12.056Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.2 Beta
@@ -57,7 +57,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 _Have questions about the latest 3.15.2 version of our DEX 3 **DJ software** or **Beatport LINK** and **Beatsource LINK**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,20 +79,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/10/introscreen.jpg?fit=1920%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-digital-filmmaking-recording-video-across-various-platforms/"><u>[New] In 2024, Digital Filmmaking Recording Video Across Various Platforms</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-investigating-instagrams-videography-cap-for-2024/"><u>[Updated] Investigating Instagram's Videography Cap for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-photo-and-video-size-adjustment-guide/"><u>[New] In 2024, Instagram Photo and Video Size Adjustment Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-cinematic-cadences-finding-film-friendly-sounds/"><u>[Updated] Cinematic Cadences Finding Film-Friendly Sounds</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-essential-steps-for-clear-ipad-recording/"><u>[Updated] In 2024, Essential Steps for Clear iPad Recording</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-creators-currency-how-to-turn-streams-into-dollars/"><u>[Updated] The Creator’s Currency How To Turn Streams Into Dollars</u></a></li>
 <li><a href="https://fox-making.techidaily.com/1-troubleshooting-your-pc-how-to-fix-connection-issues-between-your-printer-and-computer-tips-from-yl-computing/"><u>1. Troubleshooting Your PC: How to Fix Connection Issues Between Your Printer and Computer - Tips From YL Computing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-personalized-branding-made-easy-use-free-logo-templates-and-edit/"><u>2024 Approved Personalized Branding Made Easy Use Free Logo Templates and Edit</u></a></li>
-<li><a href="https://fox-making.techidaily.com/ensuring-secure-file-restoration-techniques-by-yl-computing/"><u>Ensuring Secure File Restoration: Techniques by YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-thoroughly-sanitizing-your-tv-control-unit/"><u>Expert Tips for Thoroughly Sanitizing Your TV Control Unit</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-discovering-av1-a-novices-pathway/"><u>2024 Approved Discovering AV1 A Novice's Pathway</u></a></li>
+<li><a href="https://fox-making.techidaily.com/adjusting-your-monitors-visual-configuration-in-windows-11-a-guide-by-yl-computing/"><u>Adjusting Your Monitor's Visual Configuration in Windows 11 - A Guide by YL Computing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exclusive-guide-the-best-4-ringtone-providers/"><u>Exclusive Guide The Best 4 Ringtone Providers</u></a></li>
 <li><a href="https://fox-making.techidaily.com/explore-the-past-with-classic-sea-craft-imagery-and-digital-wallpaper-collections-by-yl-software/"><u>Explore the Past with Classic Sea Craft Imagery and Digital Wallpaper Collections by YL Software</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/guia-facil-para-transcodificar-archivos-de-sonido-en-mp3-sin-coste-hazlo-desde-tu-pc/"><u>Guía Fácil Para Transcodificar Archivos De Sonido en MP3 Sin Coste: Hazlo Desde Tu PC</u></a></li>
-<li><a href="https://fox-making.techidaily.com/high-definition-aston-martin-v8-vantage-wallpaper-downloads-premium-car-visuals-by-yl-computing/"><u>High-Definition Aston Martin V8 Vantage Wallpaper Downloads - Premium Car Visuals by YL Computing</u></a></li>
 <li><a href="https://fox-making.techidaily.com/how-to-enhance-your-windows-os-expert-optimization-techniques-from-yl-software/"><u>How to Enhance Your Windows OS: Expert Optimization Techniques From YL Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-apple-iphone-13-pro-max-location-on-skout-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Apple iPhone 13 Pro Max Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/install-custom-fonts-on-pc-using-windows-settings-expert-advice-from-yl-software/"><u>Install Custom Fonts on PC Using Windows Settings - Expert Advice From YL Software</u></a></li>
 <li><a href="https://fox-making.techidaily.com/join-our-mac-compatible-basic-karaoke-software-trial-beta-tester-opportunities-available/"><u>Join Our Mac-Compatible Basic Karaoke Software Trial - Beta Tester Opportunities Available!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/power-up-with-these-20-top-songs-that-elevate-your-exercise-routine-for-2024/"><u>Power-Up with These 20 Top Songs that Elevate Your Exercise Routine for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/projecting-film-costs-for-your-music-video-for-2024/"><u>Projecting Film Costs for Your Music Video for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/premium-gpts-role-in-achieving-language-excellence/"><u>Premium GPT's Role in Achieving Language Excellence</u></a></li>
 <li><a href="https://fox-making.techidaily.com/understanding-local-vs-global-configuration-options-a-deep-dive-by-yl-computing/"><u>Understanding Local Vs. Global Configuration Options: A Deep Dive by YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-risks-top-6-ways-ai-may-fail-us/"><u>Understanding the Risks: Top 6 Ways AI May Fail Us</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-chatgpt-the-essential-new-additions-to-look-out-for/"><u>Unveiling ChatGPT: The Essential New Additions to Look Out For</u></a></li>
 </ul></div>
 

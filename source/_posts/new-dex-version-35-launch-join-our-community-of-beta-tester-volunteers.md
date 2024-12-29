@@ -1,7 +1,7 @@
 ---
 title: "New DEX Version 3.5 Launch: Join Our Community of Beta Tester Volunteers!"
-date: 2024-12-21T02:29:21.582Z
-updated: 2024-12-23T23:53:59.443Z
+date: 2024-12-22T16:10:25.241Z
+updated: 2024-12-29T20:48:40.482Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ If you meet the BETA Tester requirements below please fill out the form at the b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.5 Beta Team Requirements
@@ -69,7 +69,7 @@ Multichannel Core Audio soundcard
 If you meet these requirements please submit the form below. A PCDJ production team member will get back to you. (**NOTE:** _Not all testers will be accepted as we have limited space on the BETA testing team_)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,22 +91,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/dex35betatest-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-first-row-fun-without-football-baseball-or-basketball-for-2024/"><u>[New] First Row Fun Without Football, Baseball, or Basketball for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/engaging-trivia-quiz-set-and-sing-along-sounders-unlocking-premium-upsell-potential-for-disc-jockeys/"><u>Engaging Trivia Quiz Set and Sing-Along Sounders: Unlocking Premium Upsell Potential for Disc Jockeys</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-pc-solving-age-of-ashes-continuous-crash-issues/"><u>Fix Your PC! Solving 'Age of Ashes' Continuous Crash Issues</u></a></li>
-<li><a href="https://fox-making.techidaily.com/identifying-hardware-issues-in-your-windows-systems-ram-insights-from-yl-computing/"><u>Identifying Hardware Issues in Your Windows System's RAM - Insights From YL Computing</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-12-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 12 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Spoofing Life360 How to Do it on Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/master-your-mix-with-gemini-slate-free-download-of-dex-3-mapping-for-pcdj-controllers/"><u>Master Your Mix with Gemini Slate: Free Download of DEX 3 Mapping for PCDJ Controllers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-stability-in-gaming-solutions-for-recurrent-arcadegeddon-pc-breakdowns/"><u>Mastering Stability in Gaming: Solutions for Recurrent Arcadegeddon PC Breakdowns</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-s-hottest-adobe-premiere-plugins-get-them-now-free-download/"><u>New In 2024, S Hottest Adobe Premiere Plugins Get Them Now (Free Download)</u></a></li>
-<li><a href="https://facebook.techidaily.com/public-opinion-shifts-as-tech-titans-erode-in-trustworthiness/"><u>Public Opinion Shifts as Tech Titans Erode in Trustworthiness</u></a></li>
-<li><a href="https://fox-making.techidaily.com/repair-techniques-for-compromised-application-data-by-yl-software-experts/"><u>Repair Techniques for Compromised Application Data by YL Software Experts</u></a></li>
-<li><a href="https://fox-making.techidaily.com/sing-chart-toppers-now-join-our-karaoke-subscription-to-access-this-weeks-billboard-leader-song-and-more/"><u>Sing Chart Toppers Now! Join Our Karaoke Subscription to Access This Week's Billboard Leader Song & More!</u></a></li>
-<li><a href="https://fox-making.techidaily.com/the-influence-of-opium-conflicts-on-chinese-society-a-comprehensive-analysis-from-yl-software/"><u>The Influence of Opium Conflicts on Chinese Society: A Comprehensive Analysis From YL Software</u></a></li>
-<li><a href="https://fox-making.techidaily.com/unleash-your-inner-star-with-fresh-tracks-octobers-premium-karaoke-playlist-by-party-tyme/"><u>Unleash Your Inner Star with Fresh Tracks - October's Premium Karaoke Playlist by Party Tyme</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unstuck-from-silence-resolving-headphone-issues-in-windows-10-systems/"><u>Unstuck From Silence: Resolving Headphone Issues In Windows 10 Systems</u></a></li>
-<li><a href="https://fox-making.techidaily.com/yl-computings-guide-steps-to-open-your-control-panel-effective-tech-solutions/"><u>YL Computing's Guide: Steps to Open Your Control Panel - Effective Tech Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-fires-sound-alteration-tactics/"><u>[Updated] Free Fire's Sound Alteration Tactics</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-vegaspro-2019-a-comprehensive-analysis/"><u>[Updated] In 2024, VegasPro 2019 A Comprehensive Analysis</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-do-you-need-to-update-your-gpu-drivers-post-windows-setup-unravel-the-mystery-with-yl-computings-guide/"><u>1. Do You Need to Update Your GPU Drivers Post-Windows Setup? Unravel the Mystery with YL Computing's Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722959689710-amd-smbus-driver-download-and-update-quickly-and-easily/"><u>AMD SMBus Driver Download & Update. Quickly & Easily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-infinix-note-30-vip-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Infinix Note 30 VIP</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-meizu-21-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Meizu 21.</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-safely-upgrade-your-existing-cpu-tips-from-yl-computing/"><u>How to Safely Upgrade Your Existing CPU - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-elevating-your-viewing-experience-with-benq-sw320-monitor/"><u>In 2024, Elevating Your Viewing Experience with BenQ SW320 Monitor</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-v30-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme V30 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sifting-through-scam-rumors-about-truthcoin/"><u>Sifting Through Scam Rumors About TruthCoin</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-finding-list-of-all-programs-in-windows-control-panel-with-help-from-yl-software-experts/"><u>Step-by-Step: Finding List of All Programs in Windows Control Panel with Help From YL Software Experts</u></a></li>
+<li><a href="https://fox-making.techidaily.com/tracking-the-net-worth-of-various-bsv-wallets-in-bulk-a-guide-by-yl-computing/"><u>Tracking the Net Worth of Various BSV Wallets in Bulk: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unclutter-your-computer-a-guide-to-removing-unused-apps-and-files-tips-from-yl-computing/"><u>Unclutter Your Computer: A Guide to Removing Unused Apps & Files - Tips From YL Computing</u></a></li>
+<li><a href="https://win-studio.techidaily.com/understanding-key-factors-that-lead-to-reduced-pc-efficiency-with-expertise-by-yl-technology-solutions/"><u>Understanding Key Factors That Lead to Reduced PC Efficiency with Expertise by YL Technology Solutions</u></a></li>
+<li><a href="https://fox-making.techidaily.com/yl-software-reveals-its-proprietary-gem-the-ultimate-signonchain-experience/"><u>YL Software Reveals Its Proprietary Gem: The Ultimate SignOnChain Experience</u></a></li>
 </ul></div>
 

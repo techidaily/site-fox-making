@@ -1,7 +1,7 @@
 ---
 title: Get the New Slam Dunk Theme for Your DJ Set with DEX3 by Pioneer DJ
-date: 2024-12-19T22:57:00.195Z
-updated: 2024-12-24T03:49:06.998Z
+date: 2024-12-24T16:26:57.538Z
+updated: 2024-12-29T17:46:53.777Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ The new DEX 3 ‘Slam Dunks’ Skin features everything found on the new RED Mob
 _Unzip all contents to Documents (Docs on Mac) -> PCDJ-DEX3 -> Skins. Access and select the ‘slam dunks (2 deck)’ skin in DEX 3’s options under the ‘select user interface’ drop down menu to apply._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,16 +52,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/12/slamdunksskin-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-essential-guide-to-tracking-igtv-viewership-metrics/"><u>[New] The Essential Guide to Tracking IGTV Viewership Metrics</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-add-border-to-instagram-photos/"><u>[Updated] How to Add Border to Instagram Photos?</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/amending-damaged-media-formats-on-macos-devices/"><u>Amending Damaged Media Formats on macOS Devices</u></a></li>
-<li><a href="https://fox-making.techidaily.com/backing-up-your-windows-pc-control-panel-configurations-a-step-by-step-guide-tips-from-yl-computing/"><u>Backing Up Your Windows PC Control Panel Configurations: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/customizing-windows-mouse-preferences-via-control-panel-with-tips-from-yl-computings-latest-article/"><u>Customizing Windows Mouse Preferences via Control Panel with Tips From YL Computing's Latest Article</u></a></li>
-<li><a href="https://facebook.techidaily.com/gaining-control-integrate-key-admins-into-your-pages/"><u>Gaining Control: Integrate Key Admins Into Your Pages</u></a></li>
-<li><a href="https://fox-making.techidaily.com/hd-abstract-graphics-stunning-desktop-walls-and-backgrounds-by-yl-computing/"><u>HD Abstract Graphics: Stunning Desktop Walls & Backgrounds by YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-does-yl-computing-secure-your-pc-with-top-tier-anti-virus-software-find-out-here/"><u>How Does YL Computing Secure Your PC with Top-Tier Anti-Virus Software? Find Out Here!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-masterful-motivational-webcast-maker/"><u>In 2024, Masterful Motivational Webcast Maker</u></a></li>
-<li><a href="https://fox-making.techidaily.com/troubleshooting-hardware-hiccups-resolve-disk-drive-failures-with-yl-computings-strategies/"><u>Troubleshooting Hardware Hiccups: Resolve Disk Drive Failures with YL Computing's Strategies</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-streaming-software-spectacle-choosing-between-virusmix-and-castpro/"><u>[New] In 2024, Streaming Software Spectacle Choosing Between VirusMix and CastPro</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-definitive-guide-to-the-top-9-mic-recording-apps-in-23-for-2024/"><u>[New] The Definitive Guide to the Top 9 Mic Recording Apps in '23 for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-360-fb-live-broadcasts/"><u>[Updated] 2024 Approved Mastering 360 FB Live Broadcasts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-to-share-twitter-videos-on-whatsapp-for-2024/"><u>[Updated] How to Share Twitter Videos on WhatsApp for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-google-meet-easy-backdrop-swap-for-pc-and-phones/"><u>[Updated] Mastering Google Meet Easy Backdrop Swap for PC & Phones</u></a></li>
+<li><a href="https://fox-making.techidaily.com/batch-file-deletion-on-windows-a-step-by-step-guide-by-yl-software/"><u>Batch File Deletion on Windows: A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-free-tool-your-android-unhindered-for-2024/"><u>Best Free Tool Your Android, Unhindered for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/best-tools-and-applications-for-enhancing-your-pcs-performance-yl-computing/"><u>Best Tools and Applications for Enhancing Your PC's Performance - YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easy-guide-controlling-your-microsoft-account-on-windows-10-with-yl-software-solutions/"><u>Easy Guide: Controlling Your Microsoft Account on Windows 10 with YL Software Solutions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leveraging-alternative-footage-in-filmmaking-for-2024/"><u>Leveraging Alternative Footage in Filmmaking for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/pcdj-enhancements-unleashed-transform-your-sets-using-soundcloud-proplus/"><u>PCDJ Enhancements Unleashed - Transform Your Sets Using SoundCloud Pro+</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-detecting-ram-failures-in-windows-os-with-yls-expert-advice/"><u>Step-by-Step Guide: Detecting RAM Failures in Windows OS with YL's Expert Advice</u></a></li>
+<li><a href="https://fox-making.techidaily.com/strategizing-success-in-cryptocurrency-mining-with-yls-expertise-and-technology-solutions/"><u>Strategizing Success in Cryptocurrency Mining with YL's Expertise and Technology Solutions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-audio-visual-connection-step-by-step-tutorial-for-video-editors/"><u>The Audio-Visual Connection Step-by-Step Tutorial for Video Editors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-xiaomi-redmi-note-12-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Xiaomi Redmi Note 12 5G Location | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/troubleshooting-initialization-issues-solving-scanner-setup-problems-post-installation-tips-from-yl-computing/"><u>Troubleshooting Initialization Issues: Solving Scanner Setup Problems Post-Installation - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/why-choose-a-portable-laptop-over-a-stationary-desktop-discover-key-advantages-insights-from-yl-computing/"><u>Why Choose a Portable Laptop Over a Stationary Desktop? Discover Key Advantages – Insights From YL Computing</u></a></li>
 </ul></div>
 

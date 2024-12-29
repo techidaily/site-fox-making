@@ -1,7 +1,7 @@
 ---
 title: PCDJ Essentials - Learn to Auto-Cue & Efficiently Set In/Out for Seamless Transitions!
-date: 2024-12-21T04:19:56.278Z
-updated: 2024-12-24T04:13:18.933Z
+date: 2024-12-24T16:46:55.769Z
+updated: 2024-12-29T18:04:12.246Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ The video tutorial below will walk you through how **autocue** works, and how yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT IS AUTOCUE?
@@ -35,13 +35,13 @@ This means when you load a track to one of the four available decks in DEX 3 and
 The wonderful thing about the revamped **autocue feature** is that the autocue points will be used as mix points for automix.   **Trim the long intro or outtro** using the new autocue mix points for more **seamless transitions** between tracks when using automix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,22 +63,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/autocuemixinout-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-capture-the-chuckles-a-guide-to-using-snapchats-laughing-lenses-for-2024/"><u>[New] Capture the Chuckles A Guide to Using Snapchat’s Laughing Lenses for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-advanced-3d-text-techniques-in-ai-for-2024/"><u>[Updated] Advanced 3D Text Techniques in AI for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-x-audio-capture-pc-version/"><u>[Updated] In 2024, X-Audio Capture PC Version</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-samsung-q60r-series-the-ultimate-4k-smart-tv-for-gamers/"><u>Comprehensive Analysis of the Samsung Q60R Series - The Ultimate 4K Smart TV for Gamers</u></a></li>
-<li><a href="https://fox-making.techidaily.com/fix-your-pcs-visual-woes-the-top-5-graphics-card-troubles-solved-by-yl-experts/"><u>Fix Your PC's Visual Woes: The Top 5 Graphics Card Troubles Solved by YL Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-microsoft-ergo-keyboard-4000-software-effortless-download-guide/"><u>Get the Latest Microsoft Ergo Keyboard 4000 Software: Effortless Download Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/gpu-detection-issues-solved-discover-why-and-how-to-fix-an-unrecognized-graphics-card-with-yl-software-insights/"><u>GPU Detection Issues Solved: Discover Why and How to Fix an Unrecognized Graphics Card with YL Software Insights</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-100-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor 100 Phones? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/integrating-websites-into-your-instagram-presence/"><u>Integrating Websites Into Your Instagram Presence</u></a></li>
-<li><a href="https://fox-making.techidaily.com/is-your-laptop-facing-heat-issues-identifying-key-symptoms-with-help-from-yl-solutions/"><u>Is Your Laptop Facing Heat Issues? Identifying Key Symptoms with Help From YL Solutions</u></a></li>
-<li><a href="https://fox-making.techidaily.com/is-your-system-secure-with-windows-defender-discover-reliable-solutions-at-yl-softwares-tech-corner/"><u>Is Your System Secure with Windows Defender? Discover Reliable Solutions at YL Software's Tech Corner</u></a></li>
-<li><a href="https://blog-min.techidaily.com/live-streaming-pro-discover-the-versatility-of-manycam-as-your-digital-camera-solution/"><u>Live Streaming Pro: Discover the Versatility of ManyCam as Your Digital Camera Solution</u></a></li>
-<li><a href="https://fox-making.techidaily.com/overcoming-scangearmp-error-troubles-with-expert-tips-by-yl-software/"><u>Overcoming Scangearmp Error Troubles with Expert Tips by YL Software</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-guide-creating-cdsdvds-on-windows-pc-with-yl-software-solutions/"><u>Step-by-Step Guide: Creating CDs/DVDs on Windows PC with YL Software Solutions</u></a></li>
-<li><a href="https://fox-making.techidaily.com/timeline-of-the-historic-conflict-the-inception-date-of-the-sino-british-opium-wars-insights-by-yl-computing/"><u>Timeline of the Historic Conflict: The Inception Date of the Sino-British Opium Wars - Insights by YL Computing</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/vergleich-von-hyper-v-vs-virtualbox-welche-virtualisierungsoption-wird-sie-bevorzugen/"><u>Vergleich Von Hyper-V Vs. VirtualBox: Welche Virtualisierungsoption Wird Sie Bevorzugen?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/yl-computings-tutorial-easily-uninstall-unnecessary-system-settings-applets-for-better-performance/"><u>YL Computing's Tutorial: Easily Uninstall Unnecessary System Settings Applets for Better Performance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-budget-channels-to-big-brands-youtube-sponsorships-demystified/"><u>[New] In 2024, From Budget Channels to Big Brands YouTube Sponsorships Demystified</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mini-movie-script-concept/"><u>[New] Mini Movie Script Concept</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-crafting-cinematic-magic-making-your-instagram-videos-shine/"><u>[Updated] 2024 Approved Crafting Cinematic Magic Making Your Instagram Videos Shine</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-elevating-your-drones-photographic-capabilities-with-the-right-gimbal/"><u>[Updated] In 2024, Elevating Your Drones' Photographic Capabilities with the Right Gimbal</u></a></li>
+<li><a href="https://fox-making.techidaily.com/backing-up-your-windows-pc-control-panel-configurations-a-step-by-step-guide-tips-from-yl-computing/"><u>Backing Up Your Windows PC Control Panel Configurations: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/disabling-windows-defender-on-demand-a-step-by-step-guide-tech-solutions-by-your-company/"><u>Disabling Windows Defender on Demand: A Step-by-Step Guide - Tech Solutions by [Your Company]</u></a></li>
+<li><a href="https://fox-making.techidaily.com/hd-abstract-graphics-stunning-desktop-walls-and-backgrounds-by-yl-computing/"><u>HD Abstract Graphics: Stunning Desktop Walls & Backgrounds by YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-does-yl-computing-secure-your-pc-with-top-tier-anti-virus-software-find-out-here/"><u>How Does YL Computing Secure Your PC with Top-Tier Anti-Virus Software? Find Out Here!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-poco-c51-by-drfone-android/"><u>In 2024, How to Bypass FRP from Poco C51?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location on TikTok to See More Content On your Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/investigating-potential-compatibility-challenges-for-your-sound-card-with-yls-insights/"><u>Investigating Potential Compatibility Challenges for Your Sound Card with YL's Insights</u></a></li>
+<li><a href="https://fox-making.techidaily.com/resetting-your-pc-with-ease-comprehensive-guide-by-yl-computing/"><u>Resetting Your PC with Ease: Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-next-apple-watch-grab-the-new-series-10-from-best-buy-for-a-steal-at-just-99-with-this-exclusive-pre-order-deal-zdnet/"><u>Secure Your Next Apple Watch: Grab the New Series 10 From Best Buy for a Steal at Just $99 with This Exclusive Pre-Order Deal! | ZDNET</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solve-your-zoom-camera-hurdles-in-no-time-effortlessly/"><u>Solve Your Zoom Camera Hurdles in No Time, Effortlessly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/songsyncing-simplified-your-guide-to-turning-tamil-music-into-alerts-for-2024/"><u>SongSyncing Simplified Your Guide to Turning Tamil Music Into Alerts for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/stunning-purple-thunder-display-real-time-lightning-hd-background-from-yl-computing-solutions/"><u>Stunning Purple Thunder Display: Real-Time Lightning HD Background From YL Computing Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-fortnites-voice-chatting-glitches-fast-and-efficiently/"><u>Troubleshoot Fortnite's Voice Chatting Glitches Fast & Efficiently!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/troubleshooting-a-non-functional-usb-port-insights-from-yl-computing/"><u>Troubleshooting a Non-Functional USB Port: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/troubleshooting-hardware-hiccups-resolve-disk-drive-failures-with-yl-computings-strategies/"><u>Troubleshooting Hardware Hiccups: Resolve Disk Drive Failures with YL Computing's Strategies</u></a></li>
 </ul></div>
 
