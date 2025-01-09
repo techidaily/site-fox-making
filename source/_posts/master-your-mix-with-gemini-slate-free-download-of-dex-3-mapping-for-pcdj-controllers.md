@@ -1,7 +1,7 @@
 ---
 title: "Master Your Mix with Gemini Slate: Free Download of DEX 3 Mapping for PCDJ Controllers"
-date: 2024-12-23T22:10:24.459Z
-updated: 2024-12-29T22:15:31.308Z
+date: 2025-01-03T05:55:35.914Z
+updated: 2025-01-08T16:30:14.818Z
 tags:
   - product
 categories:
@@ -60,7 +60,7 @@ The pre-mapped FX controls for DJ software bring immediate results upon first us
 _Have questions about the **Slate DJ controller** or using it with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -82,17 +82,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/06/gemini-slatemap-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-extracting-soundtracks-from-facebook-videos/"><u>[New] In 2024, Extracting Soundtracks From Facebook Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-10-amazing-world-wanderlust-channels-for-2024/"><u>[Updated] Discover 10 Amazing World Wanderlust Channels for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-expert-choices-best-mics-enhancing-4k-video-quality/"><u>2024 Approved Expert Choices Best Mics Enhancing 4K Video Quality</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-progressive-presentation-kick-off/"><u>2024 Approved Progressive Presentation Kick-Off</u></a></li>
-<li><a href="https://fox-making.techidaily.com/haunting-woodland-panorama-high-definition-nature-scenes-by-yl-computing/"><u>Haunting Woodland Panorama - High-Definition Nature Scenes by YL Computing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-brand-expression-made-simple-affordable-personalized-logo-templates-free/"><u>In 2024, Brand Expression Made Simple Affordable Personalized Logo Templates (Free)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-closer-look-techniques-for-effective-collaboration-on-ms-teams/"><u>In 2024, Closer Look Techniques for Effective Collaboration on MS Teams</u></a></li>
-<li><a href="https://fox-making.techidaily.com/mastering-microsoft-word-on-your-pc-a-comprehensive-guide-by-yl-software/"><u>Mastering Microsoft Word on Your PC: A Comprehensive Guide by YL Software</u></a></li>
-<li><a href="https://fox-making.techidaily.com/resolving-pc-hardware-problems-on-windows-expert-tips-by-yl-computing/"><u>Resolving PC Hardware Problems on Windows - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/try-the-latest-karaoki-beta-version-download-now/"><u>Try the Latest Karaoki Beta Version - Download Now!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-7-plus-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 7 Plus</u></a></li>
-<li><a href="https://fox-making.techidaily.com/yl-software-advice-step-by-step-for-deleting-redundant-programs-easily/"><u>YL Software Advice: Step-by-Step for Deleting Redundant Programs Easily</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-10-no-cost-video-conferencing-solutions-unveiled/"><u>[New] Best 10 No-Cost Video Conferencing Solutions Unveiled</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-path-to-perfection-editing-numbers-on-tiktok/"><u>[Updated] The Path to Perfection Editing Numbers on TikTok</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-v29-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from V29</u></a></li>
+<li><a href="https://fox-making.techidaily.com/compatibility-guide-using-older-scanner-drivers-on-modern-windows-systems-insights-from-yl-computing/"><u>Compatibility Guide: Using Older Scanner Drivers on Modern Windows Systems - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/complete-tutorial-on-eradicating-malware-found-via-microsoft-security-essentials/"><u>Complete Tutorial on Eradicating Malware Found via Microsoft Security Essentials</u></a></li>
+<li><a href="https://program-issues.techidaily.com/decrypting-diablo-2s-hiccups-effective-ways-to-stop-your-game-from-crashing/"><u>Decrypting Diablo 2'S Hiccups: Effective Ways to Stop Your Game From Crashing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ensuring-proper-operation-a-guide-to-testing-your-windows-graphics-hardware-by-yl-tech-experts/"><u>Ensuring Proper Operation: A Guide to Testing Your Windows Graphics Hardware by YL Tech Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-for-resolving-nvidia-hardware-disk-issues/"><u>Expert Solutions for Resolving NVIDIA Hardware Disk Issues</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-did-the-taiping-rebellion-impact-19th-century-chinas-history-and-development-insights-by-yl-computing-and-yl-software/"><u>How Did the Taiping Rebellion Impact 19Th-Century China's History and Development: Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-11-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone 11 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/new-bee-lc-41-review/"><u>New Bee LC-41 Review</u></a></li>
+<li><a href="https://fox-making.techidaily.com/protecting-your-bitcoin-assets-comprehensive-guide-to-secure-crypto-storage-by-yl-software-solutions/"><u>Protecting Your Bitcoin Assets: Comprehensive Guide to Secure Crypto Storage by YL Software Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/turning-traffic-into-cash-calculating-the-essential-youtube-number-for-2024/"><u>Turning Traffic Into Cash Calculating the Essential Youtube Number for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-ken-burns-effect-tutorial-add-movement-to-your-photos/"><u>Updated 2024 Approved Ken Burns Effect Tutorial Add Movement to Your Photos</u></a></li>
+<li><a href="https://fox-making.techidaily.com/yl-computings-ultimate-how-to-installing-new-operating-systems-effortlessly-and-securely/"><u>YL Computing's Ultimate How-To: Installing New Operating Systems Effortlessly and Securely</u></a></li>
 </ul></div>
 

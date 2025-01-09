@@ -1,7 +1,7 @@
 ---
 title: "New DEX Version 3.5 Launch: Join Our Community of Beta Tester Volunteers!"
-date: 2024-12-22T16:10:25.241Z
-updated: 2024-12-29T20:48:40.482Z
+date: 2025-01-02T22:58:52.549Z
+updated: 2025-01-08T19:39:21.682Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ If you meet the BETA Tester requirements below please fill out the form at the b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.5 Beta Team Requirements
@@ -69,7 +69,7 @@ Multichannel Core Audio soundcard
 If you meet these requirements please submit the form below. A PCDJ production team member will get back to you. (**NOTE:** _Not all testers will be accepted as we have limited space on the BETA testing team_)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,20 +91,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/dex35betatest-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-free-fires-sound-alteration-tactics/"><u>[Updated] Free Fire's Sound Alteration Tactics</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-vegaspro-2019-a-comprehensive-analysis/"><u>[Updated] In 2024, VegasPro 2019 A Comprehensive Analysis</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-do-you-need-to-update-your-gpu-drivers-post-windows-setup-unravel-the-mystery-with-yl-computings-guide/"><u>1. Do You Need to Update Your GPU Drivers Post-Windows Setup? Unravel the Mystery with YL Computing's Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722959689710-amd-smbus-driver-download-and-update-quickly-and-easily/"><u>AMD SMBus Driver Download & Update. Quickly & Easily</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-infinix-note-30-vip-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Infinix Note 30 VIP</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-meizu-21-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Meizu 21.</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-safely-upgrade-your-existing-cpu-tips-from-yl-computing/"><u>How to Safely Upgrade Your Existing CPU - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-elevating-your-viewing-experience-with-benq-sw320-monitor/"><u>In 2024, Elevating Your Viewing Experience with BenQ SW320 Monitor</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-v30-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme V30 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sifting-through-scam-rumors-about-truthcoin/"><u>Sifting Through Scam Rumors About TruthCoin</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-finding-list-of-all-programs-in-windows-control-panel-with-help-from-yl-software-experts/"><u>Step-by-Step: Finding List of All Programs in Windows Control Panel with Help From YL Software Experts</u></a></li>
-<li><a href="https://fox-making.techidaily.com/tracking-the-net-worth-of-various-bsv-wallets-in-bulk-a-guide-by-yl-computing/"><u>Tracking the Net Worth of Various BSV Wallets in Bulk: A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/unclutter-your-computer-a-guide-to-removing-unused-apps-and-files-tips-from-yl-computing/"><u>Unclutter Your Computer: A Guide to Removing Unused Apps & Files - Tips From YL Computing</u></a></li>
-<li><a href="https://win-studio.techidaily.com/understanding-key-factors-that-lead-to-reduced-pc-efficiency-with-expertise-by-yl-technology-solutions/"><u>Understanding Key Factors That Lead to Reduced PC Efficiency with Expertise by YL Technology Solutions</u></a></li>
-<li><a href="https://fox-making.techidaily.com/yl-software-reveals-its-proprietary-gem-the-ultimate-signonchain-experience/"><u>YL Software Reveals Its Proprietary Gem: The Ultimate SignOnChain Experience</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-the-art-of-customizing-your-youtube-channel-url/"><u>[New] 2024 Approved Mastering the Art of Customizing Your YouTube Channel URL</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-affordable-high-definition-cams-for-adventure-enthusiasts/"><u>[Updated] Affordable High Definition Cams for Adventure Enthusiasts</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1728487843204-win1011/"><u>轻松护理Win10/11丢失硬盘分区：全新修复方法</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/avchd-to-mp4-conversion-top-6-recommended-free-software-picks-for-superior-video-quality/"><u>AVCHD to MP4 Conversion: Top 6 Recommended Free Software Picks for Superior Video Quality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chromebooks-voice-alteration-guide-the-leading-online-text-to-speech-apps/"><u>Chromebook's Voice Alteration Guide The Leading Online Text-to-Speech Apps</u></a></li>
+<li><a href="https://fox-making.techidaily.com/discover-fresh-hits-with-out-of-the-woods-karaoke-cloud-pros-top-pick-from-new-releases/"><u>Discover Fresh Hits with Out Of The Woods – Karaoke Cloud Pro's Top Pick From New Releases!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/eliminating-windows-malware-a-step-by-step-guide-tech-solutions-by-yl/"><u>Eliminating Windows Malware: A Step-by-Step Guide - Tech Solutions by YL</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-accelerate-your-computers-performance-expert-tips-and-strategies-by-yl-computing/"><u>How to Accelerate Your Computer's Performance: Expert Tips & Strategies by YL Computing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/leading-tools-to-uncover-trending-tags-on-fb-twt-and-ig-sites/"><u>Leading Tools to Uncover Trending Tags on FB, Twt & IG Sites</u></a></li>
+<li><a href="https://fox-making.techidaily.com/troubleshooting-unrecognized-scans-solutions-from-yl-computings-expert-software/"><u>Troubleshooting Unrecognized Scans: Solutions From YL Computing's Expert Software</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-error-messages-troubleshooting-hardware-component-access-issues-insights-by-yl-computing-and-software-solutions/"><u>Understanding Error Messages: Troubleshooting Hardware Component Access Issues - Insights by YL Computing & Software Solutions</u></a></li>
 </ul></div>
 

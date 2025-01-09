@@ -1,7 +1,7 @@
 ---
 title: Get the New Slam Dunk Theme for Your DJ Set with DEX3 by Pioneer DJ
-date: 2024-12-24T16:26:57.538Z
-updated: 2024-12-29T17:46:53.777Z
+date: 2025-01-07T21:50:08.947Z
+updated: 2025-01-09T03:22:08.270Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ The new DEX 3 ‘Slam Dunks’ Skin features everything found on the new RED Mob
 _Unzip all contents to Documents (Docs on Mac) -> PCDJ-DEX3 -> Skins. Access and select the ‘slam dunks (2 deck)’ skin in DEX 3’s options under the ‘select user interface’ drop down menu to apply._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,22 +52,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/12/slamdunksskin-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-streaming-software-spectacle-choosing-between-virusmix-and-castpro/"><u>[New] In 2024, Streaming Software Spectacle Choosing Between VirusMix and CastPro</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-definitive-guide-to-the-top-9-mic-recording-apps-in-23-for-2024/"><u>[New] The Definitive Guide to the Top 9 Mic Recording Apps in '23 for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-360-fb-live-broadcasts/"><u>[Updated] 2024 Approved Mastering 360 FB Live Broadcasts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-how-to-share-twitter-videos-on-whatsapp-for-2024/"><u>[Updated] How to Share Twitter Videos on WhatsApp for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-google-meet-easy-backdrop-swap-for-pc-and-phones/"><u>[Updated] Mastering Google Meet Easy Backdrop Swap for PC & Phones</u></a></li>
-<li><a href="https://fox-making.techidaily.com/batch-file-deletion-on-windows-a-step-by-step-guide-by-yl-software/"><u>Batch File Deletion on Windows: A Step-by-Step Guide by YL Software</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/best-free-tool-your-android-unhindered-for-2024/"><u>Best Free Tool Your Android, Unhindered for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/best-tools-and-applications-for-enhancing-your-pcs-performance-yl-computing/"><u>Best Tools and Applications for Enhancing Your PC's Performance - YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/easy-guide-controlling-your-microsoft-account-on-windows-10-with-yl-software-solutions/"><u>Easy Guide: Controlling Your Microsoft Account on Windows 10 with YL Software Solutions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leveraging-alternative-footage-in-filmmaking-for-2024/"><u>Leveraging Alternative Footage in Filmmaking for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/pcdj-enhancements-unleashed-transform-your-sets-using-soundcloud-proplus/"><u>PCDJ Enhancements Unleashed - Transform Your Sets Using SoundCloud Pro+</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-guide-detecting-ram-failures-in-windows-os-with-yls-expert-advice/"><u>Step-by-Step Guide: Detecting RAM Failures in Windows OS with YL's Expert Advice</u></a></li>
-<li><a href="https://fox-making.techidaily.com/strategizing-success-in-cryptocurrency-mining-with-yls-expertise-and-technology-solutions/"><u>Strategizing Success in Cryptocurrency Mining with YL's Expertise and Technology Solutions</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-audio-visual-connection-step-by-step-tutorial-for-video-editors/"><u>The Audio-Visual Connection Step-by-Step Tutorial for Video Editors</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-xiaomi-redmi-note-12-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Xiaomi Redmi Note 12 5G Location | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/troubleshooting-initialization-issues-solving-scanner-setup-problems-post-installation-tips-from-yl-computing/"><u>Troubleshooting Initialization Issues: Solving Scanner Setup Problems Post-Installation - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/why-choose-a-portable-laptop-over-a-stationary-desktop-discover-key-advantages-insights-from-yl-computing/"><u>Why Choose a Portable Laptop Over a Stationary Desktop? Discover Key Advantages – Insights From YL Computing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-peerless-dialogue-creator-zone/"><u>[New] 2024 Approved Peerless Dialogue Creator Zone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aptivating-content-at-your-fingertips-download-youtube-for-ios-for-2024/"><u>[New] Captivating Content at Your Fingertips Download YouTube for iOS for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-recording-the-virtual-realm/"><u>[Updated] In 2024, Recording the Virtual Realm</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-streaming-made-simple-convert-and-broadcast-mp3-songs-online/"><u>[Updated] Streaming Made Simple Convert and Broadcast MP3 Songs Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-the-secrets-of-high-conversion-rates-in-youtube-banner-designs/"><u>[Updated] Unlocking the Secrets of High Conversion Rates in YouTube Banner Designs</u></a></li>
+<li><a href="https://fox-making.techidaily.com/discovering-qins-origins-pivotal-historical-events-that-shaped-its-foundation/"><u>Discovering Qin's Origins: Pivotal Historical Events that Shaped Its Foundation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-on-removing-connected-devices-from-google-home-interface/"><u>Expert Tips on Removing Connected Devices From Google Home Interface</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gifs-to-glam-a-complete-guide-to-creating-emojis-on-telegram-and-whatsapp/"><u>GIFs-to-Glam A Complete Guide to Creating Emojis on Telegram & WhatsApp</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-ppt-video-flow-rates/"><u>In 2024, Optimizing PPT Video Flow Rates</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-instructions-for-initiating-windows-defender-protection-on-your-pc-advice-by-yl-software-experts/"><u>Step-by-Step Instructions for Initiating Windows Defender Protection on Your PC - Advice by YL Software Experts</u></a></li>
+<li><a href="https://fox-making.techidaily.com/verifying-power-supply-performance-a-step-by-step-guide-tips-from-yl-computing/"><u>Verifying Power Supply Performance: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/why-is-your-computer-mouse-not-responding-discover-solutions-with-yl-software-expertise/"><u>Why Is Your Computer Mouse Not Responding? Discover Solutions with YL Software Expertise</u></a></li>
 </ul></div>
 
