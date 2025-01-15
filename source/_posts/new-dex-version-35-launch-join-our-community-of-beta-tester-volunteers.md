@@ -1,7 +1,7 @@
 ---
 title: "New DEX Version 3.5 Launch: Join Our Community of Beta Tester Volunteers!"
-date: 2025-01-02T22:58:52.549Z
-updated: 2025-01-08T19:39:21.682Z
+date: 2025-01-12T19:33:01.792Z
+updated: 2025-01-14T17:15:34.559Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ If you meet the BETA Tester requirements below please fill out the form at the b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.5 Beta Team Requirements
@@ -69,7 +69,7 @@ Multichannel Core Audio soundcard
 If you meet these requirements please submit the form below. A PCDJ production team member will get back to you. (**NOTE:** _Not all testers will be accepted as we have limited space on the BETA testing team_)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,16 +91,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/dex35betatest-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-the-art-of-customizing-your-youtube-channel-url/"><u>[New] 2024 Approved Mastering the Art of Customizing Your YouTube Channel URL</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-affordable-high-definition-cams-for-adventure-enthusiasts/"><u>[Updated] Affordable High Definition Cams for Adventure Enthusiasts</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1728487843204-win1011/"><u>轻松护理Win10/11丢失硬盘分区：全新修复方法</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/avchd-to-mp4-conversion-top-6-recommended-free-software-picks-for-superior-video-quality/"><u>AVCHD to MP4 Conversion: Top 6 Recommended Free Software Picks for Superior Video Quality</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/chromebooks-voice-alteration-guide-the-leading-online-text-to-speech-apps/"><u>Chromebook's Voice Alteration Guide The Leading Online Text-to-Speech Apps</u></a></li>
-<li><a href="https://fox-making.techidaily.com/discover-fresh-hits-with-out-of-the-woods-karaoke-cloud-pros-top-pick-from-new-releases/"><u>Discover Fresh Hits with Out Of The Woods – Karaoke Cloud Pro's Top Pick From New Releases!</u></a></li>
-<li><a href="https://fox-making.techidaily.com/eliminating-windows-malware-a-step-by-step-guide-tech-solutions-by-yl/"><u>Eliminating Windows Malware: A Step-by-Step Guide - Tech Solutions by YL</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-accelerate-your-computers-performance-expert-tips-and-strategies-by-yl-computing/"><u>How to Accelerate Your Computer's Performance: Expert Tips & Strategies by YL Computing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/leading-tools-to-uncover-trending-tags-on-fb-twt-and-ig-sites/"><u>Leading Tools to Uncover Trending Tags on FB, Twt & IG Sites</u></a></li>
-<li><a href="https://fox-making.techidaily.com/troubleshooting-unrecognized-scans-solutions-from-yl-computings-expert-software/"><u>Troubleshooting Unrecognized Scans: Solutions From YL Computing's Expert Software</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-error-messages-troubleshooting-hardware-component-access-issues-insights-by-yl-computing-and-software-solutions/"><u>Understanding Error Messages: Troubleshooting Hardware Component Access Issues - Insights by YL Computing & Software Solutions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-vdy-pro-recorder-summary-detailed-analysis/"><u>[New] 2024 Approved VDY Pro Recorder Summary Detailed Analysis</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-a-comprehensive-guide-to-modern-versatile-game-recording-software-for-2024/"><u>[New] A Comprehensive Guide to Modern, Versatile Game Recording Software for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-5-best-hdmi-21-gaming-monitors-ps5-compatible/"><u>[New] In 2024, Top 5 Best HDMI 2.1 Gaming Monitors [PS5 Compatible]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-pro-ultimate-2023-template-collection-free/"><u>[New] Premier Pro Ultimate 2023 Template Collection (FREE)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-infinite-frontier-the-best-sci-fi-films-that-redefine-universes/"><u>[Updated] Infinite Frontier The Best Sci-Fi Films That Redefine Universes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sprint-showcase-short-track-22-glory/"><u>[Updated] Sprint Showcase Short Track '22 Glory</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-se-2020-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-safely-upgrade-your-existing-cpu-tips-from-yl-computing/"><u>How to Safely Upgrade Your Existing CPU - Tips From YL Computing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-2023s-premier-action-cameras-on-motorcycle-gear-guide/"><u>In 2024, 2023'S Premier Action Cameras on Motorcycle Gear Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-capturing-action-in-hd-with-ultimate-sj-cam-s6-review/"><u>In 2024, Capturing Action in HD with Ultimate SJ-CAM S6 Review</u></a></li>
+<li><a href="https://fox-making.techidaily.com/tracking-the-net-worth-of-various-bsv-wallets-in-bulk-a-guide-by-yl-computing/"><u>Tracking the Net Worth of Various BSV Wallets in Bulk: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unclutter-your-computer-a-guide-to-removing-unused-apps-and-files-tips-from-yl-computing/"><u>Unclutter Your Computer: A Guide to Removing Unused Apps & Files - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/zip-file-creation-tutorial-by-yl-software-experts/"><u>Zip File Creation Tutorial by YL Software Experts</u></a></li>
 </ul></div>
 

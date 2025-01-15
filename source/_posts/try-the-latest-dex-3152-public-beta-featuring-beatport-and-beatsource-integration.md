@@ -1,7 +1,7 @@
 ---
 title: Try the Latest DEX 3.15.2 Public Beta - Featuring Beatport & Beatsource Integration
-date: 2025-01-08T04:56:36.060Z
-updated: 2025-01-09T02:30:02.715Z
+date: 2025-01-09T17:17:06.315Z
+updated: 2025-01-15T01:09:39.338Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.2 Beta
@@ -57,7 +57,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 _Have questions about the latest 3.15.2 version of our DEX 3 **DJ software** or **Beatport LINK** and **Beatsource LINK**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,18 +79,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/10/introscreen.jpg?fit=1920%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mastering-the-art-of-speech-to-text-with-google-ai/"><u>[New] 2024 Approved Mastering the Art of Speech-to-Text with Google AI</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-trendsetting-hashes-optimizing-hashtags-to-amplify-short-video-impact/"><u>[Updated] 2024 Approved Trendsetting Hashes Optimizing Hashtags to Amplify Short Video Impact</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-shadows-to-highlights-the-ultimate-lightroom-hdr-guide/"><u>[Updated] From Shadows to Highlights The Ultimate Lightroom HDR Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-swift-rescaling-perfect-mac-pixels-with-youtube-for-2024/"><u>[Updated] Swift Rescaling Perfect Mac Pixels with YouTube for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/a-milestone-moment-honoring-25-years-of-groundbreaking-dj-and-karaoke-tech-with-a-special-thanks-to-the-dedicated-community-pcdj/"><u>A Milestone Moment: Honoring 25 Years of Groundbreaking DJ & Karaoke Tech with a Special Thanks to the Dedicated Community – PCDJ</u></a></li>
-<li><a href="https://fox-making.techidaily.com/effective-strategies-for-fixing-non-responsive-windows-applications-expert-tips-from-yl-computing/"><u>Effective Strategies for Fixing Non-Responsive Windows Applications: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/historical-maritime-vessels-high-quality-backgrounds-and-desktop-walls-from-yl-computings-expert-graphics/"><u>Historical Maritime Vessels: High-Quality Backgrounds & Desktop Walls From YL Computing's Expert Graphics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-much-would-you-pay-for-advanced-apple-knowledge-the-potential-of-a-monthly-fee-cap-at-20-according-to-experts-on-zdnet/"><u>How Much Would You Pay for Advanced Apple Knowledge? The Potential of a Monthly Fee Cap at $20 According to Experts on ZDNet</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-se-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone SE Apple ID on MacBook</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/learn-the-tricks-of-the-trade-for-flipping-films-in-vlc-for-2024/"><u>Learn the Tricks of the Trade for Flipping Films in VLC for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/resolving-visual-glitches-on-your-monitor-post-graphics-driver-update-expert-tips-from-yl-software/"><u>Resolving Visual Glitches on Your Monitor Post-Graphics Driver Update: Expert Tips From YL Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-high-quality-photography-lenses-for-2024/"><u>Top 10 High-Quality Photography Lenses for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/unveiling-the-secrets-of-windows-a-step-by-step-tutorial-for-revealing-hidden-directories-by-yl-technology/"><u>Unveiling the Secrets of Windows: A Step-by-Step Tutorial for Revealing Hidden Directories by YL Technology</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-monetization-sourav-joshi-income-on-youtube-2024/"><u>[New] YouTube Monetization Sourav Joshi Income on YouTube 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-elevate-your-video-remove-extraneous-details-effectively/"><u>[Updated] 2024 Approved Elevate Your Video - Remove Extraneous Details Effectively</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/boost-pc-speed-with-driver-optimization-techniques-expert-advice-by-yl-software/"><u>Boost PC Speed with Driver Optimization Techniques - Expert Advice by YL Software</u></a></li>
+<li><a href="https://fox-making.techidaily.com/boost-your-pcs-performance-top-techniques-to-clear-up-windows-memory-and-enhance-speed-tips-from-yl-computing/"><u>Boost Your PC's Performance: Top Techniques to Clear Up Windows Memory and Enhance Speed - Tips From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-unnecessary-virus-error-in-chrome-browser/"><u>Bypassing Unnecessary Virus Error in Chrome Browser</u></a></li>
+<li><a href="https://fox-making.techidaily.com/efficient-image-handling-techniques-on-windows-platforms-insights-from-yl-computings-expertise/"><u>Efficient Image Handling Techniques on Windows Platforms - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://fox-making.techidaily.com/essential-cybersecurity-strategies-top-tips-from-yl-computing-experts/"><u>Essential Cybersecurity Strategies: Top Tips From YL Computing Experts</u></a></li>
+<li><a href="https://fox-making.techidaily.com/explore-the-enthralling-realm-of-the-amazing-world-of-gumball-with-vibrant-wallpapers-from-yl-software/"><u>Explore the Enthralling Realm of 'The Amazing World of Gumball' With Vibrant Wallpapers From YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-gpt-breaks-necessity-and-risks/"><u>Exploring GPT Breaks: Necessity and Risks</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-12-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 12 Data Completely | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/high-quality-jaguar-e-type-desktop-imagery-powered-by-yl-software-for-yl-computing-systems/"><u>High-Quality Jaguar E-Type Desktop Imagery - Powered by YL Software for YL Computing Systems</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-fix-continuous-gpu-driver-issues-tips-and-solutions-by-yl-software-experts/"><u>How to Fix Continuous GPU Driver Issues: Tips and Solutions by YL Software Experts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-pitch-perfect-how-to-add-songs-to-your-snapchat-content/"><u>In 2024, Pitch Perfect How to Add Songs to Your Snapchat Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-top-5-podcast-apps-for-listening-to-podcasts-on-an-iphone/"><u>In 2024, Top 5 Podcast Apps for Listening to Podcasts on an iPhone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-directx-compatibility-issues-in-your-fifa-19-experience/"><u>Overcoming DirectX Compatibility Issues in Your FIFA 19 Experience</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unveiling-the-newest-pioneer-ddj-sr-controller-beta-map-version-now-available-for-dex-3-users-to-optimize-djing-experience/"><u>Unveiling the Newest Pioneer DDJ-SR Controller Beta Map Version, Now Available for DEX 3 Users to Optimize DJing Experience</u></a></li>
 </ul></div>
 

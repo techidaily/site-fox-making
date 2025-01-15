@@ -1,7 +1,7 @@
 ---
 title: PCDJ Essentials - Learn to Auto-Cue & Efficiently Set In/Out for Seamless Transitions!
-date: 2025-01-07T22:55:33.340Z
-updated: 2025-01-08T20:46:28.385Z
+date: 2025-01-09T00:28:22.012Z
+updated: 2025-01-14T19:59:07.400Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ The video tutorial below will walk you through how **autocue** works, and how yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT IS AUTOCUE?
@@ -35,13 +35,13 @@ This means when you load a track to one of the four available decks in DEX 3 and
 The wonderful thing about the revamped **autocue feature** is that the autocue points will be used as mix points for automix.   **Trim the long intro or outtro** using the new autocue mix points for more **seamless transitions** between tracks when using automix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,21 +63,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/autocuemixinout-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-bridging-moments-a-kinemaster-guide-to-transitions/"><u>[New] Bridging Moments A Kinemaster Guide to Transitions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-compilation-best-gopro-cases-for-action-seekers/"><u>[New] Ultimate Compilation Best GoPro Cases for Action Seekers</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-essential-safety-strategies-for-secure-cryptocurrency-transactions-insights-from-yl-computing/"><u>1. Essential Safety Strategies for Secure Cryptocurrency Transactions: Insights From YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-windows-11-volume-mixer-shortcut/"><u>Accessing Windows 11 Volume Mixer Shortcut</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/digital-illusions-crafting-new-image-perspectives/"><u>Digital Illusions Crafting New Image Perspectives</u></a></li>
-<li><a href="https://fox-making.techidaily.com/expert-guide-planning-your-windows-defender-security-checkups-with-yl-software-solutions/"><u>Expert Guide: Planning Your Windows Defender Security Checkups with YL Software Solutions</u></a></li>
-<li><a href="https://fox-making.techidaily.com/is-your-graphics-hardware-matched-to-your-system-learn-compatibility-checks-with-yl-software-guide/"><u>Is Your Graphics Hardware Matched to Your System? Learn Compatibility Checks with YL Software Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/les-jours-du-dimanche-francais/"><u>Les Jours Du Dimanche Français</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-fixes-get-your-paramountplus-up-and-running-on-firestick-again/"><u>Step-by-Step Fixes: Get Your Paramount+ Up and Running on Firestick Again</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-s24-ultra-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy S24 Ultra? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://fox-making.techidaily.com/the-mastermind-of-ancient-chinese-transportation-systems-unveiled-by-yl-software-roads-and-canals-redefined/"><u>The Mastermind of Ancient Chinese Transportation Systems Unveiled by YL Software: Roads and Canals Redefined</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-and-fixing-no-network-found-errors-in-your-system-with-expert-tips-from-yl-tech-support/"><u>Understanding and Fixing 'No Network Found' Errors in Your System with Expert Tips From YL Tech Support</u></a></li>
-<li><a href="https://fox-making.techidaily.com/unlocking-full-potential-troubleshooting-restricted-scanner-settings-with-yl-software/"><u>Unlocking Full Potential: Troubleshooting Restricted Scanner Settings with YL Software</u></a></li>
-<li><a href="https://fox-making.techidaily.com/unveiling-the-impact-of-chinas-great-leap-forward-on-its-economic-growth-expert-insights-by-yl-computing/"><u>Unveiling the Impact of China's Great Leap Forward on Its Economic Growth - Expert Insights by YL Computing</u></a></li>
-<li><a href="https://facebook.techidaily.com/whatsapp-sues-over-alleged-breach-in-new-it-laws/"><u>WhatsApp Sues Over Alleged Breach in New IT Laws</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-spotlight-top-10-tiktok-gaming-pros/"><u>[New] 2024 Approved Spotlight Top 10 TikTok Gaming Pros</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-best-matched-sd-cards-to-boost-your-gopro-heros-performance/"><u>[Updated] In 2024, Best Matched SD Cards to Boost Your GoPro HERO's Performance</u></a></li>
+<li><a href="https://fox-making.techidaily.com/boost-your-pcs-performance-top-techniques-to-clear-up-windows-memory-and-enhance-speed-tips-from-yl-computing/"><u>Boost Your PC's Performance: Top Techniques to Clear Up Windows Memory and Enhance Speed - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/efficient-image-handling-techniques-on-windows-platforms-insights-from-yl-computings-expertise/"><u>Efficient Image Handling Techniques on Windows Platforms - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://fox-making.techidaily.com/expert-recommendations-on-premier-system-management-programs-discover-with-yl-software/"><u>Expert Recommendations on Premier System Management Programs - Discover with YL Software</u></a></li>
+<li><a href="https://fox-making.techidaily.com/high-quality-jaguar-e-type-desktop-imagery-powered-by-yl-software-for-yl-computing-systems/"><u>High-Quality Jaguar E-Type Desktop Imagery - Powered by YL Software for YL Computing Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-masterclass-in-logo-making-best-of-9-free-software-for-youtubers/"><u>In 2024, Masterclass in Logo-Making Best of 9 Free Software for YouTubers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-photo-mystery-why-your-gallery-wont-free-up-and-what-you-can-do-about-it/"><u>IPhone Photo Mystery: Why Your Gallery Won't Free Up, and What You Can Do About It</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/optimiser-le-stockage-ssd-de-votre-galaxy-book-2-options-a-1-ou-2-blocs/"><u>Optimiser Le Stockage SSD De Votre Galaxy Book 2: Options À 1 Ou 2 Blocs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secrets-to-mastering-canva-10-insider-tips-for-editors/"><u>Secrets to Mastering Canva 10 Insider Tips for Editors</u></a></li>
+<li><a href="https://fox-making.techidaily.com/solving-graphics-card-issues-on-your-pc-diagnosing-system-not-responding-errors-with-yl-software-insights/"><u>Solving Graphics Card Issues on Your PC: Diagnosing 'System Not Responding' Errors with YL Software Insights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/streamlining-communication-scheduling-monthly-meets-for-2024/"><u>Streamlining Communication Scheduling Monthly Meets for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unraveling-the-influence-of-chinas-great-leap-forward-on-traditional-culture-insights-by-yl-technologies/"><u>Unraveling the Influence of China's Great Leap Forward on Traditional Culture - Insights by YL Technologies</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unveiling-the-newest-pioneer-ddj-sr-controller-beta-map-version-now-available-for-dex-3-users-to-optimize-djing-experience/"><u>Unveiling the Newest Pioneer DDJ-SR Controller Beta Map Version, Now Available for DEX 3 Users to Optimize DJing Experience</u></a></li>
 </ul></div>
 
