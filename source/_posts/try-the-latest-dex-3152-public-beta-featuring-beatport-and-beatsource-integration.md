@@ -1,7 +1,7 @@
 ---
 title: Try the Latest DEX 3.15.2 Public Beta - Featuring Beatport & Beatsource Integration
-date: 2025-01-09T17:17:06.315Z
-updated: 2025-01-15T01:09:39.338Z
+date: 2025-01-18T22:33:39.433Z
+updated: 2025-01-21T03:04:20.563Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.2 Beta
@@ -57,7 +57,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 _Have questions about the latest 3.15.2 version of our DEX 3 **DJ software** or **Beatport LINK** and **Beatsource LINK**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,22 +79,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/10/introscreen.jpg?fit=1920%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-monetization-sourav-joshi-income-on-youtube-2024/"><u>[New] YouTube Monetization Sourav Joshi Income on YouTube 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-elevate-your-video-remove-extraneous-details-effectively/"><u>[Updated] 2024 Approved Elevate Your Video - Remove Extraneous Details Effectively</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/boost-pc-speed-with-driver-optimization-techniques-expert-advice-by-yl-software/"><u>Boost PC Speed with Driver Optimization Techniques - Expert Advice by YL Software</u></a></li>
-<li><a href="https://fox-making.techidaily.com/boost-your-pcs-performance-top-techniques-to-clear-up-windows-memory-and-enhance-speed-tips-from-yl-computing/"><u>Boost Your PC's Performance: Top Techniques to Clear Up Windows Memory and Enhance Speed - Tips From YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-unnecessary-virus-error-in-chrome-browser/"><u>Bypassing Unnecessary Virus Error in Chrome Browser</u></a></li>
-<li><a href="https://fox-making.techidaily.com/efficient-image-handling-techniques-on-windows-platforms-insights-from-yl-computings-expertise/"><u>Efficient Image Handling Techniques on Windows Platforms - Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://fox-making.techidaily.com/essential-cybersecurity-strategies-top-tips-from-yl-computing-experts/"><u>Essential Cybersecurity Strategies: Top Tips From YL Computing Experts</u></a></li>
-<li><a href="https://fox-making.techidaily.com/explore-the-enthralling-realm-of-the-amazing-world-of-gumball-with-vibrant-wallpapers-from-yl-software/"><u>Explore the Enthralling Realm of 'The Amazing World of Gumball' With Vibrant Wallpapers From YL Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-gpt-breaks-necessity-and-risks/"><u>Exploring GPT Breaks: Necessity and Risks</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-12-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 12 Data Completely | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/high-quality-jaguar-e-type-desktop-imagery-powered-by-yl-software-for-yl-computing-systems/"><u>High-Quality Jaguar E-Type Desktop Imagery - Powered by YL Software for YL Computing Systems</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-fix-continuous-gpu-driver-issues-tips-and-solutions-by-yl-software-experts/"><u>How to Fix Continuous GPU Driver Issues: Tips and Solutions by YL Software Experts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-pitch-perfect-how-to-add-songs-to-your-snapchat-content/"><u>In 2024, Pitch Perfect How to Add Songs to Your Snapchat Content</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-top-5-podcast-apps-for-listening-to-podcasts-on-an-iphone/"><u>In 2024, Top 5 Podcast Apps for Listening to Podcasts on an iPhone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-directx-compatibility-issues-in-your-fifa-19-experience/"><u>Overcoming DirectX Compatibility Issues in Your FIFA 19 Experience</u></a></li>
-<li><a href="https://fox-making.techidaily.com/unveiling-the-newest-pioneer-ddj-sr-controller-beta-map-version-now-available-for-dex-3-users-to-optimize-djing-experience/"><u>Unveiling the Newest Pioneer DDJ-SR Controller Beta Map Version, Now Available for DEX 3 Users to Optimize DJing Experience</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-ultimate-10-volume-upgrade-tools-for-pc-ios-and-android/"><u>[New] In 2024, Ultimate 10 Volume Upgrade Tools for PC, iOS & Android</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-6-best-linkedin-video-downloaders-to-save-videos-from-linkedin/"><u>2024 Approved 6 Best Linkedin Video Downloaders to Save Videos From LinkedIn</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-real-time-viewership-counter-systems/"><u>2024 Approved Real-Time Viewership Counter Systems</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easy-steps-for-playback-with-windows-media-player-expert-advice-by-yl-software-on-video-clips/"><u>Easy Steps for Playback with Windows Media Player: Expert Advice by YL Software on Video Clips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-of-erratic-backlight-intervals-fix-achieved/"><u>End of Erratic Backlight Intervals: Fix Achieved</u></a></li>
+<li><a href="https://fox-making.techidaily.com/establishing-routine-it-upkeep-a-guide-by-yl-computing-with-yl-software-solutions/"><u>Establishing Routine IT Upkeep: A Guide by YL Computing with YL Software Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-dell-g7-driver-updates-quick-and-simple-methods/"><u>Hassle-Free Dell G7 Driver Updates: Quick and Simple Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audiovid-producers-digital-space/"><u>In 2024, AudioVid Producers' Digital Space</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-8-best-authentic-youtube-growth-tactics/"><u>In 2024, The 8 Best Authentic Youtube Growth Tactics</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/instantaneous-pro-thumbnail-creation-valorant-edition/"><u>Instantaneous Pro Thumbnail Creation - Valorant Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-frozen-frames-eliminate-firefox-stalling-issues-with-our-expert-tips/"><u>No More Frozen Frames: Eliminate Firefox Stalling Issues with Our Expert Tips</u></a></li>
+<li><a href="https://fox-making.techidaily.com/stunning-paula-garces-wallpaper-collections-and-graphic-designs-high-quality-digital-artwork-by-yl-computing/"><u>Stunning Paula Garcés Wallpaper Collections & Graphic Designs - High-Quality Digital Artwork by YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/the-luminous-future-of-filipino-innovation-how-yl-computing-is-revolutionizing-with-bsv-technology/"><u>The Luminous Future of Filipino Innovation: How YL Computing Is Revolutionizing with BSV Technology</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-lg-printer-driver-issues-in-various-windows-os/"><u>Troubleshooting and Fixing LG Printer Driver Issues in Various Windows OS</u></a></li>
+<li><a href="https://fox-making.techidaily.com/troubleshooting-guide-how-to-fix-unrecognized-printer-issues-on-your-pc-expert-tips-by-yl-computing/"><u>Troubleshooting Guide: How to Fix Unrecognized Printer Issues on Your PC - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/troubleshooting-tips-how-to-fix-when-your-scanner-ignores-the-pc-innovative-solutions-by-yl-software/"><u>Troubleshooting Tips: How to Fix When Your Scanner Ignores the PC - Innovative Solutions by YL Software</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-the-regulatory-landscape-of-crypto-trading-and-investment-opportunities-with-yl-software-insights/"><u>Understanding the Regulatory Landscape of Crypto Trading and Investment Opportunities with YL Software Insights</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unraveling-the-mystery-why-does-my-computer-show-a-bsod-insights-from-yl-computing/"><u>Unraveling the Mystery: Why Does My Computer Show a BSOD? - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/yl-software-guide-managing-your-update-preferences-efficiently/"><u>YL Software Guide: Managing Your Update Preferences Efficiently</u></a></li>
 </ul></div>
 

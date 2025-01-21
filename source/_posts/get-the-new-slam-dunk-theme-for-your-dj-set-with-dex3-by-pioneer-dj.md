@@ -1,7 +1,7 @@
 ---
 title: Get the New Slam Dunk Theme for Your DJ Set with DEX3 by Pioneer DJ
-date: 2025-01-10T23:46:23.434Z
-updated: 2025-01-14T22:03:58.728Z
+date: 2025-01-14T18:41:07.630Z
+updated: 2025-01-20T22:31:31.358Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ The new DEX 3 ‘Slam Dunks’ Skin features everything found on the new RED Mob
 _Unzip all contents to Documents (Docs on Mac) -> PCDJ-DEX3 -> Skins. Access and select the ‘slam dunks (2 deck)’ skin in DEX 3’s options under the ‘select user interface’ drop down menu to apply._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,22 +52,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/12/slamdunksskin-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-ensuring-precision-the-art-of-skype-call-documentation/"><u>[New] In 2024, Ensuring Precision The Art of Skype Call Documentation</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-the-mystique-of-moonlit-portraits/"><u>[New] In 2024, Mastering the Mystique of Moonlit Portraits</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-types-of-facebook-video-aspect-ratios-and-how-to-adjust-it-for-2024/"><u>[Updated] Types of Facebook Video Aspect Ratios & How to Adjust It for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-vivid-imagery-understanding-the-power-of-srgb-for-2024/"><u>[Updated] Vivid Imagery Understanding the Power of Srgb for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-commanders-canvas-painting-victory-in-the-top-7-total-wars/"><u>2024 Approved Commanders' Canvas Painting Victory in the Top 7 Total Wars</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/affordable-electric-vehicles-the-end-of-americas-lowest-priced-option/"><u>Affordable Electric Vehicles: The End of America's Lowest-Priced Option</u></a></li>
-<li><a href="https://fox-making.techidaily.com/best-no-cost-video-format-changers-on-the-go-your-guide-for-android-devices/"><u>Best No-Cost Video Format Changers on the Go: Your Guide for Android Devices</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-guide-on-business-license-registration-insights-and-processes/"><u>Comprehensive Guide on Business License Registration: Insights & Processes</u></a></li>
-<li><a href="https://fox-making.techidaily.com/heic-to-pdf-transformation-made-easy-top-free-online-editors-and-guides/"><u>HEIC to PDF Transformation Made Easy - Top Free Online Editors & Guides</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-choice-collection-high-quality-virtual-reality-titles-for-cardboard/"><u>In 2024, Choice Collection High-Quality Virtual Reality Titles for Cardboard</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-guide-mastering-the-gameplay-of-diablo-immortal-on-a-mac-device/"><u>Step-by-Step Guide: Mastering the Gameplay of Diablo Immortal on a Mac Device</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-rated-watermarking-application-for-ios-devices/"><u>Top Rated Watermarking Application for iOS Devices</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-ranking-video-format-changers-transform-clips-effortlessly-and-gratis/"><u>Top-Ranking Video Format Changers: Transform Clips Effortlessly & Gratis</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-the-file-properties-window-a-comprehensive-guide/"><u>Understanding the File Properties Window: A Comprehensive Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/upgrading-your-tiktok-presence-mastering-number-adjustments/"><u>Upgrading Your TikTok Presence Mastering Number Adjustments</u></a></li>
-<li><a href="https://fox-making.techidaily.com/user-guide-navigating-through-effective-file-elimination-conversations/"><u>User Guide: Navigating Through Effective File Elimination Conversations</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/your-treasure-trove-of-free-marketing-50plus-youtube-ads-ready-to-go-for-2024/"><u>Your Treasure Trove of Free Marketing 50+ YouTube Ads Ready to Go for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-free-yourself-from-paywalls-with-these-subtitle-getters-for-2024/"><u>[Updated] Free Yourself From Paywalls with These Subtitle Getters for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-everlasting-impressions-save-instagram-stories-endlessly/"><u>[Updated] In 2024, Everlasting Impressions Save Instagram Stories Endlessly</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-billboard-advertising-mastering-the-art-of-outdoor-communication/"><u>Effective Billboard Advertising: Mastering the Art of Outdoor Communication</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-driver-upgrades-on-your-windows-pc-instantly-now/"><u>Hassle-Free Driver Upgrades on Your Windows PC, Instantly Now!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-open-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus Open by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/in-depth-details-on-items-product-info-section/"><u>In-Depth Details on Items - Product Info Section</u></a></li>
+<li><a href="https://windows11.techidaily.com/jump-over-compatibility-obstacles-with-these-simple-fixes/"><u>Jump Over Compatibility Obstacles with These Simple Fixes.</u></a></li>
+<li><a href="https://fox-making.techidaily.com/secure-file-transfer-protocol-login-how-to-obtain-ftp-credentials/"><u>Secure File Transfer Protocol Login: How to Obtain FTP Credentials</u></a></li>
+<li><a href="https://fox-making.techidaily.com/solving-issue-panes-in-project-management-a-comprehensive-guide/"><u>Solving 'Issue Panes' In Project Management: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-self-starting-issues-on-windows-10-computers-a-comprehensive-guide/"><u>Solving Self-Starting Issues on Windows 10 Computers - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-screen-effortless-guide-on-syncing-your-iphone-with-a-haier-television/"><u>Step-by-Screen: Effortless Guide on Syncing Your iPhone with a Haier Television</u></a></li>
+<li><a href="https://fox-making.techidaily.com/structured-packaging-blueprint-cluster-guide/"><u>Structured Packaging Blueprint Cluster Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-choosing-a-mesh-router-how-netgeer-orbi-takes-the-lead-in-quality-and-connectivity/"><u>The Ultimate Guide to Choosing a Mesh Router: How Netgeer Orbi Takes the Lead in Quality and Connectivity</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "New DEX Version 3.5 Launch: Join Our Community of Beta Tester Volunteers!"
-date: 2025-01-12T19:33:01.792Z
-updated: 2025-01-14T17:15:34.559Z
+date: 2025-01-15T18:19:26.109Z
+updated: 2025-01-20T22:37:26.135Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ If you meet the BETA Tester requirements below please fill out the form at the b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.5 Beta Team Requirements
@@ -69,7 +69,7 @@ Multichannel Core Audio soundcard
 If you meet these requirements please submit the form below. A PCDJ production team member will get back to you. (**NOTE:** _Not all testers will be accepted as we have limited space on the BETA testing team_)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,18 +91,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/dex35betatest-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-vdy-pro-recorder-summary-detailed-analysis/"><u>[New] 2024 Approved VDY Pro Recorder Summary Detailed Analysis</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-a-comprehensive-guide-to-modern-versatile-game-recording-software-for-2024/"><u>[New] A Comprehensive Guide to Modern, Versatile Game Recording Software for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-5-best-hdmi-21-gaming-monitors-ps5-compatible/"><u>[New] In 2024, Top 5 Best HDMI 2.1 Gaming Monitors [PS5 Compatible]</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premier-pro-ultimate-2023-template-collection-free/"><u>[New] Premier Pro Ultimate 2023 Template Collection (FREE)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-infinite-frontier-the-best-sci-fi-films-that-redefine-universes/"><u>[Updated] Infinite Frontier The Best Sci-Fi Films That Redefine Universes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sprint-showcase-short-track-22-glory/"><u>[Updated] Sprint Showcase Short Track '22 Glory</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-se-2020-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-safely-upgrade-your-existing-cpu-tips-from-yl-computing/"><u>How to Safely Upgrade Your Existing CPU - Tips From YL Computing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-2023s-premier-action-cameras-on-motorcycle-gear-guide/"><u>In 2024, 2023'S Premier Action Cameras on Motorcycle Gear Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-capturing-action-in-hd-with-ultimate-sj-cam-s6-review/"><u>In 2024, Capturing Action in HD with Ultimate SJ-CAM S6 Review</u></a></li>
-<li><a href="https://fox-making.techidaily.com/tracking-the-net-worth-of-various-bsv-wallets-in-bulk-a-guide-by-yl-computing/"><u>Tracking the Net Worth of Various BSV Wallets in Bulk: A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/unclutter-your-computer-a-guide-to-removing-unused-apps-and-files-tips-from-yl-computing/"><u>Unclutter Your Computer: A Guide to Removing Unused Apps & Files - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/zip-file-creation-tutorial-by-yl-software-experts/"><u>Zip File Creation Tutorial by YL Software Experts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mirthful-content-extraction-report-for-2024/"><u>[New] Mirthful Content Extraction Report for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-prodigys-pathway-expert-techniques-for-iphone-podcast-downloads/"><u>[New] The Prodigy's Pathway Expert Techniques for iPhone Podcast Downloads</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/comparing-costs-how-our-professional-wedding-dj-services-measure-up-to-nationwide-rates/"><u>Comparing Costs: How Our Professional Wedding DJ Services Measure Up to Nationwide Rates</u></a></li>
+<li><a href="https://fox-making.techidaily.com/customizing-system-configurations-mastering-the-taskbar-and-notifications-with-yl-softwares-expert-advice/"><u>Customizing System Configurations: Mastering the Taskbar and Notifications with YL Software's Expert Advice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-project-your-windows-computer-display-onto-a-television-via-chromecast/"><u>Easy Steps to Project Your Windows Computer Display Onto a Television via Chromecast</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ng-clarity-on-your-youtube-audiences-behavior/"><u>Gaining Clarity on Your YouTube Audience's Behavior</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-honor-magic5-ultimate-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Honor Magic5 Ultimate Phone Now with These Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/intel-raid-software-updates-and-downloads-ensure-compatibility-with-windows-11-10-8-ve-7/"><u>Intel RAID Software Updates & Downloads - Ensure Compatibility with Windows 11, 10, 8, Ve 7</u></a></li>
+<li><a href="https://fox-making.techidaily.com/solving-the-mystery-behind-persistent-gpu-issues-tips-to-stop-graphic-card-malfunctions-yl-software-advice/"><u>Solving the Mystery Behind Persistent GPU Issues: Tips to Stop Graphic Card Malfunctions - YL Software Advice</u></a></li>
+<li><a href="https://fox-making.techidaily.com/the-mastermind-of-ancient-chinese-transportation-systems-unveiled-by-yl-software-roads-and-canals-redefined/"><u>The Mastermind of Ancient Chinese Transportation Systems Unveiled by YL Software: Roads and Canals Redefined</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-the-tax-obligations-and-costs-in-crypto-trading-insights-from-yl-computing/"><u>Understanding the Tax Obligations and Costs in Crypto Trading: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unveiling-the-impact-of-chinas-great-leap-forward-on-its-economic-growth-expert-insights-by-yl-computing/"><u>Unveiling the Impact of China's Great Leap Forward on Its Economic Growth - Expert Insights by YL Computing</u></a></li>
 </ul></div>
 
