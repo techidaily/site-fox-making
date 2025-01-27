@@ -1,7 +1,7 @@
 ---
 title: "Uncover the Solution: Restoring Server 201 # User"
-date: 2025-01-10T16:42:28.156Z
-updated: 2025-01-14T18:08:43.314Z
+date: 2025-01-26T02:08:53.381Z
+updated: 2025-01-27T05:03:00.258Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0c878b30db98d758dc708e36a3a1a79c906ed9e88e0726b5c47115417927372d.jpg
@@ -29,7 +29,7 @@ Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14
 Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Inhaltsverzeichnis** 
@@ -41,10 +41,6 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 5. [Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?](https://tools.techidaily.com/ubackup/products/)
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Ist es sicher, den Papierkorb zu löschen?
 
@@ -75,19 +71,23 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
@@ -126,13 +126,13 @@ Sicherer Download
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -160,10 +160,6 @@ Sicherer Download
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
@@ -204,12 +200,16 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Folgende Artikel könnten Sie auch interessieren
 
@@ -235,10 +235,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -248,10 +244,14 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -268,15 +268,22 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-recording-skills-for-every-lenovo-user/"><u>[New] 2024 Approved Essential Recording Skills for Every Lenovo User</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-efficient-timelapse-recording-via-ipad-for-2024/"><u>[New] Efficient Timelapse Recording via iPad for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-a-world-of-movies-captions-in-windows-media-player/"><u>[New] Unlock a World of Movies Captions in Windows Media Player</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-demystifying-the-world-of-youtube-shorts/"><u>[Updated] 2024 Approved Demystifying the World of YouTube Shorts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-excellence-in-meeting-capture-the-best-streaming-gadgets-ranked/"><u>[Updated] 2024 Approved Excellence in Meeting Capture The Best Streaming Gadgets Ranked</u></a></li>
-<li><a href="https://fox-making.techidaily.com/backing-up-your-windows-pc-control-panel-configurations-a-step-by-step-guide-tips-from-yl-computing/"><u>Backing Up Your Windows PC Control Panel Configurations: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-content-migration-for-ios-devices-using-macx-mediatrans-seamlessly-move-multimedia-between-iphone-and-ipad-in-a-single-click/"><u>Effortless Content Migration for iOS Devices Using MacX MediaTrans - Seamlessly Move Multimedia Between iPhone and iPad in a Single Click</u></a></li>
-<li><a href="https://fox-making.techidaily.com/hd-abstract-graphics-stunning-desktop-walls-and-backgrounds-by-yl-computing/"><u>HD Abstract Graphics: Stunning Desktop Walls & Backgrounds by YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/troubleshooting-a-non-functional-usb-port-insights-from-yl-computing/"><u>Troubleshooting a Non-Functional USB Port: Insights From YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/yl-computing-presents-haunted-high-definition-wallpaper-collections-for-kickin-your-scream-factor-up-powered-by-yl-software/"><u>YL Computing Presents Haunted High-Definition Wallpaper Collections for Kickin' Your Scream Factor Up – Powered by YL Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-boost-your-bank-account-quickly-with-these-13-ways-to-profit-on-reddit/"><u>[New] Boost Your Bank Account Quickly With These 13 Ways to Profit on Reddit</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bridging-the-gap-enhancing-skype-with-zooms-features/"><u>[New] Bridging the Gap Enhancing Skype with Zoom's Features</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-discover-effortless-paths-to-exceptional-image-quality/"><u>[New] In 2024, Discover Effortless Paths to Exceptional Image Quality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-guide-to-dynamic-youtube-openers-in-imovie/"><u>[New] In 2024, The Ultimate Guide to Dynamic YouTube Openers in iMovie</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-samsung-screen-captures-of-your-gaming-spree/"><u>[Updated] Samsung Screen Captures of Your Gaming Spree</u></a></li>
+<li><a href="https://techidaily.com/automatisierungstrategien-94-der-deutschen-firmen-erzielen-laut-abbey-studie-positive-ergebnisse/"><u>Automatisierungstrategien: 94% Der Deutschen Firmen Erzielen Laut ABBEY-Studie Positive Ergebnisse</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-improved-apple-vision-pro-showroom-experience-and-secure-your-demo-today-tips-and-tricks-from-zdnet/"><u>Discover the Improved Apple Vision Pro Showroom Experience & Secure Your Demo Today - Tips & Tricks From ZDNet</u></a></li>
+<li><a href="https://fox-making.techidaily.com/download-high-quality-songs-from-youtube-as-mp3s-including-album-artwork/"><u>Download High-Quality Songs From YouTube as MP3s Including Album Artwork</u></a></li>
+<li><a href="https://fox-making.techidaily.com/download-your-favorite-spreadtub-clips-in-high-quality-mp4-format-using-the-ultimate-video-downloader/"><u>Download Your Favorite SPREADTUB Clips in High-Quality MP4 Format Using the Ultimate Video Downloader!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easy-guide-to-downloading-and-converting-dj-tracks-from-beatport-as-mp3s-wav-files-or-flac-on-windowsmac-systems/"><u>Easy Guide to Downloading & Converting DJ Tracks From Beatport as MP3s, WAV Files or FLAC on Windows/Mac Systems</u></a></li>
+<li><a href="https://fox-making.techidaily.com/find-the-ideal-replacement-for-mactubes-across-macos-and-windows-operating-systems-discover-what-allavsoft-offers/"><u>Find the Ideal Replacement for MacTubes Across macOS & Windows Operating Systems: Discover What AllavSoft Offers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gif-magic-transformations-without-extra-files-downloaded/"><u>GIF Magic Transformations Without Extra Files Downloaded</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-easily-download-4tube-media-as-mp4-avi-or-mov-files/"><u>How To Easily Download 4Tube Media as MP4, AVI or MOV Files</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-save-your-favorite-shows-from-uktv-play-as-high-quality-mp4avi-files/"><u>How to Save Your Favorite Shows From UKTV Play as High-Quality MP4/AVI Files</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-lava-yuva-2-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Lava Yuva 2 Device SIM</u></a></li>
+<li><a href="https://fox-making.techidaily.com/reliable-f4v-downloader-with-mp4-conversion-feature-for-mac-and-windows/"><u>Reliable F4V Downloader with MP4 Conversion Feature for Mac and Windows</u></a></li>
+<li><a href="https://fox-making.techidaily.com/save-brooks-trading-lessons-as-various-video-files-get-mp4-mov-avi-options-now/"><u>Save Brooks Trading Lessons as Various Video Files - Get MP4, MOV, AVI Options Now</u></a></li>
 </ul></div>
 

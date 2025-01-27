@@ -1,7 +1,7 @@
 ---
 title: PCDJ Essentials - Learn to Auto-Cue & Efficiently Set In/Out for Seamless Transitions!
-date: 2025-01-13T20:48:13.532Z
-updated: 2025-01-20T17:32:52.443Z
+date: 2025-01-24T18:30:18.698Z
+updated: 2025-01-26T23:44:16.054Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ The video tutorial below will walk you through how **autocue** works, and how yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT IS AUTOCUE?
@@ -35,13 +35,13 @@ This means when you load a track to one of the four available decks in DEX 3 and
 The wonderful thing about the revamped **autocue feature** is that the autocue points will be used as mix points for automix.   **Trim the long intro or outtro** using the new autocue mix points for more **seamless transitions** between tracks when using automix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,16 +63,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/autocuemixinout-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-complete-guide-to-ios-snapshots-and-more/"><u>[New] 2024 Approved Complete Guide to iOS Snapshots and More</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-tips-for-clearer-audio-in-home-based-podcasts/"><u>[New] Tips for Clearer Audio in Home-Based Podcasts</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-rtl81ee-bgn-wi-fi-driver-for-your-pc-running-on-windows-os/"><u>Get the Latest RTL81eE B/G/N Wi-Fi Driver for Your PC Running on Windows OS</u></a></li>
-<li><a href="https://fox-making.techidaily.com/graphics-card-recognition-issues-diagnosis-and-fixes-provided-by-yl-software-professionals/"><u>Graphics Card Recognition Issues: Diagnosis and Fixes Provided by YL Software Professionals</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/personalizing-mouse-configuration-tips-from-windows-control-panel-yl-computings-expert-insight/"><u>Personalizing Mouse Configuration: Tips From Windows Control Panel - YL Computing's Expert Insight</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977576355-swift-brother-printer-driver-setup-get-it-now/"><u>Swift Brother Printer Driver Setup - Get It Now!</u></a></li>
-<li><a href="https://fox-making.techidaily.com/troubleshooting-non-detected-external-storage-devices-with-tips-from-yl-computing-expertise/"><u>Troubleshooting Non-Detected External Storage Devices with Tips From YL Computing Expertise</u></a></li>
-<li><a href="https://fox-making.techidaily.com/unleash-your-inner-star-with-our-latest-karaoke-streaming-service-experience-the-joy-of-sing-along-nights/"><u>Unleash Your Inner Star with Our Latest Karaoke Streaming Service - Experience the Joy of Sing-Along Nights!</u></a></li>
-<li><a href="https://fox-making.techidaily.com/updating-device-drivers-on-windows-11-a-step-by-step-guide-yl-computing/"><u>Updating Device Drivers on Windows 11: A Step-by-Step Guide - YL Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/why-did-gms-initial-ev-venture-fall-short-an-in-depth-look/"><u>Why Did GM's Initial EV Venture Fall Short? An In-Depth Look</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/demystifying-instagrams-videography-cap-constraint-for-2024/"><u>Demystifying Instagram’s Videography Cap Constraint for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easy-conversion-tips-how-to-make-any-mkv-video-play-smoothly-on-an-ipadipad-2new-ipad/"><u>Easy Conversion Tips: How to Make Any MKV Video Play Smoothly on an iPad/iPad 2/New iPad</u></a></li>
+<li><a href="https://fox-making.techidaily.com/identifying-and-neutralizing-keyloggers-in-windows-environments-with-effective-detection-tools/"><u>Identifying and Neutralizing Keyloggers in Windows Environments with Effective Detection Tools</u></a></li>
+<li><a href="https://fox-making.techidaily.com/leading-itunes-data-recovery-software-for-windows-and-mac-operating-systems/"><u>Leading iTunes Data Recovery Software for Windows & Mac Operating Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-steam-display-fixes-on-microsoft-os/"><u>Mastering Steam Display Fixes on Microsoft OS</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-privacy-protection-101-how-to-blur-faces-in-photos-and-videos-with-these-10-free-tools/"><u>New 2024 Approved Privacy Protection 101 How to Blur Faces in Photos and Videos with These 10 Free Tools</u></a></li>
+<li><a href="https://fox-making.techidaily.com/optimize-your-database-searches-with-sql-command-line-tools/"><u>Optimize Your Database Searches with SQL Command Line Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/overcoming-obstacles-in-eco-friendly-innovation-a-guide-to-gaining-extra-resources/"><u>Overcoming Obstacles in Eco-Friendly Innovation: A Guide to Gaining Extra Resources</u></a></li>
+<li><a href="https://fox-making.techidaily.com/secure-your-device-with-zero-costs-try-malwarefox-the-ultimate-no-cost-malware-eliminator/"><u>Secure Your Device with Zero Costs: Try MalwareFox, the Ultimate No-Cost Malware Eliminator!</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocketing-yuzu-speeds-on-windows-devices/"><u>Skyrocketing Yuzu Speeds on Windows Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-future-is-here-with-teslas-driverless-taxi-unveiling-details-on-pricing-release-date-and-tech-specs/"><u>The Future Is Here with Tesla's Driverless Taxi - Unveiling Details on Pricing, Release Date & Tech Specs.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/5-virtual-classrooms-youtube-channels-pushing-scientific-boundaries-for-2024/"><u>Top 15 Virtual Classrooms YouTube Channels Pushing Scientific Boundaries for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-guide-incorporating-motion-typography-in-your-videos/"><u>Ultimate Guide: Incorporating Motion Typography in Your Videos</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-escape-sequences-in-xml-a-comprehensive-guide/"><u>Understanding Escape Sequences in XML: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-video-generator/"><u>Updated What Is an AI Video Generator?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/voice-assisted-decision-making-why-you-should-consider-google-assistant-over-alexa/"><u>Voice-Assisted Decision Making: Why You Should Consider Google Assistant Over Alexa</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "New DEX Version 3.5 Launch: Join Our Community of Beta Tester Volunteers!"
-date: 2025-01-15T18:19:26.109Z
-updated: 2025-01-20T22:37:26.135Z
+date: 2025-01-21T03:31:07.440Z
+updated: 2025-01-26T23:07:56.677Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ If you meet the BETA Tester requirements below please fill out the form at the b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.5 Beta Team Requirements
@@ -69,7 +69,7 @@ Multichannel Core Audio soundcard
 If you meet these requirements please submit the form below. A PCDJ production team member will get back to you. (**NOTE:** _Not all testers will be accepted as we have limited space on the BETA testing team_)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,18 +91,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/dex35betatest-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-mirthful-content-extraction-report-for-2024/"><u>[New] Mirthful Content Extraction Report for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-prodigys-pathway-expert-techniques-for-iphone-podcast-downloads/"><u>[New] The Prodigy's Pathway Expert Techniques for iPhone Podcast Downloads</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comparing-costs-how-our-professional-wedding-dj-services-measure-up-to-nationwide-rates/"><u>Comparing Costs: How Our Professional Wedding DJ Services Measure Up to Nationwide Rates</u></a></li>
-<li><a href="https://fox-making.techidaily.com/customizing-system-configurations-mastering-the-taskbar-and-notifications-with-yl-softwares-expert-advice/"><u>Customizing System Configurations: Mastering the Taskbar and Notifications with YL Software's Expert Advice</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-to-project-your-windows-computer-display-onto-a-television-via-chromecast/"><u>Easy Steps to Project Your Windows Computer Display Onto a Television via Chromecast</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ng-clarity-on-your-youtube-audiences-behavior/"><u>Gaining Clarity on Your YouTube Audience's Behavior</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-honor-magic5-ultimate-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Honor Magic5 Ultimate Phone Now with These Tips</u></a></li>
-<li><a href="https://win-dash.techidaily.com/intel-raid-software-updates-and-downloads-ensure-compatibility-with-windows-11-10-8-ve-7/"><u>Intel RAID Software Updates & Downloads - Ensure Compatibility with Windows 11, 10, 8, Ve 7</u></a></li>
-<li><a href="https://fox-making.techidaily.com/solving-the-mystery-behind-persistent-gpu-issues-tips-to-stop-graphic-card-malfunctions-yl-software-advice/"><u>Solving the Mystery Behind Persistent GPU Issues: Tips to Stop Graphic Card Malfunctions - YL Software Advice</u></a></li>
-<li><a href="https://fox-making.techidaily.com/the-mastermind-of-ancient-chinese-transportation-systems-unveiled-by-yl-software-roads-and-canals-redefined/"><u>The Mastermind of Ancient Chinese Transportation Systems Unveiled by YL Software: Roads and Canals Redefined</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-the-tax-obligations-and-costs-in-crypto-trading-insights-from-yl-computing/"><u>Understanding the Tax Obligations and Costs in Crypto Trading: Insights From YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/unveiling-the-impact-of-chinas-great-leap-forward-on-its-economic-growth-expert-insights-by-yl-computing/"><u>Unveiling the Impact of China's Great Leap Forward on Its Economic Growth - Expert Insights by YL Computing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-eco-editing-essentials-30plus-free-templates-for-ambitious-filmmakers/"><u>[Updated] Eco-Editing Essentials 30+ Free Templates for Ambitious Filmmakers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-explore-top-5-non-samsung-360-cameras-today/"><u>[Updated] Explore Top 5 Non-Samsung 360 Cameras Today</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-educational-power-leveraging-youtube-in-academic-settings/"><u>[Updated] In 2024, Educational Power Leveraging YouTube in Academic Settings</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/british-vs-american-vocabulary-gaps/"><u>British vs American Vocabulary Gaps</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-knowledge-for-engaging-with-asmr-videos-for-2024/"><u>Essential Knowledge for Engaging with ASMR Videos for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/expert-recommendations-on-premier-system-management-programs-discover-with-yl-software/"><u>Expert Recommendations on Premier System Management Programs - Discover with YL Software</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-c12-pluswithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia C12 Pluswith/without a PC</u></a></li>
+<li><a href="https://fox-making.techidaily.com/improve-your-scan-results-effective-troubleshooting-techniques-from-yl-software-professionals/"><u>Improve Your Scan Results: Effective Troubleshooting Techniques From YL Software Professionals</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-navigating-the-world-of-instagram-and-podcast-sharing/"><u>In 2024, Navigating the World of Instagram & Podcast Sharing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/reverting-to-original-configuration-for-scanners-using-yls-user-friendly-tools/"><u>Reverting to Original Configuration for Scanners Using YL's User-Friendly Tools</u></a></li>
+<li><a href="https://fox-making.techidaily.com/solving-graphics-card-issues-on-your-pc-diagnosing-system-not-responding-errors-with-yl-software-insights/"><u>Solving Graphics Card Issues on Your PC: Diagnosing 'System Not Responding' Errors with YL Software Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-capturing-screen-images-on-hp-devices/"><u>Step-by-Step Tutorial: Capturing Screen Images on HP Devices</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unraveling-the-influence-of-chinas-great-leap-forward-on-traditional-culture-insights-by-yl-technologies/"><u>Unraveling the Influence of China's Great Leap Forward on Traditional Culture - Insights by YL Technologies</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unveiling-the-newest-pioneer-ddj-sr-controller-beta-map-version-now-available-for-dex-3-users-to-optimize-djing-experience/"><u>Unveiling the Newest Pioneer DDJ-SR Controller Beta Map Version, Now Available for DEX 3 Users to Optimize DJing Experience</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-elevate-your-storytelling-how-to-create-professional-looking-films-on-a-budget/"><u>Updated Elevate Your Storytelling How to Create Professional-Looking Films on a Budget</u></a></li>
 </ul></div>
 

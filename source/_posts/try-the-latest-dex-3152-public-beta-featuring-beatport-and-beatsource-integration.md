@@ -1,7 +1,7 @@
 ---
 title: Try the Latest DEX 3.15.2 Public Beta - Featuring Beatport & Beatsource Integration
-date: 2025-01-18T22:33:39.433Z
-updated: 2025-01-21T03:04:20.563Z
+date: 2025-01-22T03:48:23.019Z
+updated: 2025-01-27T01:15:56.402Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.2 Beta
@@ -57,7 +57,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 _Have questions about the latest 3.15.2 version of our DEX 3 **DJ software** or **Beatport LINK** and **Beatsource LINK**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,24 +79,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/10/introscreen.jpg?fit=1920%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-ultimate-10-volume-upgrade-tools-for-pc-ios-and-android/"><u>[New] In 2024, Ultimate 10 Volume Upgrade Tools for PC, iOS & Android</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-6-best-linkedin-video-downloaders-to-save-videos-from-linkedin/"><u>2024 Approved 6 Best Linkedin Video Downloaders to Save Videos From LinkedIn</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-real-time-viewership-counter-systems/"><u>2024 Approved Real-Time Viewership Counter Systems</u></a></li>
-<li><a href="https://fox-making.techidaily.com/easy-steps-for-playback-with-windows-media-player-expert-advice-by-yl-software-on-video-clips/"><u>Easy Steps for Playback with Windows Media Player: Expert Advice by YL Software on Video Clips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/end-of-erratic-backlight-intervals-fix-achieved/"><u>End of Erratic Backlight Intervals: Fix Achieved</u></a></li>
-<li><a href="https://fox-making.techidaily.com/establishing-routine-it-upkeep-a-guide-by-yl-computing-with-yl-software-solutions/"><u>Establishing Routine IT Upkeep: A Guide by YL Computing with YL Software Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hassle-free-dell-g7-driver-updates-quick-and-simple-methods/"><u>Hassle-Free Dell G7 Driver Updates: Quick and Simple Methods</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-audiovid-producers-digital-space/"><u>In 2024, AudioVid Producers' Digital Space</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-8-best-authentic-youtube-growth-tactics/"><u>In 2024, The 8 Best Authentic Youtube Growth Tactics</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/instantaneous-pro-thumbnail-creation-valorant-edition/"><u>Instantaneous Pro Thumbnail Creation - Valorant Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-frozen-frames-eliminate-firefox-stalling-issues-with-our-expert-tips/"><u>No More Frozen Frames: Eliminate Firefox Stalling Issues with Our Expert Tips</u></a></li>
-<li><a href="https://fox-making.techidaily.com/stunning-paula-garces-wallpaper-collections-and-graphic-designs-high-quality-digital-artwork-by-yl-computing/"><u>Stunning Paula Garcés Wallpaper Collections & Graphic Designs - High-Quality Digital Artwork by YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/the-luminous-future-of-filipino-innovation-how-yl-computing-is-revolutionizing-with-bsv-technology/"><u>The Luminous Future of Filipino Innovation: How YL Computing Is Revolutionizing with BSV Technology</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-lg-printer-driver-issues-in-various-windows-os/"><u>Troubleshooting and Fixing LG Printer Driver Issues in Various Windows OS</u></a></li>
-<li><a href="https://fox-making.techidaily.com/troubleshooting-guide-how-to-fix-unrecognized-printer-issues-on-your-pc-expert-tips-by-yl-computing/"><u>Troubleshooting Guide: How to Fix Unrecognized Printer Issues on Your PC - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/troubleshooting-tips-how-to-fix-when-your-scanner-ignores-the-pc-innovative-solutions-by-yl-software/"><u>Troubleshooting Tips: How to Fix When Your Scanner Ignores the PC - Innovative Solutions by YL Software</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-the-regulatory-landscape-of-crypto-trading-and-investment-opportunities-with-yl-software-insights/"><u>Understanding the Regulatory Landscape of Crypto Trading and Investment Opportunities with YL Software Insights</u></a></li>
-<li><a href="https://fox-making.techidaily.com/unraveling-the-mystery-why-does-my-computer-show-a-bsod-insights-from-yl-computing/"><u>Unraveling the Mystery: Why Does My Computer Show a BSOD? - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/yl-software-guide-managing-your-update-preferences-efficiently/"><u>YL Software Guide: Managing Your Update Preferences Efficiently</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-know-how-record-ipad-display/"><u>[New] 2024 Approved Essential Know-How Record iPad Display</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-complete-guide-to-using-zd-softs-recording-tools/"><u>[Updated] In 2024, Complete Guide to Using ZD Soft's Recording Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-srt-in-windows-macos-environments/"><u>2024 Approved Navigating SRT in Windows, macOS Environments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-picture-perfect-adding-imagery-to-ig/"><u>2024 Approved Picture Perfect Adding Imagery to IG</u></a></li>
+<li><a href="https://fox-making.techidaily.com/best-pdf-viewer-solutions-for-ipad-discover-the-top-picks-of-2020/"><u>Best PDF Viewer Solutions for iPad: Discover the Top Picks of 2020!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/comprehensive-guide-to-different-software-installation-methods/"><u>Comprehensive Guide to Different Software Installation Methods</u></a></li>
+<li><a href="https://fox-making.techidaily.com/explore-the-best-alternatives-to-facebook-top-social-media-platforms-you-should-know/"><u>Explore the Best Alternatives to Facebook: Top Social Media Platforms You Should Know</u></a></li>
+<li><a href="https://fox-making.techidaily.com/exploring-the-power-of-icom-classes-unlocking-new-career-opportunities/"><u>Exploring the Power of ICOM Classes: Unlocking New Career Opportunities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722886026134-identifying-if-its-an-active-xbox-service-interruption-or-just-your-internet-connection-failing-you/"><u>Identifying If It's an Active Xbox Service Interruption or Just Your Internet Connection Failing You</u></a></li>
+<li><a href="https://fox-making.techidaily.com/introducing-apowerrec-unveiling-revolutionary-features/"><u>Introducing ApowerREC: Unveiling Revolutionary Features</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-system-diagnostics-service-not-active-a-comprehensive-fix/"><u>Overcoming 'System Diagnostics Service Not Active' - A Comprehensive Fix</u></a></li>
+<li><a href="https://fox-making.techidaily.com/quick-tips-boosting-your-iphones-performance-on-ios-8/"><u>Quick Tips: Boosting Your iPhone's Performance on iOS 8</u></a></li>
+<li><a href="https://fox-making.techidaily.com/repair-guide-eradicating-severe-system-damage-caused-by-quadruple-infections-with-malwarefox/"><u>Repair Guide: Eradicating Severe System Damage Caused by Quadruple Infections with MalwareFox</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformer-un-fichier-aiff-en-format-wmv-gratuitement-facile-et-rapide-avec-movavi/"><u>Transformer Un Fichier AIFF en Format WMV Gratuitement - Facile Et Rapide Avec Movavi</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-and-customizing-systems-preferred-applications/"><u>Understanding and Customizing System's Preferred Applications</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-and-using-typographic-feature-attributes-in-fonts/"><u>Understanding and Using Typographic Feature Attributes in Fonts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/using-a-vpn-can-you-still-access-chatgpt-securely/"><u>Using A VPN: Can You Still Access ChatGPT Securely?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-video/"><u>무료 스타일: Movavi Vidéo 변환기에 대한 신용 가드</u></a></li>
 </ul></div>
 
