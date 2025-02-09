@@ -1,7 +1,7 @@
 ---
 title: "New DEX Version 3.5 Launch: Join Our Community of Beta Tester Volunteers!"
-date: 2025-01-21T03:31:07.440Z
-updated: 2025-01-26T23:07:56.677Z
+date: 2025-02-04T18:42:11.775Z
+updated: 2025-02-08T22:37:16.123Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ If you meet the BETA Tester requirements below please fill out the form at the b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.5 Beta Team Requirements
@@ -69,7 +69,7 @@ Multichannel Core Audio soundcard
 If you meet these requirements please submit the form below. A PCDJ production team member will get back to you. (**NOTE:** _Not all testers will be accepted as we have limited space on the BETA testing team_)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,20 +91,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/dex35betatest-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-eco-editing-essentials-30plus-free-templates-for-ambitious-filmmakers/"><u>[Updated] Eco-Editing Essentials 30+ Free Templates for Ambitious Filmmakers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-explore-top-5-non-samsung-360-cameras-today/"><u>[Updated] Explore Top 5 Non-Samsung 360 Cameras Today</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-educational-power-leveraging-youtube-in-academic-settings/"><u>[Updated] In 2024, Educational Power Leveraging YouTube in Academic Settings</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/british-vs-american-vocabulary-gaps/"><u>British vs American Vocabulary Gaps</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/essential-knowledge-for-engaging-with-asmr-videos-for-2024/"><u>Essential Knowledge for Engaging with ASMR Videos for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/expert-recommendations-on-premier-system-management-programs-discover-with-yl-software/"><u>Expert Recommendations on Premier System Management Programs - Discover with YL Software</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-c12-pluswithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia C12 Pluswith/without a PC</u></a></li>
-<li><a href="https://fox-making.techidaily.com/improve-your-scan-results-effective-troubleshooting-techniques-from-yl-software-professionals/"><u>Improve Your Scan Results: Effective Troubleshooting Techniques From YL Software Professionals</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-navigating-the-world-of-instagram-and-podcast-sharing/"><u>In 2024, Navigating the World of Instagram & Podcast Sharing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/reverting-to-original-configuration-for-scanners-using-yls-user-friendly-tools/"><u>Reverting to Original Configuration for Scanners Using YL's User-Friendly Tools</u></a></li>
-<li><a href="https://fox-making.techidaily.com/solving-graphics-card-issues-on-your-pc-diagnosing-system-not-responding-errors-with-yl-software-insights/"><u>Solving Graphics Card Issues on Your PC: Diagnosing 'System Not Responding' Errors with YL Software Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-capturing-screen-images-on-hp-devices/"><u>Step-by-Step Tutorial: Capturing Screen Images on HP Devices</u></a></li>
-<li><a href="https://fox-making.techidaily.com/unraveling-the-influence-of-chinas-great-leap-forward-on-traditional-culture-insights-by-yl-technologies/"><u>Unraveling the Influence of China's Great Leap Forward on Traditional Culture - Insights by YL Technologies</u></a></li>
-<li><a href="https://fox-making.techidaily.com/unveiling-the-newest-pioneer-ddj-sr-controller-beta-map-version-now-available-for-dex-3-users-to-optimize-djing-experience/"><u>Unveiling the Newest Pioneer DDJ-SR Controller Beta Map Version, Now Available for DEX 3 Users to Optimize DJing Experience</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-elevate-your-storytelling-how-to-create-professional-looking-films-on-a-budget/"><u>Updated Elevate Your Storytelling How to Create Professional-Looking Films on a Budget</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-cutting-edge-videography-bordering-techniques-for-ig-for-2024/"><u>[New] Cutting-Edge Videography Bordering Techniques for IG for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/niting-subscribers-through-shared-playlists-for-2024/"><u>[New] Uniting Subscribers Through Shared Playlists for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-earnings-epicenter-tech-gaming-on-youtube/"><u>[Updated] 2024 Approved Earnings Epicenter Tech Gaming on YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-mobile-virtual-realms-the-best-10-headsets-ranking/"><u>[Updated] Mobile Virtual Realms The Best 10 Headsets Ranking</u></a></li>
+<li><a href="https://fox-making.techidaily.com/download-your-favorite-spreadtub-clips-in-high-quality-mp4-format-using-the-ultimate-video-downloader/"><u>Download Your Favorite SPREADTUB Clips in High-Quality MP4 Format Using the Ultimate Video Downloader!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easy-guide-to-downloading-and-converting-dj-tracks-from-beatport-as-mp3s-wav-files-or-flac-on-windowsmac-systems/"><u>Easy Guide to Downloading & Converting DJ Tracks From Beatport as MP3s, WAV Files or FLAC on Windows/Mac Systems</u></a></li>
+<li><a href="https://fox-making.techidaily.com/find-the-ideal-replacement-for-mactubes-across-macos-and-windows-operating-systems-discover-what-allavsoft-offers/"><u>Find the Ideal Replacement for MacTubes Across macOS & Windows Operating Systems: Discover What AllavSoft Offers</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-easily-download-4tube-media-as-mp4-avi-or-mov-files/"><u>How To Easily Download 4Tube Media as MP4, AVI or MOV Files</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-save-your-favorite-shows-from-uktv-play-as-high-quality-mp4avi-files/"><u>How to Save Your Favorite Shows From UKTV Play as High-Quality MP4/AVI Files</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/reliable-f4v-downloader-with-mp4-conversion-feature-for-mac-and-windows/"><u>Reliable F4V Downloader with MP4 Conversion Feature for Mac and Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-charger-upgrade-for-globe-trotters-unveiling-the-3-in-1-magsafe-wireless-charger-that-supports-qi2-now-a-top-pick/"><u>The Ultimate Charger Upgrade for Globe-Trotters: Unveiling the 3-in-1 MagSafe Wireless Charger That Supports Qi2, Now a Top Pick !</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-honor-x9a-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Honor X9a to iPhone 14/15 | Dr.fone</u></a></li>
 </ul></div>
 

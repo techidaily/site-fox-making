@@ -1,7 +1,7 @@
 ---
 title: Try the Latest DEX 3.15.2 Public Beta - Featuring Beatport & Beatsource Integration
-date: 2025-01-22T03:48:23.019Z
-updated: 2025-01-27T01:15:56.402Z
+date: 2025-02-04T20:33:31.925Z
+updated: 2025-02-08T18:23:10.501Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.2 Beta
@@ -57,7 +57,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 _Have questions about the latest 3.15.2 version of our DEX 3 **DJ software** or **Beatport LINK** and **Beatsource LINK**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,24 +79,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/10/introscreen.jpg?fit=1920%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-know-how-record-ipad-display/"><u>[New] 2024 Approved Essential Know-How Record iPad Display</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-complete-guide-to-using-zd-softs-recording-tools/"><u>[Updated] In 2024, Complete Guide to Using ZD Soft's Recording Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-srt-in-windows-macos-environments/"><u>2024 Approved Navigating SRT in Windows, macOS Environments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-picture-perfect-adding-imagery-to-ig/"><u>2024 Approved Picture Perfect Adding Imagery to IG</u></a></li>
-<li><a href="https://fox-making.techidaily.com/best-pdf-viewer-solutions-for-ipad-discover-the-top-picks-of-2020/"><u>Best PDF Viewer Solutions for iPad: Discover the Top Picks of 2020!</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-guide-to-different-software-installation-methods/"><u>Comprehensive Guide to Different Software Installation Methods</u></a></li>
-<li><a href="https://fox-making.techidaily.com/explore-the-best-alternatives-to-facebook-top-social-media-platforms-you-should-know/"><u>Explore the Best Alternatives to Facebook: Top Social Media Platforms You Should Know</u></a></li>
-<li><a href="https://fox-making.techidaily.com/exploring-the-power-of-icom-classes-unlocking-new-career-opportunities/"><u>Exploring the Power of ICOM Classes: Unlocking New Career Opportunities</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722886026134-identifying-if-its-an-active-xbox-service-interruption-or-just-your-internet-connection-failing-you/"><u>Identifying If It's an Active Xbox Service Interruption or Just Your Internet Connection Failing You</u></a></li>
-<li><a href="https://fox-making.techidaily.com/introducing-apowerrec-unveiling-revolutionary-features/"><u>Introducing ApowerREC: Unveiling Revolutionary Features</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-system-diagnostics-service-not-active-a-comprehensive-fix/"><u>Overcoming 'System Diagnostics Service Not Active' - A Comprehensive Fix</u></a></li>
-<li><a href="https://fox-making.techidaily.com/quick-tips-boosting-your-iphones-performance-on-ios-8/"><u>Quick Tips: Boosting Your iPhone's Performance on iOS 8</u></a></li>
-<li><a href="https://fox-making.techidaily.com/repair-guide-eradicating-severe-system-damage-caused-by-quadruple-infections-with-malwarefox/"><u>Repair Guide: Eradicating Severe System Damage Caused by Quadruple Infections with MalwareFox</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformer-un-fichier-aiff-en-format-wmv-gratuitement-facile-et-rapide-avec-movavi/"><u>Transformer Un Fichier AIFF en Format WMV Gratuitement - Facile Et Rapide Avec Movavi</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-and-customizing-systems-preferred-applications/"><u>Understanding and Customizing System's Preferred Applications</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-and-using-typographic-feature-attributes-in-fonts/"><u>Understanding and Using Typographic Feature Attributes in Fonts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/using-a-vpn-can-you-still-access-chatgpt-securely/"><u>Using A VPN: Can You Still Access ChatGPT Securely?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-video/"><u>무료 스타일: Movavi Vidéo 변환기에 대한 신용 가드</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-8-screen-recording-apps-in-windows-11-revealed/"><u>[New] 2024 Approved Top 8 Screen Recording Apps in Windows 11 Revealed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-voice-your-thoughts-quick-recording-in-windows-10/"><u>[Updated] 2024 Approved Voice Your Thoughts Quick Recording in Windows 10</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-sticker-enhanced-imagery-ios-and-androids-best-app-companions/"><u>[Updated] In 2024, Sticker-Enhanced Imagery IOS and Android's Best App Companions</u></a></li>
+<li><a href="https://fox-making.techidaily.com/create-personalized-pdf-seals-online-at-no-cost-use-our-free-pdf-embossing-service/"><u>Create Personalized PDF Seals Online at No Cost - Use Our Free PDF Embossing Service</u></a></li>
+<li><a href="https://fox-making.techidaily.com/detect-and-remove-rootkits-with-malwarefox-advanced-cybersecurity-protection-tools/"><u>Detect & Remove Rootkits with MalwareFox: Advanced Cybersecurity Protection Tools</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-web-analytics-strategies-unlocking-insights-and-growth/"><u>Effective Web Analytics Strategies: Unlocking Insights and Growth</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-canon-pixma-ts3322-printer-drivers-download-and-install/"><u>Get the Latest Canon PIXMA TS3322 Printer Drivers - Download and Install</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-securely-sign-executable-installation-and-package-files-using-digital-certificates/"><u>How to Securely Sign Executable, Installation and Package Files Using Digital Certificates</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-record-your-memorable-honeymoon-video-for-2024/"><u>New How to Record Your Memorable Honeymoon Video for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/optimized-sql-code-panel-streamline-data-operations-effortlessly/"><u>Optimized SQL Code Panel: Streamline Data Operations Effortlessly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-how-to-setup-and-enable-easy-anti-cheat-for-gameplay-stability/"><u>Resolved! How to Setup and Enable Easy Anti-Cheat for Gameplay Stability</u></a></li>
 </ul></div>
 
