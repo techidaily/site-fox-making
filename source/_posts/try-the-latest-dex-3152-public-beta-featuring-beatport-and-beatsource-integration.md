@@ -1,7 +1,7 @@
 ---
 title: Try the Latest DEX 3.15.2 Public Beta - Featuring Beatport & Beatsource Integration
-date: 2025-02-04T20:33:31.925Z
-updated: 2025-02-08T18:23:10.501Z
+date: 2025-02-14T02:52:35.423Z
+updated: 2025-02-19T01:10:34.197Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.2 Beta
@@ -57,7 +57,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 _Have questions about the latest 3.15.2 version of our DEX 3 **DJ software** or **Beatport LINK** and **Beatsource LINK**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,16 +79,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/10/introscreen.jpg?fit=1920%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-8-screen-recording-apps-in-windows-11-revealed/"><u>[New] 2024 Approved Top 8 Screen Recording Apps in Windows 11 Revealed</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-voice-your-thoughts-quick-recording-in-windows-10/"><u>[Updated] 2024 Approved Voice Your Thoughts Quick Recording in Windows 10</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-sticker-enhanced-imagery-ios-and-androids-best-app-companions/"><u>[Updated] In 2024, Sticker-Enhanced Imagery IOS and Android's Best App Companions</u></a></li>
-<li><a href="https://fox-making.techidaily.com/create-personalized-pdf-seals-online-at-no-cost-use-our-free-pdf-embossing-service/"><u>Create Personalized PDF Seals Online at No Cost - Use Our Free PDF Embossing Service</u></a></li>
-<li><a href="https://fox-making.techidaily.com/detect-and-remove-rootkits-with-malwarefox-advanced-cybersecurity-protection-tools/"><u>Detect & Remove Rootkits with MalwareFox: Advanced Cybersecurity Protection Tools</u></a></li>
-<li><a href="https://fox-making.techidaily.com/effective-web-analytics-strategies-unlocking-insights-and-growth/"><u>Effective Web Analytics Strategies: Unlocking Insights and Growth</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-canon-pixma-ts3322-printer-drivers-download-and-install/"><u>Get the Latest Canon PIXMA TS3322 Printer Drivers - Download and Install</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-securely-sign-executable-installation-and-package-files-using-digital-certificates/"><u>How to Securely Sign Executable, Installation and Package Files Using Digital Certificates</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-how-to-record-your-memorable-honeymoon-video-for-2024/"><u>New How to Record Your Memorable Honeymoon Video for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/optimized-sql-code-panel-streamline-data-operations-effortlessly/"><u>Optimized SQL Code Panel: Streamline Data Operations Effortlessly</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-how-to-setup-and-enable-easy-anti-cheat-for-gameplay-stability/"><u>Resolved! How to Setup and Enable Easy Anti-Cheat for Gameplay Stability</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-versamix-suite-mac-and-pc/"><u>[Updated] VersaMix Suite - Mac & PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-choosing-the-optimal-power-source-for-advanced-drones/"><u>2024 Approved Choosing the Optimal Power Source for Advanced Drones</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/6-top-notch-free-mov-video-editing-software/"><u>6 Top-Notch Free MOV Video Editing Software</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-win32k-memory-management-failure-error-0x000000ea/"><u>Comprehensive Solutions for Win32k Memory Management Failure (Error 0X000000EA)</u></a></li>
+<li><a href="https://fox-making.techidaily.com/die-einfache-methode-zur-wiederherstellung-ihrer-gpt-partition-ein-umfassender-leitfaden/"><u>Die Einfache Methode Zur Wiederherstellung Ihrer GPT-Partition: Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/from-aspect-ratio-woes-to-winning-instagram-square-video/"><u>From Aspect Ratio Woes to Winning Instagram Square Video</u></a></li>
+<li><a href="https://fox-making.techidaily.com/getting-ready-for-windows-11s-end-of-support-essential-steps/"><u>Getting Ready for Windows 11'S End of Support: Essential Steps</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-ensure-notes-are-consistently-synced-across-iphone-and-ipad-for-users-of-ios-18/"><u>How to Ensure Notes Are Consistently Synced Across iPhone and iPad for Users of iOS 18</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-microphone-on-your-oculus-quest-2-headset/"><u>How to Fix a Non-Functional Microphone on Your Oculus Quest 2 Headset</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-frequent-freezes-in-firefox-updated-tips/"><u>How to Fix Frequent Freezes in Firefox - Updated Tips</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-use-lenovos-onekey-recovery-for-resetting-your-laptop-a-step-by-step-guide/"><u>How to Use Lenovo's OneKey Recovery for Resetting Your Laptop: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-xiaomi-mix-fold-3-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Xiaomi Mix Fold 3 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-making.techidaily.com/optimierte-methoden-fur-die-nutzerdatentransferierung-ohne-betriebssystem-die-top-4-strategien/"><u>Optimierte Methoden Für Die Nutzerdatentransferierung Ohne Betriebssystem - Die Top-4 Strategien</u></a></li>
+<li><a href="https://fox-access.techidaily.com/prime-software-solutions-for-video-games-for-2024/"><u>Prime Software Solutions for Video Games for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/samsung-galaxy-book-2ssd-12/"><u>Samsung Galaxy Book 2のSSD容量増加: どうやって1〜2スロット使いましょう?</u></a></li>
+<li><a href="https://fox-making.techidaily.com/wiederherstellung-verlorener-inhalte-funf-einfache-schritte-um-dateien-von-ihrem-flashlaufwerk-wiederzuholen-kostenlos/"><u>Wiederherstellung Verlorener Inhalte: Fünf Einfache Schritte, Um Dateien Von Ihrem Flashlaufwerk Wiederzuholen (Kostenlos)</u></a></li>
 </ul></div>
 

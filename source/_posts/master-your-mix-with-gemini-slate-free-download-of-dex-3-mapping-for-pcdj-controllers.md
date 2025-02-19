@@ -1,7 +1,7 @@
 ---
 title: "Master Your Mix with Gemini Slate: Free Download of DEX 3 Mapping for PCDJ Controllers"
-date: 2025-02-03T00:22:22.728Z
-updated: 2025-02-08T20:24:16.200Z
+date: 2025-02-15T17:33:06.556Z
+updated: 2025-02-18T16:05:31.113Z
 tags:
   - product
 categories:
@@ -60,7 +60,7 @@ The pre-mapped FX controls for DJ software bring immediate results upon first us
 _Have questions about the **Slate DJ controller** or using it with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -82,19 +82,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/06/gemini-slatemap-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-assessing-sns-hdr-pros-worth-with-comparative-insight/"><u>[New] 2024 Approved Assessing SNS HDR Pro's Worth with Comparative Insight</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-cost-effective-options-top-10-free-high-quality-desktop-recorders/"><u>[New] 2024 Approved Cost-Effective Options Top 10 Free, High-Quality Desktop Recorders</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-sound-on-mac-an-audacity-tutorial-for-2024/"><u>[New] Capturing Sound on Mac An Audacity Tutorial for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/automatisierte-datensicherungsstrategie-fur-ihren-windows-server-2016-planung-und-implementierung/"><u>Automatisierte Datensicherungsstrategie Für Ihren Windows Server 2016: Planung Und Implementierung</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comment-activer-et-synchroniser-les-fichiers-en-mode-sans-fil-offline-sur-windows-11/"><u>Comment Activer Et Synchroniser Les Fichiers en Mode Sans-Fil (Offline) Sur Windows 11</u></a></li>
-<li><a href="https://fox-making.techidaily.com/fix-your-windows-eboardsearch-bar-a-complete-walkthrough-for-non-responsive-keys-on-win10/"><u>Fix Your Windows eboardSearch Bar - A Complete Walkthrough for Non-Responsive Keys on Win10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-seamlessly-update-your-razer-blackwidows-drivers-comprehensive-support-guide/"><u>How to Seamlessly Update Your Razer BlackWidow's Drivers | Comprehensive Support Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-achieving-fluidity-in-audio-blending-using-audacity-tools/"><u>In 2024, Achieving Fluidity in Audio Blending Using Audacity Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-motorola-moto-g13-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Motorola Moto G13 Phone Network-Ready</u></a></li>
-<li><a href="https://fox-making.techidaily.com/revive-lost-iphone-memos-three-effective-techniques/"><u>Revive Lost iPhone Memos: Three Effective Techniques</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-5-solutions-logiciels-pour-sauvegarde-de-disque-dur-sur-windows-11-sans-reinstallation/"><u>Top 5 Solutions Logiciels Pour Sauvegarde De Disque Dur Sur Windows 11 Sans Réinstallation</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-tipps-zum-hochladen-von-pc-filmen-auf-ihr-iphone-anleitung-fur-drei-effektive-techniken/"><u>Top-Tipps Zum Hochladen Von PC-Filmen Auf Ihr iPhone - Anleitung Für Drei Effektive Techniken</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-strategies-for-efficient-wsl-2-on-windows/"><u>Winning Strategies for Efficient WSL 2 on Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ultimate-list-of-non-fbx-game-recording-solutions/"><u>[New] Ultimate List of Non-FBX Game Recording Solutions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-enhance-browsing-with-effortless-side-by-side-view-on-chromes-fullscreen/"><u>[Updated] Enhance Browsing with Effortless Side-by-Side View on Chrome's Fullscreen</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-understanding-why-your-camera-stops-in-the-mid-action/"><u>2024 Approved Understanding Why Your Camera Stops in the Mid-Action</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/customizing-system-configurations-mastering-the-taskbar-and-notifications-with-yl-softwares-expert-advice/"><u>Customizing System Configurations: Mastering the Taskbar and Notifications with YL Software's Expert Advice</u></a></li>
+<li><a href="https://fox-making.techidaily.com/expert-guide-planning-your-windows-defender-security-checkups-with-yl-software-solutions/"><u>Expert Guide: Planning Your Windows Defender Security Checkups with YL Software Solutions</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-yuva-2-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Yuva 2 Devices | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-pc-glitches-a-complete-fix-for-wwe-2k22-crash-problems/"><u>Overcoming PC Glitches: A Complete Fix for WWE 2K22 Crash Problems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/record-and-share-screencast-tips-from-ezvide-expertise-for-2024/"><u>Record and Share Screencast Tips From EZvide Expertise for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/solving-the-mystery-behind-persistent-gpu-issues-tips-to-stop-graphic-card-malfunctions-yl-software-advice/"><u>Solving the Mystery Behind Persistent GPU Issues: Tips to Stop Graphic Card Malfunctions - YL Software Advice</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/solving-the-mystery-of-nonfunctioning-hyperlinks-in-html-based-ebooks-created-with-flipbuilder/"><u>Solving the Mystery of Nonfunctioning Hyperlinks in HTML-Based eBooks Created with FlipBuilder</u></a></li>
+<li><a href="https://fox-making.techidaily.com/the-mastermind-of-ancient-chinese-transportation-systems-unveiled-by-yl-software-roads-and-canals-redefined/"><u>The Mastermind of Ancient Chinese Transportation Systems Unveiled by YL Software: Roads and Canals Redefined</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-techniques-for-outstanding-gopro-vlogs-for-2024/"><u>Top Techniques for Outstanding GoPro Vlogs for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-the-tax-obligations-and-costs-in-crypto-trading-insights-from-yl-computing/"><u>Understanding the Tax Obligations and Costs in Crypto Trading: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unveiling-the-impact-of-chinas-great-leap-forward-on-its-economic-growth-expert-insights-by-yl-computing/"><u>Unveiling the Impact of China's Great Leap Forward on Its Economic Growth - Expert Insights by YL Computing</u></a></li>
 </ul></div>
 

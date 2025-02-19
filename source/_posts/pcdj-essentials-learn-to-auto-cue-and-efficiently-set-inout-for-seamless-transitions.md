@@ -1,7 +1,7 @@
 ---
 title: PCDJ Essentials - Learn to Auto-Cue & Efficiently Set In/Out for Seamless Transitions!
-date: 2025-02-07T20:21:49.531Z
-updated: 2025-02-08T22:07:25.806Z
+date: 2025-02-17T23:18:37.482Z
+updated: 2025-02-19T00:41:09.525Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ The video tutorial below will walk you through how **autocue** works, and how yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT IS AUTOCUE?
@@ -35,13 +35,13 @@ This means when you load a track to one of the four available decks in DEX 3 and
 The wonderful thing about the revamped **autocue feature** is that the autocue points will be used as mix points for automix.   **Trim the long intro or outtro** using the new autocue mix points for more **seamless transitions** between tracks when using automix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,22 +63,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/autocuemixinout-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ermanent-deactivation-the-ultimate-guide-to-youtube-shorts-for-2024/"><u>[New] Permanent Deactivation The Ultimate Guide to YouTube Shorts for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/2-streamline-file-management-mastering-the-art-of-editing-temp-files-quickly/"><u>2. Streamline File Management: Mastering the Art of Editing Temp Files Quickly</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-asus-rog-phone-8-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Asus ROG Phone 8 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/best-picks-the-leading-10-online-resources-for-vimeo-video-download/"><u>Best Picks The Leading 10 Online Resources for Vimeo Video Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976278330-download-and-setup-your-sound-blaster-z-drivers-for-windows-11-today/"><u>Download & Setup Your Sound Blaster Z Drivers for Windows 11 Today</u></a></li>
-<li><a href="https://fox-making.techidaily.com/effective-ways-to-transform-your-pdf-documents-into-docx-using-windows-software/"><u>Effective Ways to Transform Your PDF Documents Into DOCX Using Windows Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/github-copilot-versus-chatgpt-which-one-wins-for-coding-excellence/"><u>GitHub Copilot Versus ChatGPT - Which One Wins for Coding Excellence?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/guide-capturing-gameplay-on-your-xbox-one-and-xbox-360-a-step-by-step-tutorial/"><u>Guide: Capturing Gameplay on Your Xbox One & Xbox 360 – A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/how-to-screen-capture-anything-including-netflix-on-a-mac-in-six-steps-for-2024/"><u>How to Screen Capture Anything, Including Netflix, on a Mac in Six Steps for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-g2-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo G2 Phone without PIN</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-motorola-edge-40-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Motorola Edge 40 Phones</u></a></li>
-<li><a href="https://fox-making.techidaily.com/leading-video-advertisement-makers-web-and-app-solutions/"><u>Leading Video Advertisement Makers: Web & App Solutions</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-guide-transmitting-data-from-your-iphone-to-a-dji-quadcopter/"><u>Step-by-Step Guide: Transmitting Data From Your iPhone to a DJI Quadcopter</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-5-android-photo-enhancers-for-2024/"><u>Top 5 Android Photo Enhancers for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-rated-watermarking-application-for-ios-devices/"><u>Top Rated Watermarking Application for iOS Devices</u></a></li>
-<li><a href="https://fox-making.techidaily.com/unlock-ultimate-recording-easy-guide-to-activating-apowerrec-pro-on-windows-and-mac/"><u>Unlock Ultimate Recording: Easy Guide to Activating ApowerREC Pro on Windows and Mac</u></a></li>
-<li><a href="https://fox-making.techidaily.com/user-guide-navigating-through-effective-file-elimination-conversations/"><u>User Guide: Navigating Through Effective File Elimination Conversations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boost-professional-look-adding-borders-to-instagram-content/"><u>[New] 2024 Approved Boost Professional Look Adding Borders to Instagram Content</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/astro-archive-aid-space-data-salvage/"><u>Astro Archive Aid - Space Data Salvage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-7-myths-ai-in-text-conversations/"><u>Debunking 7 Myths: AI in Text Conversations</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easy-guide-recovering-a-damaged-powerpoint-presentation-step-by-step-process/"><u>Easy Guide: Recovering a Damaged PowerPoint Presentation - Step-by-Step Process</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-itel-p55plus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Itel P55+ Location Settings | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-unparalleled-portability-without-compromising-performance-the-ultimate-guide-to-the-lg-gram-15-laptop-201/"><u>Experience Unparalleled Portability Without Compromising Performance - The Ultimate Guide to the LG Gram 15 Laptop (201</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tales-for-twilight-film-analysis/"><u>In 2024, Tales for Twilight Film Analysis</u></a></li>
+<li><a href="https://fox-making.techidaily.com/page-missing-error-message-and-solutions/"><u>Page Missing – Error Message and Solutions</u></a></li>
+<li><a href="https://fox-making.techidaily.com/por-que-es-crucial-mantener-una-copia-reserva-de-sus-datos-esenciales/"><u>Por Qué Es Crucial Mantener Una Copia Reserva De Sus Datos Esenciales</u></a></li>
+<li><a href="https://fox-making.techidaily.com/protecting-your-information-aomeis-data-rescue-compliance-guide/"><u>Protecting Your Information: AOMEI's Data Rescue Compliance Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-moving-your-entire-address-book-from-ipad-to-iphone/"><u>Step-by-Step Guide: Moving Your Entire Address Book From iPad to iPhone</u></a></li>
 </ul></div>
 

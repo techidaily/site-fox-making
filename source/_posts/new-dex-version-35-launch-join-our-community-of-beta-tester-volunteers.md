@@ -1,7 +1,7 @@
 ---
 title: "New DEX Version 3.5 Launch: Join Our Community of Beta Tester Volunteers!"
-date: 2025-02-04T18:42:11.775Z
-updated: 2025-02-08T22:37:16.123Z
+date: 2025-02-14T19:39:32.493Z
+updated: 2025-02-18T16:17:45.260Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ If you meet the BETA Tester requirements below please fill out the form at the b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.5 Beta Team Requirements
@@ -69,7 +69,7 @@ Multichannel Core Audio soundcard
 If you meet these requirements please submit the form below. A PCDJ production team member will get back to you. (**NOTE:** _Not all testers will be accepted as we have limited space on the BETA testing team_)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,18 +91,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/dex35betatest-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-cutting-edge-videography-bordering-techniques-for-ig-for-2024/"><u>[New] Cutting-Edge Videography Bordering Techniques for IG for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/niting-subscribers-through-shared-playlists-for-2024/"><u>[New] Uniting Subscribers Through Shared Playlists for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-earnings-epicenter-tech-gaming-on-youtube/"><u>[Updated] 2024 Approved Earnings Epicenter Tech Gaming on YouTube</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-mobile-virtual-realms-the-best-10-headsets-ranking/"><u>[Updated] Mobile Virtual Realms The Best 10 Headsets Ranking</u></a></li>
-<li><a href="https://fox-making.techidaily.com/download-your-favorite-spreadtub-clips-in-high-quality-mp4-format-using-the-ultimate-video-downloader/"><u>Download Your Favorite SPREADTUB Clips in High-Quality MP4 Format Using the Ultimate Video Downloader!</u></a></li>
-<li><a href="https://fox-making.techidaily.com/easy-guide-to-downloading-and-converting-dj-tracks-from-beatport-as-mp3s-wav-files-or-flac-on-windowsmac-systems/"><u>Easy Guide to Downloading & Converting DJ Tracks From Beatport as MP3s, WAV Files or FLAC on Windows/Mac Systems</u></a></li>
-<li><a href="https://fox-making.techidaily.com/find-the-ideal-replacement-for-mactubes-across-macos-and-windows-operating-systems-discover-what-allavsoft-offers/"><u>Find the Ideal Replacement for MacTubes Across macOS & Windows Operating Systems: Discover What AllavSoft Offers</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-easily-download-4tube-media-as-mp4-avi-or-mov-files/"><u>How To Easily Download 4Tube Media as MP4, AVI or MOV Files</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-save-your-favorite-shows-from-uktv-play-as-high-quality-mp4avi-files/"><u>How to Save Your Favorite Shows From UKTV Play as High-Quality MP4/AVI Files</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/reliable-f4v-downloader-with-mp4-conversion-feature-for-mac-and-windows/"><u>Reliable F4V Downloader with MP4 Conversion Feature for Mac and Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-charger-upgrade-for-globe-trotters-unveiling-the-3-in-1-magsafe-wireless-charger-that-supports-qi2-now-a-top-pick/"><u>The Ultimate Charger Upgrade for Globe-Trotters: Unveiling the 3-in-1 MagSafe Wireless Charger That Supports Qi2, Now a Top Pick !</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-honor-x9a-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Honor X9a to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-correct-iosandroid-video-failures-on-fb/"><u>[New] 2024 Approved Correct iOS/Android Video Failures on FB</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-comprehensively-ranking-free-screen-capture-tools-2023/"><u>[Updated] 2024 Approved Comprehensively Ranking Free Screen Capture Tools 2023</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mastering-the-art-of-video-enhancement-from-sdr-basics-to-hdr-excellence/"><u>[Updated] 2024 Approved Mastering the Art of Video Enhancement From SDR Basics to HDR Excellence</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-top-10-high-quality-screen-recorders-for-teaching-professionals/"><u>[Updated] 2024 Approved Top 10 High-Quality Screen Recorders for Teaching Professionals</u></a></li>
+<li><a href="https://fox-making.techidaily.com/dod-522022-mhdd/"><u>「DOD 5220.22-Mガイドラインに従ってHDDデータの確実な抹消手順」</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-enhanced-samsung-k850u-experience/"><u>2024 Approved Unveiling the Enhanced Samsung K850U Experience</u></a></li>
+<li><a href="https://fox-making.techidaily.com/fixed-device-cannot-be-reached-after-cloning-windows-11-operating-system/"><u>Fixed: Device Cannot Be Reached After Cloning Windows 11 Operating System</u></a></li>
+<li><a href="https://fox-making.techidaily.com/guia-paso-a-paso-crear-una-copia-de-seguridad-completa-de-windows/"><u>Guía Paso a Paso: Crear Una Copia De Seguridad Completa De Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-e13-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto E13 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimizing-your-vlc-livestream-over-the-net/"><u>Optimizing Your VLC Livestream over the Net</u></a></li>
+<li><a href="https://fox-making.techidaily.com/resizing-cloned-data-expanding-your-samsung-ssd-with-windows-11/"><u>Resizing Cloned Data: Expanding Your Samsung SSD with Windows 11</u></a></li>
+<li><a href="https://fox-making.techidaily.com/superior-performance-in-windows-file-rescue-exceptional-retention-rate-of-99/"><u>Superior Performance in Windows File Rescue - Exceptional Retention Rate of 99%</u></a></li>
+<li><a href="https://fox-making.techidaily.com/techniques-faciles-dachat-et-transfert-hddssd-sous-windows-11-a-nouveau-ordinateur/"><u>Techniques Faciles D'Achat Et Transfert HDD/SSD Sous Windows 11 À Nouveau Ordinateur</u></a></li>
+<li><a href="https://fox-making.techidaily.com/techniques-for-retrieving-pictures-after-drive-failure-a-complete-guide/"><u>Techniques for Retrieving Pictures After Drive Failure - A Complete Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-home-with-a-tech-savvy-litter-box-special-labor-day-discounts-await-zdnet/"><u>Transform Your Home with a Tech-Savvy Litter Box – Special Labor Day Discounts Await! | ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-y78-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo Y78 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/44oh44kj44k544kv44oq44od44kv44ki44od44ox44go44k344k544og44og44oq44od44kv44ki44od44ox77ya5li744gq6ygv44ge44ks6kej6kqs/"><u>ディスクバックアップとシステムバックアップ：主な違いを解説</u></a></li>
 </ul></div>
 
