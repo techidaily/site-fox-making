@@ -1,7 +1,7 @@
 ---
 title: Try the Latest DEX 3.15.2 Public Beta - Featuring Beatport & Beatsource Integration
-date: 2025-02-14T02:52:35.423Z
-updated: 2025-02-19T01:10:34.197Z
+date: 2025-03-06T16:01:44.658Z
+updated: 2025-03-07T16:01:51.414Z
 tags:
   - product
 categories:
@@ -34,10 +34,6 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What’s New, Changed, and Fixed in the DEX 3.15.2 Beta
 
 * Beatport LINK and Beatsource LINK (beta) support
@@ -55,10 +51,6 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.15.2\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 _Have questions about the latest 3.15.2 version of our DEX 3 **DJ software** or **Beatport LINK** and **Beatsource LINK**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -79,21 +71,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/10/introscreen.jpg?fit=1920%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-versamix-suite-mac-and-pc/"><u>[Updated] VersaMix Suite - Mac & PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-choosing-the-optimal-power-source-for-advanced-drones/"><u>2024 Approved Choosing the Optimal Power Source for Advanced Drones</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/6-top-notch-free-mov-video-editing-software/"><u>6 Top-Notch Free MOV Video Editing Software</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-win32k-memory-management-failure-error-0x000000ea/"><u>Comprehensive Solutions for Win32k Memory Management Failure (Error 0X000000EA)</u></a></li>
-<li><a href="https://fox-making.techidaily.com/die-einfache-methode-zur-wiederherstellung-ihrer-gpt-partition-ein-umfassender-leitfaden/"><u>Die Einfache Methode Zur Wiederherstellung Ihrer GPT-Partition: Ein Umfassender Leitfaden</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/from-aspect-ratio-woes-to-winning-instagram-square-video/"><u>From Aspect Ratio Woes to Winning Instagram Square Video</u></a></li>
-<li><a href="https://fox-making.techidaily.com/getting-ready-for-windows-11s-end-of-support-essential-steps/"><u>Getting Ready for Windows 11'S End of Support: Essential Steps</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-ensure-notes-are-consistently-synced-across-iphone-and-ipad-for-users-of-ios-18/"><u>How to Ensure Notes Are Consistently Synced Across iPhone and iPad for Users of iOS 18</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-microphone-on-your-oculus-quest-2-headset/"><u>How to Fix a Non-Functional Microphone on Your Oculus Quest 2 Headset</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-frequent-freezes-in-firefox-updated-tips/"><u>How to Fix Frequent Freezes in Firefox - Updated Tips</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-use-lenovos-onekey-recovery-for-resetting-your-laptop-a-step-by-step-guide/"><u>How to Use Lenovo's OneKey Recovery for Resetting Your Laptop: A Step-by-Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-xiaomi-mix-fold-3-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Xiaomi Mix Fold 3 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://fox-making.techidaily.com/optimierte-methoden-fur-die-nutzerdatentransferierung-ohne-betriebssystem-die-top-4-strategien/"><u>Optimierte Methoden Für Die Nutzerdatentransferierung Ohne Betriebssystem - Die Top-4 Strategien</u></a></li>
-<li><a href="https://fox-access.techidaily.com/prime-software-solutions-for-video-games-for-2024/"><u>Prime Software Solutions for Video Games for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/samsung-galaxy-book-2ssd-12/"><u>Samsung Galaxy Book 2のSSD容量増加: どうやって1〜2スロット使いましょう?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/wiederherstellung-verlorener-inhalte-funf-einfache-schritte-um-dateien-von-ihrem-flashlaufwerk-wiederzuholen-kostenlos/"><u>Wiederherstellung Verlorener Inhalte: Fünf Einfache Schritte, Um Dateien Von Ihrem Flashlaufwerk Wiederzuholen (Kostenlos)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/editing-essentials-rectify-faded-iphone-hdr-with-4-key-techniques-in-premiere-pro/"><u>[Editing Essentials] Rectify Faded iPhone HDR with 4 Key Techniques in Premiere Pro</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-boosting-vimeo-streams-tips-and-tricks/"><u>[New] 2024 Approved Boosting Vimeo Streams Tips & Tricks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-techniques-to-achieve-crystal-clear-youtube-soundtracks-for-2024/"><u>[Updated] Techniques to Achieve Crystal-Clear YouTube Soundtracks for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigate-new-walls-insiders-guide-to-wallpapers-in-win11/"><u>2024 Approved Navigate New Walls Insider's Guide to Wallpapers in Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/customized-exercise-plans-chatgpts-potential-impact/"><u>Customized Exercise Plans: ChatGPT's Potential Impact</u></a></li>
+<li><a href="https://fox-making.techidaily.com/denon-dj-mixamo-dx-3-compatibility-with-the-newly-released-mcx8000-controller-download-guide-and-maps/"><u>Denon DJ Mixamo DX-3 Compatibility with the Newly Released MCX8000 Controller: Download Guide and Maps</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easy-steps-for-successful-hardware-upgrades-a-guide-by-yl-computing/"><u>Easy Steps for Successful Hardware Upgrades: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/elevate-your-parties-with-latest-songselections-join-our-karaoke-service-and-never-run-out-of-tunes-again/"><u>Elevate Your Parties with Latest Songselections - Join Our Karaoke Service and Never Run Out of Tunes Again!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expertise-at-your-fingertips-the-ultimate-beginners-tripod-guide/"><u>Expertise at Your Fingertips: The Ultimate Beginner's Tripod Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/high-definition-storm-scenes-and-hd-backgrounds-premium-wallpaper-collection-by-yl-computing/"><u>High-Definition Storm Scenes & HD Backgrounds: Premium Wallpaper Collection by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-photoshop-tricks-conceal-faces-and-spaces/"><u>In 2024, Expert Photoshop Tricks Conceal Faces & Spaces</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-mobile-media-3-key-steps-to-stabilize-iphone-videos/"><u>Mastering Mobile Media 3 Key Steps to Stabilize iPhone Videos</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-file-encryption-techniques-by-yl-software-experts/"><u>Step-by-Step File Encryption Techniques by YL Software Experts</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-the-potential-hazards-a-comprehensive-guide-to-crypto-investment-risk-factors-yl-computing/"><u>Understanding the Potential Hazards: A Comprehensive Guide to Crypto Investment Risk Factors - YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/upgrade-from-pcdjs-dex-3-refill-to-the-professional-version-for-a-limited-time-save-20-available-now-through-august-31st/"><u>Upgrade From PCDJ's DEX 3 Refill to the Professional Version for a Limited Time: Save $20 - Available Now Through August 31St!</u></a></li>
 </ul></div>
 

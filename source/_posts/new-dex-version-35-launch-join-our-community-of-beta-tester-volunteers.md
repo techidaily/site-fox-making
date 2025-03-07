@@ -1,7 +1,7 @@
 ---
 title: "New DEX Version 3.5 Launch: Join Our Community of Beta Tester Volunteers!"
-date: 2025-02-14T19:39:32.493Z
-updated: 2025-02-18T16:17:45.260Z
+date: 2025-03-01T16:03:39.809Z
+updated: 2025-03-07T16:04:38.679Z
 tags:
   - product
 categories:
@@ -29,10 +29,6 @@ If you meet the BETA Tester requirements below please fill out the form at the b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### DEX 3.5 Beta Team Requirements
 
@@ -68,10 +64,6 @@ Multichannel Core Audio soundcard
 
 If you meet these requirements please submit the form below. A PCDJ production team member will get back to you. (**NOTE:** _Not all testers will be accepted as we have limited space on the BETA testing team_)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/dex35betatest-coverimage.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2015-08-14 12:23:482018-10-03 15:34:32Calling On Beta Testers | New DEX 3.5 Release}
@@ -91,22 +83,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/dex35betatest-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-correct-iosandroid-video-failures-on-fb/"><u>[New] 2024 Approved Correct iOS/Android Video Failures on FB</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-comprehensively-ranking-free-screen-capture-tools-2023/"><u>[Updated] 2024 Approved Comprehensively Ranking Free Screen Capture Tools 2023</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mastering-the-art-of-video-enhancement-from-sdr-basics-to-hdr-excellence/"><u>[Updated] 2024 Approved Mastering the Art of Video Enhancement From SDR Basics to HDR Excellence</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-top-10-high-quality-screen-recorders-for-teaching-professionals/"><u>[Updated] 2024 Approved Top 10 High-Quality Screen Recorders for Teaching Professionals</u></a></li>
-<li><a href="https://fox-making.techidaily.com/dod-522022-mhdd/"><u>「DOD 5220.22-Mガイドラインに従ってHDDデータの確実な抹消手順」</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-enhanced-samsung-k850u-experience/"><u>2024 Approved Unveiling the Enhanced Samsung K850U Experience</u></a></li>
-<li><a href="https://fox-making.techidaily.com/fixed-device-cannot-be-reached-after-cloning-windows-11-operating-system/"><u>Fixed: Device Cannot Be Reached After Cloning Windows 11 Operating System</u></a></li>
-<li><a href="https://fox-making.techidaily.com/guia-paso-a-paso-crear-una-copia-de-seguridad-completa-de-windows/"><u>Guía Paso a Paso: Crear Una Copia De Seguridad Completa De Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-e13-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto E13 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimizing-your-vlc-livestream-over-the-net/"><u>Optimizing Your VLC Livestream over the Net</u></a></li>
-<li><a href="https://fox-making.techidaily.com/resizing-cloned-data-expanding-your-samsung-ssd-with-windows-11/"><u>Resizing Cloned Data: Expanding Your Samsung SSD with Windows 11</u></a></li>
-<li><a href="https://fox-making.techidaily.com/superior-performance-in-windows-file-rescue-exceptional-retention-rate-of-99/"><u>Superior Performance in Windows File Rescue - Exceptional Retention Rate of 99%</u></a></li>
-<li><a href="https://fox-making.techidaily.com/techniques-faciles-dachat-et-transfert-hddssd-sous-windows-11-a-nouveau-ordinateur/"><u>Techniques Faciles D'Achat Et Transfert HDD/SSD Sous Windows 11 À Nouveau Ordinateur</u></a></li>
-<li><a href="https://fox-making.techidaily.com/techniques-for-retrieving-pictures-after-drive-failure-a-complete-guide/"><u>Techniques for Retrieving Pictures After Drive Failure - A Complete Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-home-with-a-tech-savvy-litter-box-special-labor-day-discounts-await-zdnet/"><u>Transform Your Home with a Tech-Savvy Litter Box – Special Labor Day Discounts Await! | ZDNET</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-y78-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo Y78 5G? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/44oh44kj44k544kv44oq44od44kv44ki44od44ox44go44k344k544og44og44oq44od44kv44ki44od44ox77ya5li744gq6ygv44ge44ks6kej6kqs/"><u>ディスクバックアップとシステムバックアップ：主な違いを解説</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-enhancing-reels-perfecting-sound-in-instagram-videos/"><u>[Updated] 2024 Approved Enhancing Reels Perfecting Sound in Instagram Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-diverse-designs-at-your-fingertips-from-these-6-websites/"><u>[Updated] In 2024, Diverse Designs at Your Fingertips From These 6 Websites</u></a></li>
+<li><a href="https://win-able.techidaily.com/chivalry-ii-stability-enhancements-resolving-game-breaking-glitches/"><u>Chivalry II Stability Enhancements: Resolving Game-Breaking Glitches</u></a></li>
+<li><a href="https://win11.techidaily.com/1719359813770-cloud-connected-computers-integrating-files-with-dropboxgoogledrive-in-c/"><u>Cloud-Connected Computers: Integrating Files with Dropbox/GoogleDrive in C</u></a></li>
+<li><a href="https://fox-making.techidaily.com/comparing-costs-how-our-professional-wedding-dj-services-measure-up-to-nationwide-rates/"><u>Comparing Costs: How Our Professional Wedding DJ Services Measure Up to Nationwide Rates</u></a></li>
+<li><a href="https://fox-making.techidaily.com/efficient-strategies-to-minimize-auto-start-programs-and-services-expert-advice-from-yl-computing/"><u>Efficient Strategies to Minimize Auto-Start Programs and Services: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-download-and-operate-chatgpt-using-a-windows-device/"><u>How to Download and Operate ChatGPT Using a Windows Device</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/immersive-experience-logging-top-tips-and-techniques-for-minecraft-recordings-for-2024/"><u>Immersive Experience Logging Top Tips & Techniques for Minecraft Recordings for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-tecno-camon-20-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Tecno Camon 20 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-making.techidaily.com/network-card-issues-step-by-step-guide-to-fixing-your-pcs-hardware-tips-from-yl-computing/"><u>Network Card Issues: Step-by-Step Guide to Fixing Your PC's Hardware - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-rated-antivirus-solutions-expert-review-by-yl-computing/"><u>Top Rated Antivirus Solutions: Expert Review by YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/troubleshooting-and-reviving-your-damaged-video-card-under-windows-os-by-yl-digital-services/"><u>Troubleshooting & Reviving Your Damaged Video Card Under Windows OS by YL Digital Services</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-collection-of-computer-wallpaper-graphics-photography-and-designs-powered-by-yl-computing-solutions/"><u>Ultimate Collection of Computer Wallpaper Graphics, Photography & Designs - Powered by YL Computing Solutions</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unable-to-start-your-pc-or-laptop-a-comprehensive-guide-to-booting-issues-and-solutions-by-experts-at-yl-software/"><u>Unable to Start Your PC or Laptop? A Comprehensive Guide to Booting Issues & Solutions - By Experts at YL Software</u></a></li>
 </ul></div>
 
